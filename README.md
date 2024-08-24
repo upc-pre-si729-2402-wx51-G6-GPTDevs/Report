@@ -222,12 +222,12 @@
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de Gianfranco" width="800px">
+      <img src="img/franco.jpg" alt="Foto de perfil de Gianfranco" width="800px">
     </th>
     <td valign="top">
       <p><b>Durand Vera, Gianfranco Ángel</b></p>
       <p>
-        ...
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
       </p>
     </td>
   </tr>
