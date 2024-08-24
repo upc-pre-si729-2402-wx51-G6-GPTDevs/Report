@@ -197,6 +197,65 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
+<table>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Tony" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Ramos Najar, Tony Alexander</b></p>
+      <p>
+        ....
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/fotocam.png" alt="Foto de perfil de Camila" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Sánchez Ríos, Camila Cristina</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y leer en los ratos libres y aprender más sobre la carrera.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Gianfranco" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Durand Vera, Gianfranco Ángel</b></p>
+      <p>
+        ...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Daniel" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+      <p>
+       ...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Jack" width="700px">
+    </th>
+    <td valign="top">
+      <p><b>Roque Tello, Jack Eddie</b></p>
+      <p>
+        ...
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### 1.2.2.3. Lean UX Hypothesis Statements
