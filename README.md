@@ -243,6 +243,14 @@ El logotipo de TaskLinker es un elemento central de la identidad visual de la ma
 <center> <img src="img/Logo.jpg" style="width: 250px;"/> </center>
 <br>
 
+**Tono de Comunicacion:**
+
+El tono de TaskLinker es accesible, profesional y confiable. Nos dirigimos a nuestros usuarios de manera directa y respetuosa, con un lenguaje claro y positivo. Queremos transmitir una sensación de seguridad y eficiencia, mientras mantenemos una comunicación cercana y amigable.
+
+**Lenguaje (Language):**
+
+TaskLinker se comunica en un lenguaje inclusivo y sencillo, evitando jergas técnicas y términos complejos. La prioridad es que cualquier usuario, independientemente de su nivel de experiencia tecnológica, pueda entender y utilizar la plataforma con facilidad.
+
 **Colores** 
 
 La paleta de colores de TaskLinker ha sido cuidadosamente seleccionada para transmitir profesionalismo, confianza y accesibilidad. Cada color tiene un propósito específico y se utilizará de manera consistente en toda la identidad visual de la marca.
@@ -304,8 +312,6 @@ Roboto será la fuente principal para el cuerpo de texto y subtítulos en toda l
 **Big Shoulders Display Thin:**
 Esta fuente se utilizará para elementos destacados y gráficos que necesiten un estilo más impactante. Su diseño estilizado y condensado es ideal para banners, eslóganes o cualquier contenido donde se necesite una presencia fuerte y memorable.
 
-
-
 **Encabezados y Jerarquía de Contenido:**
 
 Mantén una jerarquía clara para los diferentes niveles de encabezados (H1, H2, H3) para guiar al usuario a través del contenido.
@@ -314,6 +320,9 @@ Mantén una jerarquía clara para los diferentes niveles de encabezados (H1, H2,
 - H2: Lexend Deca, 30px, color #142433
 - H3: Roboto Bold, 24px, color #295264
 - Párrafo (Body Text): Roboto Regular, 16px, color #142433
+  
+<center> <img src="img/tipo.png" style="width: 300px;"/> </center>
+<br>
 
 **Botones y Llamadas a la Acción (CTAs):**
 
@@ -346,11 +355,19 @@ La web debe estar optimizada para múltiples dispositivos, desde móviles hasta 
 - Footer: Incluir enlaces secundarios, información de contacto, y redes sociales. Fondo en #142433 con texto en #FAD9A6.
 
 ## 4.2. Information Architecture
+La arquitectura de la información, también conocida como Information Architecture (IA), implica la organización de la información de manera clara y lógica, de modo que los usuarios puedan comprender su ubicación, lo que han descubierto, qué pueden esperar y qué está disponible a su alrededor. Esto tiene como objetivo permitir a los usuarios encontrar con facilidad lo que están buscando, y a los clientes, comprender las capacidades de la plataforma. Además, la arquitectura de la información posibilita la incorporación de nuevas funciones y la expansión del producto sin generar una estructura compleja o de difícil comprensión (Rosenfeld, Morville & Arango 2015). 
+
 ### 4.2.1. Organization Systems
+
+
 ### 4.2.2. Labeling Systems
+
 ### 4.2.3. SEO Tags and Meta Tag
+
 ### 4.2.4. Searching Systems
+
 ### 4.2.5. Navigation Systems
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
