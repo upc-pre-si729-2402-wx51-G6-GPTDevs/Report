@@ -227,8 +227,80 @@
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+Un "style guideline" o guía de estilo es un conjunto de reglas y pautas que establecen la forma en que se deben escribir, diseñar
+o presentar documentos, contenido web, software, o cualquier otro tipo de trabajo creativo. A continuación, se otorga
+especificación a los parámetros implementados en la estructura del proyecto:
+
 ### 4.1.1. General Style Guidelines
+**Branding**
+
+TaskLinker es una plataforma web que facilita la conexión eficiente entre trabajadores que buscan ingresos adicionales y empleadores que requieren personal temporal para tareas específicas. La marca se posiciona como un puente confiable y moderno en el mercado laboral, centralizando la oferta y demanda de trabajos por horas y promoviendo la flexibilidad, eficiencia y transparencia en cada interacción. Nuestro enfoque está en empoderar tanto a trabajadores como a empleadores, permitiendo que encuentren lo que necesitan de manera rápida, sencilla y segura.
+
+**Logotipo**
+
+El logotipo de TaskLinker es un elemento central de la identidad visual de la marca. Está compuesto por una tipografía moderna y estilizada que refleja la eficiencia y la profesionalidad de la plataforma. El diseño presenta las letras "T" y "L" en una disposición vertical, seguidas del nombre completo *"TASKLINKER"* en un tipo de letra audaz y alineado debajo.
+
+<center> <img src="img/Logo.jpg"> </center>
+
+**Colores** 
+
+La paleta de colores de TaskLinker ha sido cuidadosamente seleccionada para transmitir profesionalismo, confianza y accesibilidad. Cada color tiene un propósito específico y se utilizará de manera consistente en toda la identidad visual de la marca.
+
+- **#295264 (Teal profundo):** Este color se utilizará como el tono principal de la marca, predominando en el logotipo, encabezados y elementos clave de la interfaz. Representa estabilidad y profesionalismo, dando una sensación de confianza y seriedad.
+
+- **#FAD9A6 (Beige claro):** Este color complementa el tono principal al proporcionar un fondo suave y acogedor. Será usado en áreas de descanso visual, como fondos de secciones y tarjetas de información, aportando calidez y accesibilidad.
+
+- **#BD2F28 (Rojo terracota):** Este tono vibrante servirá para destacar llamadas a la acción (CTA), botones y elementos interactivos. Representa dinamismo y urgencia, incentivando a los usuarios a actuar.
+
+- **#89373D (Rojo vino):** Se utilizará para acentos y detalles menores que requieren énfasis pero sin ser tan prominentes como el rojo terracota. Es ideal para subtítulos, enlaces o elementos que necesiten un enfoque discreto pero efectivo.
+
+- **#142433 (Azul oscuro):** Este color profundo y sobrio se empleará en textos principales y áreas de navegación, garantizando legibilidad y una presencia sólida y confiable. También puede utilizarse como fondo en secciones que necesitan un contraste fuerte con el contenido.
+  
+
+![Paleta de Colores](img/Paleta.png)
+
+**Tipografía**
+
+La elección tipográfica para TaskLinker es un componente esencial que complementa la identidad visual de la marca. Se han seleccionado tres familias tipográficas que juntas ofrecen versatilidad y coherencia, asegurando que la comunicación sea clara y efectiva en todos los medios.
+
+**Escala:**
+  
+- Base: 16px
+- Tipografía: Helvetica Neue y Sansation
+- Interlineado: 1.1
+- Weights: Bold - Medium - Regular - Light
+
+
+![Tipografia](img/tipografia.png)
+
 ### 4.1.2. Web Style Guidelines
+La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
+
+**Paleta de Colores** 
+
+Utiliza la paleta de colores de TaskLinker para todos los elementos de la web, asegurando consistencia y coherencia visual.
+
+**Primarios:**
+
+- #295264 (Azul petróleo): Para encabezados, enlaces importantes y botones de acción principal.
+- #FAD9A6 (Beige claro): Para fondos de secciones, detalles, y texto destacado en fondos oscuros.
+
+**Secundarios:**
+- #BD2F28 (Rojo terracota): Para acentos, alertas, y botones de llamada a la acción.
+- #89373D (Borgoña): Para subtítulos, bordes y elementos de soporte visual.
+- #142433 (Azul oscuro): Para el texto principal, íconos, y elementos que necesiten un fuerte contraste.
+
+**Fuentes:**
+
+**Lexend Deca Regular:**
+Esta fuente se utilizará principalmente para títulos y encabezados. Su diseño moderno y limpio refuerza la profesionalidad y accesibilidad de la marca, garantizando una excelente legibilidad incluso en tamaños grandes.
+
+**Roboto Regular & Roboto Bold:**
+Roboto será la fuente principal para el cuerpo de texto y subtítulos en toda la plataforma. La versión Regular se usará para la mayoría del contenido, mientras que Bold será ideal para resaltar secciones importantes o llamadas a la acción dentro del texto. Roboto es una tipografía versátil y altamente legible, perfecta para aplicaciones tanto digitales como impresas.
+
+**Big Shoulders Display Thin:**
+Esta fuente se utilizará para elementos destacados y gráficos que necesiten un estilo más impactante. Su diseño estilizado y condensado es ideal para banners, eslóganes o cualquier contenido donde se necesite una presencia fuerte y memorable.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
@@ -283,3 +355,6 @@
 # Bibliografía
 
 # Anexos
+
+
+[def]: Logo_Brand.jpg
