@@ -240,7 +240,8 @@ TaskLinker es una plataforma web que facilita la conexión eficiente entre traba
 
 El logotipo de TaskLinker es un elemento central de la identidad visual de la marca. Está compuesto por una tipografía moderna y estilizada que refleja la eficiencia y la profesionalidad de la plataforma. El diseño presenta las letras "T" y "L" en una disposición vertical, seguidas del nombre completo *"TASKLINKER"* en un tipo de letra audaz y alineado debajo.
 
-<center> <img src="img/Logo.jpg"> </center>
+<center> <img src="img/Logo.jpg" style="width: 250px;"/> </center>
+<br>
 
 **Colores** 
 
@@ -256,8 +257,8 @@ La paleta de colores de TaskLinker ha sido cuidadosamente seleccionada para tran
 
 - **#142433 (Azul oscuro):** Este color profundo y sobrio se empleará en textos principales y áreas de navegación, garantizando legibilidad y una presencia sólida y confiable. También puede utilizarse como fondo en secciones que necesitan un contraste fuerte con el contenido.
   
-
-![Paleta de Colores](img/Paleta.png)
+<center> <img src="img/Paleta.png" style="width: 400px;"/> </center>
+<br>
 
 **Tipografía**
 
@@ -270,8 +271,7 @@ La elección tipográfica para TaskLinker es un componente esencial que compleme
 - Interlineado: 1.1
 - Weights: Bold - Medium - Regular - Light
 
-
-![Tipografia](img/tipografia.png)
+<center> <img src="img/Tipografia.png" style="width: 400px;"/></center>
 
 ### 4.1.2. Web Style Guidelines
 La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
@@ -290,6 +290,9 @@ Utiliza la paleta de colores de TaskLinker para todos los elementos de la web, a
 - #89373D (Borgoña): Para subtítulos, bordes y elementos de soporte visual.
 - #142433 (Azul oscuro): Para el texto principal, íconos, y elementos que necesiten un fuerte contraste.
 
+<center> <img src="img/Paleta.png" style="width: 300px;"/> </center>
+<br>
+
 **Fuentes:**
 
 **Lexend Deca Regular:**
@@ -300,6 +303,47 @@ Roboto será la fuente principal para el cuerpo de texto y subtítulos en toda l
 
 **Big Shoulders Display Thin:**
 Esta fuente se utilizará para elementos destacados y gráficos que necesiten un estilo más impactante. Su diseño estilizado y condensado es ideal para banners, eslóganes o cualquier contenido donde se necesite una presencia fuerte y memorable.
+
+
+
+**Encabezados y Jerarquía de Contenido:**
+
+Mantén una jerarquía clara para los diferentes niveles de encabezados (H1, H2, H3) para guiar al usuario a través del contenido.
+
+- H1: Lexend Deca, 36px, color #295264
+- H2: Lexend Deca, 30px, color #142433
+- H3: Roboto Bold, 24px, color #295264
+- Párrafo (Body Text): Roboto Regular, 16px, color #142433
+
+**Botones y Llamadas a la Acción (CTAs):**
+
+Los botones deben ser claramente distinguibles y usar colores de la paleta para indicar su función.
+
+- Botón Principal: Fondo #BD2F28, texto en blanco #FFFFFF. Usado para las acciones más importantes (como "Registrarse" o "Informacion").
+- Botón Secundario: Fondo #295264, texto en blanco #FFFFFF o beige claro #FAD9A6. Usado para acciones secundarias.
+- Hover States: Los botones deben cambiar de color ligeramente cuando se pasa el cursor por encima, por ejemplo, un tono más oscuro del color de fondo.
+
+**Imágenes y Multimedia:**
+
+Las imágenes deben ser de alta calidad y alinearse con el tono visual de TaskLinker.
+
+- Imágenes de Cabecera
+- Imágenes en Contenido
+
+**Responsividad:**
+
+La web debe estar optimizada para múltiples dispositivos, desde móviles hasta pantallas de escritorio grandes.
+
+- Mobile First: El diseño debe priorizar la experiencia móvil, con un enfoque en la simplicidad y accesibilidad.
+- Breakpoints:
+  - Mobile: 320px - 767px
+  - Tablet: 768px - 1024px
+  - Desktop: 1025px en adelante
+
+**Footers y Headers:**
+
+- Header: Fijo en la parte superior con el logotipo y las opciones de navegación principales.
+- Footer: Incluir enlaces secundarios, información de contacto, y redes sociales. Fondo en #142433 con texto en #FAD9A6.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
