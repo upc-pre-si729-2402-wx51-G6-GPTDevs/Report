@@ -469,8 +469,10 @@ etiquetas.
 
 ### 4.2.4. Searching Systems
 
+Searching System es una herramienta informática que permite buscar y recuperar información relevante almacenada en una base de datos o en internet. Su objetivo es proporcionar respuestas precisas y relevantes a las consultas de los usuarios.
+
 <div style="text-align:center;">
-    <h3>Criterios de Búsqueda en la Plataforma:</h3>
+    <h3></h3>
     <table align="center" border="1" cellpadding="10">
         <tr>
             <th style="text-align:center;">Criterio de Búsqueda</th>
