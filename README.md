@@ -597,6 +597,9 @@ Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, deb
 ![image](Imagenes/EmpathyMapSebastian.png)
 
 ### 2.3.5. As-is Scenario Mapping
+
+![image](Imagenes/AsIsSebastian.png)
+
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
