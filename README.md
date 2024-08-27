@@ -191,11 +191,156 @@
 [Anexos](#anexos)
 
 # Student Outcome
+ABET – EAC - Student Outcome 3
 
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td><b>Comunica oralmente con
+efectividad a diferentes rangos
+de audiencia.</b></td>
+      <td>
+        <p><b>Ramos Najar, Tony Alexander  </b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Roque Tello, Jack Eddie</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+      <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, .</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Comunica por escrito con
+efectividad a diferentes rangos
+de audiencia.</td>
+      <td>
+        <p><b>Ramos Najar, Tony Alexander  </b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Roque Tello, Jack Eddie</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+       <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, .</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+"TaskLinker" es una innovadora plataforma web que facilita la conexión entre personas que buscan ingresos adicionales laborando por horas y quienes requieren contratar servicios temporales o para tareas específicas. Dirigida a estudiantes, amas de casa, jubilados y cualquier persona interesada en trabajos por horas, TaskLinker actúa como un puente efectivo y confiable entre la oferta y la demanda en el mercado laboral peruano. A través de nuestra plataforma, tanto individuos como organizaciones pueden encontrar soluciones rápidas y eficientes para sus necesidades, optimizando el uso de la fuerza laboral disponible y promoviendo la flexibilidad en el empleo.
+
+La misión de TaskLinker es empoderar a las personas con oportunidades de trabajo flexible, permitiéndoles generar ingresos adicionales en sus propios términos. Al mismo tiempo, buscamos proporcionar a las organizaciones e individuos una herramienta eficiente para encontrar y contratar rápidamente talento adecuado para sus necesidades temporales o específicas.
+
+Nuestra visión es convertirnos en la plataforma líder en Perú para la contratación de trabajos por horas y servicios temporales, siendo reconocidos por nuestra capacidad para conectar de manera efectiva a las personas con oportunidades de ingresos adicionales. Aspiramos a expandir nuestro impacto, promoviendo un mercado laboral más dinámico, inclusivo y flexible, donde cada persona pueda acceder fácilmente a oportunidades laborales que se ajusten a su estilo de vida y necesidades, mientras que las organizaciones logran satisfacer sus demandas con rapidez y precisión.
+
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
   <tr>
@@ -258,9 +403,48 @@
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+En el mercado laboral peruano, existe una creciente demanda de trabajos temporales y por horas, impulsada tanto por trabajadores que buscan flexibilidad como por empleadores que requieren soluciones rápidas para tareas específicas. No obstante, la falta de una plataforma centralizada ha dificultado la conexión eficiente entre ambas partes, lo que resulta en una subutilización del talento disponible y en procesos de contratación ineficaces.
+
+**5W y 2H**
+
+- **Who (Quién):** 
+
+Los trabajadores objetivo de TaskLinker incluyen estudiantes, amas de casa, jubilados y personas con empleo parcial que buscan ingresos adicionales sin comprometer sus horarios. Por otro lado, los empleadores incluyen pequeñas y medianas empresas (PyMEs), particulares, organizadores de eventos, y startups que necesitan contratar personal temporal de manera rápida y eficiente.
+
+- **What (Qué):**
+
+TaskLinker es una plataforma web que facilita la conexión entre personas que buscan trabajo temporal por horas y empleadores que necesitan contratar servicios específicos. La plataforma ofrece una solución centralizada que permite a ambas partes encontrar rápidamente lo que necesitan, ya sea una oportunidad de trabajo flexible o personal temporal calificado.
+
+- **Where (Dónde):**
+
+La plataforma opera principalmente en el mercado laboral peruano, donde existe una alta demanda de trabajos temporales y por horas. TaskLinker está diseñada para ser accesible desde cualquier dispositivo con conexión a internet, lo que la hace disponible en cualquier lugar dentro del ámbito nacional.
+
+- **When (Cuándo):**
+
+La necesidad de TaskLinker surge en un contexto donde la economía y el mercado laboral están en constante cambio, con un aumento en la demanda de flexibilidad tanto por parte de trabajadores como de empleadores. Esta plataforma es especialmente útil en momentos de alta demanda laboral temporal, como durante eventos especiales o picos estacionales de trabajo.
+
+- **Why (Por qué):**
+
+La falta de una plataforma centralizada que conecte de manera efectiva a trabajadores temporales con empleadores ha llevado a una subutilización de la fuerza laboral disponible y a ineficiencias en el proceso de contratación. TaskLinker responde a esta problemática proporcionando una solución que simplifica y agiliza la búsqueda de trabajo temporal y la contratación de personal por horas, beneficiando a ambos lados del mercado.
+
+-  **How (Cómo):**
+
+TaskLinker funciona a través de una plataforma en línea intuitiva donde los trabajadores pueden crear perfiles, buscar y postularse a trabajos que se ajusten a sus habilidades y disponibilidad. Los empleadores pueden publicar tareas o proyectos específicos y acceder a una base de trabajadores calificados de manera rápida. La plataforma integra un sistema de evaluaciones y reputación para garantizar la confianza y transparencia en las interacciones. El modelo de negocio se sustenta en dos esquemas principales: una comisión por transacción, que se cobra cuando un trabajador es contratado y completa un trabajo, y un plan de suscripción premium, que elimina las comisiones y ofrece beneficios adicionales como priorización en los listados y acceso a tareas exclusivas.
+
+- **How Much (Cuánto):**
+
+En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comisión proporcional al valor del trabajo, la cual se descuenta automáticamente una vez que el trabajo es completado y pagado. Por otro lado, el plan de suscripción premium tiene un costo fijo que elimina estas comisiones por transacción y brinda acceso a funcionalidades avanzadas, como la priorización en los listados, acceso a tareas exclusivas, y herramientas de gestión mejoradas. Este modelo de negocio está diseñado para ser accesible y rentable, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y volumen de trabajo.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+**1. Trabajadores que buscan ingresos adicionales y flexibilidad:**
+Este segmento incluye a estudiantes que necesitan ingresos para cubrir sus estudios o gastos personales sin afectar sus horarios académicos, amas de casa que desean contribuir económicamente sin comprometer sus responsabilidades en el hogar, jubilados que buscan mantenerse activos y generar ingresos extra, y personas con empleo parcial que desean complementar sus ingresos. Todos ellos valoran la flexibilidad que les ofrece TaskLinker, permitiéndoles encontrar oportunidades laborales que se adapten a su tiempo y necesidades específicas.
+
+**2. Empleadores que requieren soluciones laborales temporales:**
+
+Este segmento abarca a pequeñas y medianas empresas (PyMEs) que necesitan personal temporal para cubrir picos de trabajo o tareas específicas, particulares que requieren servicios domésticos, reparaciones, o tareas puntuales sin compromiso a largo plazo, organizadores de eventos que necesitan personal por horas para diferentes funciones como catering o atención al cliente, y startups que demandan flexibilidad en la contratación para adaptarse al ritmo dinámico de su crecimiento. Estos empleadores buscan soluciones rápidas, confiables y eficientes para satisfacer sus necesidades laborales temporales.
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
