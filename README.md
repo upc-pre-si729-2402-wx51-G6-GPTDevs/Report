@@ -550,11 +550,17 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 ### 2.2.2. Registro de entrevistas
 
+Entrevista #1 - Sebastian Silva
 
+![image](Imagenes/Entrevista1.png)
+
+[Entrevista 1 - video](https://drive.google.com/file/d/1hcTIO_iKWuJBhMhqibhFp9EVkvvag9VR/view?usp=sharing)
 
 ### 2.2.3. Análisis de entrevistas
 
+*Entrevista 1:*
 
+Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, debido a que actualmente se encuentra estudiando una carrera universitaria, Sebastián preferiblemente está decidido a buscar un trabajo part-time, para que no se descuide del estudio y pueda ganar experiencia siempre y cuando hayan vacantes de puestos de trabajos en el ámbito de su carrera, está dispuesto a trabajar mínimo 48 horas a la semana full time, y mínimo 24 horas part-time a la semana, considera que el factor mas importante es la actividad a realizar para ver si es conveniente con respecto a la paga, además tiene claro de que no debe arriesgar a aceptar un trabajo sobrexplotado para ganar muy menos de lo remunerado, le gustaría recibir ayuda de una sitio web especial encargado de búsqueda de trabajos por horas, además de la ubicación que sea cercana a su residencia actual. Le preocupa que al no laburar en un lugar tan céntrico, no exista un ámbito agradable y que se encuentre lejos de su hogar. Por ultimo, a él le fascina las opiniones, por ende necesita ver reseñas de una determinada aplicación o sitio web para poder confiar
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
