@@ -279,7 +279,7 @@ La elección tipográfica para TaskLinker es un componente esencial que compleme
 - Interlineado: 1.1
 - Weights: Bold - Medium - Regular - Light
 
-<center> <img src="img/Tipografia.png" style="width: 400px;"/></center>
+<center> <img src="img/tipografia.png" style="width: 400px;"/></center>
 
 ### 4.1.2. Web Style Guidelines
 La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
@@ -358,18 +358,205 @@ La web debe estar optimizada para múltiples dispositivos, desde móviles hasta 
 La arquitectura de la información, también conocida como Information Architecture (IA), implica la organización de la información de manera clara y lógica, de modo que los usuarios puedan comprender su ubicación, lo que han descubierto, qué pueden esperar y qué está disponible a su alrededor. Esto tiene como objetivo permitir a los usuarios encontrar con facilidad lo que están buscando, y a los clientes, comprender las capacidades de la plataforma. Además, la arquitectura de la información posibilita la incorporación de nuevas funciones y la expansión del producto sin generar una estructura compleja o de difícil comprensión (Rosenfeld, Morville & Arango 2015). 
 
 ### 4.2.1. Organization Systems
+Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa
+prevista para TaskLinker.
 
+<div style="text-align:center;">
+    <h3></h3>
+    <table align="center" border="1" cellpadding="10">
+        <tr>
+            <th style="text-align:center;">Tópico</th>
+            <th style="text-align:center;">Definición</th>
+        </tr>
+        <tr>
+            <td>Job Listings</td>
+            <td>Publicación y visualización de oportunidades de trabajo temporales, categorizadas por industria, ubicación, y habilidades requeridas.</td>
+        </tr>
+        <tr>
+            <td>Profile Management</td>
+            <td>Gestión de perfiles de trabajadores y empleadores, incluyendo la actualización de habilidades, experiencias, y preferencias de trabajo.</td>
+        </tr>
+        <tr>
+            <td>Task Matching</td>
+            <td>Implementación de algoritmos para conectar a trabajadores con empleadores basándose en criterios específicos como disponibilidad, habilidades, y ubicación.</td>
+        </tr>
+        <tr>
+            <td>Transaction Handling</td>
+            <td>Procesamiento seguro y eficiente de pagos y comisiones a través de la plataforma, asegurando transparencia en todas las transacciones entre usuarios.</td>
+        </tr>
+        <tr>
+            <td>User Reviews</td>
+            <td>Sistema de evaluaciones y comentarios para permitir a los usuarios compartir sus experiencias y calificar a los trabajadores y empleadores después de completar tareas.</td>
+        </tr>
+        <tr>
+            <td>Notifications</td>
+            <td>Envío de notificaciones y alertas personalizadas a usuarios sobre nuevas oportunidades, mensajes, y actualizaciones en tiempo real.</td>
+        </tr>
+        <tr>
+            <td>Task Analytics</td>
+            <td>Generación de informes sobre la actividad en la plataforma, incluyendo estadísticas de tareas completadas, tiempos de respuesta, y satisfacción de usuarios.</td>
+        </tr>
+        <tr>
+            <td>Security Protocols</td>
+            <td>Implementación de medidas de seguridad robustas para proteger la información personal y transaccional de los usuarios, asegurando la confidencialidad de los datos.</td>
+        </tr>
+        <tr>
+            <td>Customer Support</td>
+            <td>Provisión de asistencia al usuario mediante chat en vivo, soporte por correo electrónico y una base de conocimientos accesible para resolver problemas comunes.</td>
+        </tr>
+        <tr>
+            <td>Platform Updates</td>
+            <td>Actualizaciones regulares de la plataforma con nuevas funciones, mejoras de rendimiento, y soluciones de errores para asegurar una experiencia de usuario optimizada.</td>
+        </tr>
+    </table>
+</div>
 
 ### 4.2.2. Labeling Systems
+El conjunto de información TaskLinker será representado por el sistema mediante las siguientes
+etiquetas.
+
+<div style="text-align:center;">
+    <h3></h3>
+    <table align="center" border="1" cellpadding="10">
+        <tr>
+            <th style="text-align:center;">Etiqueta</th>
+            <th style="text-align:center;">Descripción</th>
+        </tr>
+        <tr>
+            <td>Task Category</td>
+            <td>Etiqueta utilizada para clasificar las tareas según el tipo de servicio ofrecido, como limpieza, reparaciones, o asistencia administrativa.</td>
+        </tr>
+        <tr>
+            <td>Availability Status</td>
+            <td>Etiqueta que indica la disponibilidad del trabajador o empleador para aceptar nuevas tareas o contrataciones.</td>
+        </tr>
+        <tr>
+            <td>Deadline</td>
+            <td>Etiqueta que indica la fecha límite para la finalización de una tarea o proyecto.</td>
+        </tr>
+        <tr>
+            <td>Urgency Level</td>
+            <td>Etiqueta que señala la prioridad o nivel de urgencia de una tarea, ayudando a los trabajadores a priorizar su tiempo y esfuerzo.</td>
+        </tr>
+        <tr>
+            <td>Task Status</td>
+            <td>Etiqueta que indica la fase actual de una tarea, como "En progreso", "Completada", o "Pendiente de revisión".</td>
+        </tr>
+        <tr>
+            <td>Skill Set Required</td>
+            <td>Etiqueta que resalta las habilidades o competencias específicas necesarias para realizar una tarea en particular.</td>
+        </tr>
+        <tr>
+            <td>Payment Status</td>
+            <td>Etiqueta que indica si el pago por una tarea ha sido completado, está pendiente, o en proceso de verificación.</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Etiqueta que especifica la ubicación donde se debe realizar la tarea, ya sea una dirección física o una opción remota.</td>
+        </tr>
+        <tr>
+            <td>Review Status</td>
+            <td>Etiqueta que indica si una tarea o un trabajador ha sido evaluado y verificado por otros usuarios, asegurando la calidad del servicio.</td>
+        </tr>
+        <tr>
+            <td>Contract Type</td>
+            <td>Etiqueta que clasifica la tarea según el tipo de contrato, ya sea por horas, a tiempo parcial, o bajo un proyecto fijo.</td>
+        </tr>
+    </table>
+</div>
 
 ### 4.2.3. SEO Tags and Meta Tag
 
 ### 4.2.4. Searching Systems
 
+<div style="text-align:center;">
+    <h3>Criterios de Búsqueda en la Plataforma:</h3>
+    <table align="center" border="1" cellpadding="10">
+        <tr>
+            <th style="text-align:center;">Criterio de Búsqueda</th>
+            <th style="text-align:center;">Descripción</th>
+        </tr>
+        <tr>
+            <td>Keyword Search</td>
+            <td>Búsqueda basada en palabras clave específicas ingresadas por el usuario, permitiendo encontrar tareas, trabajadores, o empleadores relacionados con esas palabras.</td>
+        </tr>
+        <tr>
+            <td>Task Category Filter</td>
+            <td>Filtro que permite a los usuarios buscar tareas o servicios dentro de categorías específicas como limpieza, reparaciones, administración, entre otros.</td>
+        </tr>
+        <tr>
+            <td>Location-Based Search</td>
+            <td>Permite a los usuarios buscar tareas o trabajadores según la ubicación geográfica, con opciones para definir un radio de búsqueda cercano o específico.</td>
+        </tr>
+        <tr>
+            <td>Availability Filter</td>
+            <td>Filtro que permite buscar trabajadores o tareas según su disponibilidad inmediata o en fechas específicas.</td>
+        </tr>
+        <tr>
+            <td>Skill Set Filter</td>
+            <td>Búsqueda que permite filtrar tareas o trabajadores según las habilidades o competencias requeridas o ofrecidas.</td>
+        </tr>
+        <tr>
+            <td>Task Status Search</td>
+            <td>Búsqueda basada en el estado de las tareas, como "En progreso", "Completada", o "Pendiente de revisión", para una mejor gestión de proyectos en curso o finalizados.</td>
+        </tr>
+        <tr>
+            <td>Contract Type Filter</td>
+            <td>Filtro que permite buscar tareas según el tipo de contrato, ya sea por horas, a tiempo parcial, o bajo un proyecto fijo, según las necesidades del usuario.</td>
+        </tr>
+    </table>
+</div>
+
 ### 4.2.5. Navigation Systems
+
+ Este sistema está diseñado para garantizar que los usuarios puedan moverse fácilmente a través de la plataforma y encontrar la información que necesitan de manera eficiente.
+
+<div style="text-align:center;">
+    <h3></h3>
+    <table align="center" border="1" cellpadding="10">
+        <tr>
+            <th style="text-align:center;">Elemento de Navegación</th>
+            <th style="text-align:center;">Descripción</th>
+        </tr>
+        <tr>
+            <td>Menú Principal</td>
+            <td>Un menú fijo en la parte superior de la página que incluye las secciones más importantes: Inicio, Buscar Trabajos, Buscar Trabajadores, Mi Perfil, Notificaciones, y Ayuda. Este menú es accesible desde cualquier página de la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Barra de Búsqueda Global</td>
+            <td>Una barra de búsqueda visible en la parte superior de cada página que permite a los usuarios realizar búsquedas rápidas y directas de tareas, trabajadores, o empleadores desde cualquier sección de la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Menú de Categorías</td>
+            <td>Un menú desplegable que organiza las tareas y servicios en categorías como Hogar, Reparaciones, Administración, Eventos, etc. Facilita la exploración específica dentro de las áreas de interés.</td>
+        </tr>
+        <tr>
+            <td>Panel de Usuario</td>
+            <td>Un menú lateral que se despliega al hacer clic en el avatar del usuario, ofreciendo acceso rápido a Mi Perfil, Mis Tareas, Historial, Configuración, y Cerrar Sesión. Este panel se adapta según el tipo de usuario (trabajador o empleador).</td>
+        </tr>
+        <tr>
+            <td>Breadcrumb Navigation</td>
+            <td>Rastro de migas de pan que aparece en la parte superior de las páginas secundarias, mostrando la ruta de navegación y permitiendo a los usuarios volver fácilmente a las secciones anteriores.</td>
+        </tr>
+        <tr>
+            <td>Panel de Notificaciones</td>
+            <td>Un ícono de campana en el menú principal que al hacer clic despliega un panel con notificaciones recientes, incluyendo mensajes, nuevas oportunidades, y actualizaciones de tareas.</td>
+        </tr>
+        <tr>
+            <td>Footer</td>
+            <td>El pie de página contiene enlaces a Sobre Nosotros, Términos y Condiciones, Política de Privacidad, Contacto, y enlaces a redes sociales. Este espacio también puede incluir enlaces a recursos adicionales como blogs o guías de usuario.</td>
+        </tr>
+        <tr>
+            <td>Navegación Contextual</td>
+            <td>En páginas detalladas de tareas o perfiles de trabajadores, se incluyen enlaces y botones contextuales que permiten al usuario realizar acciones relacionadas, como Contactar, Contratar Ahora, Ver Evaluaciones, o Guardar.</td>
+        </tr>
+    </table>
+</div>
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -416,6 +603,3 @@ La arquitectura de la información, también conocida como Information Architect
 # Bibliografía
 
 # Anexos
-
-
-[def]: Logo_Brand.jpg
