@@ -627,6 +627,15 @@ Una característica de TaskLinker que permite a los Task Seekers y Task Provider
 
 8. **Transaction Fee: (Tarifa por Transacción):**
 Una tarifa impuesta por TaskLinker a los Task Providers cada vez que se completa una tarea o se efectúa una contratación a través de la plataforma, garantizando un modelo de negocio sostenible.
+
+9. **Commission Fee: (Tarifa de Comisión):**
+Una tarifa aplicada por TaskLinker sobre los ingresos generados por los Task Seekers, asegurando una compensación justa por el uso de la plataforma y los servicios que ofrece.
+
+10. **Job Matching: (Emparejamiento de Trabajos):**
+El proceso mediante el cual TaskLinker conecta a los Task Seekers con los Task Providers de acuerdo con sus habilidades, disponibilidad y la naturaleza de las tareas ofrecidas, optimizando el proceso de contratación.
+
+11. **Task Posting: (Publicación de Tareas):**
+La acción de los Task Providers al listar tareas o trabajos disponibles en la plataforma, especificando los detalles y requisitos para atraer a los Task Seekers adecuados.
    
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
