@@ -191,26 +191,371 @@
 [Anexos](#anexos)
 
 # Student Outcome
+ABET – EAC - Student Outcome 3
 
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td><b>Comunica oralmente con
+efectividad a diferentes rangos
+de audiencia.</b></td>
+      <td>
+        <p><b>Ramos Najar, Tony Alexander  </b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Roque Tello, Jack Eddie</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+      <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, .</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Comunica por escrito con
+efectividad a diferentes rangos
+de audiencia.</td>
+      <td>
+        <p><b>Ramos Najar, Tony Alexander  </b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Roque Tello, Jack Eddie</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+       <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, .</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+"TaskLinker" es una innovadora plataforma web que facilita la conexión entre personas que buscan ingresos adicionales laborando por horas y quienes requieren contratar servicios temporales o para tareas específicas. Dirigida a estudiantes, amas de casa, jubilados y cualquier persona interesada en trabajos por horas, TaskLinker actúa como un puente efectivo y confiable entre la oferta y la demanda en el mercado laboral peruano. A través de nuestra plataforma, tanto individuos como organizaciones pueden encontrar soluciones rápidas y eficientes para sus necesidades, optimizando el uso de la fuerza laboral disponible y promoviendo la flexibilidad en el empleo.
+
+La misión de TaskLinker es empoderar a las personas con oportunidades de trabajo flexible, permitiéndoles generar ingresos adicionales en sus propios términos. Al mismo tiempo, buscamos proporcionar a las organizaciones e individuos una herramienta eficiente para encontrar y contratar rápidamente talento adecuado para sus necesidades temporales o específicas.
+
+Nuestra visión es convertirnos en la plataforma líder en Perú para la contratación de trabajos por horas y servicios temporales, siendo reconocidos por nuestra capacidad para conectar de manera efectiva a las personas con oportunidades de ingresos adicionales. Aspiramos a expandir nuestro impacto, promoviendo un mercado laboral más dinámico, inclusivo y flexible, donde cada persona pueda acceder fácilmente a oportunidades laborales que se ajusten a su estilo de vida y necesidades, mientras que las organizaciones logran satisfacer sus demandas con rapidez y precisión.
+
 ### 1.1.2. Perfiles de integrantes del equipo
+<table>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Tony" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Ramos Najar, Tony Alexander</b></p>
+      <p>
+        Mi nombre es Tony Ramos, estoy cursando el 8vo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/fotocam.png" alt="Foto de perfil de Camila" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Sánchez Ríos, Camila Cristina</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y leer en los ratos libres y aprender más sobre la carrera.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/franco.jpg" alt="Foto de perfil de Gianfranco" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Durand Vera, Gianfranco Ángel</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Daniel" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+      <p>
+       ...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Jack" width="700px">
+    </th>
+    <td valign="top">
+      <p><b>Roque Tello, Jack Eddie</b></p>
+      <p>
+        ...
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+En el mercado laboral peruano, existe una creciente demanda de trabajos temporales y por horas, impulsada tanto por trabajadores que buscan flexibilidad como por empleadores que requieren soluciones rápidas para tareas específicas. No obstante, la falta de una plataforma centralizada ha dificultado la conexión eficiente entre ambas partes, lo que resulta en una subutilización del talento disponible y en procesos de contratación ineficaces.
+
+**5W y 2H**
+
+- **Who (Quién):** 
+
+Los trabajadores objetivo de TaskLinker incluyen estudiantes, amas de casa, jubilados y personas con empleo parcial que buscan ingresos adicionales sin comprometer sus horarios. Por otro lado, los empleadores incluyen pequeñas y medianas empresas (PyMEs), particulares, organizadores de eventos, y startups que necesitan contratar personal temporal de manera rápida y eficiente.
+
+- **What (Qué):**
+
+TaskLinker es una plataforma web que facilita la conexión entre personas que buscan trabajo temporal por horas y empleadores que necesitan contratar servicios específicos. La plataforma ofrece una solución centralizada que permite a ambas partes encontrar rápidamente lo que necesitan, ya sea una oportunidad de trabajo flexible o personal temporal calificado.
+
+- **Where (Dónde):**
+
+La plataforma opera principalmente en el mercado laboral peruano, donde existe una alta demanda de trabajos temporales y por horas. TaskLinker está diseñada para ser accesible desde cualquier dispositivo con conexión a internet, lo que la hace disponible en cualquier lugar dentro del ámbito nacional.
+
+- **When (Cuándo):**
+
+La necesidad de TaskLinker surge en un contexto donde la economía y el mercado laboral están en constante cambio, con un aumento en la demanda de flexibilidad tanto por parte de trabajadores como de empleadores. Esta plataforma es especialmente útil en momentos de alta demanda laboral temporal, como durante eventos especiales o picos estacionales de trabajo.
+
+- **Why (Por qué):**
+
+La falta de una plataforma centralizada que conecte de manera efectiva a trabajadores temporales con empleadores ha llevado a una subutilización de la fuerza laboral disponible y a ineficiencias en el proceso de contratación. TaskLinker responde a esta problemática proporcionando una solución que simplifica y agiliza la búsqueda de trabajo temporal y la contratación de personal por horas, beneficiando a ambos lados del mercado.
+
+-  **How (Cómo):**
+
+TaskLinker funciona a través de una plataforma en línea intuitiva donde los trabajadores pueden crear perfiles, buscar y postularse a trabajos que se ajusten a sus habilidades y disponibilidad. Los empleadores pueden publicar tareas o proyectos específicos y acceder a una base de trabajadores calificados de manera rápida. La plataforma integra un sistema de evaluaciones y reputación para garantizar la confianza y transparencia en las interacciones. El modelo de negocio se sustenta en dos esquemas principales: una comisión por transacción, que se cobra cuando un trabajador es contratado y completa un trabajo, y un plan de suscripción premium, que elimina las comisiones y ofrece beneficios adicionales como priorización en los listados y acceso a tareas exclusivas.
+
+- **How Much (Cuánto):**
+
+En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comisión proporcional al valor del trabajo, la cual se descuenta automáticamente una vez que el trabajo es completado y pagado. Por otro lado, el plan de suscripción premium tiene un costo fijo que elimina estas comisiones por transacción y brinda acceso a funcionalidades avanzadas, como la priorización en los listados, acceso a tareas exclusivas, y herramientas de gestión mejoradas. Este modelo de negocio está diseñado para ser accesible y rentable, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y volumen de trabajo.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 #### 1.2.2.4. Lean UX Canvas
+
 ## 1.3. Segmentos objetivo
 
+**1. Trabajadores que buscan ingresos adicionales y flexibilidad:**
+Este segmento incluye a estudiantes que necesitan ingresos para cubrir sus estudios o gastos personales sin afectar sus horarios académicos, amas de casa que desean contribuir económicamente sin comprometer sus responsabilidades en el hogar, jubilados que buscan mantenerse activos y generar ingresos extra, y personas con empleo parcial que desean complementar sus ingresos. Todos ellos valoran la flexibilidad que les ofrece TaskLinker, permitiéndoles encontrar oportunidades laborales que se adapten a su tiempo y necesidades específicas.
+
+**2. Empleadores que requieren soluciones laborales temporales:**
+
+Este segmento abarca a pequeñas y medianas empresas (PyMEs) que necesitan personal temporal para cubrir picos de trabajo o tareas específicas, particulares que requieren servicios domésticos, reparaciones, o tareas puntuales sin compromiso a largo plazo, organizadores de eventos que necesitan personal por horas para diferentes funciones como catering o atención al cliente, y startups que demandan flexibilidad en la contratación para adaptarse al ritmo dinámico de su crecimiento. Estos empleadores buscan soluciones rápidas, confiables y eficientes para satisfacer sus necesidades laborales temporales.
+
+
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores
+
 ### 2.1.1. Análisis competitivo
+
+- **Bumeran**
+
+Bumeran es una de las principales bolsas de trabajo en América Latina, con una fuerte presencia en países como Argentina, México, Perú y otros. La plataforma facilita la búsqueda de empleo en diversas categorías, incluyendo trabajos temporales y por horas.
+
+[Bumeran Perú](https://www.bumeran.com.pe/)
+
+- **Computrabajo**
+
+Computrabajo es una de las bolsas de trabajo más grandes en América Latina, con una sólida presencia en Perú y otros países de la región. La plataforma ofrece una amplia gama de empleos, incluidos trabajos temporales y por horas
+
+[Computrabajo](https://pe.computrabajo.com/)
+
+- **Indeed**
+
+Indeed es una plataforma global de búsqueda de empleo que agrega ofertas de trabajo de diversas fuentes, incluyendo bolsas de trabajo, sitios de empresa y anuncios clasificados. Fundada en 2004, Indeed se ha consolidado como uno de los motores de búsqueda de empleo más grandes del mundo, con una presencia significativa en numerosos países, incluyendo Perú y América Latina.
+
+[Indeed](https://pe.indeed.com/)
+
+#### **Comparativa con Competidores**
+
+|               | TaskLinker                                                     | Bumeran                                                          | Computrabajo                                                      | Indeed                                                            |
+|---------------|----------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| **Perfil**    | Plataforma web que conecta a personas que buscan ingresos adicionales con quienes necesitan contratar servicios temporales o específicos. | Bolsa de trabajo líder en América Latina con una amplia base de datos de empleos. | Bolsa de trabajo con fuerte presencia en Perú y otros países de América Latina. | Motor de búsqueda de empleo global con presencia significativa en América Latina. |
+| **Overview**  | Facilita la conexión entre individuos interesados en trabajos por horas y organizaciones que requieren servicios temporales. | Plataforma que facilita la búsqueda y publicación de empleos en diversas categorías, incluyendo trabajos temporales y por horas. | Plataforma que ofrece una variedad de empleos, desde trabajos permanentes hasta temporales y por horas. | Agrega ofertas de empleo de diversas fuentes y permite buscar y aplicar a trabajos en una amplia gama de categorías. |
+| **Ventaja competitiva** ¿Qué valor ofrece a los clientes? | Especialización en trabajos por horas y temporales, facilitando la conexión directa entre oferta y demanda. | Amplia red de usuarios y empleadores en varios países de América Latina, con una variedad de empleos disponibles. | Herramientas efectivas para empleadores y candidatos con una fuerte presencia local en Perú. | Búsqueda integral de empleos con una amplia base de datos y la capacidad de aplicar a trabajos globalmente. |
+| **Perfil de Marketing** |                                                                  |                                                                  |                                                                   |                                                                   |
+| **Mercado objetivo** | Estudiantes, amas de casa, jubilados y personas interesadas en trabajos por horas en Perú. | Empresas y candidatos en busca de empleos temporales y por horas en América Latina. | Empresas y candidatos en Perú buscando empleos temporales y por horas. | Candidatos y empleadores globales y locales en busca de una amplia gama de oportunidades laborales. |
+| **Estrategias de Marketing** | Promoción a través de redes sociales y colaboraciones con instituciones educativas y organizaciones locales. | Publicidad en medios digitales y colaboraciones con empresas de recursos humanos y consultoras. | Marketing digital enfocado en la búsqueda de empleo local y colaboración con empresas. | Publicidad en línea y optimización para motores de búsqueda, así como herramientas avanzadas para empleadores. |
+| **Perfil de Producto** |                                                                  |                                                                  |                                                                   |                                                                   |
+| **Productos y Servicios** | Plataforma para encontrar y ofrecer trabajos temporales y por horas, con herramientas de gestión para empleadores y candidatos. | Publicación de ofertas de empleo, búsqueda y filtrado de trabajos en varias categorías. | Publicación de ofertas de empleo, herramientas de gestión para empleadores y alertas de empleo. | Agregación de ofertas de empleo, herramientas para publicación y promoción de anuncios, y recursos adicionales para candidatos. |
+| **Precios y Costos** | Modelos de suscripción para empresas y opciones de publicación para trabajos específicos. | Precios varían según el tipo de publicación y servicios adicionales. | Costos para publicación de ofertas y servicios premium para empresas. | Costos de patrocinio de anuncios y servicios premium para empleadores. |
+| **Canales de Distribución** | Página web. | Página web, aplicaciones móviles. | Página web, aplicaciones móviles. | Página web, aplicaciones móviles. |
+| **Análisis FODA** |                                                                  |                                                                  |                                                                   |                                                                   |
+| **Fortalezas** | Especialización en trabajos por horas y temporales, facilitando una conexión directa y eficiente. | Amplia cobertura en América Latina y variedad de empleos disponibles. | Fuerte presencia local en Perú con herramientas efectivas para búsqueda de empleo. | Amplia base de datos global y funcionalidad avanzada para la búsqueda y aplicación de empleos. |
+| **Debilidades** | Limitada cobertura comparada con competidores más grandes; dependencia en la adopción local. | Competencia elevada y falta de especialización en trabajos por horas. | Competencia elevada y falta de especialización en nichos específicos. | Alta competencia global y menos enfoque en trabajos temporales específicos. |
+| **Oportunidades** | Expansión en el mercado de trabajos temporales en Perú y potencial de crecimiento en América Latina. | Expansión en el mercado de trabajos temporales y por horas en América Latina. | Oportunidades para mejorar la especialización en trabajos temporales y por horas. | Expansión de servicios y optimización para la búsqueda de trabajos específicos por horas y temporales. |
+| **Amenazas** | Competencia de plataformas globales y locales que ofrecen servicios similares. | Plataformas globales y locales que ofrecen servicios similares. | Competencia de otras bolsas de trabajo locales y globales. | Competencia de plataformas globales con amplias bases de datos y funcionalidades avanzadas. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar una visibilidad clara y accesible de oportunidades laborales flexibles, ofrecer un modelo de remuneración competitivo para atraer tanto a trabajadores como a empleadores, colaborar con instituciones y organizaciones locales para ampliar su alcance, resaltar las ofertas más recientes y relevantes en la plataforma, y garantizar la confianza y transparencia mediante un sistema robusto de calificaciones y reseñas.
+
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
+
+*Preguntas para el segmento objetivo 1: Trabajadores que buscan ingresos adicionales y flexibilidad*
+
+#### 1. ¿Qué tipo de trabajos por horas te interesan más y por qué? <br>
+##### Objetivo: Identificar las preferencias y áreas de interés laboral.
+
+#### 2. ¿Cuántas horas a la semana estás dispuesto/a a trabajar y qué horarios te resultan más convenientes? <br>
+##### Objetivo: Entender la disponibilidad y flexibilidad.
+
+#### 3. ¿Qué factores consideras más importantes al elegir un trabajo por horas? <br>
+##### Objetivo: Conocer los criterios clave en la toma de decisiones laborales.
+
+#### 4. ¿Has utilizado anteriormente plataformas similares para encontrar trabajos por horas? Si es así, ¿qué te gustó o no te gustó de ellas? <br>
+##### Objetivo: Evaluar la experiencia previa y expectativas sobre plataformas de empleo.
+
+#### 5. ¿Qué tipo de apoyo o recursos te gustaría recibir de una plataforma de trabajos por horas para facilitar tu búsqueda de empleo? <br>
+##### Objetivo: Identificar necesidades adicionales que podrían mejorar la experiencia.
+
+#### 6. ¿Cuáles son tus principales preocupaciones o desafíos al buscar trabajos por horas? <br>
+##### Objetivo: Detectar barreras o problemas comunes en la búsqueda de empleo.
+
+#### 7. ¿Qué tan importante es para ti la posibilidad de calificar y dejar reseñas sobre las oportunidades laborales y empleadores? <br>
+##### Objetivo: Evaluar la importancia de la transparencia y el feedback en la plataforma.
+
+<br><br>
+*Preguntas para el segmento objetivo 2: Empleadores que requieren soluciones laborales temporales*
+
+#### 1. ¿Qué tipo de servicios temporales o especializados sueles necesitar con mayor frecuencia?
+##### Objetivo: Identificar los tipos de servicios más demandados.
+
+#### 2. ¿Qué criterios utilizas para seleccionar a un trabajador o proveedor de servicios temporales?
+##### Objetivo: Comprender los factores clave en la selección de proveedores de servicios.
+
+#### 3. ¿Cuál es tu experiencia previa al contratar servicios temporales a través de plataformas digitales? ¿Qué aspectos fueron positivos o negativos?
+##### Objetivo: Obtener información sobre experiencias pasadas y expectativas sobre la plataforma.
+
+#### 4. ¿Qué nivel de flexibilidad esperas en cuanto a horarios y disponibilidad de los trabajadores que contratas?
+##### Objetivo: Entender las expectativas de flexibilidad y adaptabilidad.
+
+#### 5. ¿Qué importancia le das a la capacidad de revisar perfiles y leer reseñas antes de contratar a alguien?
+##### Objetivo: Evaluar la relevancia de la transparencia y la información de la plataforma.
+
+#### 6. ¿Qué problemas o desafíos has enfrentado al contratar servicios temporales y cómo te gustaría que una plataforma los resolviera?
+##### Objetivo: Identificar problemas comunes y posibles soluciones que la plataforma podría ofrecer.
+
+#### 7. ¿Cómo prefieres gestionar el proceso de contratación y pago (por ejemplo, a través de la plataforma, de forma directa, etc.)?
+##### Objetivo: Entender las preferencias en la gestión de la contratación y los pagos.
+
 ### 2.2.2. Registro de entrevistas
+
+
+
 ### 2.2.3. Análisis de entrevistas
+
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
