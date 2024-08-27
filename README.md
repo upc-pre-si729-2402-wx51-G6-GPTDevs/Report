@@ -616,6 +616,18 @@ Organizaciones o individuos que necesitan contratar servicios temporales o tarea
 4. **Hourly Job: (Trabajo por Horas):**
 Tareas o trabajos específicos que se remuneran por el tiempo dedicado, generalmente orientados a periodos cortos y de naturaleza temporal. Estas tareas pueden variar en duración y frecuencia según las necesidades del Task Provider
 
+5. **Flexible Work: (Trabajo Flexible):**
+Oportunidades laborales que permiten a los Task Seekers ajustar sus horarios y condiciones laborales según su disponibilidad y preferencias, ofreciendo un equilibrio entre vida personal y trabajo.
+
+6. **Booking: (Reserva):**
+El proceso mediante el cual los Task Providers seleccionan y reservan Task Seekers para realizar trabajos específicos, asegurando que el talento adecuado esté disponible cuando sea necesario.
+
+7. **Review System: (Sistema de Reseñas):**
+Una característica de TaskLinker que permite a los Task Seekers y Task Providers dejar opiniones y calificaciones sobre sus experiencias, ayudando a otros usuarios a tomar decisiones informadas al contratar o aceptar tareas.
+
+8. **Transaction Fee: (Tarifa por Transacción):**
+Una tarifa impuesta por TaskLinker a los Task Providers cada vez que se completa una tarea o se efectúa una contratación a través de la plataforma, garantizando un modelo de negocio sostenible.
+   
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
