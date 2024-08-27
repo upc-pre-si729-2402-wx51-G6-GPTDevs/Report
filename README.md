@@ -588,7 +588,7 @@ Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, deb
 
 ### 2.3.3. User Journey Mapping
 
-
+![image](Imagenes/JourneyMapSebastian.png)
 
 ### 2.3.4. Empathy Mapping
 
