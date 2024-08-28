@@ -363,7 +363,8 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
     <td valign="top">
       <p><b>Sánchez Ríos, Camila Cristina</b></p>
       <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y leer en los ratos libres y aprender más sobre la carrera.
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el cuarto ciclo. Me gusta escuchar música y leer en los ratos 
+        libres y aprender más sobre la carrera.
       </p>
     </td>
   </tr>
@@ -374,7 +375,8 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
     <td valign="top">
       <p><b>Durand Vera, Gianfranco Ángel</b></p>
       <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me gusta mucho la programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
+        Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, actualmente me encuentro en el sexto ciclo, escogí esta carrera porque me gusta mucho la 
+        programación. Tengo experiencia en lenguajes de programación como C++, C#, Python, Kotlin y JavaScript.
       </p>
     </td>
   </tr>
@@ -385,7 +387,8 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
     <td valign="top">
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
       <p>
-       ...
+       Soy estudiante de la UPC, tengo 19 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo cómo crearlos. Estoy 
+       cursando el 5 ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
       </p>
     </td>
   </tr>
