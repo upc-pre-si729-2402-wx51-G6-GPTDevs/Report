@@ -441,6 +441,61 @@ TaskLinker funciona a través de una plataforma en línea intuitiva donde los tr
 
 En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comisión proporcional al valor del trabajo, la cual se descuenta automáticamente una vez que el trabajo es completado y pagado. Por otro lado, el plan de suscripción premium tiene un costo fijo que elimina estas comisiones por transacción y brinda acceso a funcionalidades avanzadas, como la priorización en los listados, acceso a tareas exclusivas, y herramientas de gestión mejoradas. Este modelo de negocio está diseñado para ser accesible y rentable, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y volumen de trabajo.
 
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+
+<strong>1. Construcción de Confianza y Credibilidad:</strong>
+
+Problema: Los usuarios potenciales, como estudiantes, amas de casa, jubilados y trabajadores a tiempo parcial, podrían desconfiar de una nueva plataforma como TaskLinker debido a preocupaciones sobre la fiabilidad y efectividad en la conexión con trabajos temporales legítimos y bien remunerados.
+
+Impacto: Esta desconfianza podría ralentizar la adopción de usuarios, limitando la capacidad de TaskLinker para construir una base de usuarios sólida y activa, lo que en última instancia obstaculizaría el éxito de la plataforma en un mercado competitivo.
+
+Suposición: Al proporcionar características transparentes y centradas en el usuario, como perfiles verificados de empleadores, testimonios de usuarios y calificaciones, podemos generar confianza y animar a más usuarios a interactuar con la plataforma.
+
+<strong>2. Demostración del Valor del Empleo Flexible:</strong>
+
+Problema: Muchos usuarios potenciales pueden no reconocer completamente el valor de usar una plataforma como TaskLinker para encontrar oportunidades de trabajo flexible que se alineen con sus horarios y necesidades.
+
+Impacto: Esto podría resultar en una menor tasa de participación de usuarios, ya que las personas podrían seguir confiando en métodos tradicionales de búsqueda de empleo, perdiendo las ventajas que TaskLinker ofrece.
+
+Suposición: Al mostrar estudios de casos exitosos y resaltar los beneficios financieros y personales de utilizar TaskLinker, podemos motivar a los usuarios a probar la plataforma y adoptarla como una herramienta esencial para encontrar trabajos por horas.
+
+<strong>3. Superación de la Subutilización del Talento Disponible:</strong>
+
+Problema: La falta de una plataforma centralizada que conecte eficazmente a los trabajadores temporales con los empleadores ha llevado a una subutilización de la fuerza laboral disponible, afectando tanto a quienes buscan trabajo como a quienes necesitan personal temporal.
+
+Impacto: Esto perpetúa ineficiencias en el proceso de contratación, resultando en una pérdida de oportunidades tanto para los trabajadores como para los empleadores.
+Suposición: Al centralizar la oferta y demanda de trabajos temporales en TaskLinker, podemos optimizar el uso del talento disponible, mejorando la eficiencia del mercado laboral temporal en Perú.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+1. Los usuarios buscan una plataforma confiable para encontrar trabajos temporales que se adapten a sus horarios y necesidades específicas. TaskLinker está diseñada para facilitar este proceso, permitiendo a 
+   los usuarios acceder a oportunidades de empleo de manera rápida y segura.
+
+2. La plataforma está dirigida a adultos jóvenes, amas de casa, jubilados y personas con empleo parcial que desean complementar sus ingresos. Este grupo valora la flexibilidad y la conveniencia que ofrece 
+   TaskLinker, lo que les permite gestionar mejor su tiempo y responsabilidades.
+
+3. Los usuarios iniciales de TaskLinker serán personas mayores de 18 años que buscan soluciones rápidas y flexibles para trabajar por horas. Este segmento incluye tanto a quienes desean un ingreso adicional 
+   como a aquellos que buscan empleo temporal debido a su situación actual.
+
+4. TaskLinker generará ingresos a través de un modelo de comisión por transacción, así como mediante suscripciones premium que ofrecen funciones avanzadas, como priorización en los listados y acceso a tareas 
+   exclusivas. Esto permitirá monetizar la plataforma mientras crece la base de usuarios.
+
+5. Adquiriremos la mayoría de nuestros usuarios a través de alianzas estratégicas con universidades, organizaciones comunitarias, y empresas que necesiten personal temporal. También lanzaremos campañas de 
+   concienciación en redes sociales y comunidades en línea enfocadas en empleo y trabajo temporal.
+
+6. Nuestra competencia incluye otras plataformas de trabajo temporal y servicios freelance establecidos en el mercado. Sin embargo, TaskLinker se diferencia por su enfoque en la simplicidad, la 
+   personalización, y la eficiencia en la conexión entre empleadores y trabajadores temporales.
+
+7. Superaremos a nuestra competencia ofreciendo una plataforma altamente intuitiva y eficiente, diseñada para ser accesible incluso para aquellos sin conocimientos tecnológicos avanzados. La personalización 
+   de los perfiles de usuario y las opciones de búsqueda nos posicionarán como la opción preferida entre los usuarios.
+
+8. El mayor riesgo para TaskLinker radica en la competencia con plataformas más conocidas, lo que podría afectar nuestra penetración en el mercado. Para mitigar este riesgo, mejoraremos continuamente la 
+   experiencia del usuario, ampliando la funcionalidad y fortaleciendo nuestra propuesta de valor.
+
+9. Para mitigar los riesgos de competencia, realizaremos un análisis continuo de las fortalezas y debilidades de nuestra plataforma en comparación con las alternativas en el mercado, y utilizaremos esta 
+   información para mejorar TaskLinker, asegurando así su calidad y competitividad.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 Problema: Creemos que las personas en Perú (estudiantes, amas de casa, jubilados, etc.) tienen dificultades para encontrar trabajos flexibles y por horas que se ajusten a sus necesidades y horarios.
@@ -468,7 +523,6 @@ Este segmento incluye a estudiantes que necesitan ingresos para cubrir sus estud
 **2. Empleadores que requieren soluciones laborales temporales:**
 
 Este segmento abarca a pequeñas y medianas empresas (PyMEs) que necesitan personal temporal para cubrir picos de trabajo o tareas específicas, particulares que requieren servicios domésticos, reparaciones, o tareas puntuales sin compromiso a largo plazo, organizadores de eventos que necesitan personal por horas para diferentes funciones como catering o atención al cliente, y startups que demandan flexibilidad en la contratación para adaptarse al ritmo dinámico de su crecimiento. Estos empleadores buscan soluciones rápidas, confiables y eficientes para satisfacer sus necesidades laborales temporales.
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
