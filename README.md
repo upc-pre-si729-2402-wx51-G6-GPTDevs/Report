@@ -378,7 +378,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de Daniel" width="800px">
+      <img src="img/daniel.jpeg" alt="Foto de perfil de Daniel" width="800px">
     </th>
     <td valign="top">
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
@@ -436,7 +436,23 @@ TaskLinker funciona a través de una plataforma en línea intuitiva donde los tr
 En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comisión proporcional al valor del trabajo, la cual se descuenta automáticamente una vez que el trabajo es completado y pagado. Por otro lado, el plan de suscripción premium tiene un costo fijo que elimina estas comisiones por transacción y brinda acceso a funcionalidades avanzadas, como la priorización en los listados, acceso a tareas exclusivas, y herramientas de gestión mejoradas. Este modelo de negocio está diseñado para ser accesible y rentable, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y volumen de trabajo.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+Problema: Creemos que las personas en Perú (estudiantes, amas de casa, jubilados, etc.) tienen dificultades para encontrar trabajos flexibles y por horas que se ajusten a sus necesidades y horarios.
+
+Solución: Si ofrecemos una plataforma que centraliza la oferta y demanda de trabajos por horas, las personas podrán encontrar oportunidades laborales de forma rápida y fácil.
+Resultado esperado: Observaremos un aumento en el número de personas registradas y en la frecuencia con la que encuentran trabajo a través de la plataforma.
+Problema: Creemos que las pequeñas y medianas empresas (PyMEs) en Perú necesitan contratar servicios temporales de manera eficiente, pero enfrentan dificultades en el proceso de búsqueda y contratación.
+
+Solución: Si proporcionamos una plataforma donde puedan publicar tareas y contratar trabajadores de forma rápida, las PyMEs podrán cubrir sus necesidades temporales sin problemas.
+Resultado esperado: Veremos una alta tasa de satisfacción entre los empleadores y un aumento en el número de tareas publicadas en la plataforma.
+Problema: Creemos que muchos usuarios en Perú valoran la flexibilidad y desean acceder a una plataforma gratuita para comenzar a trabajar inmediatamente.
+
+Solución: Si ofrecemos una opción gratuita con comisiones por tarea realizada y un plan premium que elimina esas comisiones, los usuarios podrán empezar a trabajar sin barreras económicas.
+Resultado esperado: Tendremos una alta conversión de usuarios del plan gratuito al plan premium a medida que generen más ingresos.
+
 #### 1.2.2.4. Lean UX Canvas
+
+
 ## 1.3. Segmentos objetivo
 **1. Trabajadores que buscan ingresos adicionales y flexibilidad:**
 Este segmento incluye a estudiantes que necesitan ingresos para cubrir sus estudios o gastos personales sin afectar sus horarios académicos, amas de casa que desean contribuir económicamente sin comprometer sus responsabilidades en el hogar, jubilados que buscan mantenerse activos y generar ingresos extra, y personas con empleo parcial que desean complementar sus ingresos. Todos ellos valoran la flexibilidad que les ofrece TaskLinker, permitiéndoles encontrar oportunidades laborales que se adapten a su tiempo y necesidades específicas.
