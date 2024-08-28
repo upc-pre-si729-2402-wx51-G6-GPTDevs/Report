@@ -240,7 +240,7 @@ TaskLinker es una plataforma web que facilita la conexión eficiente entre traba
 
 El logotipo de TaskLinker es un elemento central de la identidad visual de la marca. Está compuesto por una tipografía moderna y estilizada que refleja la eficiencia y la profesionalidad de la plataforma. El diseño presenta las letras "T" y "L" en una disposición vertical, seguidas del nombre completo *"TASKLINKER"* en un tipo de letra audaz y alineado debajo.
 
-<center> <img src="img/Logo.jpg" style="width: 250px;"/> </center>
+<center> <img src="img/Logo.png" style="width: 250px;"/> </center>
 <br>
 
 **Tono de Comunicacion:**
@@ -557,9 +557,22 @@ Searching System es una herramienta informática que permite buscar y recuperar 
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
-**Landing Page para Desktop Web Browser**
+Wireframe Desktop
+<img src="img/Wireframe-Desktop.png">
+
+Wireframe Mobile
+<div align="center">
+<img src="img/Wireframe-Mobile.png">
+</div>
 
 ### 4.3.2. Landing Page Mock-up
+Mock-up Desktop
+<img src="img/Mockup-Desktop.png">
+Mock-up Mobile
+<div align="center">
+<img src="img/Mockup-Mobile.png">
+</div>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
