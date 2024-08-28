@@ -240,7 +240,7 @@ TaskLinker es una plataforma web que facilita la conexión eficiente entre traba
 
 El logotipo de TaskLinker es un elemento central de la identidad visual de la marca. Está compuesto por una tipografía moderna y estilizada que refleja la eficiencia y la profesionalidad de la plataforma. El diseño presenta las letras "T" y "L" en una disposición vertical, seguidas del nombre completo *"TASKLINKER"* en un tipo de letra audaz y alineado debajo.
 
-<center> <img src="img/Logo.png" style="width: 250px;"/> </center>
+<center> <img src="img/logo.png" style="width: 250px;"/> </center>
 <br>
 
 **Tono de Comunicacion:**
