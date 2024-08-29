@@ -550,11 +550,29 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 ### 2.2.2. Registro de entrevistas
 
-Entrevista #1 - Sebastian Silva
+## Entrevista #1 
+
+**Nombre:** Sebastian Silva
+
+**Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
 
 ![image](Imagenes/Entrevista1.png)
 
 [Entrevista 1 - video](https://drive.google.com/file/d/1hcTIO_iKWuJBhMhqibhFp9EVkvvag9VR/view?usp=sharing)
+
+**Duración de la entrevista:** 5:50
+
+## Entrevista #2 
+
+**Nombre:** Sandy Ingaruca
+
+**Segmento objetivo perteneciente:** Empleadores que requieren soluciones laborales temporales
+
+![image](Imagenes/Entrevista2.png)
+
+[Entrevista 2 - video](https://drive.google.com/file/d/1P-LY7ZTOfnj-71BLL2_X4Ol6UZSEEiXa/view?usp=sharing)
+
+**Duración de la entrevista:** 5:42
 
 ### 2.2.3. Análisis de entrevistas
 
