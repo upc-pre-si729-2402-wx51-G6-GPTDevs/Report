@@ -629,7 +629,13 @@ Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de sopo
 
 ### 2.3.3. User Journey Mapping
 
+User Journey Mapping: Sebastián Silva
+
 ![image](Imagenes/JourneyMapSebastian.png)
+
+User Journey Mapping: Valeria Gonzáles
+
+![image](Imagenes/JourneyMapValeria.png)
 
 ### 2.3.4. Empathy Mapping
 
