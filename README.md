@@ -643,9 +643,19 @@ User Journey Mapping: Valeria Gonzáles
 
 ![image](Imagenes/EmpathyMapSebastian.png)
 
+#### Empathy Map: Valeria Gonzáles
+
+![image](Imagenes/EmpathyMapValeria.png)
+
 ### 2.3.5. As-is Scenario Mapping
 
+#### As is Scenario: Sebastián Silva
+
 ![image](Imagenes/AsIsSebastian.png)
+
+#### As is Scenario: Valeria Gonzáles
+
+![image](Imagenes/AsIsValeria.png)
 
 ## 2.4. Ubiquitous Language
 
