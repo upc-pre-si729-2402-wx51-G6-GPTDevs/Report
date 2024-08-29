@@ -588,9 +588,14 @@ Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de sopo
 
 ### 2.3.1. User Personas
 
-#### User Persona 1: Sebastián Silva
+#### User Persona 1: Sebastián Silva, Trabajador
 
 ![image](Imagenes/UserPersonaEntrevistado1.png)
+
+#### User Persona 2: Valeria Gonzáles, Empleadora
+
+![image](Imagenes/UserValeria.png)
+
 
 ### 2.3.2. User Task Matrix
 
