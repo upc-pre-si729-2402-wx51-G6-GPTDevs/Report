@@ -556,7 +556,7 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 **Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
 
-![image](Imagenes/Entrevista1.png)
+![image](img/Entrevista1.png)
 
 [Entrevista 1 - video](https://drive.google.com/file/d/1hcTIO_iKWuJBhMhqibhFp9EVkvvag9VR/view?usp=sharing)
 
@@ -568,7 +568,7 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 **Segmento objetivo perteneciente:** Empleadores que requieren soluciones laborales temporales
 
-![image](Imagenes/Entrevista2.png)
+![image](img/Entrevista2.png)
 
 [Entrevista 2 - video](https://drive.google.com/file/d/1P-LY7ZTOfnj-71BLL2_X4Ol6UZSEEiXa/view?usp=sharing)
 
@@ -580,7 +580,7 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 **Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
 
-![image](Imagenes/Emilio.JPG)
+![image](img/Emilio.JPG)
 
 [Entrevista 3 - video](https://drive.google.com/file/d/1j9x-9du3hWs1Zjse0obb-TKm33XsXNhO/view?usp=drive_link)
 
@@ -606,15 +606,15 @@ Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que l
 
 #### User Persona 1: Sebastián Silva, Trabajador
 
-![image](Imagenes/UserPersonaEntrevistado1.png)
+![image](img/UserPersonaEntrevistado1.png)
 
 #### User Persona 2: Valeria Gonzáles, Empleadora
 
-![image](Imagenes/UserValeria.png)
+![image](img/UserValeria.png)
 
 #### User Persona 2: Emilio Chávarri, Trabajador
 
-![image](Imagenes/User3.png)
+![image](img/User3.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -650,31 +650,31 @@ Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que l
 
 User Journey Mapping: Sebastián Silva
 
-![image](Imagenes/JourneyMapSebastian.png)
+![image](img/JourneyMapSebastian.png)
 
 User Journey Mapping: Valeria Gonzáles
 
-![image](Imagenes/JourneyMapValeria.png)
+![image](img/JourneyMapValeria.png)
 
 ### 2.3.4. Empathy Mapping
 
 #### Empathy Map: Sebastián Silva
 
-![image](Imagenes/EmpathyMapSebastian.png)
+![image](img/EmpathyMapSebastian.png)
 
 #### Empathy Map: Valeria Gonzáles
 
-![image](Imagenes/EmpathyMapValeria.png)
+![image](img/EmpathyMapValeria.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
 #### As is Scenario: Sebastián Silva
 
-![image](Imagenes/AsIsSebastian.png)
+![image](img/AsIsSebastian.png)
 
 #### As is Scenario: Valeria Gonzáles
 
-![image](Imagenes/AsIsValeria.png)
+![image](img/AsIsValeria.png)
 
 ## 2.4. Ubiquitous Language
 
