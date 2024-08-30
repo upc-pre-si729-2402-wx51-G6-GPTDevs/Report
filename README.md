@@ -574,6 +574,18 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 **Duración de la entrevista:** 5:42
 
+## Entrevista #3
+
+**Nombre:** Emilio Chávarri
+
+**Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
+
+![image](Imagenes/Emilio.JPG)
+
+[Entrevista 3 - video](https://drive.google.com/file/d/1j9x-9du3hWs1Zjse0obb-TKm33XsXNhO/view?usp=drive_link)
+
+**Duración de la entrevista:** 3:24
+
 ### 2.2.3. Análisis de entrevistas
 
 *Entrevista 1:*
@@ -583,6 +595,10 @@ Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, deb
 *Entrevista 2:*
 
 Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de soporte administrativo como digitación de datos y atención al cliente durante temporadas altas, personal para eventos corporativos (asistentes logísticos, técnicos de sonido e iluminación), y trabajadores especializados en limpieza profunda o mantenimiento para proyectos específicos. Al seleccionar trabajadores, prioriza la experiencia comprobable, la flexibilidad horaria, la disponibilidad inmediata, y las reseñas positivas de otros empleadores. Su experiencia con plataformas digitales ha sido mixta: valora la facilidad y agilidad del proceso, pero ha enfrentado problemas como la falta de verificación de habilidades y cambios de última hora en la disponibilidad del personal. La flexibilidad es esencial, ya que necesita trabajadores dispuestos a trabajar en horarios no convencionales y a aceptar tareas con poca antelación. También otorga gran importancia a la revisión de perfiles detallados y reseñas antes de contratar. Entre los desafíos enfrentados, menciona la inconsistencia en la calidad del trabajo y la dificultad para gestionar cambios de última hora, por lo que preferiría que la plataforma ofreciera garantías de calidad y opciones de reemplazo. Además, prefiere gestionar la contratación y el pago completamente a través de la plataforma para garantizar seguridad y simplificación del proceso administrativo.
+
+*Entrevista 3:*
+
+Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que los tipos de trabajos que más le interesan son de diseño de trabajo de plano y seguridad electrónica. Las horas con las que está dispuesto a trabajar a la semana es alrededor de 20 horas, los fines de semana a tiempo completo y en las noches. Los factores importantes al momento de elegir un horario por servicio es el horario a realizar el servicio. El tipo de apoyo que le gustaría recibir de una plataforma de trabajo por hora o servicio para facilitar la búsqueda de empleo es la geolocalización del sitio donde se va a hacer el trabajo como Google Maps. A su vez, las principales precauciones al buscar trabajo por horas o servicios sería el tiempo y el lugar en que se va a realizar. Finalmente, considera muy importante porque las personas pueden dar fé de que es un aplicativo confiable, ya que al ingresar y ver un historial bueno de personas que recibieron o han dado el servicio ayuda a la aplicación y le da confianza de que es una aplicación seria.
 
 ## 2.3. Needfinding
 
@@ -596,6 +612,9 @@ Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de sopo
 
 ![image](Imagenes/UserValeria.png)
 
+#### User Persona 2: Emilio Chávarri, Trabajador
+
+![image](Imagenes/User3.png)
 
 ### 2.3.2. User Task Matrix
 
