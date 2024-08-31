@@ -588,6 +588,8 @@ Mock-up Mobile
 <img src="img/container-diagram.png">
 
 ### 4.6.3. Software Architecture Components Diagrams
+<img src="img/component-diagram.png">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
