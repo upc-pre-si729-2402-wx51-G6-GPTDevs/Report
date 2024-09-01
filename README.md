@@ -221,7 +221,136 @@
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
 ## 3.2. User Stories
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="1">EPIC ID</td>
+            <td style="text-align:center;" colspan="1">TÍTULO</td>
+           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td>
+        </tr>
+        <tr>
+            <td>EPIC-001</td> 
+            <td>Navegación Intuitiva y Accesible </td>
+            <td>Como usuario, quiero un sistema de navegación intuitivo que me permita acceder rápidamente a las principales funciones de la plataforma, como buscar trabajos, gestionar mi perfil y revisar notificaciones, para mejorar mi experiencia y eficiencia al utilizar TaskLinker. </td>
+        </tr>
+         <tr>
+            <td>EPIC-002</td> 
+            <td>Búsqueda Global Eficiente </td>
+            <td>Como usuario, quiero una barra de búsqueda global que me permita encontrar trabajos, trabajadores o empleadores de manera rápida y precisa, para poder acceder a la información oportuna sin tener que navegar por múltiples páginas. </td>
+        </tr>
+         <tr>
+            <td>EPIC-003</td> 
+            <td> Gestión y Clasificación de Tareas </td>
+            <td>Como empleador, quiero poder clasificar y organizar las tareas que publico en categorías específicas y etiquetas claras, para que los trabajadores puedan encontrarlas fácilmente y yo pueda gestionar mis publicaciones de manera más efectiva.</td>
+        </tr>
+         <tr>
+            <td>EPIC-004</td> 
+            <td>Navegación Intuitiva y Accesible </td>
+            <td>Como trabajador, quiero un menú de categorías bien definido que me permita explorar tareas específicas según mis habilidades e intereses, para poder encontrar oportunidades relevantes de forma rápida.</td>
+        </tr>
+         <tr>
+            <td>EPIC-005</td> 
+            <td>Panel de Usuario Personalizado </td>
+            <td>Como usuario registrado, quiero un panel de usuario personalizado que me permita gestionar mi perfil, tareas y configuraciones de manera centralizada, para tener un control total sobre mi actividad en la plataforma. </td>
+        </tr>
+         <tr>
+            <td>EPIC-006</td> 
+            <td>Manejo de Notificaciones y Mensajes </td>
+            <td>Como usuario, quiero un sistema de notificaciones claro y accesible que me informe sobre nuevas oportunidades, mensajes y actualizaciones, para estar siempre al tanto de las actividades importantes en la plataforma. </td>
+        </tr>
+         <tr>
+            <td>EPIC-007</td> 
+            <td>Gestión de Perfiles y Evaluaciones </td>
+            <td>Como empleador o trabajador, quiero tener acceso a perfiles detallados y un sistema de evaluaciones, para poder tomar decisiones informadas antes de contratar o aceptar trabajos, asegurando la confianza y transparencia en la plataforma. </td>
+        </tr>
+         <tr>
+            <td>EPIC-008</td> 
+            <td>Creación y Gestión de Contenidos Simplificada  </td>
+            <td>Como usuario, quiero herramientas de creación y gestión de contenido simplificadas, como botones de acción flotante y menús contextuales, para poder publicar nuevas tareas, solicitar trabajos o realizar otras acciones rápidamente, sin complicaciones.</td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">01</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">01</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Acceso Rápido a Funciones Principales</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como usuario, quiero un menú de navegación principal que me permita acceder rápidamente a las funciones más importantes, como buscar trabajos, gestionar mi perfil y ver notificaciones, para optimizar mi tiempo y facilitar mi uso de TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Visualización del Menú de Navegación" </p>
+            Dado que estoy en cualquier página de la plataforma TaskLinker, 
+            <p>Cuando hago clic en el ícono de menú o accedo a la página principal,Entonces puedo ver un menú de navegación principal que incluye las opciones de "Buscar Trabajos", "Mi Perfil", y "Notificaciones", ubicado de manera visible y accesible en la parte superior de la pantalla.</p>
+            <p>Escenario 2: "Acceso a Funciones desde el Menú"</p>
+            Dado que estoy utilizando el menú de navegación principal,
+            Cuando hago clic en una de las opciones, como "Buscar Trabajos" o "Mi Perfil",Entonces seré redirigido a la página correspondiente dentro de la plataforma de manera inmediata, con la carga de la página en menos de 2 segundos.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">02</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">02</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Filtros Avanzados de Búsqueda </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">  Como usuario, quiero poder utilizar filtros avanzados al buscar trabajos en TaskLinker para encontrar oportunidades laborales que se alineen con mis habilidades, disponibilidad y preferencias de ubicación, de manera rápida y eficiente.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Aplicación de Filtros en la Búsqueda de Trabajos" </p>
+           <p>Dado que estoy en la página de búsqueda de trabajos en TaskLinker, Cuando accedo a la opción de filtros avanzados, Entonces puedo ver y seleccionar múltiples criterios, como tipo de trabajo (temporal, por horas), categoría (limpieza, eventos, reparaciones), ubicación, rango salarial, y disponibilidad de horarios, y los trabajos listados se actualizarán automáticamente según los filtros aplicados.</p>
+            <p>Escenario 2: "Resultados de Búsqueda Filtrados"</p>
+            Dado que he aplicado uno o más filtros a mi búsqueda de trabajos,Cuando reviso los resultados, Entonces solo se mostrarán los trabajos que cumplen con todos los criterios seleccionados, y los resultados aparecerán ordenados de acuerdo con mis preferencias (por ejemplo, los más recientes primero), con cada resultado mostrando claramente cómo cumple con los filtros aplicados.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">03</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">02</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Guardar Búsquedas Personalizadas  </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como usuario, quiero poder guardar búsquedas personalizadas en TaskLinker para que pueda acceder fácilmente a mis criterios de búsqueda preferidos sin tener que reconfigurarlos cada vez que quiera buscar trabajos similares.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Guardar una Búsqueda Personalizada"</p>
+           <p>Dado que estoy realizando una búsqueda con filtros específicos en TaskLinker, Cuando hago clic en la opción "Guardar Búsqueda" después de aplicar mis filtros, Entonces se me pedirá que asigne un nombre a mi búsqueda personalizada, y esta se guardará en mi perfil para acceso rápido en el futuro.</p>
+            <p>Escenario 2: "Acceder a una Búsqueda Guardada"</p>
+            Dado que he guardado una búsqueda personalizada previamente, Cuando accedo a la sección "Búsquedas Guardadas" desde mi perfil, Entonces puedo seleccionar mi búsqueda guardada, y TaskLinker aplicará automáticamente los mismos filtros y criterios para mostrarme los resultados actualizados, sin necesidad de reconfigurar los filtros manualmente.
+        </tr>
+    </table>
+</div>
+
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
