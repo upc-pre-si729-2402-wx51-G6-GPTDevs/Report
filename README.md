@@ -333,7 +333,7 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 ![image](img/Emilio.JPG)
 
-[Entrevista 3 - video](https://drive.google.com/file/d/1j9x-9du3hWs1Zjse0obb-TKm33XsXNhO/view?usp=drive_link)
+[Entrevista 3 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EUGOS-IEUzlOjxJf5-49_LIBHROhAX_7P10H00mjEv_4mA?e=BZArcp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Duración de la entrevista:** 3:24
 
