@@ -248,7 +248,7 @@
         </tr>
          <tr>
             <td>EPIC-004</td> 
-            <td>Navegación Intuitiva y Accesible </td>
+            <td>Exploración por Categorías </td>
             <td>Como trabajador, quiero un menú de categorías bien definido que me permita explorar tareas específicas según mis habilidades e intereses, para poder encontrar oportunidades relevantes de forma rápida.</td>
         </tr>
          <tr>
@@ -349,7 +349,102 @@
         </tr>
     </table>
 </div>
-
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">04</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">03</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Acceso a Documentos Relevantes </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para poder tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Visualización de Documentos Adjuntos"</p>
+           <p>Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cuando hago clic en la sección de "Documentos Adjuntos" en su perfil, Entonces puedo ver una lista de documentos relevantes (como contratos anteriores, evaluaciones, certificados), y hacer clic en cada uno para visualizar su contenido sin salir de la plataforma.</p>
+            <p>Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"</p>
+            Dado que he contratado previamente a un trabajador a través de TaskLinker, Cuando accedo al historial de contrataciones en mi perfil, Entonces puedo ver y descargar los documentos asociados a esas contrataciones (por ejemplo, acuerdos de trabajo y reportes de desempeño) para tener un registro detallado y tomar decisiones futuras.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">05</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">03</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Subir y Actualizar Documentos </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Subida de Nuevos Documentos"</p>
+           <p>Dado que estoy en la sección de documentos de mi perfil de TaskLinker, Cuando hago clic en la opción "Subir Nuevo Documento", Entonces se abrirá un formulario que me permitirá seleccionar y subir archivos desde mi dispositivo, añadir una descripción al documento (por ejemplo, "Certificado de Electricista") y guardarlo en mi perfil, donde los empleadores podrán visualizarlo.</p>
+            <p>Escenario 2: "Actualización de Documentos Existentes"</p>
+           Dado que tengo documentos antiguos en mi perfil, Cuando hago clic en la opción de actualizar un documento existente, Entonces puedo reemplazar el archivo anterior con uno nuevo y actualizar la descripción si es necesario, asegurándome de que la versión más reciente del documento esté disponible para los empleadores.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">06</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">03</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Organización de Documentos por Categorías </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder organizar mis documentos en categorías dentro de mi perfil para que los empleadores puedan encontrar rápidamente los documentos que necesitan revisar.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Creación de Categorías de Documentos"</p>
+           <p>Dado que tengo varios documentos subidos en mi perfil, Cuando accedo a la sección de "Gestión de Documentos" y selecciono la opción "Crear Categoría", Entonces puedo crear nuevas categorías (por ejemplo, "Certificaciones", "Identificación", "Referencias Laborales") y mover mis documentos existentes a estas categorías, permitiendo una organización más clara y accesible para los empleadores.</p>
+            <p>Escenario 2: "Visualización de Documentos por Categoría"</p>
+            Dado que los documentos están organizados en categorías, Cuando un empleador visualiza mi perfil, Entonces puede navegar a través de los documentos filtrándolos por categoría, lo que le facilita encontrar el tipo de documento específico que necesita revisar sin tener que desplazarse por una lista desorganizada de archivos.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">07</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">04</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Ac...s </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> C.. un trabajador a través de TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Visualización de Documentos Adjuntos"</p>
+           <p>Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cua.....</p>
+            <p>Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"</p>
+            Dado que he contratado previamente a un trabajador a través de TaskLinker.....
+        </tr>
+    </table>
+</div>
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
