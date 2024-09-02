@@ -212,7 +212,7 @@ de audiencia.</b></td>
       <td>
         <p><b>Ramos Najar, Tony Alexander  </b></p>
         <p><b>TB1:</b></p>
-        <p>Capítulo II: Requirements Elicitation & Analysis</p>
+        <p>Capítulo II: Requirements Elicitation & Analysis y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -221,7 +221,7 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo IV: Product Design</p>
+        <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -230,7 +230,7 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
-        <p>Capítulo IV: Product Design</p>
+        <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -248,7 +248,7 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Roque Tello, Jack Eddie</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo I: Introducción</p>
+        <p>Capítulo I: Introducción y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -274,7 +274,7 @@ de audiencia.</td>
       <td>
         <p><b>Ramos Najar, Tony Alexander  </b></p>
         <p><b>TB1:</b></p>
-        <p>Capítulo II: Requirements Elicitation & Analysis</p>
+        <p>Capítulo II: Requirements Elicitation & Analysis y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -283,7 +283,7 @@ de audiencia.</td>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo IV: Product Design y Capítulo III: Requirements Specification</p>
+        <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -292,7 +292,7 @@ de audiencia.</td>
         <p>.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
-        <p>Capítulo IV: Product Design</p>
+        <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -310,7 +310,7 @@ de audiencia.</td>
         <p>.</p>
         <p><b>Roque Tello, Jack Eddie</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo I: Introducción</p>
+        <p>Capítulo I: Introducción y User Stories</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
