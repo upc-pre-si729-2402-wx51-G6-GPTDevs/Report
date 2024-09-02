@@ -389,12 +389,12 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de Jack" width="700px">
+      <img src="https://hackmd.io/_uploads/HyOVCdJ3C.jpg" alt="Foto de perfil de Jack" width="700px">
     </th>
     <td valign="top">
       <p><b>Roque Tello, Jack Eddie</b></p>
       <p>
-        ...
+        Mi nombre es Jack Eddie Roque Tello y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Soy una persona competitiva, siempre en busca de nuevos aprendizajes, con un enfoque en la mejora continua. Tengo conocimientos en varios lenguajes de programación, incluyendo C++, JavaScript y Ruby.             <br>Fuera del ámbito académico, disfruto ver películas, leer y viajar, lo que me ayuda a expandir mis perspectivas y a mantener un equilibrio entre mis responsabilidades y mis pasiones. En este curso, estaré atento a cualquier eventualidad que surja, dispuesto a colaborar y aportar para el éxito del proyecto, siempre en beneficio de mi equipo y mi crecimiento profesional.
       </p>
     </td>
   </tr>
