@@ -203,7 +203,7 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
-
+Comprender el panorama competitivo es crucial para el éxito de TaskLinker. En esta sección, identificaremos y describiremos a nuestros principales competidores directos e indirectos que operan en el ámbito de la gestión de deudas y la educación financiera. Analizaremos sus modelos de negocio, estrategias de marketing, productos y servicios, y los canales de distribución que utilizan. Además, realizaremos un análisis comparativo detallado de sus fortalezas, debilidades, oportunidades y amenazas (SWOT) en relación con TaskLinker. Este análisis nos permitirá entender mejor el entorno competitivo y ajustar nuestras estrategias para maximizar nuestra ventaja en el mercado.
 ### 2.1.1. Análisis competitivo
 
 - **Bumeran**
@@ -299,55 +299,52 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 #### 7. ¿Cómo prefieres gestionar el proceso de contratación y pago (por ejemplo, a través de la plataforma, de forma directa, etc.)?
 ##### Objetivo: Entender las preferencias en la gestión de la contratación y los pagos.
 
-### 2.2.2. Registro de entrevistas
-
-## Entrevista #1 
-
-**Nombre:** Sebastian Silva
+### 2.2.2. Registro de entrevistas 
 
 **Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
+
+**Entrevista #1**
+- Nombre: Sebastian Silva
+- Edad: 19 años
+- Duracion de la entrevista: 5:50 
 
 ![image](img/Entrevista1.png)
 
-[Entrevista 1 - video](https://drive.google.com/file/d/1hcTIO_iKWuJBhMhqibhFp9EVkvvag9VR/view?usp=sharing)
+[Entrevista 1 - video](https://bit.ly/4dHXCYk)
 
-**Duración de la entrevista:** 5:50
+**Entrevista #2**
 
-## Entrevista #2 
-
-**Nombre:** Sandy Ingaruca
-
-**Segmento objetivo perteneciente:** Empleadores que requieren soluciones laborales temporales
-
-![image](img/Entrevista2.png)
-
-[Entrevista 2 - video](https://drive.google.com/file/d/1P-LY7ZTOfnj-71BLL2_X4Ol6UZSEEiXa/view?usp=sharing)
-
-**Duración de la entrevista:** 5:42
-
-## Entrevista #3
-
-**Nombre:** Emilio Chávarri
-
-**Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
+- Nombre: Emilio Chávarri
+- Edad: 54 años
+- Duración de la entrevista: 3:24
 
 ![image](img/Emilio.JPG)
 
 [Entrevista 3 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EUGOS-IEUzlOjxJf5-49_LIBHROhAX_7P10H00mjEv_4mA?e=BZArcp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Duración de la entrevista:** 3:24
 
-## Entrevista #4
+**Entrevista #3**
 
-**Nombre:** Melanie Oliva
-
-**Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
+- Nombre: Melanie Oliva
+- Edad: 18 años
+- Duración de la entrevista: 7:05
 
 ![image](img/entrevista4.png)
 
 [Entrevista 3 - video](https://shorturl.at/02cai): https://shorturl.at/02cai
 
-**Duración de la entrevista:** 7:05
+
+**Segmento objetivo perteneciente:** Empleadores que requieren soluciones laborales temporales
+
+**Entrevista #4**
+- Nombre: Sandy Ingaruca
+- Edad: 19 años
+- Duración de la entrevista: 5:42
+
+![image](img/Entrevista2.png)
+
+[Entrevista 2 - video](https://drive.google.com/file/d/1P-LY7ZTOfnj-71BLL2_X4Ol6UZSEEiXa/view?usp=sharing)
+
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -366,6 +363,7 @@ Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que l
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones frustraciones, marcas relacionadas con el tema de la aplicación canales digitales más utilizados, entre otros. 
 
 #### User Persona 1: Sebastián Silva, Trabajador
 
@@ -380,6 +378,7 @@ Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que l
 ![image](img/User3.png)
 
 ### 2.3.2. User Task Matrix
+En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
 
 #### User Task Matrix: Sebastián Silva
 
@@ -410,6 +409,8 @@ Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que l
 | **Realizar reportes y análisis post-evento o temporada** | Baja          | Baja           | Al finalizar una temporada alta o evento; útil para planificar futuras contrataciones y mejoras.            | Valeria busca herramientas de análisis y reportes detallados que faciliten la evaluación del desempeño y eficiencia de los trabajadores.                      |
 
 ### 2.3.3. User Journey Mapping
+
+En esta sección, explicaremos en detalle los user journey mapping para dos tipos de usuarios distintos: Empleadores que requieren soluciones laborales temporales y Trabajadores que buscan ingresos adicionales y flexibilidad. Estos mapas proporcionarán una visión exhaustiva de cómo cada segmento de usuario interactúa con la plataforma, desde su primer contacto hasta su uso continuo y el análisis de resultados. Mejoraremos la presentación de estos mapas, destacando las etapas clave y las necesidades específicas de cada usuario para garantizar una comprensión clara y concisa de su experiencia a lo largo de su viaje:
 
 User Journey Mapping: Sebastián Silva
 
