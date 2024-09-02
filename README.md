@@ -378,7 +378,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de Daniel" width="800px">
+      <img src="img/daniel.jpeg" alt="Foto de perfil de Daniel" width="800px">
     </th>
     <td valign="top">
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
