@@ -303,7 +303,7 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 **Segmento objetivo perteneciente:** Trabajadores que buscan ingresos adicionales y flexibilidad
 
-**Entrevista #1**
+## Entrevista #1
 - Nombre: Sebastian Silva
 - Edad: 19 años
 - Duracion de la entrevista: 5:50 
@@ -312,7 +312,7 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 [Entrevista 1 - video](https://bit.ly/4dHXCYk)
 
-**Entrevista #2**
+## Entrevista #2
 
 - Nombre: Emilio Chávarri
 - Edad: 54 años
@@ -320,10 +320,10 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 ![image](img/Emilio.JPG)
 
-[Entrevista 3 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EUGOS-IEUzlOjxJf5-49_LIBHROhAX_7P10H00mjEv_4mA?e=BZArcp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Entrevista 2 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EUGOS-IEUzlOjxJf5-49_LIBHROhAX_7P10H00mjEv_4mA?e=BZArcp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-**Entrevista #3**
+## Entrevista #3
 
 - Nombre: Melanie Oliva
 - Edad: 18 años
@@ -336,14 +336,14 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 **Segmento objetivo perteneciente:** Empleadores que requieren soluciones laborales temporales
 
-**Entrevista #4**
+## Entrevista #4
 - Nombre: Sandy Ingaruca
 - Edad: 19 años
 - Duración de la entrevista: 5:42
 
 ![image](img/Entrevista2.png)
 
-[Entrevista 2 - video](https://drive.google.com/file/d/1P-LY7ZTOfnj-71BLL2_X4Ol6UZSEEiXa/view?usp=sharing)
+[Entrevista 4 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a153_upc_edu_pe/ERjH0sqoPT9Oi2jXnYL5Y-UBPM-Dg0_ntdtkfTiGaSAhYQ?e=8fiWAM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a153_upc_edu_pe/ERjH0sqoPT9Oi2jXnYL5Y-UBPM-Dg0_ntdtkfTiGaSAhYQ?e=8fiWAM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -354,11 +354,13 @@ Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, deb
 
 *Entrevista 2:*
 
-Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de soporte administrativo como digitación de datos y atención al cliente durante temporadas altas, personal para eventos corporativos (asistentes logísticos, técnicos de sonido e iluminación), y trabajadores especializados en limpieza profunda o mantenimiento para proyectos específicos. Al seleccionar trabajadores, prioriza la experiencia comprobable, la flexibilidad horaria, la disponibilidad inmediata, y las reseñas positivas de otros empleadores. Su experiencia con plataformas digitales ha sido mixta: valora la facilidad y agilidad del proceso, pero ha enfrentado problemas como la falta de verificación de habilidades y cambios de última hora en la disponibilidad del personal. La flexibilidad es esencial, ya que necesita trabajadores dispuestos a trabajar en horarios no convencionales y a aceptar tareas con poca antelación. También otorga gran importancia a la revisión de perfiles detallados y reseñas antes de contratar. Entre los desafíos enfrentados, menciona la inconsistencia en la calidad del trabajo y la dificultad para gestionar cambios de última hora, por lo que preferiría que la plataforma ofreciera garantías de calidad y opciones de reemplazo. Además, prefiere gestionar la contratación y el pago completamente a través de la plataforma para garantizar seguridad y simplificación del proceso administrativo.
+Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que los tipos de trabajos que más le interesan son de diseño de trabajo de plano y seguridad electrónica. Las horas con las que está dispuesto a trabajar a la semana es alrededor de 20 horas, los fines de semana a tiempo completo y en las noches. Los factores importantes al momento de elegir un horario por servicio es el horario a realizar el servicio. El tipo de apoyo que le gustaría recibir de una plataforma de trabajo por hora o servicio para facilitar la búsqueda de empleo es la geolocalización del sitio donde se va a hacer el trabajo como Google Maps. A su vez, las principales precauciones al buscar trabajo por horas o servicios sería el tiempo y el lugar en que se va a realizar. Finalmente, considera muy importante porque las personas pueden dar fé de que es un aplicativo confiable, ya que al ingresar y ver un historial bueno de personas que recibieron o han dado el servicio ayuda a la aplicación y le da confianza de que es una aplicación seria.
 
 *Entrevista 3:*
 
-Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que los tipos de trabajos que más le interesan son de diseño de trabajo de plano y seguridad electrónica. Las horas con las que está dispuesto a trabajar a la semana es alrededor de 20 horas, los fines de semana a tiempo completo y en las noches. Los factores importantes al momento de elegir un horario por servicio es el horario a realizar el servicio. El tipo de apoyo que le gustaría recibir de una plataforma de trabajo por hora o servicio para facilitar la búsqueda de empleo es la geolocalización del sitio donde se va a hacer el trabajo como Google Maps. A su vez, las principales precauciones al buscar trabajo por horas o servicios sería el tiempo y el lugar en que se va a realizar. Finalmente, considera muy importante porque las personas pueden dar fé de que es un aplicativo confiable, ya que al ingresar y ver un historial bueno de personas que recibieron o han dado el servicio ayuda a la aplicación y le da confianza de que es una aplicación seria.
+*Entrevista 4:*
+
+Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de soporte administrativo como digitación de datos y atención al cliente durante temporadas altas, personal para eventos corporativos (asistentes logísticos, técnicos de sonido e iluminación), y trabajadores especializados en limpieza profunda o mantenimiento para proyectos específicos. Al seleccionar trabajadores, prioriza la experiencia comprobable, la flexibilidad horaria, la disponibilidad inmediata, y las reseñas positivas de otros empleadores. Su experiencia con plataformas digitales ha sido mixta: valora la facilidad y agilidad del proceso, pero ha enfrentado problemas como la falta de verificación de habilidades y cambios de última hora en la disponibilidad del personal. La flexibilidad es esencial, ya que necesita trabajadores dispuestos a trabajar en horarios no convencionales y a aceptar tareas con poca antelación. También otorga gran importancia a la revisión de perfiles detallados y reseñas antes de contratar. Entre los desafíos enfrentados, menciona la inconsistencia en la calidad del trabajo y la dificultad para gestionar cambios de última hora, por lo que preferiría que la plataforma ofreciera garantías de calidad y opciones de reemplazo. Además, prefiere gestionar la contratación y el pago completamente a través de la plataforma para garantizar seguridad y simplificación del proceso administrativo.
 
 ## 2.3. Needfinding
 
