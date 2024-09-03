@@ -426,11 +426,11 @@ User Journey Mapping: Valeria Gonzáles
 
 #### Empathy Map: Sebastián Silva
 
-![image](img/EmpathyMapSebastian.png)
+![image](img/EmpathySebastian.png)
 
 #### Empathy Map: Valeria Gonzáles
 
-![image](img/EmpathyMapValeria.png)
+![image](img/EmpathyValeria.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
