@@ -263,13 +263,18 @@
         </tr>
          <tr>
             <td>EPIC-007</td> 
-            <td>Gestión de Perfiles y Evaluaciones </td>
-            <td>Como empleador o trabajador, quiero tener acceso a perfiles detallados y un sistema de evaluaciones, para poder tomar decisiones informadas antes de contratar o aceptar trabajos, asegurando la confianza y transparencia en la plataforma. </td>
+            <td>Optimización de Consultas en la Base de Datos</td>
+            <td>Como administrador de base de datos, quiero optimizar las consultas SQL en la base de datos para que pueda mejorar el tiempo de respuesta y reducir la carga del servidor, lo que resultará en un rendimiento general más rápido y eficiente para los usuarios finales. </td>
         </tr>
          <tr>
             <td>EPIC-008</td> 
             <td>Creación y Gestión de Contenidos Simplificada  </td>
             <td>Como usuario, quiero herramientas de creación y gestión de contenido simplificadas, como botones de acción flotante y menús contextuales, para poder publicar nuevas tareas, solicitar trabajos o realizar otras acciones rápidamente, sin complicaciones.</td>
+        </tr>
+        <tr>
+            <td>EPIC-009</td> 
+            <td> Implementadón de Autenticación Multifactor</td>
+            <td>Como desarrollador de software, quiero implementar un sistema de autenticación multifactor en nuestra aplicación para que pueda proporcionar una capa adicional de seguridad para los usuarios, reduciendo el riesgo de accesos no autorizados y protegiendo mejor la información confidencial.</td>
         </tr>
     </table>
 </div>
@@ -427,6 +432,76 @@
         <tr>
             <td style="text-align:center;" colspan="2">User Story ID</td>
             <td  colspan="2">07</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">04</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Filtrar Tareas por Ubicación </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder filtrar las tareas disponibles por ubicación para encontrar trabajos cercanos que me resulten convenientes.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Filtrado Básico por Ubicación"</p>
+           <p>Dado que estoy buscando tareas cercanas a mi ubicación, Cuando ingreso al buscador de tareas y selecciono la opción de filtrar por ubicación, Entonces puedo ingresar mi dirección o permitir que la aplicación acceda a mi ubicación actual y ver una lista de tareas disponibles ordenadas por proximidad.</p>
+            <p>Escenario 2: "Filtrado Avanzado por Rango de Distancia"</p>
+            Dado que quiero definir un rango específico de distancia para las tareas, Cuando selecciono la opción de "Rango de Distancia" en el filtro de ubicación, Entonces puedo ajustar un deslizador o ingresar un valor específico (por ejemplo, 5 km, 10 km, etc.) para mostrar solo las tareas que estén dentro del rango definido.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">08</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">04</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Filtrar Tareas por Horario </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">  Como trabajador, quiero poder filtrar las tareas por horario para encontrar trabajos que se ajusten a mi disponibilidad.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Filtrado por Horario Específico"</p>
+           <p>Dado que tengo un horario limitado para trabajar, Cuando busco tareas en la plataforma y aplico el filtro de horario, Entonces puedo seleccionar horas específicas del día en las que estoy disponible, y la aplicación me mostrará solo las tareas que coincidan con ese horario.</p>
+            <p>Escenario 2: "Filtrado por Turnos (Mañana/Tarde/Noche)"</p>
+            Dado que prefiero trabajar en un turno específico (mañana, tarde o noche), Cuando utilizo el filtro de turnos, Entonces puedo seleccionar el turno de mi preferencia y ver solo las tareas que se ajusten a ese marco horario, facilitando la selección de trabajos compatibles con mi rutina.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">09</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">04</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Filtrar Tareas por Tipo de Trabajo </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder filtrar las tareas disponibles por tipo de trabajo para encontrar fácilmente las que se alineen con mis habilidades y preferencias.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Selección de Categoría de Trabajo"</p>
+           <p>Dado que tengo habilidades específicas que quiero aplicar, Cuando ingreso al buscador de tareas y selecciono el filtro de "Tipo de Trabajo", Entonces puedo elegir entre diferentes categorías de trabajo (por ejemplo, "Cuidado de Niños", "Reparaciones", "Limpieza", etc.) y ver solo las tareas que correspondan a la categoría seleccionada.</p>
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">10</td>
             <td style="text-align:center;" colspan="2">Epic ID</td>
             <td colspan="5">04</td>
         </tr>
