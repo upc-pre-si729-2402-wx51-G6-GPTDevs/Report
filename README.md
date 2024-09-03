@@ -369,11 +369,11 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 #### User Persona 1: Sebastián Silva, Trabajador
 
-![image](img/UserPersonaEntrevistado1.png)
+![image](img/SebastiánSilva.png)
 
 #### User Persona 2: Valeria Gonzáles, Empleadora
 
-![image](img/UserValeria.png)
+![image](img/ValeriaGonzáles.png)
 
 #### User Persona 2: Emilio Chávarri, Trabajador
 
