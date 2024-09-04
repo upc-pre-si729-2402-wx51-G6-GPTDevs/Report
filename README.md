@@ -276,6 +276,11 @@
             <td> Implementadón de Autenticación Multifactor</td>
             <td>Como desarrollador de software, quiero implementar un sistema de autenticación multifactor en nuestra aplicación para que pueda proporcionar una capa adicional de seguridad para los usuarios, reduciendo el riesgo de accesos no autorizados y protegiendo mejor la información confidencial.</td>
         </tr>
+        <tr>
+            <td>EPIC-010</td> 
+            <td> Implementación de un Sistema de Reputación.</td>
+            <td>Como usuario, quiero  un sistema de calificaciones y evaluaciones, tanto para empleadores como para trabajadores, que permitirá mejorar la confianza y transparencia dentro de la plataforma TaskLinker.</td>
+        </tr>
     </table>
 </div>
 
@@ -503,7 +508,146 @@
             <td style="text-align:center;" colspan="2">User Story ID</td>
             <td  colspan="2">10</td>
             <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">04</td>
+            <td colspan="5">10</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Evaluar a los Trabajadores </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder evaluar a los trabajadores después de que hayan completado una tarea, para proporcionar retroalimentación y ayudar a otros empleadores a tomar decisiones informadas.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Evaluación al Finalizar la Tarea"</p>
+           <p>Dado que un trabajador ha completado una tarea, Cuando la tarea se marca como completada en la plataforma, Entonces se me solicita automáticamente que evalúe al trabajador en una escala del 1 al 5, y que deje un comentario opcional sobre su desempeño.</p>
+            <p>Escenario 2: "Publicación de la Evaluación"</p>
+            Dado que he evaluado al trabajador,Cuando finalizo la evaluación y la envío, Entonces la calificación y los comentarios se publican en el perfil del trabajador, visibles para otros empleadores que consideren contratarlo en el futuro.
+        </tr>
+    </table>
+</div>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">11</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">10</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Ver la Reputación de los Trabajadores </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Acceso a Evaluaciones Previas"</p>
+           <p>Dado que estoy revisando el perfil de un trabajador en la plataforma, Cuando veo la sección de "Reputación" en su perfil,Entonces puedo visualizar un promedio de las calificaciones anteriores y leer comentarios específicos dejados por otros empleadores.</p>
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="10" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">12</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">10</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Actualizar la Reputación del Trabajador</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Actualización Automática del Promedio de Calificación"</p>
+           <p>Dado que he completado una tarea y recibido una nueva evaluación, Cuando la evaluación se registra en la plataforma, Entonces mi promedio de calificación general se actualiza automáticamente para reflejar la nueva calificación, mostrándose en mi perfil en tiempo real.</p>
+            <p>Escenario 2: "Notificación de Nueva Evaluación"</p>
+           Dado que quiero estar informado sobre las evaluaciones que recibo, Cuando un empleador completa una evaluación sobre mi trabajo, Entonces recibo una notificación en la plataforma y/o por correo electrónico, que me permite revisar la nueva calificación y comentarios agregados a mi perfil.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">13</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">05</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Editar Perfil de Usuario </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, de modo que los empleadores tengan datos precisos sobre mí.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Actualización de Información Personal"</p>
+           <p>Dado que quiero asegurarme de que mi perfil esté actualizado, Cuando accedo al panel de usuario y selecciono la opción de "Editar Perfil", Entonces puedo modificar mis datos personales (nombre, correo, número de teléfono), y estos cambios se reflejan inmediatamente en mi perfil.</p>
+            <p>Escenario 2: "Edición de Habilidades y Disponibilidad"</p>
+            Dado que mis habilidades o disponibilidad han cambiado, Cuando entro a la sección de habilidades o disponibilidad dentro de mi perfil, Entonces puedo añadir, editar o eliminar habilidades, así como ajustar mis horas de disponibilidad, y la plataforma utilizará esta información para filtrar las tareas adecuadas.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">14</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">05</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Visualizar y Gestionar Mis Tareas </td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">  Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Visualización de Tareas Activas"</p>
+           <p>Dado que necesito revisar las tareas que tengo pendientes, Cuando accedo al panel de usuario y selecciono la sección de "Mis Tareas", Entonces puedo ver una lista de todas las tareas activas con detalles como fecha, hora, ubicación, y estado actual (pendiente, en curso).</p>
+            <p>Escenario 2: "Gestión de Tareas Completadas"</p>
+            Dado que quiero llevar un registro de mi trabajo realizado, Cuando entro a la sección de "Tareas Completadas", Entonces puedo ver el historial de todas las tareas finalizadas, incluyendo reseñas de empleadores, y descargar recibos o informes relacionados con esas tareas.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">15</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">06</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Configurar Preferencias de Notificaciones</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como usuario registrado, quiero poder configurar mis preferencias de notificaciones para recibir alertas sólo de los eventos que me interesen, de manera que pueda estar informado sin ser inundado con notificaciones irrelevantes.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Activación/Desactivación de Notificaciones Específicas"</p>
+           <p>Dado que no quiero ser molestado por notificaciones innecesarias, Cuando accedo al panel de usuario y entro en la sección de "Configuración de Notificaciones",Entonces puedo activar o desactivar notificaciones para diferentes tipos de eventos (nuevas tareas disponibles, recordatorios de tareas, mensajes de empleadores) y la aplicación solo enviará alertas para los eventos seleccionados.</p>
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">10</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">05</td>
         </tr>
         <tr>
             <td style="text-align:center;" colspan="1">Title </td>
@@ -520,6 +664,7 @@
         </tr>
     </table>
 </div>
+<br>
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
