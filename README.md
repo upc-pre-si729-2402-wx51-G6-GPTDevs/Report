@@ -440,6 +440,10 @@ User Journey Mapping: Valeria Gonzáles
 
 ![image](img/EmpathyValeria.png)
 
+#### Empathy Map: Emilio Chávarri
+
+![image](img/Empathy.png)
+
 ### 2.3.5. As-is Scenario Mapping
 
 #### As is Scenario: Sebastián Silva
