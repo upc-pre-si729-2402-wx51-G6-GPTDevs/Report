@@ -350,6 +350,8 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 - Edad: 29 años
 - Duración de la entrevista: 7:53
 
+![image](img/monica.png)
+
 [Entrevista 5 - video](https://upcedupe-my.sharepoint.com/personal/u20221c448_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221c448%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20a%20Monica%20Open%20Source%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b153cbd%2D044a%2D4483%2D8617%2D11fc0a7ebafa)
 
 ### 2.2.3. Análisis de entrevistas
