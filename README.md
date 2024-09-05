@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/c951e3ad-e732-4126-b102-05cdf6637054)<hr>
-
 # <center>COURSE PROJECT</center>
 
 <p align="center">
