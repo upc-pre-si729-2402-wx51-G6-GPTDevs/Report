@@ -1,4 +1,4 @@
-<hr>
+![image](https://github.com/user-attachments/assets/c951e3ad-e732-4126-b102-05cdf6637054)<hr>
 
 # <center>COURSE PROJECT</center>
 
@@ -345,12 +345,12 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
 <table>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de Tony" width="800px">
+      <img src="img/TonyRamos.png" alt="Foto de perfil de Tony" width="800px">
     </th>
     <td valign="top">
       <p><b>Ramos Najar, Tony Alexander</b></p>
       <p>
-        ....
+        Mi nombre es Tony Ramos, estoy cursando el 8vo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y superarme a mí mismo
       </p>
     </td>
   </tr>
