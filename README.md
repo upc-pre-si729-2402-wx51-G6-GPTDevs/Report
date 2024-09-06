@@ -222,6 +222,8 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
+*Imagen (N°10). Elaboración propia. Realizado en Miro*
+
 ## 3.2. User Stories
 
 <div style="text-align:center;">
@@ -840,9 +842,9 @@
 
 ## 3.3. Impact Mapping
 
-*Imagen (N°10). Elaboración propia. Realizado en Miro*
-
 *Imagen (N°11). Elaboración propia. Realizado en Miro*
+
+*Imagen (N°12). Elaboración propia. Realizado en Miro*
 
 ## 3.4. Product Backlog
 
