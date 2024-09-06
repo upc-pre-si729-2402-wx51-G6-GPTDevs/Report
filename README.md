@@ -816,31 +816,6 @@
     <table align="center" border="1" cellpadding="13" cellspacing="0">
         <tr>
             <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">22</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">08</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Crear una tarea desde cualquier página</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Botón persistente para crear una tarea"</p>
-           <p>Dado que estoy en cualquier página de la plataforma, Cuando quiero crear una nueva tarea, Entonces debería haber un botón persistente en la interfaz para iniciar el proceso de creación de la tarea.</p>
-            <p>Escenario 2: "Acceso al formulario sin cambiar de página"</p>
-           Dado que hago clic en el botón de crear una tarea, Cuando quiero iniciar el proceso de creación, Entonces debería aparecer un formulario de creación de tarea sin necesidad de redirigirme a otra página.
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
             <td  colspan="2">23</td>
             <td style="text-align:center;" colspan="2">Epic ID</td>
             <td colspan="5">09</td>
