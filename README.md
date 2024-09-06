@@ -401,12 +401,12 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
 
 ![image](img/SebastiánSilva.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°2). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales** 
 
 ![image](img/ValeriaGonzáles.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°3). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
@@ -446,36 +446,36 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
 ![image](img/seg2Map.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°4). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 ![image](img/seg1Map.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°5). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
 ![image](img/EmpathySebastian.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°6). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 ![image](img/EmpathyValeria.png)
-*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
+*Imagen (N°7). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.5. As-is Scenario Mapping
 
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
 ![image](img/AsIsSebastian.png)
-*Imagen (N°). Elaboración propia. Realizado en Miro*
+*Imagen (N°8). Elaboración propia. Realizado en Miro*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 ![image](img/AsIsValeria.png)
-*Imagen (N°). Elaboración propia. Realizado en Miro*
+*Imagen (N°9). Elaboración propia. Realizado en Miro*
 
 ## 2.4. Ubiquitous Language
 
