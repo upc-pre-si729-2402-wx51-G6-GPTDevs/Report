@@ -433,59 +433,59 @@ TaskLinker funciona a través de una plataforma en línea intuitiva donde los tr
 
 En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comisión proporcional al valor del trabajo, la cual se descuenta automáticamente una vez que el trabajo es completado y pagado. Por otro lado, el plan de suscripción premium tiene un costo fijo que elimina estas comisiones por transacción y brinda acceso a funcionalidades avanzadas, como la priorización en los listados, acceso a tareas exclusivas, y herramientas de gestión mejoradas. Este modelo de negocio está diseñado para ser accesible y rentable, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y volumen de trabajo.
 
-### Lean UX Process
-#### Lean UX Problem Statements
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
 
-Para los Trabajadores:
+En el mercado laboral peruano, existe una desconexión significativa entre la oferta y la demanda de trabajos temporales y por horas. Por un lado, los trabajadores buscan flexibilidad para encontrar oportunidades que se ajusten a su disponibilidad. Por otro, los empleadores necesitan contratar personal de manera rápida y eficiente para tareas puntuales o picos de trabajo. Sin embargo, la falta de una plataforma centralizada que facilite esta conexión genera ineficiencias en ambos lados, creando barreras para la optimización del talento disponible y el acceso a oportunidades laborales.
 
-Estudiantes, amas de casa, jubilados y personas con empleo parcial en Perú tienen dificultades para encontrar trabajos temporales o por horas que se ajusten a su disponibilidad y necesidades, lo que limita sus oportunidades de generar ingresos adicionales.
+Estudiantes, amas de casa, jubilados y personas con empleo parcial en Perú se enfrentan a un desafío constante: ¿cómo encontrar trabajos temporales o por horas que se ajusten a sus horarios y necesidades específicas? Actualmente, la falta de una plataforma centralizada y eficiente para acceder a estas oportunidades laborales limita su capacidad para generar ingresos adicionales, lo que lleva a una subutilización de su tiempo y potencial.  ¿Qué solución podría ofrecerse para permitirles encontrar trabajos de manera rápida y eficiente, maximizando su tiempo disponible?
 
-Esto lleva a una subutilización de su tiempo disponible y a la falta de flexibilidad en sus opciones laborales.
-Se debe proporcionar una plataforma accesible que permita a estos trabajadores encontrar y postularse rápidamente a trabajos temporales adecuados a su perfil y disponibilidad.
+La falta de un sistema eficiente que centralice estas oportunidades también deja en desventaja a los trabajadores que desean postularse a trabajos en los que tienen experiencia o competencias específicas. ¿Qué características debe tener una plataforma para asegurar que los trabajadores puedan filtrar y postularse solo a las oportunidades que realmente les interesan, sin comprometer su tiempo ni su disponibilidad para otras responsabilidades personales?
 
-Para los Empleadores:
+Pequeñas y medianas empresas (PyMEs), startups, organizadores de eventos y particulares en Perú se enfrentan a una necesidad urgente: ¿cómo contratar personal temporal para tareas específicas o picos de trabajo de manera rápida y efectiva? 
 
-Pequeñas y medianas empresas (PyMEs), particulares, organizadores de eventos y startups en Perú enfrentan dificultades para encontrar y contratar personal temporal de manera rápida y eficiente para tareas específicas o picos de trabajo.
-Esto resulta en retrasos en la ejecución de proyectos, aumento de costos operativos y una menor eficiencia en la gestión de recursos humanos.
-Se debe ofrecer una plataforma que permita a los empleadores publicar trabajos y encontrar personal calificado de manera rápida, reduciendo el tiempo de contratación y optimizando el proceso.
+La falta de una solución adecuada provoca retrasos operativos, un aumento en los costos de contratación y una menor eficiencia en la gestión de recursos humanos. ¿Qué plataforma puede facilitar este proceso, reduciendo el tiempo de contratación y mejorando la eficiencia en la búsqueda de talento calificado? Además, ¿cómo se puede asegurar que los empleadores puedan acceder a una base confiable de trabajadores con las habilidades necesarias para sus tareas específicas sin incurrir en largos procesos de selección?
 
-#### Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
+**Business Outcomes:**
 
-Para los Trabajadores:
-
-1. Los trabajadores temporales valoran la flexibilidad y la capacidad de elegir trabajos que se ajusten a su tiempo disponible y habilidades.
-2. La falta de una plataforma centralizada es una barrera significativa para que los trabajadores encuentren oportunidades de trabajo temporal.
-3. Los trabajadores estarían dispuestos a utilizar TaskLinker si les proporciona una experiencia de usuario sencilla y oportunidades de trabajo adecuadas.
-
-Para los Empleadores:
-
-1. Los empleadores necesitan una solución rápida y confiable para contratar personal temporal, especialmente en situaciones de alta demanda o tareas específicas.
-2. La falta de un acceso fácil a una base de trabajadores calificados afecta la eficiencia operativa de las PyMEs, particulares y startups.
-3. Los empleadores estarían dispuestos a pagar una comisión o suscripción si la plataforma les permite encontrar y contratar personal calificado rápidamente.
+1. Si ofrecemos una plataforma fácil de usar con un proceso de registro rápido y accesible, más trabajadores potenciales (estudiantes, amas de casa, jubilados) se inscribirán y utilizarán la plataforma para obtener ingresos adicionales.
+2.  Si proporcionamos un sistema eficiente para la contratación rápida y confiable de trabajadores temporales, los empleadores recurrirán a la plataforma para cubrir tareas específicas de manera recurrente.
+3.  Si simplificamos el proceso de contratación y comunicación entre empleadores y trabajadores, el número de trabajos realizados a través de la plataforma aumentará.
+4.  Si mejoramos las herramientas de búsqueda y filtrado, los empleadores podrán encontrar candidatos adecuados de manera más eficiente.
+5.  Si ofrecemos características premium valiosas como eliminación de comisiones, acceso a tareas exclusivas y visibilidad prioritaria, más usuarios optarán por suscribirse al plan premium.
+6.  Si implementamos un sistema de evaluación transparente y confiable, tanto trabajadores como empleadores tendrán más confianza al usar la plataforma, lo que aumentará la satisfacción general.
+7.  Si notificamos a los trabajadores de nuevas oportunidades relevantes para sus habilidades, aumentaremos su participación activa en la plataforma.
+8.  Si lanzamos campañas de marketing dirigidas a nuevas regiones, podemos atraer a trabajadores y empleadores de otras ciudades, ampliando nuestro alcance geográfico.
+9.  Si mejoramos la facilidad y seguridad en los métodos de pago, aumentará la confianza y la velocidad en las transacciones entre empleadores y trabajadores.
+10. Si facilitamos la interacción entre los usuarios (trabajadores y empleadores) a través de herramientas de mensajería y soporte, mejoraremos la percepción de confianza y colaboración en la plataforma.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. Creemos que las personas en Perú (estudiantes, amas de casa, jubilados, etc.) tienen dificultades para encontrar trabajos flexibles y por horas que se ajusten a sus necesidades y horarios.
+**Hipótesis 1:**
 
-Si ofrecemos una plataforma que centraliza la oferta y demanda de trabajos por horas, las personas podrán encontrar oportunidades laborales de forma rápida y fácil.
+Creemos que si proporcionamos un proceso de registro rápido y fácil para los trabajadores, aumentará la tasa de inscripción en la plataforma. Sabremos que esto es verdad cuando veamos un  aumento del 25% en las inscripciones de nuevos usuarios dentro de los primeros 3 meses de optimizar el proceso de registro.
 
-Observaremos un aumento en el número de personas registradas y en la frecuencia con la que encuentran trabajo a través de la plataforma.
+**Hipótesis 2:**
 
-2. Creemos que las pequeñas y medianas empresas (PyMEs) en Perú necesitan contratar servicios temporales de manera eficiente, pero enfrentan dificultades en el proceso de búsqueda y contratación.
+Creemos que las personas en Perú (estudiantes, amas de casa, jubilados, etc.) tienen dificultades para encontrar trabajos flexibles y por horas que se ajusten a sus necesidades y horarios. Si ofrecemos una plataforma que centraliza la oferta y demanda de trabajos por horas, las personas podrán encontrar oportunidades laborales de forma rápida y fácil. Observaremos un aumento en el número de personas registradas y en la frecuencia con la que encuentran trabajo a través de la plataforma.
 
-Si proporcionamos una plataforma donde puedan publicar tareas y contratar trabajadores de forma rápida, las PyMEs podrán cubrir sus necesidades temporales sin problemas.
+**Hipótesis 3:**
 
-Veremos una alta tasa de satisfacción entre los empleadores y un aumento en el número de tareas publicadas en la plataforma.
+Creemos que las pequeñas y medianas empresas (PyMEs) en Perú necesitan contratar servicios temporales de manera eficiente, pero enfrentan dificultades en el proceso de búsqueda y contratación. Si proporcionamos una plataforma donde puedan publicar tareas y contratar trabajadores de forma rápida, las PyMEs podrán cubrir sus necesidades temporales sin problemas. Veremos una alta tasa de satisfacción entre los empleadores y un aumento en el número de tareas publicadas en la plataforma.
 
-3. Creemos que muchos usuarios en Perú valoran la flexibilidad y desean acceder a una plataforma gratuita para comenzar a trabajar inmediatamente.
+**Hipótesis 4:**
 
-Si ofrecemos una opción gratuita con comisiones por tarea realizada y un plan premium que elimina esas comisiones, los usuarios podrán empezar a trabajar sin barreras económicas.
+Creemos que muchos usuarios en Perú valoran la flexibilidad y desean acceder a una plataforma gratuita para comenzar a trabajar inmediatamente. Si ofrecemos una opción gratuita con comisiones por tarea realizada y un plan premium que elimina esas comisiones, los usuarios podrán empezar a trabajar sin barreras económicas. Tendremos una alta conversión de usuarios del plan gratuito al plan premium a medida que generen más ingresos.
 
-Tendremos una alta conversión de usuarios del plan gratuito al plan premium a medida que generen más ingresos.
+**Hipótesis 5:**
+
+Creemos que un sistema de evaluaciones y reseñas mejorará la confianza entre empleadores y trabajadores, lo que resultará en más transacciones exitosas. Sabremos que esto es verdad cuando veamos un incremento en las evaluaciones en un 30% más de trabajos finalizados con reseñas positivas dentro del primer año de implementación del sistema de evaluaciones.
 
 #### 1.2.2.4. Lean UX Canvas
 
 <img src="img/canva2.png">
+*Imagen (N°1). Elaboración propia. Realizado en Canva*
 
 ## 1.3. Segmentos objetivo
 **1. Trabajadores que buscan ingresos adicionales y flexibilidad:**
