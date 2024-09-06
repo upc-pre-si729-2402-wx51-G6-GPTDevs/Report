@@ -252,71 +252,72 @@ Para destacar frente a la competencia, TaskLinker se enfocará en proporcionar u
 
 ### 2.2.1. Diseño de entrevistas
 
-*Preguntas para el segmento objetivo 1: Trabajadores que buscan ingresos adicionales y flexibilidad*
+**Preguntas para el segmento objetivo 1: Trabajadores que buscan ingresos adicionales y flexibilidad**
 
-#### 1. ¿Qué tipo de trabajos por horas te interesan más y por qué? <br>
-##### Objetivo: Identificar las preferencias y áreas de interés laboral.
+1. ¿Qué tipo de trabajos por horas te interesan más y por qué? <br>
+Objetivo: Identificar las preferencias y áreas de interés laboral.
 
-#### 2. ¿Cuántas horas a la semana estás dispuesto/a a trabajar y qué horarios te resultan más convenientes? <br>
-##### Objetivo: Entender la disponibilidad y flexibilidad.
+2. ¿Cuántas horas a la semana estás dispuesto/a a trabajar y qué horarios te resultan más convenientes? <br>
+Objetivo: Entender la disponibilidad y flexibilidad.
 
-#### 3. ¿Qué factores consideras más importantes al elegir un trabajo por horas? <br>
-##### Objetivo: Conocer los criterios clave en la toma de decisiones laborales.
+3. ¿Qué factores consideras más importantes al elegir un trabajo por horas? <br>
+Objetivo: Conocer los criterios clave en la toma de decisiones laborales.
 
-#### 4. ¿Has utilizado anteriormente plataformas similares para encontrar trabajos por horas? Si es así, ¿qué te gustó o no te gustó de ellas? <br>
-##### Objetivo: Evaluar la experiencia previa y expectativas sobre plataformas de empleo.
+4. ¿Has utilizado anteriormente plataformas similares para encontrar trabajos por horas? Si es así, ¿qué te gustó o no te gustó de ellas? <br>
+Objetivo: Evaluar la experiencia previa y expectativas sobre plataformas de empleo.
 
-#### 5. ¿Qué tipo de apoyo o recursos te gustaría recibir de una plataforma de trabajos por horas para facilitar tu búsqueda de empleo? <br>
-##### Objetivo: Identificar necesidades adicionales que podrían mejorar la experiencia.
+5. ¿Qué tipo de apoyo o recursos te gustaría recibir de una plataforma de trabajos por horas para facilitar tu búsqueda de empleo? <br>
+Objetivo: Identificar necesidades adicionales que podrían mejorar la experiencia.
 
-#### 6. ¿Cuáles son tus principales preocupaciones o desafíos al buscar trabajos por horas? <br>
-##### Objetivo: Detectar barreras o problemas comunes en la búsqueda de empleo.
+6. ¿Cuáles son tus principales preocupaciones o desafíos al buscar trabajos por horas? <br>
+Objetivo: Detectar barreras o problemas comunes en la búsqueda de empleo.
 
-#### 7. ¿Qué tan importante es para ti la posibilidad de calificar y dejar reseñas sobre las oportunidades laborales y empleadores? <br>
-##### Objetivo: Evaluar la importancia de la transparencia y el feedback en la plataforma.
+7. ¿Qué tan importante es para ti la posibilidad de calificar y dejar reseñas sobre las oportunidades laborales y empleadores? <br>
+Objetivo: Evaluar la importancia de la transparencia y el feedback en la plataforma.
 
-<br><br>
-*Preguntas para el segmento objetivo 2: Empleadores que requieren soluciones laborales temporales*
+<br>
 
-#### 1. ¿Qué tipo de servicios temporales o especializados sueles necesitar con mayor frecuencia?
-##### Objetivo: Identificar los tipos de servicios más demandados.
+**Preguntas para el segmento objetivo 2: Empleadores que requieren soluciones laborales temporales**
 
-#### 2. ¿Qué criterios utilizas para seleccionar a un trabajador o proveedor de servicios temporales?
-##### Objetivo: Comprender los factores clave en la selección de proveedores de servicios.
+1. ¿Qué tipo de servicios temporales o especializados sueles necesitar con mayor frecuencia? <br>
+Objetivo: Identificar los tipos de servicios más demandados.
 
-#### 3. ¿Cuál es tu experiencia previa al contratar servicios temporales a través de plataformas digitales? ¿Qué aspectos fueron positivos o negativos?
-##### Objetivo: Obtener información sobre experiencias pasadas y expectativas sobre la plataforma.
+2. ¿Qué criterios utilizas para seleccionar a un trabajador o proveedor de servicios temporales? <br>
+Objetivo: Comprender los factores clave en la selección de proveedores de servicios.
 
-#### 4. ¿Qué nivel de flexibilidad esperas en cuanto a horarios y disponibilidad de los trabajadores que contratas?
-##### Objetivo: Entender las expectativas de flexibilidad y adaptabilidad.
+3. ¿Cuál es tu experiencia previa al contratar servicios temporales a través de plataformas digitales? ¿Qué aspectos fueron positivos o negativos? <br>
+Objetivo: Obtener información sobre experiencias pasadas y expectativas sobre la plataforma.
 
-#### 5. ¿Qué importancia le das a la capacidad de revisar perfiles y leer reseñas antes de contratar a alguien?
-##### Objetivo: Evaluar la relevancia de la transparencia y la información de la plataforma.
+4. ¿Qué nivel de flexibilidad esperas en cuanto a horarios y disponibilidad de los trabajadores que contratas?<br>
+Objetivo: Entender las expectativas de flexibilidad y adaptabilidad.
 
-#### 6. ¿Qué problemas o desafíos has enfrentado al contratar servicios temporales y cómo te gustaría que una plataforma los resolviera?
-##### Objetivo: Identificar problemas comunes y posibles soluciones que la plataforma podría ofrecer.
+5. ¿Qué importancia le das a la capacidad de revisar perfiles y leer reseñas antes de contratar a alguien?<br>
+Objetivo: Evaluar la relevancia de la transparencia y la información de la plataforma.
 
-#### 7. ¿Cómo prefieres gestionar el proceso de contratación y pago (por ejemplo, a través de la plataforma, de forma directa, etc.)?
-##### Objetivo: Entender las preferencias en la gestión de la contratación y los pagos.
+6. ¿Qué problemas o desafíos has enfrentado al contratar servicios temporales y cómo te gustaría que una plataforma los resolviera?<br>
+Objetivo: Identificar problemas comunes y posibles soluciones que la plataforma podría ofrecer.
+
+7. ¿Cómo prefieres gestionar el proceso de contratación y pago (por ejemplo, a través de la plataforma, de forma directa, etc.)?<br>
+Objetivo: Entender las preferencias en la gestión de la contratación y los pagos.
 
 ### 2.2.2. Registro de entrevistas 
 
 **Segmento objetivo perteneciente: Trabajadores que buscan ingresos adicionales y flexibilidad**
 
-## Entrevista #1
+**Entrevista #1**
 - Nombre: Sebastian Silva
 - Edad: 19 años
 - Duracion de la entrevista: 5:50 minutos
 
 ![image](img/Entrevista1.png)
 
-[Entrevista 1 - video](https://bit.ly/4dHXCYk)
+[Entrevista 1 - video:](https://bit.ly/4dHXCYk) https://bit.ly/4dHXCYk
 
 Resumen:
 
 Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, debido a que actualmente se encuentra estudiando una carrera universitaria, Sebastián preferiblemente está decidido a buscar un trabajo part-time, para que no se descuide del estudio y pueda ganar experiencia siempre y cuando hayan vacantes de puestos de trabajos en el ámbito de su carrera, está dispuesto a trabajar mínimo 48 horas a la semana full time, y mínimo 24 horas part-time a la semana, considera que el factor mas importante es la actividad a realizar para ver si es conveniente con respecto a la paga, además tiene claro de que no debe arriesgar a aceptar un trabajo sobrexplotado para ganar muy menos de lo remunerado, le gustaría recibir ayuda de una sitio web especial encargado de búsqueda de trabajos por horas, además de la ubicación que sea cercana a su residencia actual. Le preocupa que al no laburar en un lugar tan céntrico, no exista un ámbito agradable y que se encuentre lejos de su hogar. Por ultimo, a él le fascina las opiniones, por ende necesita ver reseñas de una determinada aplicación o sitio web para poder confiar
 
-## Entrevista #2
+**Entrevista #2**
 
 - Nombre: Emilio Chávarri
 - Edad: 54 años
@@ -324,14 +325,14 @@ Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, deb
 
 ![image](img/Emilio.JPG)
 
-[Entrevista 2 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EUGOS-IEUzlOjxJf5-49_LIBHROhAX_7P10H00mjEv_4mA?e=BZArcp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Entrevista 2 - video](https://shorturl.at/amDex): https://shorturl.at/amDex
 
 Resumen:
 
 Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que los tipos de trabajos que más le interesan son de diseño de trabajo de plano y seguridad electrónica. Las horas con las que está dispuesto a trabajar a la semana es alrededor de 20 horas, los fines de semana a tiempo completo y en las noches. Los factores importantes al momento de elegir un horario por servicio es el horario a realizar el servicio. El tipo de apoyo que le gustaría recibir de una plataforma de trabajo por hora o servicio para facilitar la búsqueda de empleo es la geolocalización del sitio donde se va a hacer el trabajo como Google Maps. A su vez, las principales precauciones al buscar trabajo por horas o servicios sería el tiempo y el lugar en que se va a realizar. Finalmente, considera muy importante porque las personas pueden dar fé de que es un aplicativo confiable, ya que al ingresar y ver un historial bueno de personas que recibieron o han dado el servicio ayuda a la aplicación y le da confianza de que es una aplicación seria.
 
 
-## Entrevista #3
+**Entrevista #3**
 
 - Nombre: Melanie Oliva
 - Edad: 18 años
@@ -347,31 +348,33 @@ En la entrevista, Veran Oliva, un estudiante de 18 años en cuarto ciclo de inge
 
 **Segmento objetivo perteneciente: Empleadores que requieren soluciones laborales temporales**
 
-## Entrevista #4
+**Entrevista #4**
 - Nombre: Sandy Ingaruca
 - Edad: 19 años
 - Duración de la entrevista: 5:42
 
 ![image](img/Entrevista2.png)
 
-[Entrevista 4 - video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a153_upc_edu_pe/ERjH0sqoPT9Oi2jXnYL5Y-UBPM-Dg0_ntdtkfTiGaSAhYQ?e=8fiWAM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a153_upc_edu_pe/ERjH0sqoPT9Oi2jXnYL5Y-UBPM-Dg0_ntdtkfTiGaSAhYQ?e=8fiWAM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[Entrevista 4 - video](https://shorturl.at/q2F6e): https://shorturl.at/q2F6e
 
 Resumen:
 
 Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de soporte administrativo como digitación de datos y atención al cliente durante temporadas altas, personal para eventos corporativos (asistentes logísticos, técnicos de sonido e iluminación), y trabajadores especializados en limpieza profunda o mantenimiento para proyectos específicos. Al seleccionar trabajadores, prioriza la experiencia comprobable, la flexibilidad horaria, la disponibilidad inmediata, y las reseñas positivas de otros empleadores. Su experiencia con plataformas digitales ha sido mixta: valora la facilidad y agilidad del proceso, pero ha enfrentado problemas como la falta de verificación de habilidades y cambios de última hora en la disponibilidad del personal. La flexibilidad es esencial, ya que necesita trabajadores dispuestos a trabajar en horarios no convencionales y a aceptar tareas con poca antelación. También otorga gran importancia a la revisión de perfiles detallados y reseñas antes de contratar. Entre los desafíos enfrentados, menciona la inconsistencia en la calidad del trabajo y la dificultad para gestionar cambios de última hora, por lo que preferiría que la plataforma ofreciera garantías de calidad y opciones de reemplazo. Además, prefiere gestionar la contratación y el pago completamente a través de la plataforma para garantizar seguridad y simplificación del proceso administrativo.
 
-## Entrevista #5
+**Entrevista #5**
 - Nombre: Monica Garcia
 - Edad: 29 años
 - Duración de la entrevista: 7:53
 
 ![image](img/monica.png)
 
-[Entrevista 5 - video](https://upcedupe-my.sharepoint.com/personal/u20221c448_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221c448%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20a%20Monica%20Open%20Source%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b153cbd%2D044a%2D4483%2D8617%2D11fc0a7ebafa)
+[Entrevista 5 - video:](https://shorturl.at/eM4S4) https://shorturl.at/eM4S4
 
 Resumen:
 
-## Entrevista #6
+Mónica García, de 29 años, trabaja en el área de Recursos Humanos en una empresa de transporte. Frecuentemente necesita servicios temporales, como conductores con licencia A3C para mover buses a talleres, personal para el comedor, y apoyo administrativo durante operaciones importantes. Al seleccionar trabajadores, Mónica prioriza competencias específicas, como la licencia adecuada para los conductores y estudios universitarios en el caso del personal administrativo. Su experiencia contratando a través de redes sociales ha sido poco efectiva, ya que no ha logrado cubrir la demanda de personal. Mónica considera que una plataforma digital podría facilitar la contratación de personal temporal. Para ella, es fundamental revisar perfiles detallados y reseñas antes de tomar una decisión. Entre los principales retos que ha enfrentado están la falta de personal disponible y los retrasos en las operaciones debido a la escasez de trabajadores. Mónica valora la flexibilidad en los horarios y prefiere gestionar tanto la contratación como el pago a través de la plataforma, buscando una solución más ágil y eficiente.
+
+**Entrevista #6**
 - Nombre: 
 - Edad: 
 - Duración de la entrevista: 
