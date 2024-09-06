@@ -381,7 +381,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
     <td valign="top">
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
       <p>
-       ...
+       Soy estudiante de la UPC, tengo 19 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo cómo crearlos. Estoy cursando el 5 ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
       </p>
     </td>
   </tr>
@@ -435,9 +435,58 @@ En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comi
 
 ### Lean UX Process
 #### Lean UX Problem Statements
+
+Para los Trabajadores:
+
+Estudiantes, amas de casa, jubilados y personas con empleo parcial en Perú tienen dificultades para encontrar trabajos temporales o por horas que se ajusten a su disponibilidad y necesidades, lo que limita sus oportunidades de generar ingresos adicionales.
+
+Esto lleva a una subutilización de su tiempo disponible y a la falta de flexibilidad en sus opciones laborales.
+Se debe proporcionar una plataforma accesible que permita a estos trabajadores encontrar y postularse rápidamente a trabajos temporales adecuados a su perfil y disponibilidad.
+
+Para los Empleadores:
+
+Pequeñas y medianas empresas (PyMEs), particulares, organizadores de eventos y startups en Perú enfrentan dificultades para encontrar y contratar personal temporal de manera rápida y eficiente para tareas específicas o picos de trabajo.
+Esto resulta en retrasos en la ejecución de proyectos, aumento de costos operativos y una menor eficiencia en la gestión de recursos humanos.
+Se debe ofrecer una plataforma que permita a los empleadores publicar trabajos y encontrar personal calificado de manera rápida, reduciendo el tiempo de contratación y optimizando el proceso.
+
 #### Lean UX Assumptions
+
+Para los Trabajadores:
+
+1. Los trabajadores temporales valoran la flexibilidad y la capacidad de elegir trabajos que se ajusten a su tiempo disponible y habilidades.
+2. La falta de una plataforma centralizada es una barrera significativa para que los trabajadores encuentren oportunidades de trabajo temporal.
+3. Los trabajadores estarían dispuestos a utilizar TaskLinker si les proporciona una experiencia de usuario sencilla y oportunidades de trabajo adecuadas.
+
+Para los Empleadores:
+
+1. Los empleadores necesitan una solución rápida y confiable para contratar personal temporal, especialmente en situaciones de alta demanda o tareas específicas.
+2. La falta de un acceso fácil a una base de trabajadores calificados afecta la eficiencia operativa de las PyMEs, particulares y startups.
+3. Los empleadores estarían dispuestos a pagar una comisión o suscripción si la plataforma les permite encontrar y contratar personal calificado rápidamente.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. Creemos que las personas en Perú (estudiantes, amas de casa, jubilados, etc.) tienen dificultades para encontrar trabajos flexibles y por horas que se ajusten a sus necesidades y horarios.
+
+Si ofrecemos una plataforma que centraliza la oferta y demanda de trabajos por horas, las personas podrán encontrar oportunidades laborales de forma rápida y fácil.
+
+Observaremos un aumento en el número de personas registradas y en la frecuencia con la que encuentran trabajo a través de la plataforma.
+
+2. Creemos que las pequeñas y medianas empresas (PyMEs) en Perú necesitan contratar servicios temporales de manera eficiente, pero enfrentan dificultades en el proceso de búsqueda y contratación.
+
+Si proporcionamos una plataforma donde puedan publicar tareas y contratar trabajadores de forma rápida, las PyMEs podrán cubrir sus necesidades temporales sin problemas.
+
+Veremos una alta tasa de satisfacción entre los empleadores y un aumento en el número de tareas publicadas en la plataforma.
+
+3. Creemos que muchos usuarios en Perú valoran la flexibilidad y desean acceder a una plataforma gratuita para comenzar a trabajar inmediatamente.
+
+Si ofrecemos una opción gratuita con comisiones por tarea realizada y un plan premium que elimina esas comisiones, los usuarios podrán empezar a trabajar sin barreras económicas.
+
+Tendremos una alta conversión de usuarios del plan gratuito al plan premium a medida que generen más ingresos.
+
 #### 1.2.2.4. Lean UX Canvas
+
+<img src="img/canva2.png">
+
 ## 1.3. Segmentos objetivo
 **1. Trabajadores que buscan ingresos adicionales y flexibilidad:**
 Este segmento incluye a estudiantes que necesitan ingresos para cubrir sus estudios o gastos personales sin afectar sus horarios académicos, amas de casa que desean contribuir económicamente sin comprometer sus responsabilidades en el hogar, jubilados que buscan mantenerse activos y generar ingresos extra, y personas con empleo parcial que desean complementar sus ingresos. Todos ellos valoran la flexibilidad que les ofrece TaskLinker, permitiéndoles encontrar oportunidades laborales que se adapten a su tiempo y necesidades específicas.
