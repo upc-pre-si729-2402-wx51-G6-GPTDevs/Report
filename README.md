@@ -263,8 +263,8 @@
         </tr>
          <tr>
             <td>EPIC-007</td> 
-            <td>Optimización de Consultas en la Base de Datos</td>
-            <td>Como administrador de base de datos, quiero optimizar las consultas SQL en la base de datos para que pueda mejorar el tiempo de respuesta y reducir la carga del servidor, lo que resultará en un rendimiento general más rápido y eficiente para los usuarios finales. </td>
+            <td>Gestión de Perfiles y Evaluaciones</td>
+            <td>Como empleador o trabajador, quiero tener acceso a perfiles detallados y un sistema de evaluaciones, para poder tomar decisiones informadas antes de contratar o aceptar trabajos, asegurando la confianza y transparencia en la plataforma. </td>
         </tr>
          <tr>
             <td>EPIC-008</td> 
@@ -629,14 +629,16 @@
         </tr>
         <tr>
             <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Configurar Preferencias de Notificaciones</td>
+            <td  colspan="2">Recibir Notificaciones de Nuevas Oportunidades de Trabajo</td>
             <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como usuario registrado, quiero poder configurar mis preferencias de notificaciones para recibir alertas sólo de los eventos que me interesen, de manera que pueda estar informado sin ser inundado con notificaciones irrelevantes.</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes.</td>
         </tr>
         <tr>
             <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Activación/Desactivación de Notificaciones Específicas"</p>
-           <p>Dado que no quiero ser molestado por notificaciones innecesarias, Cuando accedo al panel de usuario y entro en la sección de "Configuración de Notificaciones",Entonces puedo activar o desactivar notificaciones para diferentes tipos de eventos (nuevas tareas disponibles, recordatorios de tareas, mensajes de empleadores) y la aplicación solo enviará alertas para los eventos seleccionados.</p>
+            <p>Escenario 1: "Notificación de Nueva Tarea"</p>
+           <p>Dado que tengo activadas las notificaciones de nuevas oportunidades de trabajo en la plataforma, Cuando un empleador publique una tarea que coincida con mis preferencias de ubicación, categoría de trabajo, o disponibilidad horaria, Entonces recibiré una notificación en tiempo real (ya sea por la app, correo electrónico, o push notification) informándome sobre la nueva tarea y con un enlace directo para ver más detalles o aplicar.</p>
+           <p>Escenario 2: "Configuración de Preferencias de Notificación"</p>
+           Dado que quiero personalizar qué tipo de notificaciones recibir, Cuando accedo a la sección de "Configuración de Notificaciones" en mi perfil, Entonces puedo elegir entre recibir notificaciones instantáneas, diarias o semanales sobre nuevas oportunidades, y definir qué criterios (como ubicación, tipo de trabajo, horario) activan las alertas.
         </tr>
     </table>
 </div>
@@ -645,22 +647,116 @@
     <table align="center" border="1" cellpadding="13" cellspacing="0">
         <tr>
             <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">10</td>
+            <td  colspan="2">16</td>
             <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">05</td>
+            <td colspan="5">07</td>
         </tr>
         <tr>
             <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Ac...s </td>
+            <td  colspan="2">Ver Perfiles Detallados de los Trabajadores</td>
             <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> C.. un trabajador a través de TaskLinker.</td>
+            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades, y evaluaciones previas, para tomar decisiones informadas antes de contratarlos.</td>
         </tr>
         <tr>
             <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Visualización de Documentos Adjuntos"</p>
-           <p>Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cua.....</p>
-            <p>Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"</p>
-            Dado que he contratado previamente a un trabajador a través de TaskLinker.....
+            <p>Escenario 1: "Visualización del Perfil del Trabajador"</p>
+           <p>Dado que soy un empleador que está revisando candidatos para una tarea, Cuando hago clic en el perfil de un trabajador,Entonces puedo ver un perfil detallado que incluye su experiencia laboral, habilidades, certificaciones, calificaciones previas de otros empleadores, y comentarios sobre su desempeño.</p>
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">17</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">07</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Actualizar Mi Perfil Como Trabajador</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Editar Información del Perfil"</p>
+           <p>Dado que quiero actualizar mi perfil con nueva información, Cuando accedo a la sección "Editar Perfil", Entonces puedo modificar mis habilidades, agregar experiencia laboral adicional, y adjuntar nuevas certificaciones, asegurando que mi perfil esté actualizado y visible para los empleadores.</p>
+            <p>Escenario 2: "Revisión y Guardado de Cambios"</p>
+            Dado que he editado mi perfil, Cuando hago clic en "Guardar cambios", Entonces los cambios se reflejan inmediatamente en mi perfil público, y los empleadores pueden ver la nueva información actualizada la próxima vez que accedan a mi perfil.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">18</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">08</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Publicar Nuevas Tareas de Manera Rápida</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como empleador, quiero tener acceso a un botón de acción flotante que me permita publicar nuevas tareas de forma rápida y sencilla, para que no tenga que navegar por múltiples menús o secciones.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Publicación Rápida de una Tarea"</p>
+           <p>Dado que soy un empleador que necesita publicar una nueva tarea, Cuando hago clic en el botón de acción flotante en la página principal de la plataforma, Entonces se despliega un formulario simplificado para la creación de la tarea, permitiéndome agregar los detalles esenciales (descripción, fecha, pago) y publicar la tarea en menos de 3 pasos.</p>
+            <p>Escenario 2:  "Validación de Campos Obligatorios"</p>
+            Dado que estoy creando una nueva tarea a través del botón de acción flotante, Cuando intento publicar sin completar todos los campos obligatorios, Entonces recibo un mensaje de advertencia indicando qué campos están incompletos y no puedo avanzar hasta que la información requerida esté llena.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">19</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">08</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2">Solicitar Trabajo con Menú Contextual Simplificado</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como trabajador, quiero poder solicitar trabajos directamente desde un menú contextual, para que el proceso sea más rápido y no tenga que navegar por varios pasos para aplicar a un trabajo.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Solicitar Trabajo con un Solo Clic"</p>
+           <p>Dado que estoy navegando por las oportunidades laborales en la plataforma, Cuando hago clic derecho (o accedo al menú contextual) sobre una tarea, Entonces puedo ver una opción para "Solicitar trabajo" que, al seleccionarla, me permite enviar mi solicitud sin necesidad de pasar por más de un paso adicional (confirmación).</p>
+            <p>Escenario 2: "Confirmación de Solicitud Enviada"</p>
+            Dado que he solicitado un trabajo desde el menú contextual, Cuando envío mi solicitud, Entonces recibo una confirmación visual inmediata de que mi solicitud ha sido enviada correctamente, y la tarea se marca como "solicitada" en mi panel de control.
+        </tr>
+    </table>
+</div>
+<br>
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">20</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">09</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Iniciar Sesión con Autenticación Multifactor Activada</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Iniciar Sesión con MFA"</p>
+           <p>Dado que tengo la autenticación multifactor activada, Cuando ingreso mi usuario y contraseña en la página de inicio de sesión, Entonces se me solicita un segundo factor de autenticación (como un código enviado por SMS o una aplicación de autenticación) antes de acceder a mi cuenta.</p>
+            <p>Escenario 2: "Acceso Denegado Sin MFA"</p>
+            Dado que he introducido incorrectamente el código de autenticación multifactor, Cuando intento acceder a mi cuenta, Entonces el sistema deniega el acceso y se me solicita reingresar el código correcto o solicitar uno nuevo, sin permitirme acceder a mi cuenta hasta que el código sea verificado correctamente.
         </tr>
     </table>
 </div>
