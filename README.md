@@ -375,22 +375,20 @@ Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de sopo
 ### 2.3.1. User Personas
 Para esta sección se han creado personajes ficticios, cada uno diseñado para representar a un segmento específico de usuarios. La información utilizada para desarrollar estos "User personas" proviene de entrevistas previas realizadas a cada segmento objetivo. Estas entrevistas tenían como objetivo comprender mejor a las personas a las que se dirige la aplicación. Se consideraron datos demográficos, metas, motivaciones frustraciones, marcas relacionadas con el tema de la aplicación canales digitales más utilizados, entre otros. 
 
-#### User Persona 1: Sebastián Silva, Trabajador
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
 
 ![image](img/SebastiánSilva.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
-#### User Persona 2: Valeria Gonzáles, Empleadora
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales** 
 
 ![image](img/ValeriaGonzáles.png)
-
-#### User Persona 2: Emilio Chávarri, Trabajador
-
-![image](img/User3.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
 En esta sección se presenta el user task matrix, herramienta centrada en los segmentos objetivos, que nos permitirá identificar las tareas y objetivos claves de los usuarios. Además, nos permitirá priorizar características y funcionalidades al momento de realizar el product backlog. Para la frecuencia se han considerado cinco opciones:nunca ,casi nunca, a veces, a menudo ,siempre; y para la importancia tres opciones: bajo, medio, alto". En relación con la matriz de tareas de los usuarios, podemos identificar tanto las tareas de mayor frecuencia como las de mayor importancia, así como las diferencias y similitudes entre los diferentes tipos de usuarios.
 
-#### User Task Matrix: Sebastián Silva
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
 
 | **User Tasks**                                              | **Prioridad** | **Frecuencia** | **Contexto de Uso**                                             | **Notas**                                                                 |
 |-------------------------------------------------------------|---------------|----------------|------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -403,7 +401,7 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 | **Configurar alertas para nuevas ofertas de trabajo**       | Baja          | Ocasional       | Cuando se inscribe en una plataforma de búsqueda de empleo.      | Le gustaría recibir notificaciones de nuevas ofertas que se ajusten a sus criterios. |
 | **Investigar más sobre la empresa contratante**             | Media         | Ocasional       | Antes de aplicar o aceptar una oferta de trabajo.                | Quiere asegurarse de que la empresa tiene una buena reputación y ofrece un ambiente laboral saludable. |
 
-#### User Task Matrix: Valeria Gonzáles
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 | **User Task**                                            | **Prioridad** | **Frecuencia** | **Contexto de Uso**                                                                                     | **Notas**                                                                                                                                                    |
 |----------------------------------------------------------|---------------|----------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -422,33 +420,39 @@ En esta sección se presenta el user task matrix, herramienta centrada en los se
 
 En esta sección, explicaremos en detalle los user journey mapping para dos tipos de usuarios distintos: Empleadores que requieren soluciones laborales temporales y Trabajadores que buscan ingresos adicionales y flexibilidad. Estos mapas proporcionarán una visión exhaustiva de cómo cada segmento de usuario interactúa con la plataforma, desde su primer contacto hasta su uso continuo y el análisis de resultados. Mejoraremos la presentación de estos mapas, destacando las etapas clave y las necesidades específicas de cada usuario para garantizar una comprensión clara y concisa de su experiencia a lo largo de su viaje:
 
-User Journey Mapping: Sebastián Silva
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
-![image](img/JourneyMapSebastian.png)
+![image](img/seg2Map.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
-User Journey Mapping: Valeria Gonzáles
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
-![image](img/JourneyMapValeria.png)
+![image](img/seg1Map.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.4. Empathy Mapping
 
-#### Empathy Map: Sebastián Silva
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
 ![image](img/EmpathySebastian.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
-#### Empathy Map: Valeria Gonzáles
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 ![image](img/EmpathyValeria.png)
+*Imagen (N°). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.5. As-is Scenario Mapping
 
-#### As is Scenario: Sebastián Silva
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
 ![image](img/AsIsSebastian.png)
+*Imagen (N°). Elaboración propia. Realizado en Miro*
 
-#### As is Scenario: Valeria Gonzáles
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 ![image](img/AsIsValeria.png)
+*Imagen (N°). Elaboración propia. Realizado en Miro*
 
 ## 2.4. Ubiquitous Language
 
