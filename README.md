@@ -433,6 +433,9 @@ TaskLinker funciona a través de una plataforma en línea intuitiva donde los tr
 
 En el esquema de comisión por transacción, TaskLinkera cobra una pequeña comisión proporcional al valor del trabajo, la cual se descuenta automáticamente una vez que el trabajo es completado y pagado. Por otro lado, el plan de suscripción premium tiene un costo fijo que elimina estas comisiones por transacción y brinda acceso a funcionalidades avanzadas, como la priorización en los listados, acceso a tareas exclusivas, y herramientas de gestión mejoradas. Este modelo de negocio está diseñado para ser accesible y rentable, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades y volumen de trabajo.
 
+### Lean UX Process
+#### Lean UX Problem Statements
+#### Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
