@@ -762,6 +762,107 @@
 </div>
 <br>
 
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">21</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">07</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Evaluar a los trabajadores después de un trabajo</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Notificación de solicitud de evaluación al completar el trabajo"</p>
+           <p>Dado que el trabajo ha sido completado, Cuando el empleador accede a la plataforma, Entonces debe recibir una notificación solicitando que evalúe al trabajador.</p>
+            <p>Escenario 2: "Evaluación basada en estrellas y comentarios opcionales"</p>
+           Dado que el empleador desea evaluar al trabajador, Cuando acceda a la sección de evaluaciones, Entonces debe poder seleccionar una puntuación de 1 a 5 estrellas y escribir un comentario opcional.
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">22</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">08</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Crear una tarea desde cualquier página</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Botón persistente para crear una tarea"</p>
+           <p>Dado que estoy en cualquier página de la plataforma, Cuando quiero crear una nueva tarea, Entonces debería haber un botón persistente en la interfaz para iniciar el proceso de creación de la tarea.</p>
+            <p>Escenario 2: "Acceso al formulario sin cambiar de página"</p>
+           Dado que hago clic en el botón de crear una tarea, Cuando quiero iniciar el proceso de creación, Entonces debería aparecer un formulario de creación de tarea sin necesidad de redirigirme a otra página.
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">22</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">08</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Crear una tarea desde cualquier página</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Botón persistente para crear una tarea"</p>
+           <p>Dado que estoy en cualquier página de la plataforma, Cuando quiero crear una nueva tarea, Entonces debería haber un botón persistente en la interfaz para iniciar el proceso de creación de la tarea.</p>
+            <p>Escenario 2: "Acceso al formulario sin cambiar de página"</p>
+           Dado que hago clic en el botón de crear una tarea, Cuando quiero iniciar el proceso de creación, Entonces debería aparecer un formulario de creación de tarea sin necesidad de redirigirme a otra página.
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">23</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">09</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Recuperar cuenta con 2FA habilitada</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario, quiero poder recuperar mi cuenta si pierdo acceso a mi segundo factor de autenticación, para no quedar bloqueado de la plataforma.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: "Recuperación de cuenta a través de preguntas de seguridad o correo alternativo"</p>
+           <p>Dado que he perdido el acceso a mi segundo factor, Cuando intento recuperar mi cuenta, Entonces debería poder hacerlo respondiendo preguntas de seguridad o utilizando un correo de verificación alternativo.
+</p>
+            <p>Escenario 2: "Proceso seguro para desactivar 2FA temporalmente"</p>
+           Dado que no puedo acceder a mi segundo factor, Cuando solicito desactivar temporalmente la autenticación multifactor, Entonces debería haber un proceso seguro que me permita desactivar 2FA y acceder a mi cuenta.
+        </tr>
+    </table>
+</div>
+<br>
+
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
