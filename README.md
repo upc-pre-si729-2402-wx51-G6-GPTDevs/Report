@@ -257,9 +257,119 @@
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para
+que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
+
+- **UXPressia:** Plataforma colaborativa que nos permitirá crear user personas e integrados con los
+múltiples mapas para evaluar sus prioridades.
+- **Figma:** Herramienta colaborativa que nos permitirá desarrollar wireframes y mockups.
+- **Vertabelo:** Plataforma colaborativa que nos permitirá crear nuestro diagrama de base de datos.
+- **LucidChart:** Aplicación web destinada a la elaboración de Wireflows, Users Flows y diagramas
+de clases.
+- **WebStorm:** IDE que utilizaremos para trabajar con javascript y desarrollar la landing page y web
+application.
+
 ### 5.1.2. Source Code Management
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
+
+-  [**Repositorio Landing Page:**](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Landing-Page)  https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Landing-Page
+-  [**Repositorio Web Services:**](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Web-Services) https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Web-Services
+-  [**Repositorio Frontend Web Applications:**](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Frontend-Web-Applications) https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Frontend-Web-Applications
+
+**GitFlow**
+
+Estructura de branches (Ramas):
+
+**1. Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones
+estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras
+ramas de prueba.
+
+**2. Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y
+de mantener los archivos centrales del desarrollo continuo.
+
+**3. Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque
+actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará
+con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón
+descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+**4. Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop
+que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic
+Versioning) para nombrar las Releases.
+
+**5. Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores
+identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:** Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic
+Versioning 2.0.0).
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits
+basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+
+```bash
+git commit -m "<type>[optional scope]:<title>" -m"<description>"
+```
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
+siguientes:
+1. Cerrar todos los elementos HTML. Por ejemplo:
+``` html
+<p>Esto es un párrafo.</p>
+```
+
+2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará
+al uso de minúsculas para mantener el orden y garantizar la legibilidad.
+
+3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
+
+4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
+disponibilidad del contenido. Por ejemplo:
+``` html
+ <img src="abc.img" alt="image name"
+style="width:128px;height:128px">
+```
+
+**CSS:** Entre las prácticas empleadas se mencionan:
+
+1. Los nombres de las clases deben de ser breves y autodescriptivos.
+
+2. Separar los nombres de las clases y ID con un guión. Por ejemplo:
+```css
+#video-id .hero-shadow
+```
+
+3. Evitar especificar la unidad de medida luego de usar el valor 0.
+
+4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los
+negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca
+de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos
+de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los
+escenarios.
+
 ### 5.1.4. Software Deployment Configuration
+
+**Landing Page**
+
+Para poder desplegar la Landing Page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con
+una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
+comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear un repositorio para alojar el Landing Page.
+
+2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para el contenido de la landing page; "style.css" para los estilos. Se tendra una carpeta "assets" y dentro estaran las carpetas "styles" y "img".
+
+3. Cargar los archivos al repositorio mediante un commit.
+
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto,
+generalmente se trata de "main" o "master".
+
+5. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
+llevará al Landing Page desplegado.
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint 
 #### 5.2.X.1. Sprint Planning n
