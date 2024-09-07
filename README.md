@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <assets src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></assets><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software - 2024-2</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - WX51</strong><br>
     <strong>Profesor: Alberto Wilmer Sanchez Seña</strong><br>
