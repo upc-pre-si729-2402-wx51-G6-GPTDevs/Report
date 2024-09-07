@@ -557,23 +557,66 @@ Searching System es una herramienta informática que permite buscar y recuperar 
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
-Wireframe Desktop
+
+El prototipado de la landing page cuenta diversas secciones:
+
+- Header: Incluye botones para facilitar la navegación
+- Hero: Con 2 CTA, uno para cada segmento objetivo, un título y una imagen de fondo.
+- Segmentos y beneficios: Para cada segmento se tiene un título, una breve descripción, un CTA y una imagen. Debajo de cada sección se detallan los beneficios que se ofrecen.
+- Testimonios: Consta de un título y subtítulo, así como de unos testimonios de usuarios de cada segmento, lo que aumenta la confianza en los potenciales clientes.
+- Contacto: Tiene un título y subtítulo, un pequeño input para la introducción de un email y un botón para el envio del correo.
+- Footer: Sección que da fin a la landing page, cuenta con las redes sociales de la plataforma.
+
+**Wireframe Desktop**
+<div align="center">
 <img src="img/Wireframe-Desktop.png">
 
-Wireframe Mobile
+*Imagen (N°13). Elaboración propia. Realizado en Figma*
+</div>
+<br>
+
+**Wireframe Mobile**
+
+En la versión mobile el navbar se reemplaza por un menu desplegable.
 <div align="center">
 <img src="img/Wireframe-Mobile.png">
+
+*Imagen (N°14). Elaboración propia. Realizado en Figma*
 </div>
+<br>
 
 ### 4.3.2. Landing Page Mock-up
-Mock-up Desktop
+
+Siguiendo los wireframes de la landing page se realizaron los mockups:
+
+- Header y Segmentos: Se utilizan los colores primarios de la plataforma especificados.
+- Hero: Cuenta con una imagen relacionada a la plataforma, además se tiene dos CTA en versiones alternativas para la diferenciación.
+- Beneficios: Incluye iconos relacionados con los beneficios ofrecidos y con el color principal, además el fondo es claro alternando con la sección de Segmentos para una mejor separación.
+- Testimonios: Con un fondo de color principal para constrastar con las tarjetas de cada testimonio.
+- Contacto: Se tiene un CTA en color primario, siendo notorio al estar en un fondo claro.
+- Footer: Al igual que el header, utiliza los colores primarios de la plataforma para dar un fin estético a la página.
+
+**Mock-up Desktop**
+<div align="center">
 <img src="img/Mockup-Desktop.png">
-Mock-up Mobile
+
+*Imagen (N°15). Elaboración propia. Realizado en Figma*
+</div>
+<br>
+
+**Mock-up Mobile**
+
+En la versión mobile el navbar se reemplaza por un menu desplegable.
+
 <div align="center">
 <img src="img/Mockup-Mobile.png">
+
+*Imagen (N°16). Elaboración propia. Realizado en Figma*
 </div>
+<br>
 
 ## 4.4. Web Applications UX/UI Design
+El diseño UX/UI para aplicaciones web se centra en crear interfaces intuitivas y experiencias de usuario fluidas que maximicen la satisfacción y eficiencia al interactuar con una plataforma. Este enfoque combina la funcionalidad con la estética, asegurando que cada elemento visual no solo sea atractivo, sino que también facilite la navegación y el cumplimiento de los objetivos del usuario. En un entorno digital competitivo, un diseño UX/UI bien ejecutado es crucial para captar y retener usuarios, mejorando tanto la usabilidad como la percepción general de la aplicación.
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
