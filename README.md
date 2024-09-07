@@ -780,6 +780,10 @@ En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a
 </div>
 <br>
 
+**Web Application para Desktop Web Browser**
+
+**Iniciar sesión**
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
