@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <assets src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></assets><br>
     <strong>Ingeniería de Software - 2024-2</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - WX51</strong><br>
     <strong>Profesor: Alberto Wilmer Sanchez Seña</strong><br>
@@ -240,7 +240,7 @@ TaskLinker es una plataforma web que facilita la conexión eficiente entre traba
 
 El logotipo de TaskLinker es un elemento central de la identidad visual de la marca. Está compuesto por una tipografía moderna y estilizada que refleja la eficiencia y la profesionalidad de la plataforma. El diseño presenta las letras "T" y "L" en una disposición vertical, seguidas del nombre completo *"TASKLINKER"* en un tipo de letra audaz y alineado debajo.
 
-<center> <img src="img/logo.png" style="width: 250px;"/> </center>
+<center> <assets src="assets/logo.png" style="width: 250px;"/> </center>
 <br>
 
 **Tono de Comunicacion:**
@@ -265,7 +265,7 @@ La paleta de colores de TaskLinker ha sido cuidadosamente seleccionada para tran
 
 - **#142433 (Azul oscuro):** Este color profundo y sobrio se empleará en textos principales y áreas de navegación, garantizando legibilidad y una presencia sólida y confiable. También puede utilizarse como fondo en secciones que necesitan un contraste fuerte con el contenido.
   
-<center> <img src="img/Paleta.png" style="width: 400px;"/> </center>
+<center> <assets src="assets/Paleta.png" style="width: 400px;"/> </center>
 <br>
 
 **Tipografía**
@@ -279,7 +279,7 @@ La elección tipográfica para TaskLinker es un componente esencial que compleme
 - Interlineado: 1.1
 - Weights: Bold - Medium - Regular - Light
 
-<center> <img src="img/tipografia.png" style="width: 400px;"/></center>
+<center> <assets src="assets/tipografia.png" style="width: 400px;"/></center>
 
 ### 4.1.2. Web Style Guidelines
 La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
@@ -298,7 +298,7 @@ Utiliza la paleta de colores de TaskLinker para todos los elementos de la web, a
 - #89373D (Borgoña): Para subtítulos, bordes y elementos de soporte visual.
 - #142433 (Azul oscuro): Para el texto principal, íconos, y elementos que necesiten un fuerte contraste.
 
-<center> <img src="img/Paleta.png" style="width: 300px;"/> </center>
+<center> <assets src="assets/Paleta.png" style="width: 300px;"/> </center>
 <br>
 
 **Fuentes:**
@@ -321,7 +321,7 @@ Mantén una jerarquía clara para los diferentes niveles de encabezados (H1, H2,
 - H3: Roboto Bold, 24px, color #295264
 - Párrafo (Body Text): Roboto Regular, 16px, color #142433
   
-<center> <img src="img/tipo.png" style="width: 300px;"/> </center>
+<center> <assets src="assets/tipo.png" style="width: 300px;"/> </center>
 <br>
 
 **Botones y Llamadas a la Acción (CTAs):**
@@ -569,7 +569,7 @@ El prototipado de la landing page cuenta diversas secciones:
 
 **Wireframe Desktop**
 <div align="center">
-<img src="img/Wireframe-Desktop.png">
+<assets src="assets/Wireframe-Desktop.png">
 
 *Imagen (N°13). Elaboración propia. Realizado en Figma*
 </div>
@@ -579,7 +579,7 @@ El prototipado de la landing page cuenta diversas secciones:
 
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 <div align="center">
-<img src="img/Wireframe-Mobile.png">
+<assets src="assets/Wireframe-Mobile.png">
 
 *Imagen (N°14). Elaboración propia. Realizado en Figma*
 </div>
@@ -598,7 +598,7 @@ Siguiendo los wireframes de la landing page se realizaron los mockups:
 
 **Mock-up Desktop**
 <div align="center">
-<img src="img/Mockup-Desktop.png">
+<assets src="assets/Mockup-Desktop.png">
 
 *Imagen (N°15). Elaboración propia. Realizado en Figma*
 </div>
@@ -609,7 +609,7 @@ Siguiendo los wireframes de la landing page se realizaron los mockups:
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 <div align="center">
-<img src="img/Mockup-Mobile.png">
+<assets src="assets/Mockup-Mobile.png">
 
 *Imagen (N°16). Elaboración propia. Realizado en Figma*
 </div>
@@ -646,13 +646,13 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-<img src="img/context-diagram.png">
+<assets src="assets/context-diagram.png">
 
 ### 4.6.2. Software Architecture Container Diagrams
-<img src="img/container-diagram.png">
+<assets src="assets/container-diagram.png">
 
 ### 4.6.3. Software Architecture Components Diagrams
-<img src="img/component-diagram.png">
+<assets src="assets/component-diagram.png">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
