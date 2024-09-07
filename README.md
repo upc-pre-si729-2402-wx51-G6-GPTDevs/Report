@@ -282,7 +282,12 @@
             <td>EPIC-010</td> 
             <td> Implementación de un Sistema de Reputación.</td>
             <td>Como usuario, quiero  un sistema de calificaciones y evaluaciones, tanto para empleadores como para trabajadores, que permitirá mejorar la confianza y transparencia dentro de la plataforma TaskLinker.</td>
-        </tr>
+        </tr> 
+            <tr>
+            <td>EPIC-011</td> 
+            <td> Interfaz de presentación del sitio web.</td>
+            <td>Como usuario, quiero acceder a una interfaz de presentación clara y atractiva que me permita obtener información detallada sobre el sitio web, incluyendo los servicios disponibles y las funcionalidades que ofrece, para entender mejor cómo utilizarlo y tomar decisiones informadas al consumir su contenido.</td>
+        </tr> 
     </table>
 </div>
 
@@ -835,6 +840,154 @@
 </p>
             <p>Escenario 2: "Proceso seguro para desactivar 2FA temporalmente"</p>
            Dado que no puedo acceder a mi segundo factor, Cuando solicito desactivar temporalmente la autenticación multifactor, Entonces debería haber un proceso seguro que me permita desactivar 2FA y acceder a mi cuenta.
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">24</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Encontrar un trabajo flexible</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario que busca oportunidades laborales, quiero explorar la sección "Encontrar un trabajo flexible" para conocer las opciones de trabajos por horas disponibles y entender cómo puedo aplicar a ellos de forma rápida y sencilla.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Visualización de trabajos disponibles"</p>
+           <p>Cuando el usuario visita la sección "Encontrar un trabajo flexible", entonces se debe mostrar una lista de trabajos disponibles con descripciones, requisitos, y la opción de aplicar directamente.
+</p>
+            <p>Escenario 2: Aplicación de filtros de búsqueda"</p>
+           Dado que el usuario ha ingresado a la sección, cuando aplica filtros (como ubicación, tipo de trabajo, pago por hora), entonces los resultados de la lista se deben actualizar para reflejar estos criterios.
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">25</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: ¿Por qué escoger TaskLinker?</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario potencial, quiero revisar la sección "¿Por qué escoger TaskLinker?" para entender los beneficios de utilizar esta plataforma, incluyendo testimonios, estadísticas de éxito, y ventajas competitivas, que me ayuden a decidirme por usar TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar beneficios</p>
+           <p>Cuando el usuario navega a la sección "¿Por qué escoger TaskLinker?", entonces se deben mostrar los beneficios y características principales de la plataforma.
+</p>
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">26</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Contrata talento temporal</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar guía de publicación de ofertas</p>
+           <p>Cuando el empleador visita la sección "Contrata talento temporal", entonces se debe mostrar un formulario o guía que explique cómo publicar una oferta de trabajo temporal.
+</p>
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">27</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Encuentra el trabajo ideal para tus proyectos</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Visualización de información</p>
+           <p>Cuando el empleador se encuentre en la sección para poder encontrar un trabajo ideal, entonces se mostrarán 3 recomendaciones para él
+</p>
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">28</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: ¿Qué opinan nuestros usuarios?</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar testimonios de usuarios</p>
+           <p>Cuando el usuario accede a la sección "¿Qué opinan nuestros usuarios?", entonces se deben mostrar al menos 2 testimonios de usuarios con sus nombres, tipo de usuario, fotos, y comentarios.
+</p>
+        </tr>
+    </table>
+</div>
+<br>
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">29</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Contáctanos y Footer</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar formulario de contacto</p>
+           <p>Cuando el usuario visita la sección "Contáctanos", entonces se debe mostrar un formulario de contacto con un solo campo obligatorio (correo electrónico) y un botón de "Contaáctanos".
+</p>
+           <p>Escenario 2: Visualización del footer"</p>
+           Cuando el usuario navega al footer, entonces deben estar visibles los enlaces a redes sociales, políticas de privacidad, copyright y año.
         </tr>
     </table>
 </div>
