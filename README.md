@@ -620,6 +620,27 @@ El diseño UX/UI para aplicaciones web se centra en crear interfaces intuitivas 
 ### 4.4.1. Web Applications Wireframes
 Los wireframes ayudan a los diseñadores y desarrolladores a planificar la arquitectura y la funcionalidad de la aplicación, permitiendo visualizar cómo los usuarios interactuarán con ella. Son esenciales en las primeras etapas de desarrollo, ya que facilitan la comunicación de ideas, la identificación de problemas potenciales y la alineación de todos los involucrados en el proyecto antes de pasar al diseño detallado y la programación.
 
+**Iniciar sesión**
+
+La siguiente imagen evidencia el wireframe de la sección de “inicio de sesión” desde la vista desktop web browser. En ella, los usuarios deberán ingresar las credenciales necesarias para poder acceder a la aplicación, siempre y cuando posean con una cuenta previamente creada.
+
+<div align="center">
+<img src="assets/frame1.png">
+
+*Imagen(N°17). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+
+La siguiente imagen presenta la sección de “registro de usuario”, a través de la cual los administradores podrán remitir a la aplicación la información necesaria para crear una cuenta.
+<div align="center">
+<img src="assets/frame2.png">
+
+*Imagen(N°18). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
 
