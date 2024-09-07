@@ -654,13 +654,47 @@ La siguiente imagen corresponde a la sección “Pasarela de pagos” donde los 
 
 **Mi perfil**
 
+La sección titulada “Mi perfil” solicita al usuario que complete información en cuatro categorías para registrar o editar sus datos. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma.
+
+*Perfil Trabajador*
+
+En este perfil, el usuario puede ver a la derecha sus herramientas correpondientes a su cuenta.
 <div align="center">
-<img src="assets/frame4.png">
+<img src="assets/Frame4.png">
 
 *Imagen(N°20). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
+*Perfil Empleador*
+En este perfil, el usuario puede ver a la derecha sus herramientas correpondientes a su cuenta.
+<div align="center">
+<img src="assets/Frame5.png">
+
+*Imagen(N°21). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+
+En la sección "Trabajos realizados" perteneciente al perfil "Trabajador", mostrara un historial laboral con acceso a detalles.  
+<div align="center">
+<img src="assets/frame6.png">
+
+*Imagen(N°22). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+
+En esta sección, se mostrara en la pantalla la Evaluación de desempeño por parte del empleador. 
+
+<div align="center">
+<img src="assets/frame7.png">
+
+*Imagen(N°23). Elaboración propia. Realizado en figma*
+</div>
+<br>
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
