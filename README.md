@@ -373,6 +373,22 @@ llevará al Landing Page desplegado.
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint 
 #### 5.2.X.1. Sprint Planning n
+
+| Sprint # | Sprint 1 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-09-02|
+| Time | 08:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint n – 1 Review Summary | No hubo sprint anterior |
+| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
+| **Sprint Goal & User Stories** | 
+| Sprint 1 Goal | Realizar la Landing Page |
+| Sprint 1 Velocity | 20 |
+| Sum of Story Points | 23 | 
+
 #### 5.2.X.2. Sprint Backlog n
 #### 5.2.X.3. Development Evidence for Sprint Review
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
@@ -388,8 +404,44 @@ llevará al Landing Page desplegado.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+Conclusiones
+
+TaskLinker aborda una brecha significativa en el mercado laboral peruano, donde existe una creciente demanda de trabajos temporales y por horas. Actualmente, tanto los trabajadores como los empleadores enfrentan dificultades para conectarse de manera eficiente, lo que resulta en una subutilización de talento y procesos de contratación ineficientes.
+
+La plataforma se adapta a un amplio segmento de la población, como estudiantes, amas de casa, jubilados y personas con empleos parciales, quienes valoran la flexibilidad laboral que ofrece TaskLinker. Esta flexibilidad es clave en un mercado laboral que busca adaptarse a diferentes estilos de vida y necesidades.
+
+TaskLinker resuelve la desconexión existente entre oferta y demanda de empleo temporal mediante una plataforma centralizada, fácil de usar, que permite a los trabajadores encontrar oportunidades laborales y a los empleadores contratar personal de manera rápida y eficiente.
+
+La plataforma tiene el potencial de convertirse en la líder del mercado en Perú para trabajos por horas, mejorando tanto la eficiencia de contratación como la satisfacción de trabajadores y empleadores.
+
+TaskLinker ofrece un modelo de negocio flexible, con una opción gratuita que incluye comisiones por transacción y un plan premium que elimina estas comisiones y ofrece beneficios adicionales. Esto facilita el acceso de usuarios con diferentes necesidades económicas y volúmenes de trabajo.
+
+Recomendaciones
+
+Implementar y promocionar un sistema de evaluaciones y reseñas confiable que genere confianza tanto en empleadores como en trabajadores. Esto mejorará la transparencia y fomentará más transacciones exitosas en la plataforma.
+
+Simplificar aún más el proceso de registro para atraer a más usuarios. Se recomienda medir la tasa de conversión y establecer metas claras para aumentar el número de inscripciones de trabajadores y empleadores.
+
+Considerar la expansión de TaskLinker a nuevas regiones dentro de Perú, particularmente en zonas urbanas donde la demanda de trabajos temporales es alta. Campañas de marketing dirigidas a estas áreas ayudarán a incrementar la base de usuarios.
+
+Para maximizar la eficiencia tanto para empleadores como para trabajadores, se recomienda mejorar las opciones de búsqueda y filtrado en la plataforma, permitiendo que ambos grupos encuentren rápidamente las oportunidades o perfiles adecuados.
+
+Además de enfocarse en PyMEs y particulares, TaskLinker podría explorar alianzas con grandes empresas o instituciones que también puedan necesitar trabajadores temporales para proyectos específicos o eventos.
+
+Es crucial realizar un seguimiento del impacto del modelo de comisiones y el plan premium para asegurar que las tarifas no representen una barrera para la participación. Ajustar el modelo en función del volumen de transacciones y el feedback de los usuarios puede ser clave para optimizar el crecimiento de la plataforma.
+
+Incluir un sistema de notificaciones que informe a los trabajadores sobre oportunidades relevantes para sus habilidades y preferencias, aumentando su participación y el número de trabajos completados.
+
 ## Video About-the-Team.
 
 # Bibliografía
+
+MetLife México. (s. f.). Formas de generar ingresos adicionales. MetLife. 
+(https://www.metlife.com.mx/blog/bienestar-financiero/formas-de-generar-ingresos-adicionales/)
+
+Universidad San Ignacio de Loyola. (2022, 28 marzo). Formas de contratación de personal de una empresa. Blog USIL Facultad de Ciencias Empresariales. (https://blogs.usil.edu.pe/facultad-ciencias-empresariales/ciencias-empresariales/formas-de-contratacion-de-personal-de-una-empresa)
+
+Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/glosario/contrato-temporal)
 
 # Anexos
