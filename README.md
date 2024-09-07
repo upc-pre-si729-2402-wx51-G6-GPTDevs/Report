@@ -667,6 +667,7 @@ En este perfil, el usuario puede ver a la derecha sus herramientas correpondient
 <br>
 
 *Perfil Empleador*
+
 En este perfil, el usuario puede ver a la derecha sus herramientas correpondientes a su cuenta.
 <div align="center">
 <img src="assets/frame5.png">
@@ -675,13 +676,24 @@ En este perfil, el usuario puede ver a la derecha sus herramientas correpondient
 </div>
 <br>
 
+**Subir Archivos**
+
+En la herramienta del perfil "Trabajador", el usuario podra subir un nuevo documento con su descripción y categoria.
+<div align="center">
+<img src="assets/frame8.png">
+
+*Imagen(N°22). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+
 **Trabajos realizados**
 
-En la sección "Trabajos realizados" perteneciente al perfil "Trabajador", mostrara un historial laboral con acceso a detalles.  
+En la herramienta "Trabajos realizados" perteneciente al perfil "Trabajador", mostrara un historial laboral con acceso a detalles.  
 <div align="center">
 <img src="assets/frame6.png">
 
-*Imagen(N°22). Elaboración propia. Realizado en figma*
+*Imagen(N°23). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -692,10 +704,30 @@ En esta sección, se mostrara en la pantalla la Evaluación de desempeño por pa
 <div align="center">
 <img src="assets/frame7.png">
 
-*Imagen(N°23). Elaboración propia. Realizado en figma*
+*Imagen(N°24). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
+**Historial de trabajos Publicados**
+
+En esta sección, pertence al perfil "Empleador". 
+
+<div align="center">
+<img src="assets/frame6.png">
+
+*Imagen(N°25). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+
+En esta sección, se mostrara en la pantalla la información del trabajo publicado y el perfil del trabajor con la breve reseña echa por el empleador.
+<div align="center">
+<img src="assets/frame9.png">
+
+*Imagen(N°26). Elaboración propia. Realizado en figma*
+</div>
+<br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
