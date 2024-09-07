@@ -729,6 +729,42 @@ En esta sección, se mostrara en la pantalla la información del trabajo publica
 </div>
 <br>
 
+**Panel de control (Dashboard)**
+
+El dashboard de la aplicación representa la vista para el usuario. En esta sección, podrán visualizar las últimas tareas publicadas, el botón para publicar y un panel de su perfil con la sección "Configuración".
+<div align="center">
+<img src="assets/frame10.png">
+
+*Imagen(N°27). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+
+Puede seleccionar 4 categorias, Filtrar Tareas por "Ubicación", "Categoria", "Fecha" y "Tipo de Contrato".
+<div align="center">
+<img src="assets/frame11.png">
+
+*Imagen(N°28). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+
+En esta sección el usuario podrá publicar una nueva tarea con el perfil "Empleador". Adicionalmente, tendra que llenar un formulario con la información correspondiente para luego registrar la tarea. Dicha tarea aparecera en la pantalla principal. 
+
+<div align="center">
+<img src="assets/frame12.png">
+
+*Imagen(N°29). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+
+En esta sección, el "Empleador" podra visualizar los detallados de los Trabajadores y evaluarlos según su perfil, si el empleador acepta a un postulante podra contratarlo.
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
 
