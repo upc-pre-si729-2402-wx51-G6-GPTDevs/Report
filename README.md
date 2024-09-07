@@ -900,7 +900,20 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <br>
 
 **Postulantes**
+<div align="center">
+<img src="assets/postulantes.png">
+
+*Imagen(N°44). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
 **Finalizar Tarea**
+<div align="center">
+<img src="assets/finalizarT.png">
+
+*Imagen(N°45). Elaboración propia. Realizado en figma*
+</div>
+<br>
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
