@@ -780,10 +780,6 @@ En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a
 </div>
 <br>
 
-**Web Application para Desktop Web Browser**
-
-**Iniciar sesión**
-
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
@@ -794,6 +790,117 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 Los Web Applications Mock-ups son representaciones visuales detalladas y de alta fidelidad del diseño de una aplicación web. A diferencia de los wireframes, que son más esquemáticos, los mock-ups incorporan colores, tipografías, imágenes y otros elementos de diseño, ofreciéndonos una vista previa realista de cómo se verá la interfaz de usuario final.
 
 Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand.
+
+**Web Application para Desktop Web Browser**
+
+**Iniciar sesión**
+<div align="center">
+<img src="assets/inicio.png">
+
+*Imagen(N°32). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+<div align="center">
+<img src="assets/registro.png">
+
+*Imagen(N°33). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Cargar tarjeta**
+<div align="center">
+<img src="assets/tarjeta.png">
+
+*Imagen(N°34). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Mi perfil**
+
+*Perfil Trabajador*
+<div align="center">
+<img src="assets/trabaja.png">
+
+*Imagen(N°35). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Perfil Empleador*
+<div align="center">
+<img src="assets/emple.png">
+
+*Imagen(N°36). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Subir Archivos**
+<div align="center">
+<img src="assets/subir.png">
+
+*Imagen(N°37). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+<div align="center">
+<img src="assets/trabajorea.png">
+
+*Imagen(N°37). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/detalles1.png">
+
+*Imagen(N°38). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Historial de trabajos Publicados**
+<div align="center">
+<img src="assets/historialtraba.png">
+
+*Imagen(N°39). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/detalles2.png">
+
+*Imagen(N°40). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Panel de control (Dashboard)**
+<div align="center">
+<img src="assets/panel.png">
+
+*Imagen(N°41). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+<div align="center">
+<img src="assets/filtro.png">
+
+*Imagen(N°42). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+<div align="center">
+<img src="assets/publicarT.png">
+
+*Imagen(N°43). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+**Finalizar Tarea**
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
