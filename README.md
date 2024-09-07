@@ -660,7 +660,7 @@ La sección titulada “Mi perfil” solicita al usuario que complete informaci�
 
 En este perfil, el usuario puede ver a la derecha sus herramientas correpondientes a su cuenta.
 <div align="center">
-<img src="assets/Frame4.png">
+<img src="assets/frame4.png">
 
 *Imagen(N°20). Elaboración propia. Realizado en figma*
 </div>
@@ -669,7 +669,7 @@ En este perfil, el usuario puede ver a la derecha sus herramientas correpondient
 *Perfil Empleador*
 En este perfil, el usuario puede ver a la derecha sus herramientas correpondientes a su cuenta.
 <div align="center">
-<img src="assets/Frame5.png">
+<img src="assets/frame5.png">
 
 *Imagen(N°21). Elaboración propia. Realizado en figma*
 </div>
