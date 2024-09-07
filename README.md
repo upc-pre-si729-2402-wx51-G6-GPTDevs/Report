@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <assets src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></assets><br>
     <strong>Ingeniería de Software - 2024-2</strong><br>
     <strong>Desarrollo de Aplicaciones Open Source - WX51</strong><br>
     <strong>Profesor: Alberto Wilmer Sanchez Seña</strong><br>
@@ -309,7 +309,7 @@ Objetivo: Entender las preferencias en la gestión de la contratación y los pag
 - Edad: 19 años
 - Duracion de la entrevista: 5:50 minutos
 
-![image](img/Entrevista1.png)
+![image](assets/Entrevista1.png)
 
 [Entrevista 1 - video:](https://bit.ly/4dHXCYk) https://bit.ly/4dHXCYk
 
@@ -323,7 +323,7 @@ Sebastián Silva es un estudiante de ingeniero de software y tiene 20 años, deb
 - Edad: 54 años
 - Duración de la entrevista: 3:24 minutos
 
-![image](img/Emilio.JPG)
+![image](assets/Emilio.JPG)
 
 [Entrevista 2 - video](https://shorturl.at/amDex): https://shorturl.at/amDex
 
@@ -338,7 +338,7 @@ Emilio Chávarri, un trabajador que busca ingresos adicionales, nos cuenta que l
 - Edad: 18 años
 - Duración de la entrevista: 7:05
 
-![image](img/entrevista4.png)
+![image](assets/entrevista4.png)
 
 [Entrevista 3 - video](https://shorturl.at/02cai): https://shorturl.at/02cai
 
@@ -353,7 +353,7 @@ En la entrevista, Veran Oliva, un estudiante de 18 años en cuarto ciclo de inge
 - Edad: 19 años
 - Duración de la entrevista: 5:42
 
-![image](img/Entrevista2.png)
+![image](assets/Entrevista2.png)
 
 [Entrevista 4 - video](https://shorturl.at/q2F6e): https://shorturl.at/q2F6e
 
@@ -366,7 +366,7 @@ Sandy Ingaruca, empleadora, necesita con frecuencia servicios temporales de sopo
 - Edad: 29 años
 - Duración de la entrevista: 7:53
 
-![image](img/monica.png)
+![image](assets/monica.png)
 
 [Entrevista 5 - video:](https://shorturl.at/eM4S4) https://shorturl.at/eM4S4
 
@@ -400,12 +400,12 @@ Para esta sección se han creado personajes ficticios, cada uno diseñado para r
 
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
 
-![image](img/SebastiánSilva.png)
+![image](assets/SebastiánSilva.png)
 *Imagen (N°2). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales** 
 
-![image](img/ValeriaGonzáles.png)
+![image](assets/ValeriaGonzáles.png)
 *Imagen (N°3). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.2. User Task Matrix
@@ -445,36 +445,36 @@ En esta sección, explicaremos en detalle los user journey mapping para dos tipo
 
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
-![image](img/seg2Map.png)
+![image](assets/seg2Map.png)
 *Imagen (N°4). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
-![image](img/seg1Map.png)
+![image](assets/seg1Map.png)
 *Imagen (N°5). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.4. Empathy Mapping
 
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
-![image](img/EmpathySebastian.png)
+![image](assets/EmpathySebastian.png)
 *Imagen (N°6). Elaboración propia. Realizado en UXPRESSIA*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
-![image](img/EmpathyValeria.png)
+![image](assets/EmpathyValeria.png)
 *Imagen (N°7). Elaboración propia. Realizado en UXPRESSIA*
 
 ### 2.3.5. As-is Scenario Mapping
 
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales** 
 
-![image](img/AsIsSebastian.png)
+![image](assets/AsIsSebastian.png)
 *Imagen (N°8). Elaboración propia. Realizado en Miro*
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
-![image](img/AsIsValeria.png)
+![image](assets/AsIsValeria.png)
 *Imagen (N°9). Elaboración propia. Realizado en Miro*
 
 ## 2.4. Ubiquitous Language
