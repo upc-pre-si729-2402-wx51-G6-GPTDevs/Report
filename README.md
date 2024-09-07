@@ -762,7 +762,23 @@ En esta sección el usuario podrá publicar una nueva tarea con el perfil "Emple
 
 **Postulantes**
 
-En esta sección, el "Empleador" podra visualizar los detallados de los Trabajadores y evaluarlos según su perfil, si el empleador acepta a un postulante podra contratarlo.
+En esta sección, el "Empleador" podra visualizar los detalles de la tarea y de los Trabajadores y evaluarlos según su perfil, si el empleador acepta a un postulante podra contratarlo.
+<div align="center">
+<img src="assets/frame13.png">
+
+*Imagen(N°30). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Finalizar Tarea**
+
+En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a travez de la plataforma podra dar su "Reseña" y seleccionar su "Puntaje" según su criterio. Con ello finalizará el proceso de trabajo y la "tarea" se borrara del panel principal.  
+<div align="center">
+<img src="assets/frame14.png">
+
+*Imagen(N°31). Elaboración propia. Realizado en figma*
+</div>
+<br>
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
