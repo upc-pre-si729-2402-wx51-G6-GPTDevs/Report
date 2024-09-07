@@ -343,7 +343,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
 <table>
   <tr>
     <th>
-      <img src="img/TonyRamos.png" alt="Foto de perfil de Tony" width="800px">
+      <img src="assets/TonyRamos.png" alt="Foto de perfil de Tony" width="800px">
     </th>
     <td valign="top">
       <p><b>Ramos Najar, Tony Alexander</b></p>
@@ -354,7 +354,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
   </tr>
   <tr>
     <th>
-      <img src="img/fotocam.png" alt="Foto de perfil de Camila" width="800px">
+      <img src="assets/fotocam.png" alt="Foto de perfil de Camila" width="800px">
     </th>
     <td valign="top">
       <p><b>Sánchez Ríos, Camila Cristina</b></p>
@@ -365,7 +365,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
   </tr>
   <tr>
     <th>
-      <img src="img/franco.jpg" alt="Foto de perfil de Gianfranco" width="800px">
+      <img src="assets/franco.jpg" alt="Foto de perfil de Gianfranco" width="800px">
     </th>
     <td valign="top">
       <p><b>Durand Vera, Gianfranco Ángel</b></p>
@@ -376,7 +376,7 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
   </tr>
   <tr>
     <th>
-      <img src="img/daniel.jpeg" alt="Foto de perfil de Daniel" width="800px">
+      <img src="assets/daniel.jpeg" alt="Foto de perfil de Daniel" width="800px">
     </th>
     <td valign="top">
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
@@ -484,7 +484,7 @@ Creemos que un sistema de evaluaciones y reseñas mejorará la confianza entre e
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="img/canva2.png">
+<img src="assets/canva2.png">
 *Imagen (N°1). Elaboración propia. Realizado en Canva*
 
 ## 1.3. Segmentos objetivo
