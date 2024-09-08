@@ -506,6 +506,8 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 
 <img src="img/sprint-1-evidencia-2.png"/>
 
+[Link Landing Page:](https://upc-pre-si729-2402-wx51-g6-gptdevs.github.io/Landing-Page/) https://upc-pre-si729-2402-wx51-g6-gptdevs.github.io/Landing-Page/
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 <!-- En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub. -->
