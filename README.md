@@ -222,7 +222,11 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
+<img src="assets/To-be1.jpg">
 *Imagen (N°10). Elaboración propia. Realizado en Miro*
+
+<img src="assets/To-Be2.jpg">
+*Imagen (N°11). Elaboración propia. Realizado en Miro*
 
 ## 3.2. User Stories
 
