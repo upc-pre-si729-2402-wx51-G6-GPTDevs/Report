@@ -219,7 +219,7 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo IV: Product Design y User Stories</p>
+        <p>Realicé el Capítulo III: Product Design y User Stories; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -282,7 +282,7 @@ de audiencia.</td>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo IV: Product Design y User Stories</p>
+        <p>Realicé el Capítulo III: Product Design y User Stories; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
