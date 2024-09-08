@@ -790,7 +790,7 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <div align="center">
 <img src="assets/d1.png">
 
-*Imagen(N°32). Elaboración propia. Realizado en figma*
+*Imagen(N°32). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -798,11 +798,25 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <div align="center">
 <img src="assets/d2.png">
 
-*Imagen(N°33). Elaboración propia. Realizado en figma*
+*Imagen(N°33). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Perfil**
+<div align="center">
+<img src="assets/d3.png">
+
+*Imagen(N°34). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Navegar por el dashboard**
+<div align="center">
+<img src="assets/d3.png">
+
+*Imagen(N°35). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
 
 ### 4.4.3. Web Applications Mock-ups
 Los Web Applications Mock-ups son representaciones visuales detalladas y de alta fidelidad del diseño de una aplicación web. A diferencia de los wireframes, que son más esquemáticos, los mock-ups incorporan colores, tipografías, imágenes y otros elementos de diseño, ofreciéndonos una vista previa realista de cómo se verá la interfaz de usuario final.
