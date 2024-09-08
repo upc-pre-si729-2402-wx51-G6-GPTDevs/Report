@@ -488,6 +488,39 @@ No se implementaron servicios en este sprint 1
 
 
 #### 5.2.X.8. Team Collaboration Insights during Sprint
+
+En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
+
+# Documentation
+
+<div align="center">
+<img src="img/colaboration7.png">
+</div>
+
+# Landing Page
+
+<div align="center">
+<img src="img/colaboration1.png">
+</div>
+
+<div align="center">
+<img src="img/colaboration2.png">
+</div>
+
+<div align="center">
+<img src="img/colaboration3.png">
+</div>
+
+<div align="center">
+<img src="img/colaboration4.png">
+</div>
+
+<div align="center">
+<img src="img/colaboration5.png">
+</div>
+
+# Landing Page:
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
