@@ -222,9 +222,11 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
 <img src="assets/To-be1.jpg">
 *Imagen (N°10). Elaboración propia. Realizado en Miro*
 
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 <img src="assets/To-Be2.jpg">
 *Imagen (N°11). Elaboración propia. Realizado en Miro*
@@ -999,12 +1001,16 @@
 <br>
 
 ## 3.3. Impact Mapping
-
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
+<br>
 <img src="assets/Mapping1.png">
 *Imagen (N°11). Elaboración propia. Realizado en Miro*
+</br>
 
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
 <img src="assets/Mapping2.png">
+
 *Imagen (N°12). Elaboración propia. Realizado en Miro*
 
 ## 3.4. Product Backlog
