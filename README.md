@@ -1032,6 +1032,7 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
+<img src="assets/database-diagram.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
