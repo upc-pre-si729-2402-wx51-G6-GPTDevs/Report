@@ -391,9 +391,24 @@ llevará al Landing Page desplegado.
 
 #### 5.2.X.2. Sprint Backlog 1
 
-Durante el primer sprint, el equipo tenía como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint era desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
+Durante el primer sprint, el equipo tuvo como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint fue desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
 
+<div align="center">
+<img src="img/TrelloSprint1.png">
+</div>
 
+link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-tb1) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-tb1
+
+| Sprint 1 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| US24 | Sección: Encontrar un trabajo flexible | EP011 | Interfaz de presentación del sitio web. | Sección en el cual el usuario trabajador podrá buscar un trabajo acorde a lo requerido  | 1 horas | Camila Sanchez | Terminado |
+| US25 | Sección: ¿Por qué escoger TaskLinker? | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se presentan datos por la cual el usuario puede escoger nuestra startup | 2 horas | Franco Durand | Terminado |
+| US26 | Sección: Contrata talento temporal | EP011 | Interfaz de presentación del sitio web. | Sección en la cual el empleador podrá buscar trabajadores que coincidan con lo requerido. | 1 horas | Jack Tello | Terminado |
+| US27 | Sección: Encuentra el trabajo ideal para tus proyectos | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se mostrarán recomendaciones para que usted como trabajador, pueda encontrar lo idónea | 2 horas | Franco Durand | Terminado |
+| US28 | Sección: ¿Qué opinan nuestros usuarios? | EP011 | Interfaz de presentación del sitio web. | Sección en donde se mostrarán testimonios de trabajadores o empleadores con respecto al uso | 1 horas | Tony Ramos | Terminado |
+| US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 1 horas | Daniel Chávarri | Terminado |
 
 #### 5.2.X.3. Development Evidence for Sprint Review
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
