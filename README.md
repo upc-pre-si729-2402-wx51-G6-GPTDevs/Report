@@ -812,7 +812,7 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 
 **User Goal: Navegar por el dashboard**
 <div align="center">
-<img src="assets/d3.png">
+<img src="assets/d4.png">
 
 *Imagen(N°35). Elaboración propia. Realizado en Lucidchart*
 </div>
@@ -829,7 +829,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/inicio.png">
 
-*Imagen(N°32). Elaboración propia. Realizado en figma*
+*Imagen(N°36). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -837,7 +837,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/registro.png">
 
-*Imagen(N°33). Elaboración propia. Realizado en figma*
+*Imagen(N°37). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -845,7 +845,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/tarjeta.png">
 
-*Imagen(N°34). Elaboración propia. Realizado en figma*
+*Imagen(N°38). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -855,7 +855,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/trabaja.png">
 
-*Imagen(N°35). Elaboración propia. Realizado en figma*
+*Imagen(N°39). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -863,7 +863,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/emple.png">
 
-*Imagen(N°36). Elaboración propia. Realizado en figma*
+*Imagen(N°40). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -871,7 +871,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/subir.png">
 
-*Imagen(N°37). Elaboración propia. Realizado en figma*
+*Imagen(N°41). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -879,7 +879,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/trabajorea.png">
 
-*Imagen(N°37). Elaboración propia. Realizado en figma*
+*Imagen(N°42). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -887,7 +887,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/detalles1.png">
 
-*Imagen(N°38). Elaboración propia. Realizado en figma*
+*Imagen(N°43). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -895,7 +895,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/historialtraba.png">
 
-*Imagen(N°39). Elaboración propia. Realizado en figma*
+*Imagen(N°44). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -903,7 +903,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/detalles2.png">
 
-*Imagen(N°40). Elaboración propia. Realizado en figma*
+*Imagen(N°45). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -911,7 +911,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/panel.png">
 
-*Imagen(N°41). Elaboración propia. Realizado en figma*
+*Imagen(N°46). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -919,7 +919,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/filtro.png">
 
-*Imagen(N°42). Elaboración propia. Realizado en figma*
+*Imagen(N°47). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -927,7 +927,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/publicarT.png">
 
-*Imagen(N°43). Elaboración propia. Realizado en figma*
+*Imagen(N°48). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -935,7 +935,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/postulantes.png">
 
-*Imagen(N°44). Elaboración propia. Realizado en figma*
+*Imagen(N°49). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -943,7 +943,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/finalizarT.png">
 
-*Imagen(N°45). Elaboración propia. Realizado en figma*
+*Imagen(N°50). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -952,6 +952,38 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido que un usuario sigue al interactuar con una aplicación web, desde el punto de entrada hasta la secuencia de una tarea específica. Estos diagramas permiten visualizar cada paso que toma el usuario, ayudándo a entender cómo navegan por la aplicación y cómo interactúan con las diferentes páginas y funciones.
 
 Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o áreas donde la experiencia del usuario podría mejorarse. Al comprender el flujo completo, puedo optimizar el diseño y la estructura de la aplicación, garantizando una experiencia de usuario fluida y coherente.
+
+**User Goal: Registrar**
+<div align="center">
+<img src="assets/d1.png">
+
+*Imagen(N°51). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Iniciar sesión**
+<div align="center">
+<img src="assets/d2.png">
+
+*Imagen(N°52). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Perfil**
+<div align="center">
+<img src="assets/d3.png">
+
+*Imagen(N°53). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Navegar por el dashboard**
+<div align="center">
+<img src="assets/d4.png">
+
+*Imagen(N°54). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
 
 ## 4.5. Web Applications Prototyping
 
