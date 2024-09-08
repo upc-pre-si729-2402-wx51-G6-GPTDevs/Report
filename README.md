@@ -780,6 +780,130 @@ En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a
 </div>
 <br>
 
+**Web Application para Mobile Web Browser**
+
+**Iniciar sesión**
+<div align="center">
+<img src="assets/mobile1-2.png">
+
+*Imagen(N°32). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+<div align="center">
+<img src="assets/mobile2-2.png">
+
+*Imagen(N°33). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Cargar tarjeta**
+<div align="center">
+<img src="assets/mobile3-2.png">
+
+*Imagen(N°34). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Mi perfil**
+
+*Perfil Trabajador*
+<div align="center">
+<img src="assets/mobile5-2.png">
+
+*Imagen(N°35). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Perfil Empleador*
+<div align="center">
+<img src="assets/mobile4-2.png">
+
+*Imagen(N°36). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Subir Archivos**
+<div align="center">
+<img src="assets/mobile6-2.png">
+
+*Imagen(N°37). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+<div align="center">
+<img src="assets/mobile7-2.png">
+
+*Imagen(N°38). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile9-2.png">
+
+*Imagen(N°39). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Historial de trabajos Publicados**
+<div align="center">
+<img src="assets/mobile11-2.png">
+
+*Imagen(N°40). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile12-2.png">
+
+*Imagen(N°41). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Panel de control (Dashboard)**
+<div align="center">
+<img src="assets/mobile13-2.png">
+
+*Imagen(N°42). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+<div align="center">
+<img src="assets/mobile18-2.png">
+
+*Imagen(N°43). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+<div align="center">
+<img src="assets/mobile14-2.png">
+
+*Imagen(N°44). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+<div align="center">
+<img src="assets/mobile17-2.png">
+
+*Imagen(N°45). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Finalizar Tarea**
+<div align="center">
+<img src="assets/mobile16-2.png">
+
+*Imagen(N°46). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
@@ -790,7 +914,7 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <div align="center">
 <img src="assets/d1.png">
 
-*Imagen(N°32). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°47). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -798,7 +922,7 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <div align="center">
 <img src="assets/d2.png">
 
-*Imagen(N°33). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°48). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -806,7 +930,7 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <div align="center">
 <img src="assets/d3.png">
 
-*Imagen(N°34). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°48). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -814,7 +938,7 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <div align="center">
 <img src="assets/d4.png">
 
-*Imagen(N°35). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°49). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -829,7 +953,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/inicio.png">
 
-*Imagen(N°36). Elaboración propia. Realizado en figma*
+*Imagen(N°50). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -837,7 +961,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/registro.png">
 
-*Imagen(N°37). Elaboración propia. Realizado en figma*
+*Imagen(N°51). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -845,7 +969,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/tarjeta.png">
 
-*Imagen(N°38). Elaboración propia. Realizado en figma*
+*Imagen(N°52). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -855,7 +979,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/trabaja.png">
 
-*Imagen(N°39). Elaboración propia. Realizado en figma*
+*Imagen(N°53). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -863,7 +987,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/emple.png">
 
-*Imagen(N°40). Elaboración propia. Realizado en figma*
+*Imagen(N°54). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -871,7 +995,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/subir.png">
 
-*Imagen(N°41). Elaboración propia. Realizado en figma*
+*Imagen(N°55). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -879,7 +1003,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/trabajorea.png">
 
-*Imagen(N°42). Elaboración propia. Realizado en figma*
+*Imagen(N°56). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -887,7 +1011,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/detalles1.png">
 
-*Imagen(N°43). Elaboración propia. Realizado en figma*
+*Imagen(N°57). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -895,7 +1019,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/historialtraba.png">
 
-*Imagen(N°44). Elaboración propia. Realizado en figma*
+*Imagen(N°58). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -903,7 +1027,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/detalles2.png">
 
-*Imagen(N°45). Elaboración propia. Realizado en figma*
+*Imagen(N°59). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -911,7 +1035,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/panel.png">
 
-*Imagen(N°46). Elaboración propia. Realizado en figma*
+*Imagen(N°60). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -919,7 +1043,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/filtro.png">
 
-*Imagen(N°47). Elaboración propia. Realizado en figma*
+*Imagen(N°62). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -927,7 +1051,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/publicarT.png">
 
-*Imagen(N°48). Elaboración propia. Realizado en figma*
+*Imagen(N°63). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -935,7 +1059,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/postulantes.png">
 
-*Imagen(N°49). Elaboración propia. Realizado en figma*
+*Imagen(N°64). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -943,7 +1067,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/finalizarT.png">
 
-*Imagen(N°50). Elaboración propia. Realizado en figma*
+*Imagen(N°65). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -953,7 +1077,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile1.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°66). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -961,7 +1085,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile2.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°67). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -969,7 +1093,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile3.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°68). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -979,7 +1103,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile5.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°69). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -987,7 +1111,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile4.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°70). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -995,7 +1119,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile6.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°71). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1003,7 +1127,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile7.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°72). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1011,7 +1135,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile9.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°73). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1019,7 +1143,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile11.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°74). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1027,7 +1151,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile12.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°75). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1035,7 +1159,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile13.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°76). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1043,7 +1167,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile18.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°77). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1051,7 +1175,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile14.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°78). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1059,7 +1183,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile17.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°79). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -1067,7 +1191,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile16.png">
 
-*Imagen(N°). Elaboración propia. Realizado en figma*
+*Imagen(N°80). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
