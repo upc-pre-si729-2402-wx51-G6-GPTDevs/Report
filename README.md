@@ -371,8 +371,8 @@ generalmente se trata de "main" o "master".
 llevará al Landing Page desplegado.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint 
-#### 5.2.X.1. Sprint Planning 1
+### 5.2.1. Sprint 
+#### 5.2.1.1. Sprint Planning 1
 
 | Sprint # | Sprint 1 |
 | -------- | -------- |
@@ -389,7 +389,7 @@ llevará al Landing Page desplegado.
 | Sprint 1 Velocity | 20 |
 | Sum of Story Points | 23 | 
 
-#### 5.2.X.2. Sprint Backlog 1
+#### 5.2.1.2. Sprint Backlog 1
 
 Durante el primer sprint, el equipo tuvo como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint fue desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
 
@@ -410,7 +410,7 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | US28 | Sección: ¿Qué opinan nuestros usuarios? | EP011 | Interfaz de presentación del sitio web. | Sección en donde se mostrarán testimonios de trabajadores o empleadores con respecto al uso | 1 horas | Tony Ramos | Terminado |
 | US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 1 horas | Daniel Chávarri | Terminado |
 
-#### 5.2.X.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review
 
 En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación de la Landing Page para nuestra startup, TaskLinker. Este avance representa el primer punto de contacto con nuestros usuarios, diseñado para captar la atención de visitantes potenciales y comunicar de manera efectiva nuestra propuesta de valor. Durante este sprint, se realizaron diversos commits en el repositorio del proyecto, los cuales reflejan las tareas completadas y los ajustes realizados para optimizar la presentación visual, la funcionalidad y la experiencia de usuario de la Landing Page. A continuación, se detalla una tabla que muestra los commits relevantes realizados en este sprint.
 
@@ -436,11 +436,12 @@ En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación d
 |     |  feature/contact-footer   | 06005b42bf3bb76932a91cb30a94b4067d9b64f7 | Add files via upload | Add files via upload | 07/09/2024 |
 |     |  feature/contact-footer   | 03fe5f2404c9f3cd0e116585367ec4d980f60c3f | Update | index.html | 07/09/2024 |
 |     |  develop   | c75ee84b7108c30369e1558843a29302a41d6824 | Merge Branch | 'feature/contact-footer' into develop | 07/09/2024 |
+|     |  feature/segment-2   | e61c6e73974314fe15df3467a64367ec0b618520 |feat: add segment2 | 08/09/2024 |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 
-#### 5.2.X.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante este Sprint, completamos la implementación de la Landing Page de TaskLinker, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
 
@@ -480,18 +481,30 @@ Sección para contartar con nosotros
 <img src="img/landing7.png">
 </div>
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 No se implementaron servicios en este sprint 1
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos:
 
+- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+<img src="img/sprint-1-evidencia-1.png"/>
 
-En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
+- 2: Ir a la configuración del repositorio, luego a la seccion *Pages* y seleccionar la rama *main* para el despliegue
 
-## Documentation
+<img src="img/sprint-1-evidencia-2.png"/>
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<!-- En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub. -->
+
+<img src="img/sprint-1-insights-1.png"/>
+
+<img src="img/sprint-1-insights-2.png"/>
+
+<!-- ## Documentation
 
 <div align="center">
 <img src="img/colaboration7.png">
@@ -517,7 +530,7 @@ En esta sección, el equipo presenta un resumen de las actividades de implementa
 
 <div align="center">
 <img src="img/colaboration5.png">
-</div>
+</div> -->
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
