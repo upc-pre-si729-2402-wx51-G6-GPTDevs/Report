@@ -375,9 +375,13 @@ Resumen:
 Mónica García, de 29 años, trabaja en el área de Recursos Humanos en una empresa de transporte. Frecuentemente necesita servicios temporales, como conductores con licencia A3C para mover buses a talleres, personal para el comedor, y apoyo administrativo durante operaciones importantes. Al seleccionar trabajadores, Mónica prioriza competencias específicas, como la licencia adecuada para los conductores y estudios universitarios en el caso del personal administrativo. Su experiencia contratando a través de redes sociales ha sido poco efectiva, ya que no ha logrado cubrir la demanda de personal. Mónica considera que una plataforma digital podría facilitar la contratación de personal temporal. Para ella, es fundamental revisar perfiles detallados y reseñas antes de tomar una decisión. Entre los principales retos que ha enfrentado están la falta de personal disponible y los retrasos en las operaciones debido a la escasez de trabajadores. Mónica valora la flexibilidad en los horarios y prefiere gestionar tanto la contratación como el pago a través de la plataforma, buscando una solución más ágil y eficiente.
 
 **Entrevista #6**
-- Nombre: 
-- Edad: 
-- Duración de la entrevista: 
+- Nombre: Estrella Ticona
+- Edad: 19 años
+- Duración de la entrevista: 3:35 minutos
+
+ ![image](assets/entrevista6.png)
+
+[Entrevista 5 - video:](https://bit.ly/3ZgruXh) https://bit.ly/3ZgruXh
 
 Resumen:
 
