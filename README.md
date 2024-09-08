@@ -947,6 +947,130 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 </div>
 <br>
 
+**Web Application para Mobile Web Browser**
+
+**Iniciar sesión**
+<div align="center">
+<img src="assets/mobile1.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+<div align="center">
+<img src="assets/mobile2.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Cargar tarjeta**
+<div align="center">
+<img src="assets/mobile3.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Mi perfil**
+
+*Perfil Trabajador*
+<div align="center">
+<img src="assets/mobile5.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Perfil Empleador*
+<div align="center">
+<img src="assets/mobile4.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Subir Archivos**
+<div align="center">
+<img src="assets/mobile6.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+<div align="center">
+<img src="assets/mobile7.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile9.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Historial de trabajos Publicados**
+<div align="center">
+<img src="assets/mobile11.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile12.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Panel de control (Dashboard)**
+<div align="center">
+<img src="assets/mobile13.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+<div align="center">
+<img src="assets/mobile18.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+<div align="center">
+<img src="assets/mobile14.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+<div align="center">
+<img src="assets/mobile17.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Finalizar Tarea**
+<div align="center">
+<img src="assets/mobile16.png">
+
+*Imagen(N°). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido que un usuario sigue al interactuar con una aplicación web, desde el punto de entrada hasta la secuencia de una tarea específica. Estos diagramas permiten visualizar cada paso que toma el usuario, ayudándo a entender cómo navegan por la aplicación y cómo interactúan con las diferentes páginas y funciones.
