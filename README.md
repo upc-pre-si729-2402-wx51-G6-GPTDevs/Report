@@ -443,7 +443,7 @@ Para el sprint 1 desarrollamos el acceptance test en gherkin de las user stories
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
-| [https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git) | main | 9e969b3b514bb37875e823719070902950fb04b4 | add | add:create US24 gherkin | 08/09/2024 |
+| [https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git) | main | 9e969b3b514bb37875e823719070902950fb04b4 | add | add:create US24 gherkin | 08/09/2024 |
 |     |     | 7005982bf59ee9693cf78743f51afd794da40327 | add | add:create US25 gherkin | 08/09/2024 |
 |     |     | 7327f3405904f5fe23e1ea62dba90404d4756268 | add | add:create US26 gherkin | 08/09/2024 |
 |     |     | 4ab2d1c3221e0348a6dce9e2e1ddb4755b1606db | add | add:create US27 gherkin | 08/09/2024 |
