@@ -210,7 +210,7 @@ de audiencia.</b></td>
       <td>
         <p><b>Ramos Najar, Tony Alexander  </b></p>
         <p><b>TB1:</b></p>
-        <p>Capítulo II: Requirements Elicitation & Analysis y User Stories</p>
+        <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé un optimo trabajo en equipo, para crear, visualizar y corregir detalles importantes, además fui flexible con el tiempo de entrega de los capítulos</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -273,7 +273,7 @@ de audiencia.</td>
       <td>
         <p><b>Ramos Najar, Tony Alexander  </b></p>
         <p><b>TB1:</b></p>
-        <p>Capítulo II: Requirements Elicitation & Analysis y User Stories</p>
+        <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé correctamente lo establecido para esta entrega, además apoyé en otras definiciones a mi team Collab</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
