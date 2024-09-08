@@ -933,6 +933,8 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <br>
 
 **User Goal: Perfil**
+
+En el panel "Perfil", el usuario puede editar su nombre, ubicación y biografía, además de visualizar su puntuación. También tiene la opción de subir o actualizar archivos y consultar el historial de trabajos realizados donde podra visualizar su desempeño y reseñas por parte del empleador. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
 <div align="center">
 <img src="assets/d3.png">
 
@@ -941,6 +943,16 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <br>
 
 **User Goal: Navegar por el dashboard**
+
+Una vez que el usuario accede al dashboard, puede publicar una nueva tarea completando un formulario con los siguientes detalles: título, descripción, fecha de ejecución, tipo de servicio, categoría, ubicación y presupuesto. Tras llenar todos los campos, el usuario hace clic en el botón "Publicar", lo que lo redirige a la sección de "Postulaciones". En esta sección, los contratistas o usuarios interesados pueden postularse para realizar la tarea. Se muestra una lista de postulantes con su nombre, puntuación y opciones de acción, como "Ver perfil" o "Contratar".
+
+En la sección "Finalizar Tarea", el usuario tiene la opción de concluir el proceso dejando una reseña y una puntuación para el contratista que completó la tarea. Luego, hace clic en el botón "Finalizar" para cerrar la tarea oficialmente.
+
+En la sección "Perfil de Usuario", el usuario puede revisar su información personal y su historial de tareas publicadas o realizadas. Además, el perfil incluye una puntuación basada en las reseñas de trabajos previos.
+
+En la sección "Visualización de Tareas", el usuario puede explorar una lista de tareas disponibles a las que puede postularse. Cada tarea tiene un botón de "Aplicar", lo que permite al usuario enviar su candidatura para las tareas que le interesen.
+
+Por último, en la sección "Filtrar Tareas", el usuario puede refinar la búsqueda de tareas según sus criterios, como el tipo de servicio, ubicación, grupo de trabajo y rango de precios. Al hacer clic en el botón "Aplicar Filtro", las tareas visibles se actualizan de acuerdo con las preferencias seleccionadas.
 <div align="center">
 <img src="assets/d4.png">
 
@@ -1229,6 +1241,8 @@ El usuario introduce su correo y contraseña, luego hace clic en el botón "Log 
 <br>
 
 **User Goal: Perfil**
+
+En el panel "Perfil", el usuario puede editar su nombre, ubicación y biografía, además de visualizar su puntuación. También tiene la opción de subir o actualizar archivos y consultar el historial de trabajos realizados donde podra visualizar su desempeño y reseñas por parte del empleador. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
 <div align="center">
 <img src="assets/d3_3.png">
 
@@ -1237,6 +1251,16 @@ El usuario introduce su correo y contraseña, luego hace clic en el botón "Log 
 <br>
 
 **User Goal: Navegar por el dashboard**
+
+Una vez que el usuario accede al dashboard, puede publicar una nueva tarea completando un formulario con los siguientes detalles: título, descripción, fecha de ejecución, tipo de servicio, categoría, ubicación y presupuesto. Tras llenar todos los campos, el usuario hace clic en el botón "Publicar", lo que lo redirige a la sección de "Postulaciones". En esta sección, los contratistas o usuarios interesados pueden postularse para realizar la tarea. Se muestra una lista de postulantes con su nombre, puntuación y opciones de acción, como "Ver perfil" o "Contratar".
+
+En la sección "Finalizar Tarea", el usuario tiene la opción de concluir el proceso dejando una reseña y una puntuación para el contratista que completó la tarea. Luego, hace clic en el botón "Finalizar" para cerrar la tarea oficialmente.
+
+En la sección "Perfil de Usuario", el usuario puede revisar su información personal y su historial de tareas publicadas o realizadas. Además, el perfil incluye una puntuación basada en las reseñas de trabajos previos.
+
+En la sección "Visualización de Tareas", el usuario puede explorar una lista de tareas disponibles a las que puede postularse. Cada tarea tiene un botón de "Aplicar", lo que permite al usuario enviar su candidatura para las tareas que le interesen.
+
+Por último, en la sección "Filtrar Tareas", el usuario puede refinar la búsqueda de tareas según sus criterios, como el tipo de servicio, ubicación, grupo de trabajo y rango de precios. Al hacer clic en el botón "Aplicar Filtro", las tareas visibles se actualizan de acuerdo con las preferencias seleccionadas.
 <div align="center">
 <img src="assets/d4_4.png">
 
