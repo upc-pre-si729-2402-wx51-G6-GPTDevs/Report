@@ -438,9 +438,55 @@ En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación d
 |     |  develop   | c75ee84b7108c30369e1558843a29302a41d6824 | Merge Branch | 'feature/contact-footer' into develop | 07/09/2024 |
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
+
+
 #### 5.2.X.5. Execution Evidence for Sprint Review
+
+Durante este Sprint, completamos la implementación de la Landing Page de TaskLinker, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
+
+<div align="center">
+<img src="img/landing1.png">
+</div>
+
+Sección para usuarios que buscan trabajo
+
+<div align="center">
+<img src="img/landing2.png">
+</div>
+
+<div align="center">
+<img src="img/landing3.png">
+</div>
+
+Sección para empleadores que buscan trabajadores
+
+<div align="center">
+<img src="img/landing4.png">
+</div>
+
+<div align="center">
+<img src="img/landing5.png">
+</div>
+
+Sección sobre comentarios de nuestros usuarios
+
+<div align="center">
+<img src="img/landing6.png">
+</div>
+
+Sección para contartar con nosotros 
+
+<div align="center">
+<img src="img/landing7.png">
+</div>
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
+
+No se implementaron servicios en este sprint 1
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review
+
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
