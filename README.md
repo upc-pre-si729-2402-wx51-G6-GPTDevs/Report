@@ -372,7 +372,7 @@ llevará al Landing Page desplegado.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.X. Sprint 
-#### 5.2.X.1. Sprint Planning n
+#### 5.2.X.1. Sprint Planning 1
 
 | Sprint # | Sprint 1 |
 | -------- | -------- |
@@ -389,7 +389,12 @@ llevará al Landing Page desplegado.
 | Sprint 1 Velocity | 20 |
 | Sum of Story Points | 23 | 
 
-#### 5.2.X.2. Sprint Backlog n
+#### 5.2.X.2. Sprint Backlog 1
+
+Durante el primer sprint, el equipo tenía como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint era desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
+
+
+
 #### 5.2.X.3. Development Evidence for Sprint Review
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
 #### 5.2.X.5. Execution Evidence for Sprint Review
