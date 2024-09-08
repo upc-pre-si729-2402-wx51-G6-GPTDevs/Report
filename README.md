@@ -995,8 +995,11 @@
 
 ## 3.3. Impact Mapping
 
+<img src="assets/Mapping1.png">
 *Imagen (N°11). Elaboración propia. Realizado en Miro*
 
+
+<img src="assets/Mapping2.png">
 *Imagen (N°12). Elaboración propia. Realizado en Miro*
 
 ## 3.4. Product Backlog
