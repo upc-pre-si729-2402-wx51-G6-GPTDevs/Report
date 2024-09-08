@@ -941,7 +941,95 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="assets/class-diagram.png">
+
 ### 4.7.2. Class Dictionary
+
+**Class User**
+
+| Attribute          | Type          | Description                                   |
+|--------------------|---------------|-----------------------------------------------|
+| id                 | int           | Unique identifier for the user                |
+| name               | string        | Name of the user                              |
+| email              | string        | Email address of the user                     |
+| password           | string        | Password for user authentication              |
+| phoneNumber        | int           | Phone number of the user                      |
+| userType           | UserType      | Type of user                                  |
+| paymentCardId      | int           | Identifier for the user's payment card        |
+| jobHistoryPosted   | int[]         | List of IDs of jobs posted by the user        |
+| jobHistoryApplied  | int[]         | List of IDs of jobs applied to by the user    |
+| receivedReviews    | int[]         | List of IDs of reviews received by the user   |
+| messages           | int[]         | List of message IDs associated with the user  |
+| notifications      | int[]         | List of notification IDs associated with the user |
+
+**Class Job**
+
+| Attribute    | Type          | Description                                      |
+|--------------|---------------|--------------------------------------------------|
+| id           | int           | Unique identifier for the job                    |
+| employerId   | int           | ID of the employer who posted the job            |
+| workerId     | int           | ID of the worker assigned to the job   |
+| title        | string        | Title of the job                                 |
+| description  | string        | Detailed description of the job                  |
+| publishDate  | string        | Date when the job was published                  |
+| rate         | float         | Rate offered for the job                         |
+| status       | JobStatusType | Current status of the job    |
+| location     | string        | Location where the job is based                  |
+| category     | string        | Category or type of job                          |
+| applicants   | int[]         | List of applicant IDs who applied for the job    |
+| reviewId     | int           | ID of the review associated with the job         |
+
+**Class Review**
+
+| Attribute   | Type    | Description                                      |
+|-------------|---------|--------------------------------------------------|
+| id          | int     | Unique identifier for the review                 |
+| postJobId   | int     | ID of the job associated with the review         |
+| employerId  | int     | ID of the employer who provided or received the review |
+| workerId    | int     | ID of the worker who provided or received the review |
+| rating      | float   | Rating score given in the review                 |
+| feedback    | string  | Feedback or comments provided in the review      |
+
+**Class Notification**
+
+| Attribute  | Type                  | Description                                       |
+|------------|-----------------------|---------------------------------------------------|
+| id         | int                   | Unique identifier for the notification            |
+| userId     | int                   | ID of the user receiving the notification         |
+| message    | string                | Content of the notification message               |
+| date       | string                | Date when the notification was created            |
+| status     | NotificationStatusType | Status of the notification (e.g., read, unread)   |
+
+
+**Class Message**
+
+| Attribute  | Type    | Description                                       |
+|------------|---------|---------------------------------------------------|
+| id         | int     | Unique identifier for the message                 |
+| senderId   | int     | ID of the user who sent the message               |
+| receiverId | int     | ID of the user receiving the message              |
+| jobId      | int     | ID of the job associated with the message         |
+| date       | string  | Date when the message was sent                    |
+| content    | string  | Content of the message                            |
+
+**Class Payment**
+
+| Attribute      | Type    | Description                                       |
+|----------------|---------|---------------------------------------------------|
+| id             | int     | Unique identifier for the payment                 |
+| paymentCardId  | int     | ID of the payment card used for the transaction   |
+| paymentDate    | string  | Date when the payment was made                    |
+
+
+**Class PaymentCard**
+
+| Attribute      | Type    | Description                                       |
+|----------------|---------|---------------------------------------------------|
+| id             | int     | Unique identifier for the payment card            |
+| cardNumber     | int     | Number of the payment card                        |
+| expirationDate | string  | Expiration date of the card (MM/YY format)        |
+| securityCode   | int     | Security code (CVV) of the payment card           |
+
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
