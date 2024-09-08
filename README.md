@@ -440,6 +440,16 @@ En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación d
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Para el sprint 1 desarrollamos el acceptance test en gherkin de las user stories más importantes que se implementaron en nuestra Landing Page.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| [https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git) | main | 9e969b3b514bb37875e823719070902950fb04b4 | add | add:create US24 gherkin | 08/09/2024 |
+|     |     | 7005982bf59ee9693cf78743f51afd794da40327 | add | add:create US25 gherkin | 08/09/2024 |
+|     |     | 7327f3405904f5fe23e1ea62dba90404d4756268 | add | add:create US26 gherkin | 08/09/2024 |
+|     |     | 4ab2d1c3221e0348a6dce9e2e1ddb4755b1606db | add | add:create US27 gherkin | 08/09/2024 |
+|     |     | 0f8d88d9f5c23b111062a7073b36a759fe229f10 | add | add:create US28 gherkin | 08/09/2024 |
+|     |     | 7015a97b16fe0c643579e953eb2f888be2e0e8c7 | add | add:create US29 gherkin | 08/09/2024 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
