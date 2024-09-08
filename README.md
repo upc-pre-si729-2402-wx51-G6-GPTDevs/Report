@@ -279,7 +279,8 @@ La elección tipográfica para TaskLinker es un componente esencial que compleme
 - Interlineado: 1.1
 - Weights: Bold - Medium - Regular - Light
 
-<center> <img src="assets/tipografia.png" style="width: 400px;"/></center>
+<center> 
+<img src="assets/tipografia.png" style="width: 400px;"/></center>
 
 ### 4.1.2. Web Style Guidelines
 La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
@@ -911,6 +912,9 @@ Los Web Applications Wireflow Diagrams son una combinación de wireframes y fluj
 Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
 
 **User Goal: Registrar**
+
+ El usuario selecciona la opción "Register", completa los campos solicitados y hace clic en el botón "Registrar". A continuación, se muestra el panel "Add Card", donde debe llenar los campos relacionados con su tarjeta y correo electrónico. Una vez que el proceso de pago se complete exitosamente, se notifica al usuario con un mensaje confirmando el vínculo de su tarjeta con la plataforma. Del mismo modo, si el usuario desea retirar su información o actualizar lo podrá hacer a través de su perfil. Finalmente hacer clic en el botón "Aceptar".
+
 <div align="center">
 <img src="assets/d1.png">
 
@@ -919,6 +923,8 @@ Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permite
 <br>
 
 **User Goal: Iniciar sesión**
+
+ El usuario introduce su correo y contraseña, luego hace clic en el botón "Log In". Después, se le redirige al panel de perfil, donde podrá editar su información personal y acceder a las herramientas según su perfil "Trabajador" o "Empleador".
 <div align="center">
 <img src="assets/d2.png">
 
@@ -1202,6 +1208,9 @@ Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido qu
 Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o áreas donde la experiencia del usuario podría mejorarse. Al comprender el flujo completo, puedo optimizar el diseño y la estructura de la aplicación, garantizando una experiencia de usuario fluida y coherente.
 
 **User Goal: Registrar**
+
+ El usuario selecciona la opción "Register", completa los campos solicitados y hace clic en el botón "Registrar". A continuación, se muestra el panel "Add Card", donde debe llenar los campos relacionados con su tarjeta y correo electrónico. Una vez que el proceso de pago se complete exitosamente, se notifica al usuario con un mensaje confirmando el vínculo de su tarjeta con la plataforma. Del mismo modo, si el usuario desea retirar su información o actualizar lo podrá hacer a través de su perfil. Finalmente hacer clic en el botón "Aceptar".
+
 <div align="center">
 <img src="assets/d1_1.png">
 
@@ -1210,6 +1219,8 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 <br>
 
 **User Goal: Iniciar sesión**
+
+El usuario introduce su correo y contraseña, luego hace clic en el botón "Log In". Después, se le redirige al panel de perfil, donde podrá editar su información personal y acceder a las herramientas según su perfil "Trabajador" o "Empleador".
 <div align="center">
 <img src="assets/d2_2.png">
 
