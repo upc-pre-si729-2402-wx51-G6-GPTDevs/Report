@@ -225,6 +225,7 @@
 <img src="assets/To-be1.jpg">
 *Imagen (N°10). Elaboración propia. Realizado en Miro*
 
+
 <img src="assets/To-Be2.jpg">
 *Imagen (N°11). Elaboración propia. Realizado en Miro*
 
