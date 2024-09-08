@@ -90,6 +90,14 @@
 </table>
 
 # Project Report Collaboration Insights
+[Link de repositorio del reporte:](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Report): https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Report
+
+
+TB1:
+
+<img src="assets/insights-tb1-1.png"/>
+
+<img src="assets/insights-tb1-2.png"/>
 
 # Contenido
 [Student Outcome](#student-outcome)
