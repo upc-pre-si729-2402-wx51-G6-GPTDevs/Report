@@ -371,8 +371,8 @@ generalmente se trata de "main" o "master".
 llevará al Landing Page desplegado.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.X. Sprint 
-#### 5.2.X.1. Sprint Planning 1
+### 5.2.1. Sprint 
+#### 5.2.1.1. Sprint Planning 1
 
 | Sprint # | Sprint 1 |
 | -------- | -------- |
@@ -389,7 +389,7 @@ llevará al Landing Page desplegado.
 | Sprint 1 Velocity | 20 |
 | Sum of Story Points | 23 | 
 
-#### 5.2.X.2. Sprint Backlog 1
+#### 5.2.1.2. Sprint Backlog 1
 
 Durante el primer sprint, el equipo tuvo como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint fue desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
 
@@ -410,7 +410,7 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | US28 | Sección: ¿Qué opinan nuestros usuarios? | EP011 | Interfaz de presentación del sitio web. | Sección en donde se mostrarán testimonios de trabajadores o empleadores con respecto al uso | 1 horas | Tony Ramos | Terminado |
 | US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 1 horas | Daniel Chávarri | Terminado |
 
-#### 5.2.X.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review
 
 En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación de la Landing Page para nuestra startup, TaskLinker. Este avance representa el primer punto de contacto con nuestros usuarios, diseñado para captar la atención de visitantes potenciales y comunicar de manera efectiva nuestra propuesta de valor. Durante este sprint, se realizaron diversos commits en el repositorio del proyecto, los cuales reflejan las tareas completadas y los ajustes realizados para optimizar la presentación visual, la funcionalidad y la experiencia de usuario de la Landing Page. A continuación, se detalla una tabla que muestra los commits relevantes realizados en este sprint.
 
@@ -437,10 +437,20 @@ En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación d
 |     |  feature/contact-footer   | 03fe5f2404c9f3cd0e116585367ec4d980f60c3f | Update | index.html | 07/09/2024 |
 |     |  develop   | c75ee84b7108c30369e1558843a29302a41d6824 | Merge Branch | 'feature/contact-footer' into develop | 07/09/2024 |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Para el sprint 1 desarrollamos el acceptance test en gherkin de las user stories más importantes que se implementaron en nuestra Landing Page.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| [https://github.com/upc-pre-202401-si729-ws51-eventwear/Acceptance-Test](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git) | main | 9e969b3b514bb37875e823719070902950fb04b4 | add | add:create US24 gherkin | 08/09/2024 |
+|     |     | 7005982bf59ee9693cf78743f51afd794da40327 | add | add:create US25 gherkin | 08/09/2024 |
+|     |     | 7327f3405904f5fe23e1ea62dba90404d4756268 | add | add:create US26 gherkin | 08/09/2024 |
+|     |     | 4ab2d1c3221e0348a6dce9e2e1ddb4755b1606db | add | add:create US27 gherkin | 08/09/2024 |
+|     |     | 0f8d88d9f5c23b111062a7073b36a759fe229f10 | add | add:create US28 gherkin | 08/09/2024 |
+|     |     | 7015a97b16fe0c643579e953eb2f888be2e0e8c7 | add | add:create US29 gherkin | 08/09/2024 |
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
 Durante este Sprint, completamos la implementación de la Landing Page de TaskLinker, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
 
@@ -480,14 +490,14 @@ Sección para contartar con nosotros
 <img src="img/landing7.png">
 </div>
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
 No se implementaron servicios en este sprint 1
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
 
