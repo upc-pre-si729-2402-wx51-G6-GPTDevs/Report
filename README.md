@@ -955,7 +955,7 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 
 **User Goal: Registrar**
 <div align="center">
-<img src="assets/d1.png">
+<img src="assets/d1_1.png">
 
 *Imagen(N°51). Elaboración propia. Realizado en Lucidchart*
 </div>
@@ -963,7 +963,7 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 
 **User Goal: Iniciar sesión**
 <div align="center">
-<img src="assets/d2.png">
+<img src="assets/d2_2.png">
 
 *Imagen(N°52). Elaboración propia. Realizado en Lucidchart*
 </div>
@@ -971,7 +971,7 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 
 **User Goal: Perfil**
 <div align="center">
-<img src="assets/d3.png">
+<img src="assets/d3_3.png">
 
 *Imagen(N°53). Elaboración propia. Realizado en Lucidchart*
 </div>
@@ -979,7 +979,7 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 
 **User Goal: Navegar por el dashboard**
 <div align="center">
-<img src="assets/d4.png">
+<img src="assets/d4_4.png">
 
 *Imagen(N°54). Elaboración propia. Realizado en Lucidchart*
 </div>
