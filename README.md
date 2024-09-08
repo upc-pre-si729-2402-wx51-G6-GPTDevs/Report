@@ -411,6 +411,32 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 1 horas | Daniel Chávarri | Terminado |
 
 #### 5.2.X.3. Development Evidence for Sprint Review
+
+En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación de la Landing Page para nuestra startup, TaskLinker. Este avance representa el primer punto de contacto con nuestros usuarios, diseñado para captar la atención de visitantes potenciales y comunicar de manera efectiva nuestra propuesta de valor. Durante este sprint, se realizaron diversos commits en el repositorio del proyecto, los cuales reflejan las tareas completadas y los ajustes realizados para optimizar la presentación visual, la funcionalidad y la experiencia de usuario de la Landing Page. A continuación, se detalla una tabla que muestra los commits relevantes realizados en este sprint.
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| [https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Landing-Page.git) | develop | cbdbf20f93acf052f14249c04a31a477d409b37d | first commit | first commit | 06/09/2024 |
+|     |  develop   | 22da688441ef8fc92da4947d90f127952289871b | feat | add globals | 06/09/2024 |
+|     |  develop   | 8421a48f7a22443880b411c5801ac01b9786ad61 | feat | update global css | 06/09/2024 |
+|     |  feature/testimonials   | 1bf631b6bb65571f23cde29c30e41eb518195507 | feat | update global | 07/09/2024 |
+|     |  feature/header-hero   | 0f3ef5c68d997953be0b20387c4a7bdc14aeecaa | feat | add header, hero | 07/09/2024 |
+|     |  feature/header-hero   | cb5e69eb3e36f71118f081d151e2a63a624430ce | feat | add styles | 07/09/2024 |
+|     |  feature/header-hero   | 4d5a52c1476f8ecb46e4531d6f38b6a4bf8118c6 | feat | add script | 07/09/2024 |
+|     |  feature/testimonials   | af8b0b837b273da9e87baf64fac2919c870a594a | Add files via upload | Add files via upload | 07/09/2024 |
+|     |  feature/testimonials   | a7121338708570e17368486a891c211278d2cef9 | add | assets | 07/09/2024 |
+|     |  feature/testimonials   | 6cbd0340035eb553f6badef31a7fbec9dc9c6c53 | add | index.html | 07/09/2024 |
+|     |  develop   | 1d11caedd9d8479052b833c93fe6b1a07b40b499 | feat | add seg1 | 07/09/2024 |
+|     |  feature/segment-1   | 4f647b0fbf3d98d99cb4b04b5ff039cde6608d14 | feat | add style | 07/09/2024 |
+|     |  develop  | 89f3fdc67935fbdb28ac087c1b4d381007754115 | Merge Branch | 'feature/header-hero' into develop | 07/09/2024 |
+|     |  develop  | a11619091b02385eb70ee9bbfa1b9fd79d473023 | Merge Branch | 'feature/segment-1' into develop | 07/09/2024 |
+|     |  develop   | 9ac102a1e0a3095a21aa6914b7ae0c17c2cdf953 | Merge Branch | 'feature/testimonials' into develop | 07/09/2024 |
+|     |  feature/contact-footer   | 3f7ceb0fc2c9b1d8deb2ebb57fcdec40581fdd0d | Add files via upload | Add files via upload | 07/09/2024 |
+|     |  feature/contact-footer   | 06005b42bf3bb76932a91cb30a94b4067d9b64f7 | Add files via upload | Add files via upload | 07/09/2024 |
+|     |  feature/contact-footer   | 03fe5f2404c9f3cd0e116585367ec4d980f60c3f | Update | index.html | 07/09/2024 |
+|     |  develop   | c75ee84b7108c30369e1558843a29302a41d6824 | Merge Branch | 'feature/contact-footer' into develop | 07/09/2024 |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review
 #### 5.2.X.5. Execution Evidence for Sprint Review
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review
