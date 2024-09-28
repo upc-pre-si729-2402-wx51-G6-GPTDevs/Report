@@ -371,7 +371,7 @@ generalmente se trata de "main" o "master".
 llevará al Landing Page desplegado.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 
+### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
 | Sprint # | Sprint 1 |
@@ -543,6 +543,18 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 <div align="center">
 <img src="img/colaboration5.png">
 </div> -->
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.2.3. Development Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
