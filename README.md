@@ -227,9 +227,9 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
-        <p>Realicé el Capítulo III: Product Design y User Stories; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
+        <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Correcciones al reporte los agregué a los User Stories los Technical Stories y trabajé en el desarrollo del frontend Toolbar y Traduccion. Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -239,16 +239,16 @@ de audiencia.</b></td>
         <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
         </p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Realicé commits para la web application siguendo las convenciones para una comunicación escrita, realice el deployment de la aplicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones. </p>
+        <p>Capítulo III: Requirements Specification</p>
         <p><b>TP1:</b></p>
-        <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva.</p>
+        <p>.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -267,7 +267,7 @@ de audiencia.</b></td>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, en esta primera entrega se logró una buena comunicación entre los miembros del equipo. Cada participante estuvo activo y presento sus ideas de manera que todos pudieran entenderse entre sí. Concluimos que aún hay pequeñas dificultades para expresarnos con todos, pero que se puede solucionar con tiempo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, .</p>
+        <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la mejora de user storires. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, </p>
         <p><strong>TF:</strong></p>
@@ -290,9 +290,9 @@ de audiencia.</td>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
-        <p>Realicé el Capítulo III: Product Design y User Stories; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
+        <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Correcciones al reporte los agregué a los User Stories los Technical Stories y trabajé en el desarrollo del frontend Toolbar y Traduccion. Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -302,7 +302,8 @@ de audiencia.</td>
         <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
         </p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Durante el desarrollo para esta entrega, se puso énfasis en abordar los puntos a mejorar en el feedback del trabajo anterior, como lo fueron el mejorar la redacción de
+algunas user stories</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -311,7 +312,7 @@ de audiencia.</td>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
         <p><b>TP1:</b></p>
-        <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva.</p>
+        <p>.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -330,7 +331,8 @@ de audiencia.</td>
         <p><strong>TB1:</strong></p>
         <p>Se participó equitativamente el informe. En conclusión, estamos en camino para desempeñarnos de manera equitativa en el trabajo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, .</p>
+        <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el
+informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, </p>
         <p><strong>TF:</strong></p>
@@ -504,7 +506,6 @@ Este segmento incluye a estudiantes que necesitan ingresos para cubrir sus estud
 **2. Empleadores que requieren soluciones laborales temporales:**
 
 Este segmento abarca a pequeñas y medianas empresas (PyMEs) que necesitan personal temporal para cubrir picos de trabajo o tareas específicas, particulares que requieren servicios domésticos, reparaciones, o tareas puntuales sin compromiso a largo plazo, organizadores de eventos que necesitan personal por horas para diferentes funciones como catering o atención al cliente, y startups que demandan flexibilidad en la contratación para adaptarse al ritmo dinámico de su crecimiento. Estos empleadores buscan soluciones rápidas, confiables y eficientes para satisfacer sus necesidades laborales temporales.
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -830,7 +831,7 @@ El proceso mediante el cual TaskLinker conecta a los Task Seekers con los Task P
 
 11. **Task Posting: (Publicación de Tareas):**
 La acción de los Task Providers al listar tareas o trabajos disponibles en la plataforma, especificando los detalles y requisitos para atraer a los Task Seekers adecuados.
-   
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
@@ -845,772 +846,72 @@ La acción de los Task Providers al listar tareas o trabajos disponibles en la p
 
 ## 3.2. User Stories
 
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="1">EPIC ID</td>
-            <td style="text-align:center;" colspan="1">TÍTULO</td>
-           <td style="text-align:center;" colspan ="1"> DESCRIPCIÓN</td>
-        </tr>
-        <tr>
-            <td>EPIC-001</td> 
-            <td>Navegación Intuitiva y Accesible </td>
-            <td>Como usuario, quiero un sistema de navegación intuitivo que me permita acceder rápidamente a las principales funciones de la plataforma, como buscar trabajos, gestionar mi perfil y revisar notificaciones, para mejorar mi experiencia y eficiencia al utilizar TaskLinker. </td>
-        </tr>
-         <tr>
-            <td>EPIC-002</td> 
-            <td>Búsqueda Global Eficiente </td>
-            <td>Como usuario, quiero una barra de búsqueda global que me permita encontrar trabajos, trabajadores o empleadores de manera rápida y precisa, para poder acceder a la información oportuna sin tener que navegar por múltiples páginas. </td>
-        </tr>
-         <tr>
-            <td>EPIC-003</td> 
-            <td> Gestión y Clasificación de Tareas </td>
-            <td>Como empleador, quiero poder clasificar y organizar las tareas que publico en categorías específicas y etiquetas claras, para que los trabajadores puedan encontrarlas fácilmente y yo pueda gestionar mis publicaciones de manera más efectiva.</td>
-        </tr>
-         <tr>
-            <td>EPIC-004</td> 
-            <td>Exploración por Categorías </td>
-            <td>Como trabajador, quiero un menú de categorías bien definido que me permita explorar tareas específicas según mis habilidades e intereses, para poder encontrar oportunidades relevantes de forma rápida.</td>
-        </tr>
-         <tr>
-            <td>EPIC-005</td> 
-            <td>Panel de Usuario Personalizado </td>
-            <td>Como usuario registrado, quiero un panel de usuario personalizado que me permita gestionar mi perfil, tareas y configuraciones de manera centralizada, para tener un control total sobre mi actividad en la plataforma. </td>
-        </tr>
-         <tr>
-            <td>EPIC-006</td> 
-            <td>Manejo de Notificaciones y Mensajes </td>
-            <td>Como usuario, quiero un sistema de notificaciones claro y accesible que me informe sobre nuevas oportunidades, mensajes y actualizaciones, para estar siempre al tanto de las actividades importantes en la plataforma. </td>
-        </tr>
-         <tr>
-            <td>EPIC-007</td> 
-            <td>Gestión de Perfiles y Evaluaciones</td>
-            <td>Como empleador o trabajador, quiero tener acceso a perfiles detallados y un sistema de evaluaciones, para poder tomar decisiones informadas antes de contratar o aceptar trabajos, asegurando la confianza y transparencia en la plataforma. </td>
-        </tr>
-         <tr>
-            <td>EPIC-008</td> 
-            <td>Creación y Gestión de Contenidos Simplificada  </td>
-            <td>Como usuario, quiero herramientas de creación y gestión de contenido simplificadas, como botones de acción flotante y menús contextuales, para poder publicar nuevas tareas, solicitar trabajos o realizar otras acciones rápidamente, sin complicaciones.</td>
-        </tr>
-        <tr>
-            <td>EPIC-009</td> 
-            <td> Implementadón de Autenticación Multifactor</td>
-            <td>Como desarrollador de software, quiero implementar un sistema de autenticación multifactor en nuestra aplicación para que pueda proporcionar una capa adicional de seguridad para los usuarios, reduciendo el riesgo de accesos no autorizados y protegiendo mejor la información confidencial.</td>
-        </tr>
-        <tr>
-            <td>EPIC-010</td> 
-            <td> Implementación de un Sistema de Reputación.</td>
-            <td>Como usuario, quiero  un sistema de calificaciones y evaluaciones, tanto para empleadores como para trabajadores, que permitirá mejorar la confianza y transparencia dentro de la plataforma TaskLinker.</td>
-        </tr> 
-            <tr>
-            <td>EPIC-011</td> 
-            <td> Interfaz de presentación del sitio web.</td>
-            <td>Como usuario, quiero acceder a una interfaz de presentación clara y atractiva que me permita obtener información detallada sobre el sitio web, incluyendo los servicios disponibles y las funcionalidades que ofrece, para entender mejor cómo utilizarlo y tomar decisiones informadas al consumir su contenido.</td>
-        </tr> 
-    </table>
-</div>
+|Story ID |  Title  | Description | Acceptance Criteria |Relacionado con (Epic ID) |
+|--------|-----------|----------------|-------------------------|-------|
+| 01 |Acceso Rápido a Funciones Principales  | Como usuario, quiero un menú de navegación principal que me permita acceder rápidamente a las funciones más importantes, como buscar trabajos, gestionar mi perfil y ver notificaciones, para optimizar mi tiempo y facilitar mi uso de TaskLinker. | **Escenario 1: "Visualización del Menú de Navegación"**: Dado que estoy en cualquier página de la plataforma TaskLinker, Cuando hago clic en el ícono de menú o accedo a la página principal, Entonces puedo ver un menú de navegación principal que incluye las opciones de "Buscar Trabajos", "Mi Perfil", y "Notificaciones", ubicado de manera visible y accesible en la parte superior de la pantalla.<br>**Escenario 2: "Acceso a Funciones desde el Menú"**: Dado que estoy utilizando el menú de navegación principal, Cuando hago clic en una de las opciones, como "Buscar Trabajos" o "Mi Perfil", Entonces seré redirigido a la página correspondiente dentro de la plataforma de manera inmediata, con la carga de la página en menos de 2 segundos.| 01 | 
+| 02 | Filtros Avanzados de Búsqueda | Como usuario, quiero poder utilizar filtros avanzados al buscar trabajos en TaskLinker para encontrar oportunidades laborales que se alineen con mis habilidades, disponibilidad y preferencias de ubicación, de manera rápida y eficiente.  | **Escenario 1: "Aplicación de Filtros en la Búsqueda de Trabajos"**: Dado que estoy en la página de búsqueda de trabajos en TaskLinker, Cuando accedo a la opción de filtros avanzados, Entonces puedo ver y seleccionar múltiples criterios, como tipo de trabajo (temporal, por horas), categoría (limpieza, eventos, reparaciones), ubicación, rango salarial, y disponibilidad de horarios, y los trabajos listados se actualizarán automáticamente según los filtros aplicados.<br>**Escenario 2: "Resultados de Búsqueda Filtrados"**: Dado que he aplicado uno o más filtros a mi búsqueda de trabajos, Cuando reviso los resultados, Entonces solo se mostrarán los trabajos que cumplen con todos los criterios seleccionados, y los resultados aparecerán ordenados de acuerdo con mis preferencias (por ejemplo, los más recientes primero), con cada resultado mostrando claramente cómo cumple con los filtros aplicados.  |02      |
+| 03 | Guardar Búsquedas Personalizadas  | Como usuario, quiero poder guardar búsquedas personalizadas en TaskLinker para que pueda acceder fácilmente a mis criterios de búsqueda preferidos sin tener que reconfigurarlos cada vez que quiera buscar trabajos | **Escenario 1: "Guardar una Búsqueda Personalizada"**: Dado que estoy realizando una búsqueda con filtros específicos en TaskLinker, Cuando hago clic en la opción "Guardar Búsqueda" después de aplicar mis filtros, Entonces se me pedirá que asigne un nombre a mi búsqueda personalizada, y esta se guardará en mi perfil para acceso rápido en el futuro.<br>**Escenario 2: "Acceder a una Búsqueda Guardada"**: Dado que he guardado una búsqueda personalizada previamente, Cuando accedo a la sección "Búsquedas Guardadas" desde mi perfil, Entonces puedo seleccionar mi búsqueda guardada, y TaskLinker aplicará automáticamente los mismos filtros y criterios para mostrarme los resultados actualizados, sin necesidad de reconfigurar los filtros manualmente.   |02      |
+| 04 | Acceso a Documentos Relevantes  | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para poder tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker.| **Escenario 1: "Visualización de Documentos Adjuntos"**: Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cuando hago clic en la sección de "Documentos Adjuntos" en su perfil, Entonces puedo ver una lista de documentos relevantes (como contratos anteriores, evaluaciones, certificados), y hacer clic en cada uno para visualizar su contenido sin salir de la plataforma.<br>**Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"**: Dado que he contratado previamente a un trabajador a través de TaskLinker, Cuando accedo al historial de contrataciones en mi perfil, Entonces puedo ver y descargar los documentos asociados a esas contrataciones (por ejemplo, acuerdos de trabajo y reportes de desempeño) para tener un registro detallado y tomar decisiones futuras.|03 |
+| 05| Subir y Actualizar Documentos| Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | **Escenario 1: "Subida de Nuevos Documentos"**: Dado que estoy en la sección de documentos de mi perfil de TaskLinker, Cuando hago clic en la opción "Subir Nuevo Documento", Entonces se abrirá un formulario que me permitirá seleccionar y subir archivos desde mi dispositivo, añadir una descripción al documento (por ejemplo, "Certificado de Electricista") y guardarlo en mi perfil, donde los empleadores podrán visualizarlo.<br>**Escenario 2: "Actualización de Documentos Existentes"**: Dado que tengo documentos antiguos en mi perfil, Cuando hago clic en la opción de actualizar un documento existente, Entonces puedo reemplazar el archivo anterior con uno nuevo y actualizar la descripción si es necesario, asegurándome de que la versión más reciente del documento esté disponible para los empleadores.     |03|
+| 06 |Organización de Documentos por Categorías  | Como trabajador, quiero poder organizar mis documentos en categorías dentro de mi perfil para que los empleadores puedan encontrar rápidamente los documentos que necesitan revisar.  | **Escenario 1: "Creación de Categorías de Documentos"**: Dado que tengo varios documentos subidos en mi perfil, Cuando accedo a la sección de "Gestión de Documentos" y selecciono la opción "Crear Categoría", Entonces puedo crear nuevas categorías (por ejemplo, "Certificaciones", "Identificación", "Referencias Laborales") y mover mis documentos existentes a estas categorías, permitiendo una organización más clara y accesible para los empleadores.<br>**Escenario 2: "Visualización de Documentos por Categoría"**: Dado que los documentos están organizados en categorías, Cuando un empleador visualiza mi perfil, Entonces puede navegar a través de los documentos filtrándolos por categoría, lo que le facilita encontrar el tipo de documento específico que necesita revisar sin tener que desplazarse por una lista desorganizada de archivos. |03 | 
+| 07|  Filtrar Tareas por Ubicación  | Como trabajador, quiero poder filtrar las tareas disponibles por ubicación para encontrar trabajos cercanos que me resulten convenientes. | **Escenario 1: "Filtrado Básico por Ubicación"**: Dado que estoy buscando tareas cercanas a mi ubicación, Cuando ingreso al buscador de tareas y selecciono la opción de filtrar por ubicación, Entonces puedo ingresar mi dirección o permitir que la aplicación acceda a mi ubicación actual y ver una lista de tareas disponibles ordenadas por proximidad.<br>**Escenario 2: "Filtrado Avanzado por Rango de Distancia"**: Dado que quiero definir un rango específico de distancia para las tareas, Cuando selecciono la opción de "Rango de Distancia" en el filtro de ubicación, Entonces puedo ajustar un deslizador o ingresar un valor específico (por ejemplo, 5 km, 10 km, etc.) para mostrar solo las tareas que estén dentro del rango definido.|04      |
+| 08 | Filtrar Tareas por Horario | Como trabajador, quiero poder filtrar las tareas por horario para encontrar trabajos que se ajusten a mi disponibilidad.  | **Escenario 1: "Filtrado por Horario Específico"**: Dado que tengo un horario limitado para trabajar, Cuando busco tareas en la plataforma y aplico el filtro de horario, Entonces puedo seleccionar horas específicas del día en las que estoy disponible, y la aplicación me mostrará solo las tareas que coincidan con ese horario.<br>**Escenario 2: "Filtrado por Turnos (Mañana/Tarde/Noche)"**: Dado que prefiero trabajar en un turno específico (mañana, tarde o noche), Cuando utilizo el filtro de turnos, Entonces puedo seleccionar el turno de mi preferencia y ver solo las tareas que se ajusten a ese marco horario, facilitando la selección de trabajos compatibles con mi rutina.  |04      |
+| 09 | Filtrar Tareas por Tipo de Trabajo | Como trabajador, quiero poder filtrar las tareas disponibles por tipo de trabajo para encontrar fácilmente las que se alineen con mis habilidades y preferencias. | **Escenario 1: "Selección de Categoría de Trabajo"**: Dado que tengo habilidades específicas que quiero aplicar, Cuando ingreso al buscador de tareas y selecciono el filtro de "Tipo de Trabajo", Entonces puedo elegir entre diferentes categorías de trabajo (por ejemplo, "Cuidado de Niños", "Reparaciones", "Limpieza", etc.) y ver solo las tareas que correspondan a la categoría seleccionada.  |04   | 
+| 10  |Evaluar a los Trabajadores  | Como empleador, quiero poder evaluar a los trabajadores después de que hayan completado una tarea, para proporcionar retroalimentación y ayudar a otros empleadores a tomar decisiones informadas.  | **Escenario 1: "Evaluación al Finalizar la Tarea"**: Dado que un trabajador ha completado una tarea, Cuando la tarea se marca como completada en la plataforma, Entonces se me solicita automáticamente que evalúe al trabajador en una escala del 1 al 5, y que deje un comentario opcional sobre su desempeño.<br>**Escenario 2: "Publicación de la Evaluación"**: Dado que he evaluado al trabajador, Cuando finalizo la evaluación y la envío, Entonces la calificación y los comentarios se publican en el perfil del trabajador, visibles para otros empleadores que consideren contratarlo en el futuro.  |10 | 
+| 11  |  Ver la Reputación de los Trabajadores | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente.  | **Escenario 1: "Acceso a Evaluaciones Previas"**: Dado que estoy revisando el perfil de un trabajador en la plataforma, Cuando veo la sección de "Reputación" en su perfil, Entonces puedo visualizar un promedio de las calificaciones anteriores y leer comentarios específicos dejados por otros empleadores. |10   |
+| 12 | Actualizar la Reputación del Trabajador | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo. | **Escenario 1: "Actualización Automática del Promedio de Calificación"**: Dado que he completado una tarea y recibido una nueva evaluación, Cuando la evaluación se registra en la plataforma, Entonces mi promedio de calificación general se actualiza automáticamente para reflejar la nueva calificación, mostrándose en mi perfil en tiempo real.<br>**Escenario 2: "Notificación de Nueva Evaluación"**: Dado que quiero estar informado sobre las evaluaciones que recibo, Cuando un empleador completa una evaluación sobre mi trabajo, Entonces recibo una notificación en la plataforma y/o por correo electrónico, que me permite revisar la nueva calificación y comentarios agregados a mi perfil.     |10      |
+| 13  | Editar Perfil de Usuario | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, de modo que los empleadores tengan datos precisos sobre mí. | **Escenario 1: "Actualización de Información Personal"**: Dado que quiero asegurarme de que mi perfil esté actualizado, Cuando accedo al panel de usuario y selecciono la opción de "Editar Perfil", Entonces puedo modificar mis datos personales (nombre, correo, número de teléfono), y estos cambios se reflejan inmediatamente en mi perfil.<br>**Escenario 2: "Edición de Habilidades y Disponibilidad"**: Dado que mis habilidades o disponibilidad han cambiado, Cuando entro a la sección de habilidades o disponibilidad dentro de mi perfil, Entonces puedo añadir, editar o eliminar habilidades, así como ajustar mis horas de disponibilidad, y la plataforma utilizará esta información para filtrar las tareas adecuadas.|05      |
+| 14 |  Visualizar y Gestionar Mis Tareas | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | **Escenario 1: "Visualización de Tareas Activas"**: Dado que necesito revisar las tareas que tengo pendientes, Cuando accedo al panel de usuario y selecciono la sección de "Mis Tareas", Entonces puedo ver una lista de todas las tareas activas con detalles como fecha, hora, ubicación, y estado actual (pendiente, en curso).<br>**Escenario 2: "Gestión de Tareas Completadas"**: Dado que quiero llevar un registro de mi trabajo realizado, Cuando entro a la sección de "Tareas Completadas", Entonces puedo ver el historial de todas las tareas finalizadas, incluyendo reseñas de empleadores, y descargar recibos o informes relacionados con esas tareas. |05      |
+| 15 | Recibir Notificaciones de Nuevas Oportunidades de Trabajo | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | **Escenario 1: "Notificación de Nueva Tarea"**: Dado que tengo activadas las notificaciones de nuevas oportunidades de trabajo en la plataforma, Cuando un empleador publique una tarea que coincida con mis preferencias de ubicación, categoría de trabajo, o disponibilidad horaria, Entonces recibiré una notificación en tiempo real (ya sea por la app, correo electrónico, o push notification) informándome sobre la nueva tarea y con un enlace directo para ver más detalles o aplicar.<br>**Escenario 2: "Configuración de Preferencias de Notificación"**: Dado que quiero personalizar qué tipo de notificaciones recibir, Cuando accedo a la sección de "Configuración de Notificaciones" en mi perfil, Entonces puedo elegir entre recibir notificaciones instantáneas, diarias o semanales sobre nuevas oportunidades, y definir qué criterios (como ubicación, tipo de trabajo, horario) activan las alertas. |06      |
+| 16  |  Ver Perfiles Detallados de los Trabajadores  | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades, y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | **Escenario 1: "Visualización del Perfil del Trabajador"**: Dado que soy un empleador que está revisando candidatos para una tarea, Cuando hago clic en el perfil de un trabajador, Entonces puedo ver un perfil detallado que incluye su experiencia laboral, habilidades, certificaciones, calificaciones previas de otros empleadores, y comentarios sobre su desempeño. |07      |
+| 17  | Actualizar Mi Perfil Como Trabajador | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | **Escenario 1: "Editar Información del Perfil"**: Dado que quiero actualizar mi perfil con nueva información, Cuando accedo a la sección "Editar Perfil", Entonces puedo modificar mis habilidades, agregar experiencia laboral adicional, y adjuntar nuevas certificaciones, asegurando que mi perfil esté actualizado y visible para los empleadores.<br>**Escenario 2: "Revisión y Guardado de Cambios"**: Dado que he editado mi perfil, Cuando hago clic en "Guardar cambios", Entonces los cambios se reflejan inmediatamente en mi perfil público, y los empleadores pueden ver la nueva información actualizada la próxima vez que accedan a mi perfil.  | 07   |
+| 18 |  Publicar Nuevas Tareas de Manera Rápida  | Como empleador, quiero tener acceso a un botón de acción flotante que me permita publicar nuevas tareas de forma rápida y sencilla, para que no tenga que navegar por múltiples menús o secciones.    | **Escenario 1: "Publicación Rápida de una Tarea"**: Dado que soy un empleador que necesita publicar una nueva tarea, Cuando hago clic en el botón de acción flotante en la página principal de la plataforma, Entonces se despliega un formulario simplificado para la creación de la tarea, permitiéndome agregar los detalles esenciales (descripción, fecha, pago) y publicar la tarea en menos de 3 pasos.<br>**Escenario 2: "Validación de Campos Obligatorios"**: Dado que estoy creando una nueva tarea a través del botón de acción flotante, Cuando intento publicar sin completar todos los campos obligatorios, Entonces recibo un mensaje de advertencia indicando qué campos están incompletos y no puedo avanzar hasta que la información requerida esté llena.    |08  |
+| 19   | Solicitar Trabajo con Menú Contextual Simplificado |Como trabajador, quiero poder solicitar trabajos directamente desde un menú contextual, para que el proceso sea más rápido y no tenga que navegar por varios pasos para aplicar a un trabajo.| **Escenario 1: "Solicitar Trabajo con un Solo Clic"**: Dado que estoy navegando por las oportunidades laborales en la plataforma, Cuando hago clic derecho (o accedo al menú contextual) sobre una tarea, Entonces puedo ver una opción para "Solicitar trabajo" que, al seleccionarla, me permite enviar mi solicitud sin necesidad de pasar por más de un paso adicional (confirmación).<br>**Escenario 2: "Confirmación de Solicitud Enviada"**: Dado que he solicitado un trabajo desde el menú contextual, Cuando envío mi solicitud, Entonces recibo una confirmación visual inmediata de que mi solicitud ha sido enviada correctamente, y la tarea se marca como "solicitada" en mi panel de control. |08   |
+| 20 | Iniciar Sesión con Autenticación Multifactor Activada |Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta.| **Escenario 1: "Iniciar Sesión con MFA"**: Dado que tengo la autenticación multifactor activada, Cuando ingreso mi usuario y contraseña en la página de inicio de sesión, Entonces se me solicita un segundo factor de autenticación (como un código enviado por SMS o una aplicación de autenticación) antes de acceder a mi cuenta.<br>**Escenario 2: "Acceso Denegado Sin MFA"**: Dado que he introducido incorrectamente el código de autenticación multifactor, Cuando intento acceder a mi cuenta, Entonces el sistema deniega el acceso y se me solicita reingresar el código correcto o solicitar uno nuevo, sin permitirme acceder a mi cuenta hasta que el código sea verificado correctamente.|09 |
+| 21 |  Evaluar a los trabajadores después de un trabajo | Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos. | Escenario 1: "Notificación de solicitud de evaluación al completar el trabajo"<br> Dado que el trabajo ha sido completado, Cuando el empleador accede a la plataforma, Entonces debe recibir una notificación solicitando que evalúe al trabajador.<br><br> Escenario 2: "Evaluación basada en estrellas y comentarios opcionales"<br> Dado que el empleador desea evaluar al trabajador, Cuando acceda a la sección de evaluaciones, Entonces debe poder seleccionar una puntuación de 1 a 5 estrellas y escribir un comentario opcional. |07      |
+| 22  | Crear una tarea desde cualquier página| Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.| Escenario 1: "Botón persistente para crear una tarea"<br> Dado que estoy en cualquier página de la plataforma, Cuando quiero crear una nueva tarea, Entonces debería haber un botón persistente en la interfaz para iniciar el proceso de creación de la tarea.<br><br> Escenario 2: "Acceso al formulario sin cambiar de página"<br> Dado que hago clic en el botón de crear una tarea, Cuando quiero iniciar el proceso de creación, Entonces debería aparecer un formulario de creación de tarea sin necesidad de redirigirme a otra página.|08      |
+| 23 | Recuperar cuenta con 2FA habilitada | Como usuario, quiero poder recuperar mi cuenta si pierdo acceso a mi segundo factor de autenticación, para no quedar bloqueado de la plataforma. | Escenario 1: "Recuperación de cuenta a través de preguntas de seguridad o correo alternativo"<br> Dado que he perdido el acceso a mi segundo factor, Cuando intento recuperar mi cuenta, Entonces debería poder hacerlo respondiendo preguntas de seguridad o utilizando un correo de verificación alternativo.<br><br> Escenario 2: "Proceso seguro para desactivar 2FA temporalmente"<br> Dado que no puedo acceder a mi segundo factor, Cuando solicito desactivar temporalmente la autenticación multifactor, Entonces debería haber un proceso seguro que me permita desactivar 2FA y acceder a mi cuenta.|09      |
+| 24 | Sección: Encontrar un trabajo flexible| Como usuario que busca oportunidades laborales, quiero explorar la sección "Encontrar un trabajo flexible" para conocer las opciones de trabajos por horas disponibles y entender cómo puedo aplicar a ellos de forma rápida y sencilla. | Escenario 1: "Visualización de trabajos disponibles"<br> Cuando el usuario visita la sección "Encontrar un trabajo flexible", entonces se debe mostrar una lista de trabajos disponibles con descripciones, requisitos, y la opción de aplicar directamente.<br><br> Escenario 2: "Aplicación de filtros de búsqueda"<br> Dado que el usuario ha ingresado a la sección, cuando aplica filtros (como ubicación, tipo de trabajo, pago por hora), entonces los resultados de la lista se deben actualizar para reflejar estos criterios.|011 |
+| 25 | Sección: ¿Por qué escoger TaskLinker? | Como usuario potencial, quiero revisar la sección "¿Por qué escoger TaskLinker?" para entender los beneficios de utilizar esta plataforma, incluyendo testimonios, estadísticas de éxito, y ventajas competitivas, que me ayuden a decidirme por usar TaskLinker.| Escenario 1: "Mostrar beneficios"<br> Cuando el usuario navega a la sección "¿Por qué escoger TaskLinker?", entonces se deben mostrar los beneficios y características principales de la plataforma.|011     |
+| 26 |  Sección: Contrata talento temporal | Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas. | Escenario 1: "Mostrar guía de publicación de ofertas"<br> Cuando el empleador visita la sección "Contrata talento temporal", entonces se debe mostrar un formulario o guía que explique cómo publicar una oferta de trabajo temporal. |011     |
+| 27  | Sección: Encuentra el trabajo ideal para tus proyectos| Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos.| Escenario 1: "Visualización de información"<br> Cuando el empleador se encuentre en la sección para poder encontrar un trabajo ideal, entonces se mostrarán 3 recomendaciones para él.  |011     | 
+| 28  | Sección: ¿Qué opinan nuestros usuarios?  | Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker. | Escenario 1: "Mostrar testimonios de usuarios"<br> Cuando el usuario accede a la sección "¿Qué opinan nuestros usuarios?", entonces se deben mostrar al menos 2 testimonios de usuarios con sus nombres, tipo de usuario, fotos, y comentarios. |011     |
+| 29 | Sección: Contáctanos y Footer | Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio.| Escenario 1: "Mostrar formulario de contacto"<br> Cuando el usuario visita la sección "Contáctanos", entonces se debe mostrar un formulario de contacto con un solo campo obligatorio (correo electrónico) y un botón de "Contáctanos".<br><br> Escenario 2: "Visualización del footer"<br> Cuando el usuario navega al footer, entonces deben estar visibles los enlaces a redes sociales, políticas de privacidad, copyright y año. |011  |
 
-<br>
 
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">01</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">01</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Acceso Rápido a Funciones Principales</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como usuario, quiero un menú de navegación principal que me permita acceder rápidamente a las funciones más importantes, como buscar trabajos, gestionar mi perfil y ver notificaciones, para optimizar mi tiempo y facilitar mi uso de TaskLinker.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Visualización del Menú de Navegación" </p>
-            Dado que estoy en cualquier página de la plataforma TaskLinker, 
-            <p>Cuando hago clic en el ícono de menú o accedo a la página principal,Entonces puedo ver un menú de navegación principal que incluye las opciones de "Buscar Trabajos", "Mi Perfil", y "Notificaciones", ubicado de manera visible y accesible en la parte superior de la pantalla.</p>
-            <p>Escenario 2: "Acceso a Funciones desde el Menú"</p>
-            Dado que estoy utilizando el menú de navegación principal,
-            Cuando hago clic en una de las opciones, como "Buscar Trabajos" o "Mi Perfil",Entonces seré redirigido a la página correspondiente dentro de la plataforma de manera inmediata, con la carga de la página en menos de 2 segundos.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">02</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">02</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Filtros Avanzados de Búsqueda </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">  Como usuario, quiero poder utilizar filtros avanzados al buscar trabajos en TaskLinker para encontrar oportunidades laborales que se alineen con mis habilidades, disponibilidad y preferencias de ubicación, de manera rápida y eficiente.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Aplicación de Filtros en la Búsqueda de Trabajos" </p>
-           <p>Dado que estoy en la página de búsqueda de trabajos en TaskLinker, Cuando accedo a la opción de filtros avanzados, Entonces puedo ver y seleccionar múltiples criterios, como tipo de trabajo (temporal, por horas), categoría (limpieza, eventos, reparaciones), ubicación, rango salarial, y disponibilidad de horarios, y los trabajos listados se actualizarán automáticamente según los filtros aplicados.</p>
-            <p>Escenario 2: "Resultados de Búsqueda Filtrados"</p>
-            Dado que he aplicado uno o más filtros a mi búsqueda de trabajos,Cuando reviso los resultados, Entonces solo se mostrarán los trabajos que cumplen con todos los criterios seleccionados, y los resultados aparecerán ordenados de acuerdo con mis preferencias (por ejemplo, los más recientes primero), con cada resultado mostrando claramente cómo cumple con los filtros aplicados.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">03</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">02</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Guardar Búsquedas Personalizadas  </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como usuario, quiero poder guardar búsquedas personalizadas en TaskLinker para que pueda acceder fácilmente a mis criterios de búsqueda preferidos sin tener que reconfigurarlos cada vez que quiera buscar trabajos similares.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Guardar una Búsqueda Personalizada"</p>
-           <p>Dado que estoy realizando una búsqueda con filtros específicos en TaskLinker, Cuando hago clic en la opción "Guardar Búsqueda" después de aplicar mis filtros, Entonces se me pedirá que asigne un nombre a mi búsqueda personalizada, y esta se guardará en mi perfil para acceso rápido en el futuro.</p>
-            <p>Escenario 2: "Acceder a una Búsqueda Guardada"</p>
-            Dado que he guardado una búsqueda personalizada previamente, Cuando accedo a la sección "Búsquedas Guardadas" desde mi perfil, Entonces puedo seleccionar mi búsqueda guardada, y TaskLinker aplicará automáticamente los mismos filtros y criterios para mostrarme los resultados actualizados, sin necesidad de reconfigurar los filtros manualmente.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">04</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">03</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Acceso a Documentos Relevantes </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para poder tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Visualización de Documentos Adjuntos"</p>
-           <p>Dado que estoy revisando el perfil de un trabajador en TaskLinker, Cuando hago clic en la sección de "Documentos Adjuntos" en su perfil, Entonces puedo ver una lista de documentos relevantes (como contratos anteriores, evaluaciones, certificados), y hacer clic en cada uno para visualizar su contenido sin salir de la plataforma.</p>
-            <p>Escenario 2: "Acceso a Documentos desde el Historial de Contrataciones"</p>
-            Dado que he contratado previamente a un trabajador a través de TaskLinker, Cuando accedo al historial de contrataciones en mi perfil, Entonces puedo ver y descargar los documentos asociados a esas contrataciones (por ejemplo, acuerdos de trabajo y reportes de desempeño) para tener un registro detallado y tomar decisiones futuras.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">05</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">03</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Subir y Actualizar Documentos </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Subida de Nuevos Documentos"</p>
-           <p>Dado que estoy en la sección de documentos de mi perfil de TaskLinker, Cuando hago clic en la opción "Subir Nuevo Documento", Entonces se abrirá un formulario que me permitirá seleccionar y subir archivos desde mi dispositivo, añadir una descripción al documento (por ejemplo, "Certificado de Electricista") y guardarlo en mi perfil, donde los empleadores podrán visualizarlo.</p>
-            <p>Escenario 2: "Actualización de Documentos Existentes"</p>
-           Dado que tengo documentos antiguos en mi perfil, Cuando hago clic en la opción de actualizar un documento existente, Entonces puedo reemplazar el archivo anterior con uno nuevo y actualizar la descripción si es necesario, asegurándome de que la versión más reciente del documento esté disponible para los empleadores.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">06</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">03</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Organización de Documentos por Categorías </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder organizar mis documentos en categorías dentro de mi perfil para que los empleadores puedan encontrar rápidamente los documentos que necesitan revisar.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Creación de Categorías de Documentos"</p>
-           <p>Dado que tengo varios documentos subidos en mi perfil, Cuando accedo a la sección de "Gestión de Documentos" y selecciono la opción "Crear Categoría", Entonces puedo crear nuevas categorías (por ejemplo, "Certificaciones", "Identificación", "Referencias Laborales") y mover mis documentos existentes a estas categorías, permitiendo una organización más clara y accesible para los empleadores.</p>
-            <p>Escenario 2: "Visualización de Documentos por Categoría"</p>
-            Dado que los documentos están organizados en categorías, Cuando un empleador visualiza mi perfil, Entonces puede navegar a través de los documentos filtrándolos por categoría, lo que le facilita encontrar el tipo de documento específico que necesita revisar sin tener que desplazarse por una lista desorganizada de archivos.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">07</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">04</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Filtrar Tareas por Ubicación </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder filtrar las tareas disponibles por ubicación para encontrar trabajos cercanos que me resulten convenientes.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Filtrado Básico por Ubicación"</p>
-           <p>Dado que estoy buscando tareas cercanas a mi ubicación, Cuando ingreso al buscador de tareas y selecciono la opción de filtrar por ubicación, Entonces puedo ingresar mi dirección o permitir que la aplicación acceda a mi ubicación actual y ver una lista de tareas disponibles ordenadas por proximidad.</p>
-            <p>Escenario 2: "Filtrado Avanzado por Rango de Distancia"</p>
-            Dado que quiero definir un rango específico de distancia para las tareas, Cuando selecciono la opción de "Rango de Distancia" en el filtro de ubicación, Entonces puedo ajustar un deslizador o ingresar un valor específico (por ejemplo, 5 km, 10 km, etc.) para mostrar solo las tareas que estén dentro del rango definido.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">08</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">04</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Filtrar Tareas por Horario </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">  Como trabajador, quiero poder filtrar las tareas por horario para encontrar trabajos que se ajusten a mi disponibilidad.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Filtrado por Horario Específico"</p>
-           <p>Dado que tengo un horario limitado para trabajar, Cuando busco tareas en la plataforma y aplico el filtro de horario, Entonces puedo seleccionar horas específicas del día en las que estoy disponible, y la aplicación me mostrará solo las tareas que coincidan con ese horario.</p>
-            <p>Escenario 2: "Filtrado por Turnos (Mañana/Tarde/Noche)"</p>
-            Dado que prefiero trabajar en un turno específico (mañana, tarde o noche), Cuando utilizo el filtro de turnos, Entonces puedo seleccionar el turno de mi preferencia y ver solo las tareas que se ajusten a ese marco horario, facilitando la selección de trabajos compatibles con mi rutina.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">09</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">04</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Filtrar Tareas por Tipo de Trabajo </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder filtrar las tareas disponibles por tipo de trabajo para encontrar fácilmente las que se alineen con mis habilidades y preferencias.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Selección de Categoría de Trabajo"</p>
-           <p>Dado que tengo habilidades específicas que quiero aplicar, Cuando ingreso al buscador de tareas y selecciono el filtro de "Tipo de Trabajo", Entonces puedo elegir entre diferentes categorías de trabajo (por ejemplo, "Cuidado de Niños", "Reparaciones", "Limpieza", etc.) y ver solo las tareas que correspondan a la categoría seleccionada.</p>
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">10</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">10</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Evaluar a los Trabajadores </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder evaluar a los trabajadores después de que hayan completado una tarea, para proporcionar retroalimentación y ayudar a otros empleadores a tomar decisiones informadas.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Evaluación al Finalizar la Tarea"</p>
-           <p>Dado que un trabajador ha completado una tarea, Cuando la tarea se marca como completada en la plataforma, Entonces se me solicita automáticamente que evalúe al trabajador en una escala del 1 al 5, y que deje un comentario opcional sobre su desempeño.</p>
-            <p>Escenario 2: "Publicación de la Evaluación"</p>
-            Dado que he evaluado al trabajador,Cuando finalizo la evaluación y la envío, Entonces la calificación y los comentarios se publican en el perfil del trabajador, visibles para otros empleadores que consideren contratarlo en el futuro.
-        </tr>
-    </table>
-</div>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">11</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">10</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Ver la Reputación de los Trabajadores </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Acceso a Evaluaciones Previas"</p>
-           <p>Dado que estoy revisando el perfil de un trabajador en la plataforma, Cuando veo la sección de "Reputación" en su perfil,Entonces puedo visualizar un promedio de las calificaciones anteriores y leer comentarios específicos dejados por otros empleadores.</p>
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="10" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">12</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">10</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Actualizar la Reputación del Trabajador</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Actualización Automática del Promedio de Calificación"</p>
-           <p>Dado que he completado una tarea y recibido una nueva evaluación, Cuando la evaluación se registra en la plataforma, Entonces mi promedio de calificación general se actualiza automáticamente para reflejar la nueva calificación, mostrándose en mi perfil en tiempo real.</p>
-            <p>Escenario 2: "Notificación de Nueva Evaluación"</p>
-           Dado que quiero estar informado sobre las evaluaciones que recibo, Cuando un empleador completa una evaluación sobre mi trabajo, Entonces recibo una notificación en la plataforma y/o por correo electrónico, que me permite revisar la nueva calificación y comentarios agregados a mi perfil.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">13</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">05</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Editar Perfil de Usuario </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, de modo que los empleadores tengan datos precisos sobre mí.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Actualización de Información Personal"</p>
-           <p>Dado que quiero asegurarme de que mi perfil esté actualizado, Cuando accedo al panel de usuario y selecciono la opción de "Editar Perfil", Entonces puedo modificar mis datos personales (nombre, correo, número de teléfono), y estos cambios se reflejan inmediatamente en mi perfil.</p>
-            <p>Escenario 2: "Edición de Habilidades y Disponibilidad"</p>
-            Dado que mis habilidades o disponibilidad han cambiado, Cuando entro a la sección de habilidades o disponibilidad dentro de mi perfil, Entonces puedo añadir, editar o eliminar habilidades, así como ajustar mis horas de disponibilidad, y la plataforma utilizará esta información para filtrar las tareas adecuadas.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">14</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">05</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Visualizar y Gestionar Mis Tareas </td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">  Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Visualización de Tareas Activas"</p>
-           <p>Dado que necesito revisar las tareas que tengo pendientes, Cuando accedo al panel de usuario y selecciono la sección de "Mis Tareas", Entonces puedo ver una lista de todas las tareas activas con detalles como fecha, hora, ubicación, y estado actual (pendiente, en curso).</p>
-            <p>Escenario 2: "Gestión de Tareas Completadas"</p>
-            Dado que quiero llevar un registro de mi trabajo realizado, Cuando entro a la sección de "Tareas Completadas", Entonces puedo ver el historial de todas las tareas finalizadas, incluyendo reseñas de empleadores, y descargar recibos o informes relacionados con esas tareas.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">15</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">06</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Recibir Notificaciones de Nuevas Oportunidades de Trabajo</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Notificación de Nueva Tarea"</p>
-           <p>Dado que tengo activadas las notificaciones de nuevas oportunidades de trabajo en la plataforma, Cuando un empleador publique una tarea que coincida con mis preferencias de ubicación, categoría de trabajo, o disponibilidad horaria, Entonces recibiré una notificación en tiempo real (ya sea por la app, correo electrónico, o push notification) informándome sobre la nueva tarea y con un enlace directo para ver más detalles o aplicar.</p>
-           <p>Escenario 2: "Configuración de Preferencias de Notificación"</p>
-           Dado que quiero personalizar qué tipo de notificaciones recibir, Cuando accedo a la sección de "Configuración de Notificaciones" en mi perfil, Entonces puedo elegir entre recibir notificaciones instantáneas, diarias o semanales sobre nuevas oportunidades, y definir qué criterios (como ubicación, tipo de trabajo, horario) activan las alertas.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">16</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">07</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Ver Perfiles Detallados de los Trabajadores</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades, y evaluaciones previas, para tomar decisiones informadas antes de contratarlos.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Visualización del Perfil del Trabajador"</p>
-           <p>Dado que soy un empleador que está revisando candidatos para una tarea, Cuando hago clic en el perfil de un trabajador,Entonces puedo ver un perfil detallado que incluye su experiencia laboral, habilidades, certificaciones, calificaciones previas de otros empleadores, y comentarios sobre su desempeño.</p>
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">17</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">07</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Actualizar Mi Perfil Como Trabajador</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Editar Información del Perfil"</p>
-           <p>Dado que quiero actualizar mi perfil con nueva información, Cuando accedo a la sección "Editar Perfil", Entonces puedo modificar mis habilidades, agregar experiencia laboral adicional, y adjuntar nuevas certificaciones, asegurando que mi perfil esté actualizado y visible para los empleadores.</p>
-            <p>Escenario 2: "Revisión y Guardado de Cambios"</p>
-            Dado que he editado mi perfil, Cuando hago clic en "Guardar cambios", Entonces los cambios se reflejan inmediatamente en mi perfil público, y los empleadores pueden ver la nueva información actualizada la próxima vez que accedan a mi perfil.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">18</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">08</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Publicar Nuevas Tareas de Manera Rápida</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como empleador, quiero tener acceso a un botón de acción flotante que me permita publicar nuevas tareas de forma rápida y sencilla, para que no tenga que navegar por múltiples menús o secciones.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Publicación Rápida de una Tarea"</p>
-           <p>Dado que soy un empleador que necesita publicar una nueva tarea, Cuando hago clic en el botón de acción flotante en la página principal de la plataforma, Entonces se despliega un formulario simplificado para la creación de la tarea, permitiéndome agregar los detalles esenciales (descripción, fecha, pago) y publicar la tarea en menos de 3 pasos.</p>
-            <p>Escenario 2:  "Validación de Campos Obligatorios"</p>
-            Dado que estoy creando una nueva tarea a través del botón de acción flotante, Cuando intento publicar sin completar todos los campos obligatorios, Entonces recibo un mensaje de advertencia indicando qué campos están incompletos y no puedo avanzar hasta que la información requerida esté llena.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">19</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">08</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2">Solicitar Trabajo con Menú Contextual Simplificado</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como trabajador, quiero poder solicitar trabajos directamente desde un menú contextual, para que el proceso sea más rápido y no tenga que navegar por varios pasos para aplicar a un trabajo.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Solicitar Trabajo con un Solo Clic"</p>
-           <p>Dado que estoy navegando por las oportunidades laborales en la plataforma, Cuando hago clic derecho (o accedo al menú contextual) sobre una tarea, Entonces puedo ver una opción para "Solicitar trabajo" que, al seleccionarla, me permite enviar mi solicitud sin necesidad de pasar por más de un paso adicional (confirmación).</p>
-            <p>Escenario 2: "Confirmación de Solicitud Enviada"</p>
-            Dado que he solicitado un trabajo desde el menú contextual, Cuando envío mi solicitud, Entonces recibo una confirmación visual inmediata de que mi solicitud ha sido enviada correctamente, y la tarea se marca como "solicitada" en mi panel de control.
-        </tr>
-    </table>
-</div>
-<br>
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">20</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">09</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Iniciar Sesión con Autenticación Multifactor Activada</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Iniciar Sesión con MFA"</p>
-           <p>Dado que tengo la autenticación multifactor activada, Cuando ingreso mi usuario y contraseña en la página de inicio de sesión, Entonces se me solicita un segundo factor de autenticación (como un código enviado por SMS o una aplicación de autenticación) antes de acceder a mi cuenta.</p>
-            <p>Escenario 2: "Acceso Denegado Sin MFA"</p>
-            Dado que he introducido incorrectamente el código de autenticación multifactor, Cuando intento acceder a mi cuenta, Entonces el sistema deniega el acceso y se me solicita reingresar el código correcto o solicitar uno nuevo, sin permitirme acceder a mi cuenta hasta que el código sea verificado correctamente.
-        </tr>
-    </table>
-</div>
-<br>
+### Technical Stories
+| Story ID | Titulo | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) | 
+|---|---|------|------|---|
+| TS01 | Acceso al Menú de Navegación Principal |**Como desarrollador**, quiero implementar un menú de navegación principal para que los usuarios puedan acceder rápidamente a las funciones más importantes, como buscar trabajos, gestionar su perfil y ver notificaciones.| **Escenario 1: "Visibilidad del Menú de Navegación"** Dado que el usuario está en cualquier página de la plataforma TaskLinker, cuando haga clic en el ícono del menú o acceda a la página principal, entonces verá el menú de navegación principal, que incluye opciones como "Buscar Trabajos", "Mi Perfil" y "Notificaciones", visible en la parte superior de la pantalla. **Escenario 2: "Acceso a Funciones desde el Menú"** Dado que el usuario está utilizando el menú de navegación principal, cuando haga clic en una de las opciones, como "Buscar Trabajos" o "Mi Perfil", entonces será redirigido a la página correspondiente dentro de la plataforma, y la página se cargará en menos de 2 segundos.  | 01  |
+|TS02 |Filtros Avanzados de Búsqueda | **Como desarrollador**, quiero implementar filtros avanzados de búsqueda en la página de búsqueda de trabajos para que los usuarios puedan encontrar rápidamente oportunidades laborales que coincidan con sus habilidades, disponibilidad y preferencias de ubicación.|**Escenario 1: "Aplicar Filtros en la Búsqueda de Trabajos"** Dado que el usuario está en la página de búsqueda de trabajos en TaskLinker, cuando acceda a la opción de filtros avanzados, entonces podrá ver y seleccionar múltiples criterios, como tipo de trabajo (temporal, por horas), categoría (limpieza, eventos, reparaciones), ubicación, rango salarial y disponibilidad, con las ofertas de trabajo actualizándose automáticamente en base a los filtros aplicados. **Escenario 2: "Resultados de Búsqueda Filtrados"** Dado que el usuario ha aplicado uno o más filtros a su búsqueda de trabajos, cuando revise los resultados, entonces solo se mostrarán los trabajos que cumplan con todos los criterios seleccionados, y los resultados se ordenarán según sus preferencias (p. ej., más recientes primero), mostrando claramente cómo cada resultado cumple con los filtros aplicados. | 02  |
+|TS03| Guardar Búsquedas Personalizadas| **Como desarrollador**, quiero implementar la capacidad de guardar búsquedas personalizadas para que los usuarios puedan acceder fácilmente a sus criterios de búsqueda preferidos sin necesidad de reconfigurar los filtros cada vez que quieran encontrar trabajos similares.|  **Escenario 1: "Guardar una Búsqueda Personalizada"** Dado que el usuario está realizando una búsqueda con filtros específicos en TaskLinker, cuando haga clic en la opción "Guardar Búsqueda" después de aplicar sus filtros, entonces se le pedirá que asigne un nombre a su búsqueda personalizada, y esta se guardará en su perfil para acceder rápidamente en el futuro.  **Escenario 2: "Acceder a una Búsqueda Guardada"** Dado que el usuario ha guardado previamente una búsqueda personalizada, cuando acceda a la sección "Búsquedas Guardadas" desde su perfil, entonces podrá seleccionar su búsqueda guardada, y TaskLinker aplicará automáticamente los mismos filtros y criterios para mostrar los resultados actualizados sin necesidad de reconfigurar los filtros manualmente.| 02 |
+|TS04| Acceso a Documentos Relevantes|**Como desarrollador**, quiero implementar una funcionalidad para que los empleadores accedan a documentos relevantes para que puedan tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | **Escenario 1: "Ver Documentos Adjuntos"** Dado que el empleador está revisando el perfil de un trabajador en TaskLinker, cuando haga clic en la sección de "Documentos Adjuntos" en el perfil del trabajador, entonces verá una lista de documentos relevantes (p. ej., contratos anteriores, evaluaciones, certificados), y podrá hacer clic en cada documento para ver su contenido sin salir de la plataforma.**Escenario 2: "Acceder a Documentos desde el Historial de Contratación"** Dado que el empleador ha contratado previamente a un trabajador a través de TaskLinker, cuando acceda al historial de contrataciones en su perfil, entonces podrá ver y descargar documentos asociados a esas contrataciones (p. ej., acuerdos de trabajo y reportes de desempeño) para mantener un registro detallado y tomar decisiones futuras. | 03 |  
+|TS05 |Subir y Actualizar Documentos |**Como desarrollador**, quiero implementar una funcionalidad para que los trabajadores suban y actualicen documentos importantes para que los empleadores puedan evaluar su idoneidad para los trabajos disponibles. |**Escenario 1: "Subir Nuevos Documentos"** Dado que el trabajador está en la sección de documentos de su perfil en TaskLinker, cuando haga clic en la opción "Subir Nuevo Documento", entonces se abrirá un formulario que le permitirá seleccionar y cargar archivos desde su dispositivo, agregar una descripción al documento (p. ej., "Certificado de Electricista") y guardarlo en su perfil, donde los empleadores podrán verlo. **Escenario 2: "Actualizar Documentos Existentes"** Dado que el trabajador tiene documentos desactualizados en su perfil, cuando haga clic en la opción para actualizar un documento existente, entonces podrá reemplazar el archivo antiguo por uno nuevo y actualizar la descripción si es necesario, asegurando que la versión más reciente del documento esté disponible para los empleadores. | 03| 
+|TS06| Organizar Documentos por Categoría|**Como desarrollador**, quiero implementar una funcionalidad para que los trabajadores organicen sus documentos en categorías para que los empleadores puedan encontrar rápidamente los documentos que necesitan revisar.|**Escenario 1: "Crear Categorías de Documentos"** Dado que el trabajador tiene múltiples documentos subidos en su perfil, cuando acceda a la sección de "Gestión de Documentos" y seleccione la opción "Crear Categoría", entonces podrá crear nuevas categorías (p. ej., "Certificaciones", "Identificación", "Referencias Laborales") y mover sus documentos existentes a estas categorías, permitiendo una organización más clara y accesible para los empleadores. **Escenario 2: "Ver Documentos por Categoría"** Dado que los documentos están organizados por categorías, cuando un empleador vea el perfil del trabajador, entonces podrá navegar a través de los documentos filtrándolos por categoría, lo que facilitará encontrar el tipo específico de documento que necesita sin tener que desplazarse por una lista desorganizada de archivos. |03  |
+| TS07|Filtrar Tareas por Ubicación  | Como desarrollador, deseo implementar un filtro de tareas por ubicación para que los trabajadores puedan encontrar trabajos cercanos y convenientes.| **Escenario 1**: Filtrado básico por ubicación. <br> Cuando el trabajador selecciona filtrar por ubicación, puede ingresar su dirección o permitir el acceso a su ubicación actual, y verá una lista de tareas ordenadas por proximidad. <br>  **Escenario 2**: Filtrado avanzado por rango de distancia. <br> Puede ajustar un deslizador o ingresar un valor específico (ej. 5 km, 10 km).   |  04   |
+| TS08|Filtrar Tareas por Horario | Como desarrollador, deseo implementar un filtro de tareas por horario para que los trabajadores puedan encontrar trabajos que se ajusten a su disponibilidad. | **Escenario 1**: Filtrado por horario específico. <br> El trabajador puede seleccionar las horas específicas en las que está disponible, y se mostrarán solo las tareas que coincidan con ese horario. <br> **Escenario 2**: Filtrado por turnos (mañana/tarde/noche). <br> El trabajador puede seleccionar un turno y ver solo tareas que se ajusten a ese marco horario.    | 04 |
+| TS09  |Filtrar Tareas por Tipo de Trabajo | Como desarrollador, deseo implementar un filtro de tareas por tipo de trabajo para que los trabajadores puedan encontrar trabajos alineados con sus habilidades. | **Escenario 1**: Selección de categoría de trabajo. <br> El trabajador puede elegir entre diferentes categorías de trabajo (ej. "Cuidado de Niños", "Reparaciones", etc.) y verá solo las tareas de la categoría seleccionada. |04 |
+| TS10 |Evaluar a los Trabajadores  | Como desarrollador, deseo implementar la funcionalidad de evaluación de trabajadores para que los empleadores puedan dar retroalimentación sobre su desempeño.  |**Escenario 1**: Evaluación al finalizar la tarea. <br> Tras completar una tarea, se solicitará al empleador que evalúe al trabajador en una escala del 1 al 5 y deje un comentario opcional. <br> **Escenario 2**: Publicación de la evaluación. <br> La calificación y los comentarios se publicarán en el perfil del trabajador para que otros empleadores puedan verlos.     | 10|
+| TS11|Ver la Reputación de los Trabajadores | Como desarrollador, deseo implementar la funcionalidad para que los empleadores puedan revisar la reputación del trabajador antes de contratarlo.  | **Escenario 1**: Acceso a evaluaciones previas. <br> El empleador puede visualizar un promedio de las calificaciones anteriores y leer comentarios específicos dejados por otros empleadores en el perfil del trabajador.   | 10  |
+| TS12 |Actualizar la Reputación del Trabajador | Como desarrollador, deseo que la reputación del trabajador se actualice automáticamente para que refleje su desempeño a lo largo del tiempo. | **Escenario 1**: Actualización automática del promedio de calificación. <br> El promedio de calificación del trabajador se actualizará automáticamente al recibir una nueva evaluación. <br>  **Escenario 2**: Notificación de nueva evaluación. <br> El trabajador recibirá una notificación en la plataforma y/o por correo electrónico cuando un empleador complete una evaluación.  | 10 |
+| TS13 | Editar Perfil de Usuario  |Como desarrollador, deseo implementar la funcionalidad de edición de perfil para que los usuarios puedan actualizar su información personal, habilidades y horario. | **Escenario 1**: Actualización de información personal. <br> El usuario puede modificar sus datos personales (nombre, correo, etc.), y los cambios se reflejarán de inmediato en su perfil. <br> **Escenario 2**: Edición de habilidades y disponibilidad. <br> El usuario puede añadir, editar o eliminar habilidades y ajustar su disponibilidad, lo cual se utilizará para filtrar tareas adecuadas. | 05  |
+| TS14 |  Visualizar y Gestionar Mis Tareas | Como desarrollador, deseo implementar la funcionalidad de gestión de tareas para que los usuarios puedan ver y gestionar las tareas aceptadas o completadas. |  **Escenario 1**: Visualización de tareas activas. <br> El usuario puede ver todas las tareas activas con detalles como fecha, hora, ubicación y estado actual. <br> **Escenario 2**: Gestión de tareas completadas. <br> El usuario puede ver el historial de tareas completadas, incluidas reseñas de empleadores, y descargar recibos o informes relacionados.  | 05 |
+| TS15 |Recibir Notificaciones de Nuevas Oportunidades de Trabajo | Como desarrollador, deseo implementar un sistema de notificaciones automáticas para nuevas oportunidades de trabajo para que los trabajadores puedan ser notificados en tiempo real. |**Escenario 1**: Notificación de nueva tarea. <br> Cuando un empleador publique una tarea que coincida con las preferencias del trabajador, recibirá una notificación en tiempo real (app, correo, push notification). <br> **Escenario 2**: Configuración de preferencias de notificación. <br> El trabajador podrá elegir recibir notificaciones instantáneas, diarias o semanales y definir qué criterios activan las alertas.   | 06 |
+| TS16 | Ver Perfiles Detallados de los Trabajadores | Como desarrollador, deseo implementar la visualización detallada del perfil de los trabajadores para que los empleadores puedan revisar la experiencia y habilidades. |**Escenario 1**: Visualización del perfil del trabajador. <br> Al hacer clic en el perfil de un trabajador, el empleador podrá ver detalles como experiencia laboral, habilidades, certificaciones, calificaciones previas y comentarios de otros empleadores.   | 07  |
+| TS17 |Actualizar Mi Perfil Como Trabajador  | Como desarrollador, deseo implementar la funcionalidad para que los trabajadores puedan actualizar su perfil con información de habilidades, experiencia y certificaciones. | **Escenario 1**: Editar información del perfil. <br> El trabajador podrá modificar habilidades, agregar experiencia adicional y adjuntar certificaciones. <br> **Escenario 2**: Revisión y guardado de cambios. <br> Los cambios se reflejarán inmediatamente en el perfil público del trabajador tras hacer clic en "Guardar cambios".| 07  | 
+| TS18 | Publicar Nuevas Tareas de Manera Rápida | Como desarrollador, deseo implementar un botón de acción flotante que permita la publicación rápida de tareas para que los empleadores puedan crear nuevas tareas fácilmente. | 1. **Escenario 1**: Publicación rápida de una tarea. <br> Al hacer clic en el botón de acción flotante, se desplegará un formulario simplificado para crear la tarea en menos de 3 pasos. <br> **Escenario 2**: Validación de campos obligatorios. <br> El empleador recibirá un mensaje de advertencia si intenta publicar sin completar los campos obligatorios.|08|
+| TS19 | Solicitar Trabajo con Menú Contextual Simplificado   | Como desarrollador, deseo implementar un menú contextual para la solicitud rápida de trabajos para que los trabajadores puedan aplicar a tareas directamente desde el menú. | **Escenario 1**: Solicitar trabajo con un solo clic. <br> El trabajador podrá acceder al menú contextual sobre una tarea y aplicar directamente con un solo paso adicional de confirmación. <br> **Escenario 2**: Confirmación de solicitud enviada. <br> Tras enviar la solicitud, el trabajador recibirá una confirmación visual inmediata y la tarea se marcará como "solicitada".  |08  |
+| TS20 | Iniciar Sesión con Autenticación Multifactor Activada | Como desarrollador, deseo implementar la autenticación multifactor (MFA) para la seguridad del inicio de sesión para que los usuarios puedan proteger su cuenta. | **Escenario 1**: Iniciar sesión con MFA. <br> El sistema solicitará un segundo factor de autenticación tras ingresar usuario y contraseña. <br> **Escenario 2**: Acceso denegado sin MFA. <br> Si el código de autenticación es incorrecto, el sistema denegará el acceso hasta que el código sea verificado correctamente. |09 |
+| TS21| Evaluar a los trabajadores después de un trabajo | Como desarrollador, deseo implementar un sistema de evaluación para que los empleadores puedan evaluar a los trabajadores una vez que terminen un trabajo. |**Escenario 1**: Notificación de solicitud de evaluación. <br> Al completar el trabajo, el empleador recibirá una notificación para evaluar al trabajador. <br> **Escenario 2**: Evaluación basada en estrellas. <br> El empleador podrá seleccionar una puntuación de 1 a 5 estrellas y escribir un comentario opcional al evaluar al trabajador. | 07   |
+| TS22  | Crear una tarea desde cualquier página | Como desarrollador, deseo implementar un botón persistente para crear tareas desde cualquier página de la plataforma para que los empleadores no tengan que navegar. | **Escenario 1**: Botón persistente para crear una tarea. <br> Debería haber un botón en la interfaz para iniciar el proceso de creación de la tarea en cualquier página. <br> **Escenario 2**: Acceso al formulario sin cambiar de página. <br> Al hacer clic en el botón de crear tarea, debería aparecer un formulario sin necesidad de redirigirme a otra página.  | 08   |
+| TS23 | Recuperar cuenta con 2FA habilitada | Como desarrollador, deseo implementar un proceso de recuperación de cuenta para usuarios que pierden acceso a su segundo factor de autenticación. | **Escenario 1**: Recuperación de cuenta a través de preguntas de seguridad o correo alternativo. <br> Debería poder recuperar mi cuenta respondiendo preguntas o utilizando un correo alternativo. <br> **Escenario 2**: Proceso seguro para desactivar 2FA temporalmente. <br> Debería haber un proceso seguro que me permita desactivar 2FA y acceder a mi cuenta si no puedo acceder a mi segundo factor. | 09 |
+| TS24 | Sección: Encontrar un trabajo flexible | Como desarrollador, deseo implementar la sección "Encontrar un trabajo flexible" para que los usuarios puedan explorar trabajos por horas y entender cómo aplicar. | **Escenario 1**: Visualización de trabajos disponibles. <br> Debería mostrarse una lista de trabajos disponibles con descripciones y la opción de aplicar directamente. <br> **Escenario 2**: Aplicación de filtros de búsqueda. <br> Al aplicar filtros, los resultados de la lista deberían actualizarse para reflejar estos criterios.  |011 |
+| TS25 | Sección: ¿Por qué escoger TaskLinker? |Como desarrollador, deseo implementar la sección "¿Por qué escoger TaskLinker?" para que los usuarios entiendan los beneficios de utilizar esta plataforma. |**Escenario 1**: Mostrar beneficios. <br> Deberían mostrarse los beneficios y características principales de la plataforma al navegar en esta sección. |011  |
+| TS26 | Sección: Contrata talento temporal | Como desarrollador, deseo implementar la sección "Contrata talento temporal" para que los empleadores comprendan cómo publicar tareas temporales |**Escenario 1**: Mostrar guía de publicación de ofertas. <br> Debería mostrarse un formulario o guía que explique cómo publicar una oferta de trabajo temporal al visitar esta sección. |011 |
+| TS27  | Sección: Encuentra el trabajo ideal para tus proyectos | Como desarrollador, deseo implementar la sección "Encuentra el trabajo ideal para tus proyectos" para que los usuarios puedan ver perfiles y filtrar talento.  | **Escenario 1**: Visualización de información. <br> Se mostrarán 3 recomendaciones al empleador en la sección para encontrar un trabajo | 011  |
+| TS28 | Sección: ¿Qué opinan nuestros usuarios? | Como desarrollador, deseo implementar la sección "¿Qué opinan nuestros usuarios?" para que los visitantes puedan leer opiniones sobre TaskLinker.| **Escenario 1**: Mostrar testimonios de usuarios. <br> Deberían mostrarse al menos 2 testimonios con nombres, tipo de usuario, fotos y comentarios en esta sección. |011 |
+| TS29 | Sección: Contáctanos y Footer | Como desarrollador, deseo implementar la sección "Contáctanos" y el footer del sitio para que los usuarios encuentren medios de comunicación disponibles. | **Escenario 1**: Mostrar formulario de contacto. <br> Debería mostrarse un formulario de contacto con un campo obligatorio (correo electrónico) y un botón de "Contáctanos". <br> **Escenario 2**: Visualización del footer. <br> El footer debe mostrar enlaces a redes sociales, políticas de privacidad, copyright y año.  |011 |
 
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">21</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">07</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Evaluar a los trabajadores después de un trabajo</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Notificación de solicitud de evaluación al completar el trabajo"</p>
-           <p>Dado que el trabajo ha sido completado, Cuando el empleador accede a la plataforma, Entonces debe recibir una notificación solicitando que evalúe al trabajador.</p>
-            <p>Escenario 2: "Evaluación basada en estrellas y comentarios opcionales"</p>
-           Dado que el empleador desea evaluar al trabajador, Cuando acceda a la sección de evaluaciones, Entonces debe poder seleccionar una puntuación de 1 a 5 estrellas y escribir un comentario opcional.
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">22</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">08</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Crear una tarea desde cualquier página</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Botón persistente para crear una tarea"</p>
-           <p>Dado que estoy en cualquier página de la plataforma, Cuando quiero crear una nueva tarea, Entonces debería haber un botón persistente en la interfaz para iniciar el proceso de creación de la tarea.</p>
-            <p>Escenario 2: "Acceso al formulario sin cambiar de página"</p>
-           Dado que hago clic en el botón de crear una tarea, Cuando quiero iniciar el proceso de creación, Entonces debería aparecer un formulario de creación de tarea sin necesidad de redirigirme a otra página.
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">23</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">09</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Recuperar cuenta con 2FA habilitada</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario, quiero poder recuperar mi cuenta si pierdo acceso a mi segundo factor de autenticación, para no quedar bloqueado de la plataforma.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: "Recuperación de cuenta a través de preguntas de seguridad o correo alternativo"</p>
-           <p>Dado que he perdido el acceso a mi segundo factor, Cuando intento recuperar mi cuenta, Entonces debería poder hacerlo respondiendo preguntas de seguridad o utilizando un correo de verificación alternativo.
-</p>
-            <p>Escenario 2: "Proceso seguro para desactivar 2FA temporalmente"</p>
-           Dado que no puedo acceder a mi segundo factor, Cuando solicito desactivar temporalmente la autenticación multifactor, Entonces debería haber un proceso seguro que me permita desactivar 2FA y acceder a mi cuenta.
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">24</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Encontrar un trabajo flexible</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario que busca oportunidades laborales, quiero explorar la sección "Encontrar un trabajo flexible" para conocer las opciones de trabajos por horas disponibles y entender cómo puedo aplicar a ellos de forma rápida y sencilla.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Visualización de trabajos disponibles"</p>
-           <p>Cuando el usuario visita la sección "Encontrar un trabajo flexible", entonces se debe mostrar una lista de trabajos disponibles con descripciones, requisitos, y la opción de aplicar directamente.
-</p>
-            <p>Escenario 2: Aplicación de filtros de búsqueda"</p>
-           Dado que el usuario ha ingresado a la sección, cuando aplica filtros (como ubicación, tipo de trabajo, pago por hora), entonces los resultados de la lista se deben actualizar para reflejar estos criterios.
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">25</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: ¿Por qué escoger TaskLinker?</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario potencial, quiero revisar la sección "¿Por qué escoger TaskLinker?" para entender los beneficios de utilizar esta plataforma, incluyendo testimonios, estadísticas de éxito, y ventajas competitivas, que me ayuden a decidirme por usar TaskLinker.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar beneficios</p>
-           <p>Cuando el usuario navega a la sección "¿Por qué escoger TaskLinker?", entonces se deben mostrar los beneficios y características principales de la plataforma.
-</p>
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">26</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Contrata talento temporal</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar guía de publicación de ofertas</p>
-           <p>Cuando el empleador visita la sección "Contrata talento temporal", entonces se debe mostrar un formulario o guía que explique cómo publicar una oferta de trabajo temporal.
-</p>
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">27</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Encuentra el trabajo ideal para tus proyectos</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Visualización de información</p>
-           <p>Cuando el empleador se encuentre en la sección para poder encontrar un trabajo ideal, entonces se mostrarán 3 recomendaciones para él
-</p>
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">28</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: ¿Qué opinan nuestros usuarios?</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar testimonios de usuarios</p>
-           <p>Cuando el usuario accede a la sección "¿Qué opinan nuestros usuarios?", entonces se deben mostrar al menos 2 testimonios de usuarios con sus nombres, tipo de usuario, fotos, y comentarios.
-</p>
-        </tr>
-    </table>
-</div>
-<br>
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">29</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Contáctanos y Footer</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar formulario de contacto</p>
-           <p>Cuando el usuario visita la sección "Contáctanos", entonces se debe mostrar un formulario de contacto con un solo campo obligatorio (correo electrónico) y un botón de "Contaáctanos".
-</p>
-           <p>Escenario 2: Visualización del footer"</p>
-           Cuando el usuario navega al footer, entonces deben estar visibles los enlaces a redes sociales, políticas de privacidad, copyright y año.
-        </tr>
-    </table>
-</div>
-<br>
 
 ## 3.3. Impact Mapping
 **Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
@@ -1621,7 +922,7 @@ La acción de los Task Providers al listar tareas o trabajos disponibles en la p
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
-<img src="assets/Mapping2.png">
+<img src="assets/mapping2.png">
 
 *Imagen (N°12). Elaboración propia. Realizado en Miro*
 
@@ -1660,10 +961,6 @@ Para elaborar nuestro product backlog hemos utilizado la escala lineal (1-8). Es
 |27|25| Sección: ¿Por qué escoger TaskLinker? | Como usuario potencial, quiero revisar la sección "¿Por qué escoger TaskLinker?" para entender los beneficios de utilizar esta plataforma, incluyendo testimonios, estadísticas de éxito, y ventajas competitivas, que me ayuden a decidirme por usar TaskLinker. |5|
 |28|28| Sección: ¿Qué opinan nuestros usuarios? | Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker. |5|
 |29|29| Sección: Contáctanos y Footer | Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio. |2|
-
-
-
-
 
 
 # Capítulo IV: Product Design
@@ -1720,8 +1017,7 @@ La elección tipográfica para TaskLinker es un componente esencial que compleme
 - Interlineado: 1.1
 - Weights: Bold - Medium - Regular - Light
 
-<center> 
-<img src="assets/tipografia.png" style="width: 400px;"/></center>
+<center> <img src="assets/tipografia.png" style="width: 400px;"/></center>
 
 ### 4.1.2. Web Style Guidelines
 La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
@@ -1908,6 +1204,56 @@ etiquetas.
 </div>
 
 ### 4.2.3. SEO Tags and Meta Tag
+
+**SEO Tags**
+
+SEO (Search Engine Optimization) Tags son elementos de HTML que ayudan a los motores de búsqueda a entender el contenido y la estructura de una página web. Estos tags influyen en cómo los motores de búsqueda indexan y clasifican tu sitio en los resultados de búsqueda. 
+
+**Algunos ejemplos importantes de SEO Tags incluyen:**
+
+**Title Tag:**
+
+Es el título de la página web que aparece en la pestaña del navegador y como el título del enlace en los resultados de búsqueda. Importancia: Es crucial porque es uno de los factores más influyentes en el ranking de la página. Debe ser relevante, contener palabras clave, y tener una longitud de entre 50 y 60 caracteres. 
+
+*Ejemplo:* 
+``` html
+<title>Compra Ropa de Moda Online - Tienda XYZ</title>
+``` 
+
+**Header Tags (H1, H2, H3, etc.):** 
+
+Son etiquetas utilizadas para definir los encabezados y subencabezados dentro del contenido de la página. El H1 es el encabezado principal y es el más importante en términos de SEO. Importancia: Ayudan a organizar el contenido y permiten a los motores de búsqueda comprender la jerarquía y el tema principal de la página. 
+
+*Ejemplo:*
+```html
+<h1>Las Mejores Ofertas en Ropa de Moda</h1>
+```
+
+**Alt Tags:**
+
+Son atributos utilizados en imágenes para describir su contenido. Aunque los usuarios no pueden ver este texto directamente, los motores de búsqueda lo utilizan para entender el contenido de la imagen. Importancia: Mejoran la accesibilidad y también son importantes para el SEO, especialmente en la búsqueda de imágenes.
+
+**Meta Tags**
+
+Los Meta Tags son fragmentos de texto que describen el contenido de la página; no aparecen en la página misma, pero se encuentran en el código HTML de la página. Los motores de búsqueda y los navegadores utilizan estos tags para obtener información adicional sobre la página. Algunos de los Meta Tags más relevantes para SEO son:
+
+**Meta Description Tag:**
+
+Proporciona un resumen breve del contenido de la página. Aunque no afecta directamente al ranking de búsqueda, es importante porque aparece en los resultados de búsqueda bajo el título de la página. Importancia: Una meta descripción atractiva puede aumentar la tasa de clics (CTR) desde los motores de búsqueda. 
+
+Originalmente, se utilizaba para listar palabras clave relevantes para la página. Sin embargo, hoy en día, la mayoría de los motores de búsqueda ya no utilizan este tag para el ranking. Importancia: Es menos relevante en la actualidad, pero puede ser utilizado por algunos motores de búsqueda secundarios. 
+
+**Meta Robots Tag:**
+
+Indica a los motores de búsqueda cómo deben indexar o seguir los enlaces en la página. Importancia: Se utiliza para controlar la indexación de la página. Por ejemplo, si no quieres que una página específica sea indexada, puedes usar este tag. 
+
+*Ejemplo:*
+```
+ Viewport Tag
+```
+ Especifica cómo se ajustará la página a la pantalla del dispositivo (especialmente importante para dispositivos móviles). 
+ 
+ Importancia: Crucial para la optimización móvil, ya que garantiza que el sitio web se visualice correctamente en dispositivos de diferentes tamaños.
 
 ### 4.2.4. Searching Systems
 
@@ -2222,130 +1568,6 @@ En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a
 </div>
 <br>
 
-**Web Application para Mobile Web Browser**
-
-**Iniciar sesión**
-<div align="center">
-<img src="assets/mobile1-2.png">
-
-*Imagen(N°32). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Crear cuenta**
-<div align="center">
-<img src="assets/mobile2-2.png">
-
-*Imagen(N°33). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Cargar tarjeta**
-<div align="center">
-<img src="assets/mobile3-2.png">
-
-*Imagen(N°34). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Mi perfil**
-
-*Perfil Trabajador*
-<div align="center">
-<img src="assets/mobile5-2.png">
-
-*Imagen(N°35). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Perfil Empleador*
-<div align="center">
-<img src="assets/mobile4-2.png">
-
-*Imagen(N°36). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Subir Archivos**
-<div align="center">
-<img src="assets/mobile6-2.png">
-
-*Imagen(N°37). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Trabajos realizados**
-<div align="center">
-<img src="assets/mobile7-2.png">
-
-*Imagen(N°38). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Opción Detalles*
-<div align="center">
-<img src="assets/mobile9-2.png">
-
-*Imagen(N°39). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Historial de trabajos Publicados**
-<div align="center">
-<img src="assets/mobile11-2.png">
-
-*Imagen(N°40). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Opción Detalles*
-<div align="center">
-<img src="assets/mobile12-2.png">
-
-*Imagen(N°41). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Panel de control (Dashboard)**
-<div align="center">
-<img src="assets/mobile13-2.png">
-
-*Imagen(N°42). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Aplicación de Filtro**
-<div align="center">
-<img src="assets/mobile18-2.png">
-
-*Imagen(N°43). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Botón Publicar Tarea**
-<div align="center">
-<img src="assets/mobile14-2.png">
-
-*Imagen(N°44). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Postulantes**
-<div align="center">
-<img src="assets/mobile17-2.png">
-
-*Imagen(N°45). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Finalizar Tarea**
-<div align="center">
-<img src="assets/mobile16-2.png">
-
-*Imagen(N°46). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
@@ -2353,51 +1575,34 @@ Los Web Applications Wireflow Diagrams son una combinación de wireframes y fluj
 Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
 
 **User Goal: Registrar**
-
- El usuario selecciona la opción "Register", completa los campos solicitados y hace clic en el botón "Registrar". A continuación, se muestra el panel "Add Card", donde debe llenar los campos relacionados con su tarjeta y correo electrónico. Una vez que el proceso de pago se complete exitosamente, se notifica al usuario con un mensaje confirmando el vínculo de su tarjeta con la plataforma. Del mismo modo, si el usuario desea retirar su información o actualizar lo podrá hacer a través de su perfil. Finalmente hacer clic en el botón "Aceptar".
-
 <div align="center">
 <img src="assets/d1.png">
 
-*Imagen(N°47). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°32). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Iniciar sesión**
-
- El usuario introduce su correo y contraseña, luego hace clic en el botón "Log In". Después, se le redirige al panel de perfil, donde podrá editar su información personal y acceder a las herramientas según su perfil "Trabajador" o "Empleador".
 <div align="center">
 <img src="assets/d2.png">
 
-*Imagen(N°48). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°33). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Perfil**
-
-En el panel "Perfil", el usuario puede editar su nombre, ubicación y biografía, además de visualizar su puntuación. También tiene la opción de subir o actualizar archivos y consultar el historial de trabajos realizados donde podra visualizar su desempeño y reseñas por parte del empleador. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
 <div align="center">
 <img src="assets/d3.png">
 
-*Imagen(N°48). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°34). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Navegar por el dashboard**
-
-Una vez que el usuario accede al dashboard, puede publicar una nueva tarea completando un formulario con los siguientes detalles: título, descripción, fecha de ejecución, tipo de servicio, categoría, ubicación y presupuesto. Tras llenar todos los campos, el usuario hace clic en el botón "Publicar", lo que lo redirige a la sección de "Postulaciones". En esta sección, los contratistas o usuarios interesados pueden postularse para realizar la tarea. Se muestra una lista de postulantes con su nombre, puntuación y opciones de acción, como "Ver perfil" o "Contratar".
-
-En la sección "Finalizar Tarea", el usuario tiene la opción de concluir el proceso dejando una reseña y una puntuación para el contratista que completó la tarea. Luego, hace clic en el botón "Finalizar" para cerrar la tarea oficialmente.
-
-En la sección "Perfil de Usuario", el usuario puede revisar su información personal y su historial de tareas publicadas o realizadas. Además, el perfil incluye una puntuación basada en las reseñas de trabajos previos.
-
-En la sección "Visualización de Tareas", el usuario puede explorar una lista de tareas disponibles a las que puede postularse. Cada tarea tiene un botón de "Aplicar", lo que permite al usuario enviar su candidatura para las tareas que le interesen.
-
-Por último, en la sección "Filtrar Tareas", el usuario puede refinar la búsqueda de tareas según sus criterios, como el tipo de servicio, ubicación, grupo de trabajo y rango de precios. Al hacer clic en el botón "Aplicar Filtro", las tareas visibles se actualizan de acuerdo con las preferencias seleccionadas.
 <div align="center">
 <img src="assets/d4.png">
 
-*Imagen(N°49). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°35). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -2412,7 +1617,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/inicio.png">
 
-*Imagen(N°50). Elaboración propia. Realizado en figma*
+*Imagen(N°36). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2420,7 +1625,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/registro.png">
 
-*Imagen(N°51). Elaboración propia. Realizado en figma*
+*Imagen(N°37). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2428,7 +1633,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/tarjeta.png">
 
-*Imagen(N°52). Elaboración propia. Realizado en figma*
+*Imagen(N°38). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2438,7 +1643,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/trabaja.png">
 
-*Imagen(N°53). Elaboración propia. Realizado en figma*
+*Imagen(N°39). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2446,7 +1651,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/emple.png">
 
-*Imagen(N°54). Elaboración propia. Realizado en figma*
+*Imagen(N°40). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2454,7 +1659,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/subir.png">
 
-*Imagen(N°55). Elaboración propia. Realizado en figma*
+*Imagen(N°41). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2462,7 +1667,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/trabajorea.png">
 
-*Imagen(N°56). Elaboración propia. Realizado en figma*
+*Imagen(N°42). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2470,7 +1675,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/detalles1.png">
 
-*Imagen(N°57). Elaboración propia. Realizado en figma*
+*Imagen(N°43). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2478,7 +1683,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/historialtraba.png">
 
-*Imagen(N°58). Elaboración propia. Realizado en figma*
+*Imagen(N°44). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2486,7 +1691,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/detalles2.png">
 
-*Imagen(N°59). Elaboración propia. Realizado en figma*
+*Imagen(N°45). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2494,7 +1699,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/panel.png">
 
-*Imagen(N°60). Elaboración propia. Realizado en figma*
+*Imagen(N°46). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2502,7 +1707,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/filtro.png">
 
-*Imagen(N°62). Elaboración propia. Realizado en figma*
+*Imagen(N°47). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2510,7 +1715,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/publicarT.png">
 
-*Imagen(N°63). Elaboración propia. Realizado en figma*
+*Imagen(N°48). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2518,7 +1723,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/postulantes.png">
 
-*Imagen(N°64). Elaboración propia. Realizado en figma*
+*Imagen(N°49). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2526,7 +1731,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/finalizarT.png">
 
-*Imagen(N°65). Elaboración propia. Realizado en figma*
+*Imagen(N°50). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2536,7 +1741,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile1.png">
 
-*Imagen(N°66). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2544,7 +1749,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile2.png">
 
-*Imagen(N°67). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2552,7 +1757,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile3.png">
 
-*Imagen(N°68). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2562,7 +1767,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile5.png">
 
-*Imagen(N°69). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2570,7 +1775,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile4.png">
 
-*Imagen(N°70). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2578,7 +1783,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile6.png">
 
-*Imagen(N°71). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2586,7 +1791,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile7.png">
 
-*Imagen(N°72). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2594,7 +1799,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile9.png">
 
-*Imagen(N°73). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2602,7 +1807,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile11.png">
 
-*Imagen(N°74). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2610,7 +1815,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile12.png">
 
-*Imagen(N°75). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2618,7 +1823,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile13.png">
 
-*Imagen(N°76). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2626,7 +1831,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile18.png">
 
-*Imagen(N°77). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2634,7 +1839,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile14.png">
 
-*Imagen(N°78). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2642,7 +1847,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile17.png">
 
-*Imagen(N°79). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2650,7 +1855,7 @@ Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia 
 <div align="center">
 <img src="assets/mobile16.png">
 
-*Imagen(N°80). Elaboración propia. Realizado en figma*
+*Imagen(N°). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
@@ -2661,51 +1866,34 @@ Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido qu
 Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o áreas donde la experiencia del usuario podría mejorarse. Al comprender el flujo completo, puedo optimizar el diseño y la estructura de la aplicación, garantizando una experiencia de usuario fluida y coherente.
 
 **User Goal: Registrar**
-
- El usuario selecciona la opción "Register", completa los campos solicitados y hace clic en el botón "Registrar". A continuación, se muestra el panel "Add Card", donde debe llenar los campos relacionados con su tarjeta y correo electrónico. Una vez que el proceso de pago se complete exitosamente, se notifica al usuario con un mensaje confirmando el vínculo de su tarjeta con la plataforma. Del mismo modo, si el usuario desea retirar su información o actualizar lo podrá hacer a través de su perfil. Finalmente hacer clic en el botón "Aceptar".
-
 <div align="center">
 <img src="assets/d1_1.png">
 
-*Imagen(N°81). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°51). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Iniciar sesión**
-
-El usuario introduce su correo y contraseña, luego hace clic en el botón "Log In". Después, se le redirige al panel de perfil, donde podrá editar su información personal y acceder a las herramientas según su perfil "Trabajador" o "Empleador".
 <div align="center">
 <img src="assets/d2_2.png">
 
-*Imagen(N°82). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°52). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Perfil**
-
-En el panel "Perfil", el usuario puede editar su nombre, ubicación y biografía, además de visualizar su puntuación. También tiene la opción de subir o actualizar archivos y consultar el historial de trabajos realizados donde podra visualizar su desempeño y reseñas por parte del empleador. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
 <div align="center">
-<img src="assets/d3_3.png">
+<img src="assets/aa.png">
 
-*Imagen(N°83). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°53). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Navegar por el dashboard**
-
-Una vez que el usuario accede al dashboard, puede publicar una nueva tarea completando un formulario con los siguientes detalles: título, descripción, fecha de ejecución, tipo de servicio, categoría, ubicación y presupuesto. Tras llenar todos los campos, el usuario hace clic en el botón "Publicar", lo que lo redirige a la sección de "Postulaciones". En esta sección, los contratistas o usuarios interesados pueden postularse para realizar la tarea. Se muestra una lista de postulantes con su nombre, puntuación y opciones de acción, como "Ver perfil" o "Contratar".
-
-En la sección "Finalizar Tarea", el usuario tiene la opción de concluir el proceso dejando una reseña y una puntuación para el contratista que completó la tarea. Luego, hace clic en el botón "Finalizar" para cerrar la tarea oficialmente.
-
-En la sección "Perfil de Usuario", el usuario puede revisar su información personal y su historial de tareas publicadas o realizadas. Además, el perfil incluye una puntuación basada en las reseñas de trabajos previos.
-
-En la sección "Visualización de Tareas", el usuario puede explorar una lista de tareas disponibles a las que puede postularse. Cada tarea tiene un botón de "Aplicar", lo que permite al usuario enviar su candidatura para las tareas que le interesen.
-
-Por último, en la sección "Filtrar Tareas", el usuario puede refinar la búsqueda de tareas según sus criterios, como el tipo de servicio, ubicación, grupo de trabajo y rango de precios. Al hacer clic en el botón "Aplicar Filtro", las tareas visibles se actualizan de acuerdo con las preferencias seleccionadas.
 <div align="center">
 <img src="assets/d4_4.png">
 
-*Imagen(N°84). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°54). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -2729,101 +1917,9 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-<img src="assets/class-diagram.png">
-
 ### 4.7.2. Class Dictionary
-
-**Class User**
-
-| Attribute          | Type          | Description                                   |
-|--------------------|---------------|-----------------------------------------------|
-| id                 | int           | Unique identifier for the user                |
-| name               | string        | Name of the user                              |
-| email              | string        | Email address of the user                     |
-| password           | string        | Password for user authentication              |
-| phoneNumber        | int           | Phone number of the user                      |
-| userType           | UserType      | Type of user                                  |
-| paymentCardId      | int           | Identifier for the user's payment card        |
-| jobHistoryPosted   | int[]         | List of IDs of jobs posted by the user        |
-| jobHistoryApplied  | int[]         | List of IDs of jobs applied to by the user    |
-| receivedReviews    | int[]         | List of IDs of reviews received by the user   |
-| messages           | int[]         | List of message IDs associated with the user  |
-| notifications      | int[]         | List of notification IDs associated with the user |
-
-**Class Job**
-
-| Attribute    | Type          | Description                                      |
-|--------------|---------------|--------------------------------------------------|
-| id           | int           | Unique identifier for the job                    |
-| employerId   | int           | ID of the employer who posted the job            |
-| workerId     | int           | ID of the worker assigned to the job   |
-| title        | string        | Title of the job                                 |
-| description  | string        | Detailed description of the job                  |
-| publishDate  | string        | Date when the job was published                  |
-| rate         | float         | Rate offered for the job                         |
-| status       | JobStatusType | Current status of the job    |
-| location     | string        | Location where the job is based                  |
-| category     | string        | Category or type of job                          |
-| applicants   | int[]         | List of applicant IDs who applied for the job    |
-| reviewId     | int           | ID of the review associated with the job         |
-
-**Class Review**
-
-| Attribute   | Type    | Description                                      |
-|-------------|---------|--------------------------------------------------|
-| id          | int     | Unique identifier for the review                 |
-| postJobId   | int     | ID of the job associated with the review         |
-| employerId  | int     | ID of the employer who provided or received the review |
-| workerId    | int     | ID of the worker who provided or received the review |
-| rating      | float   | Rating score given in the review                 |
-| feedback    | string  | Feedback or comments provided in the review      |
-
-**Class Notification**
-
-| Attribute  | Type                  | Description                                       |
-|------------|-----------------------|---------------------------------------------------|
-| id         | int                   | Unique identifier for the notification            |
-| userId     | int                   | ID of the user receiving the notification         |
-| message    | string                | Content of the notification message               |
-| date       | string                | Date when the notification was created            |
-| status     | NotificationStatusType | Status of the notification (e.g., read, unread)   |
-
-
-**Class Message**
-
-| Attribute  | Type    | Description                                       |
-|------------|---------|---------------------------------------------------|
-| id         | int     | Unique identifier for the message                 |
-| senderId   | int     | ID of the user who sent the message               |
-| receiverId | int     | ID of the user receiving the message              |
-| jobId      | int     | ID of the job associated with the message         |
-| date       | string  | Date when the message was sent                    |
-| content    | string  | Content of the message                            |
-
-**Class Payment**
-
-| Attribute      | Type    | Description                                       |
-|----------------|---------|---------------------------------------------------|
-| id             | int     | Unique identifier for the payment                 |
-| paymentCardId  | int     | ID of the payment card used for the transaction   |
-| paymentDate    | string  | Date when the payment was made                    |
-
-
-**Class PaymentCard**
-
-| Attribute      | Type    | Description                                       |
-|----------------|---------|---------------------------------------------------|
-| id             | int     | Unique identifier for the payment card            |
-| cardNumber     | int     | Number of the payment card                        |
-| expirationDate | string  | Expiration date of the card (MM/YY format)        |
-| securityCode   | int     | Security code (CVV) of the payment card           |
-
 ## 4.8. Database Design
-Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por ser una plataforma escalable con una interfaz sencilla y fácil de usar.
-
 ## 4.8.1. Database Diagram
-
-<img src="assets/database-diagram.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
@@ -2942,7 +2038,7 @@ generalmente se trata de "main" o "master".
 llevará al Landing Page desplegado.
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 
+### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
 | Sprint # | Sprint 1 |
@@ -3115,6 +2211,141 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 <img src="img/colaboration5.png">
 </div> -->
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint 2 | Sprint 2 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-09-25|
+| Time | 06:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint n – 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en finalizar la creación de la página de inicio (Landing Page), utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| **Sprint Goal & User Stories** | 
+| Sprint 2 Goal | Realizar El Front End |
+| Sprint 2 Velocity | x |
+| Sum of Story Points | x | 
+
+#### 5.2.2.2. Sprint Backlog 2
+
+Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando Node.js, Angular CLI y JSON Server. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
+
+<div align="center">
+<img src="img/TrelloSprint2.png">
+</div>
+
+link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp
+
+| Sprint 2 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+| Branch                     | Commit Id | Commit Message                                    | Committed on (Dated) |
+|----------------------------|-----------|---------------------------------------------------|----------------------|
+| feature/public              | 628c0cb   | feat: add toolbar                                 | 27/09/24             |
+| feature/public              | 33dc778   | feat: add fake api                                | 27/09/24             |
+| feature/routes              | 91db854   | feat: add route                                   | 27/09/24             |
+| feature/routes              | 1cd2215   | feat: add routes                                  | 27/09/24             |
+| feature/task                | 59b155f   | feat: add ngif                                    | 27/09/24             |
+| feature/task                | 9dc9b48   | Update styles.css                                 | 27/09/24             |
+| feature/task                | 9c9f993   | Update index.html                                 | 27/09/24             |
+| feature/task                | e84e811   | Update app.routes.ts                              | 27/09/24             |
+| feature/task                | 57c6e45   | Update app.config.ts                              | 27/09/24             |
+| feature/task                | 7ddb11b   | Update app.component.ts                           | 27/09/24             |
+| feature/task                | 24de688   | Update app.component.html                         | 27/09/24             |
+| feature/task                | dcf825    | Create publish-task.component.css                 | 27/09/24             |
+| feature/task                | 34afb4e   | Create publish-task.component.html                | 27/09/24             |
+| feature/task                | 66b02da   | Create publish-task-component.spec.ts             | 27/09/24             |
+| feature/task                | 2d8b8c4   | Create publish-task.component.ts                  | 27/09/24             |
+| feature/works-done          | dcd3191   | Update styles.css                                 | 27/09/24             |
+| feature/works-done          | d48ba8d   | Update app.component.html                         | 27/09/24             |
+| feature/works-done          | d87bb55   | Update app.component.ts                           | 27/09/24             |
+| feature/works-done          | 4e4da95   | Update app.config.ts                              | 27/09/24             |
+| feature/works-done          | d5f6ea0   | Create app.module.ts                              | 27/09/24             |
+| feature/works-done          | 7fc19d6   | Update app.routes.ts                              | 27/09/24             |
+| feature/works-done          | 9e1d0b7   | Create work-done.component.css                    | 27/09/24             |
+| feature/works-done          | ccc87c0   | Create work-done.component.html                   | 27/09/24             |
+| feature/works-done          | 36f50e0   | Create work-done.component.spec.ts                | 27/09/24             |
+| feature/works-done          | 711f5ce   | Create work-done.component.ts                     | 27/09/24             |
+| feature/profiles-dashboard  | 687a8ed   | add: worker-profile, employer-profile & dashboard | 27/09/24             |
+| feature/iam                 | 64d9e66   | feat: add login register functionality            | 27/09/24             |
+| feature/iam                 | 8477f02   | feat: add auth service                            | 27/09/24             |
+| feature/iam                 | 8331bc2   | feat: update user model                           | 27/09/24             |
+| feature/iam                 | a461a37   | feat: add user model                              | 27/09/24             |
+| feature/iam                 | 7f487a7   | feat: add register component                      | 27/09/24             |
+| feature/iam                 | 7dacd14   | feat: add login component                         | 27/09/24             |
+| feature/iam                 | fa8c2e2   | feat: update global styles                        | 27/09/24             |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+- Login y register
+<img src="img/front1.png">
+<img src="img/front2.png">
+
+
+- Menu principal
+<img src="img/front3.png">
+
+- Perfiles
+<img src="img/front4.png">
+<img src="img/front6.png">
+
+- Historial de trabajos
+<img src="img/front5.png">
+<img src="img/front7.png">
+
+- Publicar tarea
+<img src="img/front8.png">
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 1
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
+
+- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
+
+<img src="img/sprint-2-evidencia-4.png"/>
+
+- 2: Ir a Netlify, seleccionar *Add new site*, seguidamente seleccionar *Import an existing project* 
+
+<img src="img/sprint-2-evidencia-1.png"/>
+
+- 3: Seleccionar el repositorio del Frontend
+
+<img src="img/sprint-2-evidencia-2.png"/>
+
+- 4: Ingresar un nombre disponible para la página del frontend y seleccionar la rama *main*
+
+<img src="img/sprint-2-evidencia-3.png"/>
+
+[Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+<img src="img/sprint2-insights1.png"/>
+
+<img src="img/sprint2-insights2.png"/>
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ### 5.3.2. Registro de Entrevistas
@@ -3153,12 +2384,18 @@ Es crucial realizar un seguimiento del impacto del modelo de comisiones y el pla
 Incluir un sistema de notificaciones que informe a los trabajadores sobre oportunidades relevantes para sus habilidades y preferencias, aumentando su participación y el número de trabajos completados.
 
 ## Video About-the-Team.
+[https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit](https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit)
 
 # Bibliografía
+
 MetLife México. (s. f.). Formas de generar ingresos adicionales. MetLife. 
 (https://www.metlife.com.mx/blog/bienestar-financiero/formas-de-generar-ingresos-adicionales/)
 
 Universidad San Ignacio de Loyola. (2022, 28 marzo). Formas de contratación de personal de una empresa. Blog USIL Facultad de Ciencias Empresariales. (https://blogs.usil.edu.pe/facultad-ciencias-empresariales/ciencias-empresariales/formas-de-contratacion-de-personal-de-una-empresa)
 
 Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/glosario/contrato-temporal)
+
 # Anexos
+
+
+[Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
