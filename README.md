@@ -1873,7 +1873,7 @@ Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o
 
 **User Goal: Perfil**
 <div align="center">
-<img src="assets/d3_3.png">
+<img src="assets/aa.png">
 
 *Imagen(N°53). Elaboración propia. Realizado en Lucidchart*
 </div>
@@ -2240,7 +2240,6 @@ Incluir un sistema de notificaciones que informe a los trabajadores sobre oportu
 
 ## Video About-the-Team.
 [https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit](https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit)
-https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit
 
 # Bibliografía
 
