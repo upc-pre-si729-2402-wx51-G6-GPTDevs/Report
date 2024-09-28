@@ -576,14 +576,15 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
 | Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| US04 | Acceso a documentos relevantes | 04 | Documentos | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | Diego, Camila | 10 | Done |
+| US05 | Subir y actualizar documentos | 05 | Documentos | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | Diego, Camila | 9 | To do |
+| US11 | Ver la reputación de los trabajadores | 11 | Usuario | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador, para asegurarme de que es confiable y competente. | Tony, Camila | 10 | Done |
+| US13 | Editar perfil de usuario | 13 | Usuario | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | Tony | 8 | In process |
+| US14 | Visualizar y gestionar mis tareas | 14 | Documentos | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | Diego | 8 | Done |
+| Us16 | Ver perfil detallados de los trabajadores | 16 | Usuario | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | Tony | 8 | Done |
+| US17 | Actualizar mi perfil como trabajador | 17 | Usuario | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | Franco, Camila | 10 | In process |
+| US20 | Iniciar sesión con autenticación Multifacor activada | 20 | Usuario | Como usuario, quiero que al iniciar sesión en mi cuenta se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | Franco, Camila | 10 | Done |
+| US22 | Crear una tarea desde cualquier página | 22 | Documentos | Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido. | Franco, Camila | 9 | Done |
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
