@@ -238,9 +238,9 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo III: Requirements Specification</p>
+        <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva .</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -302,9 +302,9 @@ algunas user stories</p>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo III: Requirements Specification</p>
+        <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva .</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
