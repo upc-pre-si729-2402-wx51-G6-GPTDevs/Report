@@ -99,6 +99,12 @@ TB1:
 
 <img src="assets/insights-tb1-2.png"/>
 
+TB1:
+
+<img src="img/colaboration1-1.png"/>
+
+<img src="img/colaboration1-2.png"/>
+
 # Contenido
 [Student Outcome](#student-outcome)
 
