@@ -238,7 +238,7 @@ de audiencia.</b></td>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo III: Requirements Specification</p>
+        <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
         <p><b>TP1:</b></p>
         <p>.</p>
         <p><b>TB2:</b></p>
@@ -259,7 +259,7 @@ de audiencia.</b></td>
         <p><strong>TB1:</strong></p>
         <p>En conclusión, en esta primera entrega se logró una buena comunicación entre los miembros del equipo. Cada participante estuvo activo y presento sus ideas de manera que todos pudieran entenderse entre sí. Concluimos que aún hay pequeñas dificultades para expresarnos con todos, pero que se puede solucionar con tiempo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, .</p>
+        <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva.</p>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, </p>
         <p><strong>TF:</strong></p>
@@ -301,9 +301,9 @@ de audiencia.</td>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo III: Requirements Specification</p>
+        <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva .</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
