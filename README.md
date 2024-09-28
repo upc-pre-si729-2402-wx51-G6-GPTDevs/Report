@@ -587,12 +587,96 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
-#### 5.2.2.5. Execution Evidence for Sprint Review
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+| Branch                     | Commit Id | Commit Message                                    | Committed on (Dated) |
+|----------------------------|-----------|---------------------------------------------------|----------------------|
+| feature/public              | 628c0cb   | feat: add toolbar                                 | 27/09/24             |
+| feature/public              | 33dc778   | feat: add fake api                                | 27/09/24             |
+| feature/routes              | 91db854   | feat: add route                                   | 27/09/24             |
+| feature/routes              | 1cd2215   | feat: add routes                                  | 27/09/24             |
+| feature/task                | 59b155f   | feat: add ngif                                    | 27/09/24             |
+| feature/task                | 9dc9b48   | Update styles.css                                 | 27/09/24             |
+| feature/task                | 9c9f993   | Update index.html                                 | 27/09/24             |
+| feature/task                | e84e811   | Update app.routes.ts                              | 27/09/24             |
+| feature/task                | 57c6e45   | Update app.config.ts                              | 27/09/24             |
+| feature/task                | 7ddb11b   | Update app.component.ts                           | 27/09/24             |
+| feature/task                | 24de688   | Update app.component.html                         | 27/09/24             |
+| feature/task                | dcf825    | Create publish-task.component.css                 | 27/09/24             |
+| feature/task                | 34afb4e   | Create publish-task.component.html                | 27/09/24             |
+| feature/task                | 66b02da   | Create publish-task-component.spec.ts             | 27/09/24             |
+| feature/task                | 2d8b8c4   | Create publish-task.component.ts                  | 27/09/24             |
+| feature/works-done          | dcd3191   | Update styles.css                                 | 27/09/24             |
+| feature/works-done          | d48ba8d   | Update app.component.html                         | 27/09/24             |
+| feature/works-done          | d87bb55   | Update app.component.ts                           | 27/09/24             |
+| feature/works-done          | 4e4da95   | Update app.config.ts                              | 27/09/24             |
+| feature/works-done          | d5f6ea0   | Create app.module.ts                              | 27/09/24             |
+| feature/works-done          | 7fc19d6   | Update app.routes.ts                              | 27/09/24             |
+| feature/works-done          | 9e1d0b7   | Create work-done.component.css                    | 27/09/24             |
+| feature/works-done          | ccc87c0   | Create work-done.component.html                   | 27/09/24             |
+| feature/works-done          | 36f50e0   | Create work-done.component.spec.ts                | 27/09/24             |
+| feature/works-done          | 711f5ce   | Create work-done.component.ts                     | 27/09/24             |
+| feature/profiles-dashboard  | 687a8ed   | add: worker-profile, employer-profile & dashboard | 27/09/24             |
+| feature/iam                 | 64d9e66   | feat: add login register functionality            | 27/09/24             |
+| feature/iam                 | 8477f02   | feat: add auth service                            | 27/09/24             |
+| feature/iam                 | 8331bc2   | feat: update user model                           | 27/09/24             |
+| feature/iam                 | a461a37   | feat: add user model                              | 27/09/24             |
+| feature/iam                 | 7f487a7   | feat: add register component                      | 27/09/24             |
+| feature/iam                 | 7dacd14   | feat: add login component                         | 27/09/24             |
+| feature/iam                 | fa8c2e2   | feat: update global styles                        | 27/09/24             |
 
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+- Login y register
+<img src="img/front1.png">
+<img src="img/front2.png">
+
+
+- Menu principal
+<img src="img/front3.png">
+
+- Perfiles
+<img src="img/front4.png">
+<img src="img/front6.png">
+
+- Historial de trabajos
+<img src="img/front5.png">
+<img src="img/front7.png">
+
+- Publicar tarea
+<img src="img/front8.png">
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No se implementaron servicios en este sprint 1
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
+
+- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
+
+<img src="img/sprint-2-evidencia-4.png"/>
+
+- 2: Ir a Netlify, seleccionar *Add new site*, seguidamente seleccionar *Import an existing project* 
+
+<img src="img/sprint-2-evidencia-1.png"/>
+
+- 3: Seleccionar el repositorio del Frontend
+
+<img src="img/sprint-2-evidencia-2.png"/>
+
+- 4: Ingresar un nombre disponible para la página del frontend y seleccionar la rama *main*
+
+<img src="img/sprint-2-evidencia-3.png"/>
+
+[Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+<img src="img/sprint2-insights1.png"/>
+
+<img src="img/sprint2-insights2.png"/>
 
 
 ## 5.3. Validation Interviews
@@ -644,3 +728,6 @@ Universidad San Ignacio de Loyola. (2022, 28 marzo). Formas de contratación de 
 Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/glosario/contrato-temporal)
 
 # Anexos
+
+
+[Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
