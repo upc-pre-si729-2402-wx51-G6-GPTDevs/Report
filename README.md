@@ -546,7 +546,46 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+
+| Sprint 2 | Sprint 2 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-09-25|
+| Time | 06:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint n – 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en finalizar la creación de la página de inicio (Landing Page), utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| **Sprint Goal & User Stories** | 
+| Sprint 2 Goal | Realizar El Front End |
+| Sprint 2 Velocity | x |
+| Sum of Story Points | x | 
+
 #### 5.2.2.2. Sprint Backlog 2
+
+Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando Node.js, Angular CLI y JSON Server. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
+
+<div align="center">
+<img src="img/TrelloSprint2.png">
+</div>
+
+link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp
+
+| Sprint 2 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+
 #### 5.2.2.3. Development Evidence for Sprint Review
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 #### 5.2.2.5. Execution Evidence for Sprint Review
