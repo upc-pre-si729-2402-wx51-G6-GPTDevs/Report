@@ -226,7 +226,7 @@ de audiencia.</b></td>
         <p><b>TB1:</b></p>
         <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé un optimo trabajo en equipo, para crear, visualizar y corregir detalles importantes, además fui flexible con el tiempo de entrega de los capítulos</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -263,7 +263,7 @@ de audiencia.</b></td>
        <p><b>TB1:</b></p>
         <p>Capítulo I: Introducción y User Stories</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p></p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -289,7 +289,7 @@ de audiencia.</td>
         <p><b>TB1:</b></p>
         <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé correctamente lo establecido para esta entrega, además apoyé en otras definiciones a mi team Collab</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Pude diseñar las pages de Perfil de Usuario, tanto de empleador como de trabajador, además de implementar la sección de Dashboard en el cual se podrá visualizar las tareas realizadas y mas información, todo lo descrito previamente lo realicé en Node.js, Angular CLI y con ayuda de Json Server</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
