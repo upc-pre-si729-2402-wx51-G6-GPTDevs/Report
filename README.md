@@ -221,7 +221,7 @@ de audiencia.</b></td>
        <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Correcciones al reporte los agregué a los User Stories los Technical Stories y trabajé en el desarrollo del frontend Toolbar y Traduccion. Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
@@ -284,7 +284,7 @@ de audiencia.</td>
        <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Correcciones al reporte los agregué a los User Stories los Technical Stories y trabajé en el desarrollo del frontend Toolbar y Traduccion. Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
         <p>.</p>
         <p><b>TF:</b></p>
