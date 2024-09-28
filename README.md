@@ -1009,7 +1009,7 @@
 
 **Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
 
-<img src="assets/Mapping2.png">
+<img src="assets/mapping2.png">
 
 *Imagen (N°12). Elaboración propia. Realizado en Miro*
 
