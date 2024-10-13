@@ -1286,6 +1286,24 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 ### 4.6.3. Software Architecture Components Diagrams
 <img src="assets/component-diagram.png">
 
+#### Review BC
+<img src="assets/review-bc.png">
+
+#### Job Application BC
+<img src="assets/job-application-bc.png">
+
+#### Job Post BC
+<img src="assets/job-post-bc.png">
+
+#### User BC
+<img src="assets/user-bc.png">
+
+#### Payment BC
+<img src="assets/payment-bc.png">
+
+#### Notification BC
+<img src="assets/notification-bc.png">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 <img src="assets/class-diagram.png">
