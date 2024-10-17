@@ -394,10 +394,10 @@ llevará al Landing Page desplegado.
 Durante el primer sprint, el equipo tuvo como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint fue desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
 
 <div align="center">
-<img src="img/TrelloSprint1.png">
+<img src="img/TrelloSprint1TB1.png">
 </div>
 
-link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-tb1) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-tb1
+link: [Enlace de trello](https://trello.com/invite/b/671070698574d50e08c7e230/ATTIfd0448052a444c2b7705646e07635cd028FB6849/sprint-1-tb1) https://trello.com/invite/b/671070698574d50e08c7e230/ATTIfd0448052a444c2b7705646e07635cd028FB6849/sprint-1-tb1
 
 | Sprint 1 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -559,15 +559,15 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 | Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
 | **Sprint Goal & User Stories** | 
 | Sprint 2 Goal | Realizar El Front End |
-| Sprint 2 Velocity | x |
-| Sum of Story Points | x | 
+| Sprint 2 Velocity | 11 |
+| Sum of Story Points | 43 Story points | 
 
 #### 5.2.2.2. Sprint Backlog 2
 
 Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando Node.js, Angular CLI y JSON Server. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
 
 <div align="center">
-<img src="img/TrelloSprint2.png">
+<img src="img/TrelloSprint2TP">
 </div>
 
 link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp
@@ -575,7 +575,7 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | Sprint 2 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
-| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
 | US04 | Acceso a documentos relevantes | EP003 | Gestión y Clasificación de Tareas | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | 8 hours | Diego, Camila | Done |
 | US05 | Subir y actualizar documentos | EP003 | Gestión y Clasificación de Tareas | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 7 hours | Diego, Camila | To do |
 | US11 | Ver la reputación de los trabajadores | EP010 | Implementación de un Sistema de Reputación. | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador, para asegurarme de que es confiable y competente. | 8 hours | Tony, Camila | Done |
@@ -585,6 +585,8 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
 | US20 | Iniciar sesión con autenticación Multifacor activada | EP009 | Implementadón de Autenticación Multifactor | Como usuario, quiero que al iniciar sesión en mi cuenta se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 6 hours | Franco, Camila | Done |
 | US22 | Crear una tarea desde cualquier página | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido. | 8 hours | Franco, Camila | Done |
+| US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 8 hours | Tony | To do |
+| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Tony | To do |
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
