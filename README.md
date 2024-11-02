@@ -681,6 +681,39 @@ Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
 
 <img src="img/sprint2-insights2.png"/>
 
+### 5.2.3. Sprint 3
+Para este Sprint nos enfocaremos desarrollar una primera version del Web-Services
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint 2 | Sprint 2 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-09-25|
+| Time | 06:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint n – 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en finalizar la creación de la página de inicio (Landing Page), utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| **Sprint Goal & User Stories** | 
+| Sprint 2 Goal | Realizar El Front End |
+| Sprint 2 Velocity | 11 |
+| Sum of Story Points | 43 Story points | 
+
+#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+<img src="./assets/Chapter-5/sprint3-insights6.png"/>
+<img src="./assets/Chapter-5/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
 En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
