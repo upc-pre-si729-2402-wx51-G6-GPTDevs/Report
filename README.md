@@ -712,8 +712,8 @@ La realización de estas tareas refleja un enfoque estructurado para el desarrol
 Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
-<img src="./assets/Chapter-5/sprint3-insights6.png"/>
-<img src="./assets/Chapter-5/sprint2-insights4.png"/>
+<img src="./img/sprint3-insights7.png"/>
+<img src="./img/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
 En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
