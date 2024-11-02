@@ -683,10 +683,168 @@ Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
 
 
 ## 5.3. Validation Interviews
+En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
+
 ### 5.3.1. Diseño de Entrevistas
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación Tasklinker:
+
+**Sitio web**
+
+User Goal: Registrar
+User persona: Trabajador o Empleador
+Explicación del flujo: El usuario accederá a la aplicación y podrá remitir a la aplicación la información necesaria para crear una cuenta. Luego de crear su cuenta le redirigira para registrar su método de pago. Una vez que el proceso de pago es completado exitosamente, se notifica al usuario con un mensaje confirmando el vinculo de su tarjeta con la plataforma
+
+User Goal: Iniciar sesión
+User persona: Trabajador o Empleador
+Explicación del flujo: El usuario accederá a la aplicación e introducirá su nombre de usuario y contraseña en el formulario de inicio de sesión. Si las credenciales son correctas, el usuario será dirigido al dashboard. En caso contrario, se le solicitará que reintroduzca sus datos.
+
+User Goal: Perfil
+User persona: Trabajador o Empleador
+Explicación del flujo: Después de iniciar sesión, el usuario podrá dirigirse a la sección Perfil para editar datos personales o la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
+
+User Goal: Navegar por el dashboard
+User persona: Trabajador o Empleador
+Explicación del flujo: Después de iniciar sesión, el usuario será dirigido al dashboard, donde podrá visualizar las últimas tareas publicadas, el botón para publicar, filtros y un panel de su perfil con la sección "Configuración".
+
 ### 5.3.2. Registro de Entrevistas
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <style>
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <thead>
+        <tr>
+            <th>Sección</th>
+            <th>Características del video</th>
+            <th>Sobre el contenido</th>
+            <th>Integración y entrega</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mp4
+            <br>Duración:  min</br></td>
+            <td>Entrevistado(a) #1:
+            <br>Sexo:
+            <br>Edad: años
+            <br>Segmento Objetivo:   
+            <br> Distrito: </td>
+            <td>Screenshot:
+            <br> Link: </td>
+        </tr>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mp4
+            <br>Duración:  min</br></td>
+            <td>Entrevistado(a) #2:
+            <br>Sexo:
+            <br>Edad: años
+            <br>Segmento Objetivo:   
+            <br> Distrito: </td>
+            <td>Screenshot:
+            <br> Link: </td>
+        </tr>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mp4
+            <br>Duración:  min</br></td>
+            <td>Entrevistado(a) #3:
+            <br>Sexo:
+            <br>Edad: años
+            <br>Segmento Objetivo:   
+            <br> Distrito: </td>
+            <td>Screenshot:
+            <br> Link: </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
 ### 5.3.3. Evaluaciones según heurísticas
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+Site o App a Evaluar: Tasklinker
+
+Tareas a Evaluar: 
+
+1. Iniciar sesión
+2. Crear cuenta
+3. Cargar tarjeta
+4. Mi perfil
+5. Subir Archivos
+6. Trabajos realizados
+7. Historial de trabajos Publicados
+8. Panel de control (Dashboard)
+9. Aplicación de Filtro
+10. Botón Publicar Tarea
+11. Postulantes
+12. Finalizar Tarea
+
+**Escala de Severidad:** 
+
+Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Descripción |
+|-------|-------------|
+|   1   | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. |
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla de Resumen:** 
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+
+----
+<br>
+
+**Descripción del Problemas:**
+
+- **Problema #1:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #2:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #3:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+<br>
+
 # 5.4. Video About-the-Product
+En esta sección se presenta un video explicatiovo sobre la aplicación Tasklinker. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
+
+Enlace al Video About-The-Product:
 
 # Conclusiones
 ## Conclusiones y recomendaciones
