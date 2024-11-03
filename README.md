@@ -228,7 +228,7 @@ de audiencia.</b></td>
         <p><b>TP1:</b></p>
         <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -291,7 +291,7 @@ de audiencia.</td>
         <p><b>TP1:</b></p>
         <p>Pude diseñar las pages de Perfil de Usuario, tanto de empleador como de trabajador, además de implementar la sección de Dashboard en el cual se podrá visualizar las tareas realizadas y mas información, todo lo descrito previamente lo realicé en Node.js, Angular CLI y con ayuda de Json Server</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Pude implementar diversos endpoints de mi Bounded Context Profiles tanto para el segmento Trabajador como Empleador, realicé un crud completo (agregar, obtener, actualizar y eliminar) con ayuda de la interfaz SwaggerUi, para el backend, me apoyé en Springboot y para la base de datos Postgres</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
