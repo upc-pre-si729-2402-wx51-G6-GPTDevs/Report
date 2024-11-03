@@ -686,19 +686,19 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 
 #### 5.2.3.1. Sprint Planning 3
 
-| Sprint 2 | Sprint 2 |
+| Sprint # | Sprint 2 |
 | -------- | -------- |
 |**Sprint Planning Background**|
-| Date | 2024-09-25|
-| Time | 06:00 PM |
+| Date | 2024-10-23|
+| Time | 08:00 PM |
 | Location | Discord Virtual Meeting |
 | Prepared By | Camila Sanchez, Gianfranco Durand |
 |Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
-| Sprint n – 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en finalizar la creación de la página de inicio (Landing Page), utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
-| Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| Sprint 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en la creación de la primera versión del frontend, utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
 | **Sprint Goal & User Stories** | 
-| Sprint 2 Goal | Realizar El Front End |
-| Sprint 2 Velocity | 11 |
+| Sprint 3 Goal | 	Desplegar la primera versión de Web Services. |
+| Sprint 3 Velocity | 11 |
 | Sum of Story Points | 43 Story points | 
 
 #### 5.2.3.2. Sprint Backlog 3
