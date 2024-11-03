@@ -223,7 +223,7 @@ de audiencia.</b></td>
         <p><b>TP1:</b></p>
         <p>Correcciones al reporte los agregué a los User Stories los Technical Stories y trabajé en el desarrollo del frontend Toolbar y Traduccion. Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore con la parte del web Services Job Post BC y la parte del Capitulo 5 - 5.3. Validation Interviews con algunas correciones.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
@@ -286,7 +286,7 @@ de audiencia.</td>
         <p><b>TP1:</b></p>
         <p>Correcciones al reporte los agregué a los User Stories los Technical Stories y trabajé en el desarrollo del frontend Toolbar y Traduccion. Colaboración en el proyecto cumpliendo con las indicaciones realizadas por el equipo para lograr lo esperado.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore con la parte del web Services Job Post BC y la parte del Capitulo 5 - 5.3. Validation Interviews con algunas correciones.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
