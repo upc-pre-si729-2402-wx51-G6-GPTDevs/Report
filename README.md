@@ -702,6 +702,9 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 | Sum of Story Points | 43 Story points | 
 
 #### 5.2.3.2. Sprint Backlog 3
+
+En este Sprint 3, trabajaremos en los servicios clave del backend, incluyendo la autenticación para el acceso seguro, la creación y edición de perfiles de trabajadores y empleadores, la funcionalidad para que los empleadores puedan publicar ofertas de trabajo, y el sistema de notificaciones que enviará alertas importantes por correo y mensajería interna. Estos elementos asegurarán que la plataforma ofrezca una experiencia fluida y conecte eficazmente a todos los usuarios.
+
 <div align="center">
 <img src="img/Sprint 3.png">
 </div>
