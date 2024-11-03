@@ -2070,10 +2070,10 @@ llevará al Landing Page desplegado.
 Durante el primer sprint, el equipo tuvo como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint fue desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
 
 <div align="center">
-<img src="img/TrelloSprint1.png">
+<img src="img/TrelloSprint1TB1.png">
 </div>
 
-link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-tb1) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-tb1
+link: [Enlace de trello](https://trello.com/invite/b/671070698574d50e08c7e230/ATTIfd0448052a444c2b7705646e07635cd028FB6849/sprint-1-tb1) https://trello.com/invite/b/671070698574d50e08c7e230/ATTIfd0448052a444c2b7705646e07635cd028FB6849/sprint-1-tb1
 
 | Sprint 1 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2244,15 +2244,15 @@ Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos
 | Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
 | **Sprint Goal & User Stories** | 
 | Sprint 2 Goal | Realizar El Front End |
-| Sprint 2 Velocity | x |
-| Sum of Story Points | x | 
+| Sprint 2 Velocity | 11 |
+| Sum of Story Points | 43 Story points | 
 
 #### 5.2.2.2. Sprint Backlog 2
 
 Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando Node.js, Angular CLI y JSON Server. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
 
 <div align="center">
-<img src="img/TrelloSprint2.png">
+<img src="img/TrelloSprint2TP.png">
 </div>
 
 link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp
@@ -2260,7 +2260,7 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | Sprint 2 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
-| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
 | US04 | Acceso a documentos relevantes | EP003 | Gestión y Clasificación de Tareas | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | 8 hours | Diego, Camila | Done |
 | US05 | Subir y actualizar documentos | EP003 | Gestión y Clasificación de Tareas | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 7 hours | Diego, Camila | To do |
 | US11 | Ver la reputación de los trabajadores | EP010 | Implementación de un Sistema de Reputación. | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador, para asegurarme de que es confiable y competente. | 8 hours | Tony, Camila | Done |
@@ -2270,6 +2270,8 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
 | US20 | Iniciar sesión con autenticación Multifacor activada | EP009 | Implementadón de Autenticación Multifactor | Como usuario, quiero que al iniciar sesión en mi cuenta se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 6 hours | Franco, Camila | Done |
 | US22 | Crear una tarea desde cualquier página | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido. | 8 hours | Franco, Camila | Done |
+| US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 8 hours | Tony | To do |
+| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Tony | To do |
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
@@ -2364,12 +2366,355 @@ Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
 
 <img src="img/sprint2-insights2.png"/>
 
+### 5.2.3. Sprint 3
+Para este Sprint nos enfocaremos desarrollar una primera version del Web-Services
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-10-23|
+| Time | 08:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en la creación de la primera versión del frontend, utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| **Sprint Goal & User Stories** | 
+| Sprint 3 Goal | 	Desplegar la primera versión de Web Services. |
+| Sprint 3 Velocity | 11 |
+| Sum of Story Points | 43 Story points | 
+
+#### 5.2.3.2. Sprint Backlog 3
+
+En este Sprint 3, trabajaremos en los servicios clave del backend, incluyendo la autenticación para el acceso seguro, la creación y edición de perfiles de trabajadores y empleadores, la funcionalidad para que los empleadores puedan publicar ofertas de trabajo, y el sistema de notificaciones que enviará alertas importantes por correo y mensajería interna. Estos elementos asegurarán que la plataforma ofrezca una experiencia fluida y conecte eficazmente a todos los usuarios.
+
+<div align="center">
+<img src="img/Sprint 3.png">
+</div>
+
+link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://trello.com/b/b8PH3hVt/sprint-3-tb2
+
+| Sprint 3 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 8 hours | Diego, Camila | Done |
+| US12 | Actualizar la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo | 7 hours | Tony | Done |
+| US05 | Subir y actualizar documentos| EP03 | Implementación de un Sistema de Reputación. | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 8 hours | Tony, Camila | Done |
+| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | In process |
+| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado	 | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Camila | In process |
+| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 8 hours | Diego | Done |
+| US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
+| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
+| US20 | Iniciar sesión con autenticación multifactor activada | EP009 | Implementadón de Autenticación Multifactor		| Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 8 hours | Franco | In process |
+| US21 | Evaluar a los trabajadores después de un trabajo | EP007 | Gestión de Perfiles y Evaluaciones	| Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos. | 8 hours | Camila | In process |
+| US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 8 hours | Franco, Camila | Done |
+| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Franco, Camila | Done |
+| US32 | Ver perfil detallado de los empleadores | EP005 | Panel de Usuario Personalizado | Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. | 8 hours | Tony | Done |
+| US33 | Creación de perfil como empleador | EP005 | Panel de Usuario Personalizado	 | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Tony | Done |
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+| Branch | Commit Id | Commit Message                       | Committed on (Dated) |
+|--------|-----------|--------------------------------------|-----------------------|
+| feature/iam   | 875c43d   | feat: add authentication controller, resources, transforms | 25/10/24             |
+| feature/iam   | ed5db1e   | feat: add user command query service and implementatio  | 25/10/24             |
+| feature/iam   | e9ebefd   | feat: add user repository                               | 25/10/24             |
+| feature/iam   | e48c722   | feat: add getUserByEmail query                          | 25/10/24             |
+| feature/iam   | 83ef41a   | feat: add sign in sign up commands                      | 25/10/24             |
+| feature/iam   | bafa219   | feat: add user model, paymentcard entity, phonenumber value object | 25/10/24             |
+| feature/jobPostBC      | e225f4b   | feat: add infrastructure                | 02/11/24             |
+| feature/jobPostBC      | b4e97b5   | feat: add domain model and services     | 02/11/24             |
+| feature/jobPostBC      | a222da1   | chore: jobPost                          | 25/10/24             |
+| feature/jobPostBC      | 702acf9   | chore: jobpost                          | 25/10/24             |
+| feature/notificationBC    | 124383d   | Chore: (TasklinkerApplicationTests.java)     | 18/10/24             |
+| feature/notificationBC    | 9632251   | Chore: (application.properties)              | 18/10/24             |
+| feature/notificationBC    | 43b6397   | Chore: (TasklinkerApplication.java)          | 18/10/24             |
+| feature/notificationBC    | 743e5c6   | Chore: (NotificationService.java)            | 18/10/24             |
+| feature/notificationBC    | b48e366   | Chore: (NotificationRepository.java)         | 18/10/24             |
+| feature/notificationBC    | 062790a   | Chore: (Notification.java)                   | 18/10/24             |
+| feature/notificationBC    | 0c2fd67   | Chore:(NotificationController.java)          | 18/10/24             |
+| feature/notificationBC    | dca090e   | Chore: (pom.xml)                             | 18/10/24             |
+| feature/profileCreateBC  | 9b5c63e   | chore: profile create bounded context added   | 21/10/24             |
+| feature/shared | eba6185   | feat: add snake case naming          | 22/10/24             |
+| feature/shared | 3db1b41   | feat: add auditable aggregate, model | 22/10/24             |
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
+Para la presente entrega, enfatizamos nuestro enfoque en los Web Services o Back-end de nuestro sitio web, logramos definir y ejecutar satisfactoriamente varios endpoints de nuestros bounded contexts, pero a continucación se proporcionará algunas evidencias de ejecución del servicio de los bounded contexts mas relevantes.
+
+##### Bounded Context Profiles
+
+##### Notifications 
+
+POST
+<img src="img/webservicenotification.png"/>
+
+<img src="img/webservicenotification1.png"/>
+
+GET
+<img src="img/webservicenotification2.png"/>
+
+##### Worker Profile
+
+POST
+<img src="img/webserviceworker.png"/>
+
+<img src="img/webserviceworker2.png"/>
+
+GET
+<img src="img/webserviceworker3.png"/>
+
+GET BY ID
+
+<img src="img/webserviceworker4.png"/>
+
+DELETE
+
+<img src="img/webserviceworker5.png"/>
+
+
+##### Employer Profile
+
+POST
+<img src="img/webserviceemployer.png"/>
+
+<img src="img/webserviceemployer2.png"/>
+
+GET
+<img src="img/webserviceemployer3.png"/>
+
+#### 5.2.3.6. Service Documentation Evidence for Sprint Review
+
+En esta sección, se destacarán los principales endpoints de los bounded context , detallando sus funcionalidades y cómo respaldan las operaciones esenciales del servicio. Se describirá el propósito y la utilidad de cada endpoint, enfocándose en acciones como la creación, consulta, actualización y eliminación de perfiles de trabajadores y empleadores. Por otra parte, con respecto a la utilidad del bounded context Notifications, la creación y consulta requerida.
+
+##### Notification
+
+| Endpoint Route                 | Action                              | HTTP Verb | Required Parameters                               | Call Example | Response |
+|--------------------------------|-------------------------------------|-----------|---------------------------------------------------|--------------|----------|
+| `/api/notifications` |  Create a new notification  |     POST      |   `email` string required,  `message` string required                |    `POST /api/notifications` with JSON body        |  `200 OK`     |
+| `/api/notifications` |  Get all notifications      |     GET       |                None                    |    `GET /api/notifications`           |     `200 OK`     |
+
+
+##### Worker
+
+| Endpoint Route               | Action                            | HTTP Verb | Required Parameters                          | Call Example                                                                                                                                       | Response                                                                                                                                                                       |
+|------------------------------|-----------------------------------|-----------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `/api/v1/workerProfile`      | Create a new worker profile      | POST      | `CreateWorkerResource` in the request body   | `POST /api/v1/workerProfile` with JSON body                | `201 Created` with `WorkerResource` JSON body if successful                                                                                |
+| `/api/v1/workerProfile/{id}` | Get a worker profile by ID       | GET       | `id` as path variable                       | `GET /api/v1/workerProfile/1`                                                                                                                     | `200 OK` with `WorkerResource` JSON body if found                                                                                         |
+| `/api/v1/workerProfile`      | Get all worker profiles          | GET       | None                                         | `GET /api/v1/workerProfile`                                                                                                                       | `200 OK` with array of `WorkerResource` JSON objects if profiles exist                                                                    |
+| `/api/v1/workerProfile/{id}` | Update a worker profile by ID    | PUT       | `id` as path variable, `UpdateWorkerByIdCommand` in the request body | `PUT /api/v1/workerProfile/1` with JSON body | `200 OK` with updated `Worker` JSON object if successful                                                               |
+| `/api/v1/workerProfile/{id}` | Delete a worker profile by ID    | DELETE    | `id` as path variable                       | `DELETE /api/v1/workerProfile/1`                                                                                                                  | `200 OK` if deleted successfully                                                                                  |
+
+##### Employer
+
+| Endpoint Route                 | Action                              | HTTP Verb | Required Parameters                               | Call Example                                                                                                                                                                      | Response                                                                                                                                                                                       |
+|--------------------------------|-------------------------------------|-----------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `/api/v1/employerProfile`      | Create a new employer profile       | POST      | `CreateEmployerResource` in the request body      | `POST /api/v1/employerProfile` with JSON body                                                     | `201 Created` with `EmployerResource` JSON body if successful                                                                                           |
+| `/api/v1/employerProfile/{id}` | Get an employer profile by ID       | GET       | `id` as path variable                             | `GET /api/v1/employerProfile/1`                                                                                                                                                   | `200 OK` with `EmployerResource` JSON body if found                                                                                                           |
+| `/api/v1/employerProfile`      | Get all employer profiles           | GET       | None                                              | `GET /api/v1/employerProfile`                                                                                                                                                     | `200 OK` with an array of `EmployerResource` JSON objects if profiles exist                                                                             |
+| `/api/v1/employerProfile/{id}` | Update an employer profile by ID    | PUT       | `id` as path variable, `UpdateEmployerByIdCommand` in the request body | `PUT /api/v1/employerProfile/1` with JSON body                | `200 OK` with updated `Employer` JSON object if successful                                                                            |
+| `/api/v1/employerProfile/{id}` | Delete an employer profile by ID    | DELETE    | `id` as path variable                             | `DELETE /api/v1/employerProfile/1`                                                                                                                                                 | `200 OK` if deleted successfully                                                                                                         |
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Durante este sprint, se utilizó Azure como plataforma de despliegue para la aplicación web.
+
+- 1. Crear un recurso de *Azure App Service*
+
+<img src="img/sprint-3-evidencia-1.png"/>
+
+- 2. Escoger el entorno de **Java 21** y configurar un nombre para el dominio
+
+<img src="img/sprint-3-evidencia-2.png"/>
+
+- 3. Actualizar la conexión a la base de datos
+
+<img src="img/sprint-3-evidencia-3.png"/>
+
+- 4. En el menú del recurso de Azure seleccionar *Deploy to Web App* 
+
+<img src="img/sprint-3-evidencia-4.png"/>
+
+<img src="img/sprint-3-evidencia-5.png"/>
+
+- 4. Verificar el funcionamiento de Swagger en el dominio del App Service
+
+<img src="img/sprint-3-evidencia-6.png"/>
+
+[Link:](https://tasklinker.azurewebsites.net/swagger-ui/index.html) https://tasklinker.azurewebsites.net/swagger-ui/index.html
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+<img src="./img/sprint3-insights7.png"/>
 
 ## 5.3. Validation Interviews
+En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
+
 ### 5.3.1. Diseño de Entrevistas
+Se decribe la metodología utilizada para diseñar las entrevistas de validación, incluyendo la selección de participantes, la formulación de preguntas y el enfoque adaptaddo para obtener información relevante y precisa sobre la experiencia del usuario con la aplicación Tasklinker:
+
+**Sitio web**
+
+User Goal: Registrar
+User persona: Trabajador o Empleador
+Explicación del flujo: El usuario accederá a la aplicación y podrá remitir a la aplicación la información necesaria para crear una cuenta. Luego de crear su cuenta le redirigira para registrar su método de pago. Una vez que el proceso de pago es completado exitosamente, se notifica al usuario con un mensaje confirmando el vinculo de su tarjeta con la plataforma
+
+User Goal: Iniciar sesión
+User persona: Trabajador o Empleador
+Explicación del flujo: El usuario accederá a la aplicación e introducirá su nombre de usuario y contraseña en el formulario de inicio de sesión. Si las credenciales son correctas, el usuario será dirigido al dashboard. En caso contrario, se le solicitará que reintroduzca sus datos.
+
+User Goal: Perfil
+User persona: Trabajador o Empleador
+Explicación del flujo: Después de iniciar sesión, el usuario podrá dirigirse a la sección Perfil para editar datos personales o la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
+
+User Goal: Navegar por el dashboard
+User persona: Trabajador o Empleador
+Explicación del flujo: Después de iniciar sesión, el usuario será dirigido al dashboard, donde podrá visualizar las últimas tareas publicadas, el botón para publicar, filtros y un panel de su perfil con la sección "Configuración".
+
 ### 5.3.2. Registro de Entrevistas
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta name="viewport" content="initial-scale=1.0">
+    <style>
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <thead>
+        <tr>
+            <th>Sección</th>
+            <th>Características del video</th>
+            <th>Sobre el contenido</th>
+            <th>Integración y entrega</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mp4
+            <br>Duración:  min</br></td>
+            <td>Entrevistado(a) #1:
+            <br>Sexo:
+            <br>Edad: años
+            <br>Segmento Objetivo:   
+            <br> Distrito: </td>
+            <td>Screenshot:
+            <br> Link: </td>
+        </tr>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mp4
+            <br>Duración:  min</br></td>
+            <td>Entrevistado(a) #2:
+            <br>Sexo:
+            <br>Edad: años
+            <br>Segmento Objetivo:   
+            <br> Distrito: </td>
+            <td>Screenshot:
+            <br> Link: </td>
+        </tr>
+        <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mp4
+            <br>Duración:  min</br></td>
+            <td>Entrevistado(a) #3:
+            <br>Sexo:
+            <br>Edad: años
+            <br>Segmento Objetivo:   
+            <br> Distrito: </td>
+            <td>Screenshot:
+            <br> Link: </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
 ### 5.3.3. Evaluaciones según heurísticas
+Aquí se explican las evaluaciones realizadas utilizando principios heurísticos de usabilidad. Se analizan los resultados obtenidos y se identifican áreas de mejora en la interfaz y la funcionalidad de la aplicación, con el fin de optimizar la experiencia del usuario y asegurar la eficacia del producto.
+
+Site o App a Evaluar: Tasklinker
+
+Tareas a Evaluar: 
+
+1. Iniciar sesión
+2. Crear cuenta
+3. Cargar tarjeta
+4. Mi perfil
+5. Subir Archivos
+6. Trabajos realizados
+7. Historial de trabajos Publicados
+8. Panel de control (Dashboard)
+9. Aplicación de Filtro
+10. Botón Publicar Tarea
+11. Postulantes
+12. Finalizar Tarea
+
+**Escala de Severidad:** 
+
+Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel | Descripción |
+|-------|-------------|
+|   1   | Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|   2   | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja de cara resolverlo al siguiente release. |
+|   3   | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+|   4   | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**Tabla de Resumen:** 
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|---------------------|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+
+----
+<br>
+
+**Descripción del Problemas:**
+
+- **Problema #1:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #2:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+
+---
+
+- **Problema #3:**
+- **Severidad:** 
+- **Heurística/Principio violado(a):** 
+- **Problema:** 
+- **Recomendación:** 
+<br>
+
 # 5.4. Video About-the-Product
+En esta sección se presenta un video explicatiovo sobre la aplicación Tasklinker. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
+
+Enlace al Video About-The-Product:
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2418,3 +2763,9 @@ Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/
 
 
 [Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
+
+[Link Backend:](https://tasklinker.azurewebsites.net/swagger-ui/index.html) https://tasklinker.azurewebsites.net/swagger-ui/index.html
+
+[About The Product:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/EfFCppV64GFPupXAacw9P0QBWOfH66q39wxBOzVWZzEUFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fzwv4u) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/EfFCppV64GFPupXAacw9P0QBWOfH66q39wxBOzVWZzEUFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fzwv4u
+
+[About The Team:](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ESjaBnEaSv9KsApVAYRPQHUBDehk1yp3t77m_GzyR9l2SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KhH4LN) https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ESjaBnEaSv9KsApVAYRPQHUBDehk1yp3t77m_GzyR9l2SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KhH4LN
