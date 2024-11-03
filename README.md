@@ -242,7 +242,7 @@ de audiencia.</b></td>
         <p><b>TP1:</b></p>
         <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva .</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Roque Tello, Jack Eddie</b></p>
@@ -306,7 +306,7 @@ algunas user stories</p>
         <p><b>TP1:</b></p>
         <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva .</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Roque Tello, Jack Eddie</b></p>
