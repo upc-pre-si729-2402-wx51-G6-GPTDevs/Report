@@ -709,11 +709,34 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
-Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web.
+Durante este sprint, se utilizó Azure como plataforma de despliegue para la aplicación web.
+
+- 1. Crear un recurso de *Azure App Service*
+
+<img src="img/sprint-3-evidencia-1.png"/>
+
+- 2. Escoger el entorno de **Java 21** y configurar un nombre para el dominio
+
+<img src="img/sprint-3-evidencia-2.png"/>
+
+- 3. Actualizar la conexión a la base de datos
+
+<img src="img/sprint-3-evidencia-3.png"/>
+
+- 4. En el menú del recurso de Azure seleccionar *Deploy to Web App* 
+
+<img src="img/sprint-3-evidencia-4.png"/>
+
+<img src="img/sprint-3-evidencia-5.png"/>
+
+- 4. Verificar el funcionamiento de Swagger en el dominio del App Service
+
+<img src="img/sprint-3-evidencia-6.png"/>
+
+[Link:](https://tasklinker.azurewebsites.net/swagger-ui/index.html) https://tasklinker.azurewebsites.net/swagger-ui/index.html
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <img src="./img/sprint3-insights7.png"/>
-<img src="./img/sprint2-insights4.png"/>
 
 ## 5.3. Validation Interviews
 En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
@@ -925,3 +948,5 @@ Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/
 
 
 [Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
+
+[Link Backend:](https://tasklinker.azurewebsites.net/swagger-ui/index.html) https://tasklinker.azurewebsites.net/swagger-ui/index.html
