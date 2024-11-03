@@ -1566,297 +1566,291 @@ En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a
 <br>
 
 
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">26</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Contrata talento temporal</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar guía de publicación de ofertas</p>
+           <p>Cuando el empleador visita la sección "Contrata talento temporal", entonces se debe mostrar un formulario o guía que explique cómo publicar una oferta de trabajo temporal.
+</p>
+        </tr>
+    </table>
+</div>
+<br>
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">27</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Encuentra el trabajo ideal para tus proyectos</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Visualización de información</p>
+           <p>Cuando el empleador se encuentre en la sección para poder encontrar un trabajo ideal, entonces se mostrarán 3 recomendaciones para él
+</p>
+        </tr>
+    </table>
+</div>
+
+
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">28</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: ¿Qué opinan nuestros usuarios?</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar testimonios de usuarios</p>
+           <p>Cuando el usuario accede a la sección "¿Qué opinan nuestros usuarios?", entonces se deben mostrar al menos 2 testimonios de usuarios con sus nombres, tipo de usuario, fotos, y comentarios.
+</p>
+        </tr>
+    </table>
+</div>
+
+
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">29</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">011</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Sección: Contáctanos y Footer</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4">Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio.</td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Mostrar formulario de contacto</p>
+           <p>Cuando el usuario visita la sección "Contáctanos", entonces se debe mostrar un formulario de contacto con un solo campo obligatorio (correo electrónico) y un botón de "Contaáctanos".
+</p>
+           <p>Escenario 2: Visualización del footer"</p>
+           Cuando el usuario navega al footer, entonces deben estar visibles los enlaces a redes sociales, políticas de privacidad, copyright y año.
+        </tr>
+    </table>
+</div>
+<br>
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">30</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">007</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Creación de perfil como trabajador</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. </td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Un trabajador accede al formulario de creación de perfil y puede ingresar su información personal, habilidades y experiencia laboral.</p>
+           <p> Dado un trabajador que quiere ofrecer sus servicios, cuando accede a la sección "Crear perfil" en la plataforma, entonces puede llenar el formulario con sus datos personales, descripción de habilidades y experiencia laboral, y cargar una foto de perfil.
+</p>
+           <p>Escenario 2: Validación de información obligatoria para la creación de perfil.</p>
+          Dado un trabajador que intenta crear su perfil, cuando no llena los campos obligatorios (nombre, habilidades, experiencia), entonces el sistema muestra mensajes de error indicando los campos faltantes y no permite continuar hasta que se complete toda la información obligatoria.
+        </tr>
+    </table>
+</div>
+<br>
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">31</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">007</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Creación de perfil como empleador</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. </td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Un empleador accede al formulario de creación de perfil y puede ingresar la información de la empresa y detalles de contacto.</p>
+           <p> Dado un empleador que quiere ofrecer trabajos, cuando accede a la sección "Crear perfil" en la plataforma, entonces puede llenar el formulario con los datos de la empresa, detalles de contacto y cargar el logo de la empresa.
+</p>
+           <p>Escenario 2: Validación de información obligatoria para la creación de perfil de empleador.</p>
+           Dado un empleador que intenta crear su perfil, cuando no completa los campos obligatorios (nombre de la empresa, contacto), entonces el sistema muestra mensajes de error indicando los campos faltantes y no permite continuar hasta que se complete toda la información obligatoria.
+        </tr>
+    </table>
+</div>
+
+
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">32</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">005</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Ver perfil detallado de los empleadores</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero ver un perfil detallado de cada empleador para evaluar sus datos personales tales como su empresa, método de pago, industria, calificaciones y comentarios, de manera que pueda tomar una decisión informada antes de aceptar una oferta. </td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Visualización del perfil completo de un empleador.</p>
+           <p> Dado un trabajador que está revisando perfiles de empleadores, cuando selecciona un empleador en la plataforma, entonces puede ver un perfil detallado que incluye el historial de contrataciones, calificaciones de otros trabajadores y comentarios.
+</p>
+           <p>Escenario 2: Visualización de la industria y datos de la compañía.</p>
+           Dado un trabajador que desea conocer más detalles sobre la compañía del empleador, cuando accede al perfil del empleador, entonces puede ver la industria a la que pertenece, el tamaño de la compañía y el nombre.
+        </tr>
+    </table>
+</div>
+
+
+
+
+<div style="text-align:center;">
+    <table align="center" border="1" cellpadding="13" cellspacing="0">
+        <tr>
+            <td style="text-align:center;" colspan="2">User Story ID</td>
+            <td  colspan="2">33</td>
+            <td style="text-align:center;" colspan="2">Epic ID</td>
+            <td colspan="5">005</td>
+        </tr>
+        <tr>
+            <td style="text-align:center;" colspan="1">Title </td>
+            <td  colspan="2"> Actulizar mi perfil como empleador</td>
+            <td style="text-align:center;" colspan="4"> Description</td>
+            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. </td>
+        </tr>
+        <tr>
+            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
+            <p>Escenario 1: Actualización de información general del perfil del empleador.</p>
+           <p> Dado un empleador que desea modificar su perfil, cuando accede a la sección "Actualizar perfil" en la plataforma, entonces puede editar campos como el nombre de la compañía, número de teléfono y detalles de contacto y guardarlos.
+</p>
+           <p>Escenario 2: Actualización del rango salarial ofrecido.</p>
+           Dado un empleador que desea actualizar el rango salarial de sus ofertas, cuando accede a la sección de perfil para editar el salario, entonces puede ajustar el rango salarial y guardar los cambios para que se reflejen en futuras ofertas.
+        </tr>
+    </table>
+</div>
+
+<br>
+
+## 3.3. Impact Mapping
+**Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
+<br>
+<img src="assets/Mapping1.png">
+*Imagen (N°11). Elaboración propia. Realizado en Miro*
+</br>
+
+**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
+
+<img src="assets/mapping2.png">
+
+*Imagen (N°12). Elaboración propia. Realizado en Miro*
+
+## 3.4. Product Backlog
+
+Para elaborar nuestro product backlog hemos utilizado la escala lineal (1-8). Esto con el propósito de simplificar la complejidad de las tareas.
+
+|# orden|User Story ID|Titulo|Descripción|Story Points|
+| :-: | :-: | :-: | :-: | :-: |
+|1|1|Acceso Rápido a Funciones Principales|Como usuario, quiero un menú de navegación principal que me permita acceder rápidamente a las funciones más importantes, como buscar trabajos, gestionar mi perfil y ver notificaciones, para optimizar mi tiempo y facilitar mi uso de TaskLinker.|8|
+|2|2|Filtros Avanzados de Búsqueda|Como usuario, quiero poder utilizar filtros avanzados al buscar trabajos en TaskLinker para encontrar oportunidades laborales que se alineen con mis habilidades, disponibilidad y preferencias de ubicación, de manera rápida y eficiente.|7|
+|3|10|Evaluar a los Trabajadores|Como empleador, quiero poder evaluar a los trabajadores después de que hayan completado una tarea, para proporcionar retroalimentación y ayudar a otros empleadores a tomar decisiones informadas.|6|
+|4|3|Guardar Búsquedas Personalizadas|Como usuario, quiero poder guardar búsquedas personalizadas en TaskLinker para que pueda acceder fácilmente a mis criterios de búsqueda preferidos sin tener que reconfigurarlos cada vez que quiera buscar trabajos similares.|6|
+|5|4|Acceso a Documentos Relevantes|Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para poder tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker.|6|
+|6|5|Subir y Actualizar Documentos|Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles.|5|
+|7|22|Crear una tarea desde cualquier página|Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.|5|
+|8|11|Ver la Reputación de los Trabajadores|Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente.|5|
+|9|12|Actualizar la Reputación del Trabajador|Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo.|5|
+|10|6|Organización de Documentos por Categorías|Como trabajador, quiero poder organizar mis documentos en categorías dentro de mi perfil para que los empleadores puedan encontrar rápidamente los documentos que necesitan revisar.|4|
+|11|21| Evaluar a los trabajadores después de un trabajo|Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos.|4|
+|12|7|Filtrar Tareas por Ubicación|Como trabajador, quiero poder filtrar las tareas disponibles por ubicación para encontrar trabajos cercanos que me resulten convenientes.|4|
+|13|9|Filtrar Tareas por Tipo de Trabajo|Como trabajador, quiero poder filtrar las tareas disponibles por tipo de trabajo para encontrar fácilmente las que se alineen con mis habilidades y preferencias.|4|
+|14|8|Filtrar Tareas por Horario|Como trabajador, quiero poder filtrar las tareas por horario para encontrar trabajos que se ajusten a mi disponibilidad.|4|
+|15|13|Editar Perfil de Usuario|Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, de modo que los empleadores tengan datos precisos sobre mí.|3|
+|16|14|Visualizar y Gestionar Mis Tareas|Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades.|3|
+|17|18|Publicar Nuevas Tareas de Manera Rápida|Como empleador, quiero tener acceso a un botón de acción flotante que me permita publicar nuevas tareas de forma rápida y sencilla, para que no tenga que navegar por múltiples menús o secciones.|3|
+|18|16|Ver Perfiles Detallados de los Trabajadores|Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos.|3|
+|19|15|Recibir Notificaciones de Nuevas Oportunidades de Trabajo|Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes.|3|
+|20|17|Actualizar Mi Perfil Como Trabajador|Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional.|2|
+|21|19|Solicitar Trabajo con Menú Contextual Simplificado|Como trabajador, quiero poder solicitar trabajos directamente desde un menú contextual, para que el proceso sea más rápido y no tenga que navegar por varios pasos para aplicar a un trabajo.|2|
+|22|20|Iniciar Sesión con Autenticación Multifactor Activada|Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta.|1|
+|23|23|Recuperar cuenta con 2FA habilitada|Como usuario, quiero poder recuperar mi cuenta si pierdo acceso a mi segundo factor de autenticación, para no quedar bloqueado de la plataforma.|1|
+|24|24| Sección: Encontrar un trabajo flexible | Como usuario que busca oportunidades laborales, quiero explorar la sección "Encontrar un trabajo flexible" para conocer las opciones de trabajos por horas disponibles y entender cómo puedo aplicar a ellos de forma rápida y sencilla. |6|
+|25|26| Sección: Contrata talento temporal | Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas. |6|
+|26|27| Sección: Encuentra el trabajo ideal para tus proyectos  | Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos. |5|
+|27|25| Sección: ¿Por qué escoger TaskLinker? | Como usuario potencial, quiero revisar la sección "¿Por qué escoger TaskLinker?" para entender los beneficios de utilizar esta plataforma, incluyendo testimonios, estadísticas de éxito, y ventajas competitivas, que me ayuden a decidirme por usar TaskLinker. |5|
+|28|28| Sección: ¿Qué opinan nuestros usuarios? | Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker. |5|
+|29|29| Sección: Contáctanos y Footer | Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio. |2|
+|30|30| Creación de perfil como trabajador | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. |5|
+|31|31| Creación de perfil como empleador | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. |5|
+|32|32| Ver perfil detallado de los empleadores | Como trabajador, quiero ver un perfil detallado de cada empleador para evaluar sus datos personales tales como su empresa, método de pago, industria, calificaciones y comentarios, de manera que pueda tomar una decisión informada antes de aceptar una oferta. |7|
+|33|33| Actualizar mi perfil como empleador | Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. |7|
+
+
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+### 4.1.2. Web Style Guidelines
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
+### 4.2.2. Labeling Systems
+### 4.2.3. SEO Tags and Meta Tag
+### 4.2.4. Searching Systems
+### 4.2.5. Navigation Systems
+## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframe
+### 4.3.2. Landing Page Mock-up
+## 4.4. Web Applications UX/UI Design
+### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
-Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
-
-Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
-
-**User Goal: Registrar**
-<div align="center">
-<img src="assets/d1.png">
-
-*Imagen(N°32). Elaboración propia. Realizado en Lucidchart*
-</div>
-<br>
-
-**User Goal: Iniciar sesión**
-<div align="center">
-<img src="assets/d2.png">
-
-*Imagen(N°33). Elaboración propia. Realizado en Lucidchart*
-</div>
-<br>
-
-**User Goal: Perfil**
-<div align="center">
-<img src="assets/d3.png">
-
-*Imagen(N°34). Elaboración propia. Realizado en Lucidchart*
-</div>
-<br>
-
-**User Goal: Navegar por el dashboard**
-<div align="center">
-<img src="assets/d4.png">
-
-*Imagen(N°35). Elaboración propia. Realizado en Lucidchart*
-</div>
-<br>
-
 ### 4.4.3. Web Applications Mock-ups
-Los Web Applications Mock-ups son representaciones visuales detalladas y de alta fidelidad del diseño de una aplicación web. A diferencia de los wireframes, que son más esquemáticos, los mock-ups incorporan colores, tipografías, imágenes y otros elementos de diseño, ofreciéndonos una vista previa realista de cómo se verá la interfaz de usuario final.
-
-Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand.
-
-**Web Application para Desktop Web Browser**
-
-**Iniciar sesión**
-<div align="center">
-<img src="assets/inicio.png">
-
-*Imagen(N°36). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Crear cuenta**
-<div align="center">
-<img src="assets/registro.png">
-
-*Imagen(N°37). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Cargar tarjeta**
-<div align="center">
-<img src="assets/tarjeta.png">
-
-*Imagen(N°38). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Mi perfil**
-
-*Perfil Trabajador*
-<div align="center">
-<img src="assets/trabaja.png">
-
-*Imagen(N°39). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Perfil Empleador*
-<div align="center">
-<img src="assets/emple.png">
-
-*Imagen(N°40). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Subir Archivos**
-<div align="center">
-<img src="assets/subir.png">
-
-*Imagen(N°41). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Trabajos realizados**
-<div align="center">
-<img src="assets/trabajorea.png">
-
-*Imagen(N°42). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Opción Detalles*
-<div align="center">
-<img src="assets/detalles1.png">
-
-*Imagen(N°43). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Historial de trabajos Publicados**
-<div align="center">
-<img src="assets/historialtraba.png">
-
-*Imagen(N°44). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Opción Detalles*
-<div align="center">
-<img src="assets/detalles2.png">
-
-*Imagen(N°45). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Panel de control (Dashboard)**
-<div align="center">
-<img src="assets/panel.png">
-
-*Imagen(N°46). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Aplicación de Filtro**
-<div align="center">
-<img src="assets/filtro.png">
-
-*Imagen(N°47). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Botón Publicar Tarea**
-<div align="center">
-<img src="assets/publicarT.png">
-
-*Imagen(N°48). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Postulantes**
-<div align="center">
-<img src="assets/postulantes.png">
-
-*Imagen(N°49). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Finalizar Tarea**
-<div align="center">
-<img src="assets/finalizarT.png">
-
-*Imagen(N°50). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Web Application para Mobile Web Browser**
-
-**Iniciar sesión**
-<div align="center">
-<img src="assets/mobile1.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Crear cuenta**
-<div align="center">
-<img src="assets/mobile2.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Cargar tarjeta**
-<div align="center">
-<img src="assets/mobile3.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Mi perfil**
-
-*Perfil Trabajador*
-<div align="center">
-<img src="assets/mobile5.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Perfil Empleador*
-<div align="center">
-<img src="assets/mobile4.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Subir Archivos**
-<div align="center">
-<img src="assets/mobile6.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Trabajos realizados**
-<div align="center">
-<img src="assets/mobile7.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Opción Detalles*
-<div align="center">
-<img src="assets/mobile9.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Historial de trabajos Publicados**
-<div align="center">
-<img src="assets/mobile11.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-*Opción Detalles*
-<div align="center">
-<img src="assets/mobile12.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Panel de control (Dashboard)**
-<div align="center">
-<img src="assets/mobile13.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Aplicación de Filtro**
-<div align="center">
-<img src="assets/mobile18.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Botón Publicar Tarea**
-<div align="center">
-<img src="assets/mobile14.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Postulantes**
-<div align="center">
-<img src="assets/mobile17.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-**Finalizar Tarea**
-<div align="center">
-<img src="assets/mobile16.png">
-
-*Imagen(N°). Elaboración propia. Realizado en figma*
-</div>
-<br>
-
-
 ### 4.4.4. Web Applications User Flow Diagrams
 Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido que un usuario sigue al interactuar con una aplicación web, desde el punto de entrada hasta la secuencia de una tarea específica. Estos diagramas permiten visualizar cada paso que toma el usuario, ayudándo a entender cómo navegan por la aplicación y cómo interactúan con las diferentes páginas y funciones.
 
