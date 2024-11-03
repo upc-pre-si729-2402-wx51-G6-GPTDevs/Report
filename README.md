@@ -1063,6 +1063,28 @@ Es crucial realizar un seguimiento del impacto del modelo de comisiones y el pla
 Incluir un sistema de notificaciones que informe a los trabajadores sobre oportunidades relevantes para sus habilidades y preferencias, aumentando su participación y el número de trabajos completados.
 
 ## Video About-the-Team.
+<table>
+    <thead>
+        <tr>
+            <th>Sección</th>
+            <th>Características del video</th>
+            <th>Sobre el contenido</th>
+            <th>Integración y entrega</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>About The Team</td>
+            <td>Formato: mp4
+            <br>Duración: 7:18 min</br></td>
+            <td>Video relacionado acerca de los integrantes del equipo, el desarrollo de cada integrante y sus conclusiones acerca del proyecto realizado. </td>
+            <td> Link: https://drive.google.com/file/d/1VTllJ_RgrtlXpxn1r8m6HFg2eyz5YhJh/view?usp=sharing </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
 
 # Bibliografía
 
@@ -1075,7 +1097,10 @@ Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/
 
 # Anexos
 
+**Anexo 1:**
 
 [Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
+
+**Anexo 2:**
 
 [Link Backend:](https://tasklinker.azurewebsites.net/swagger-ui/index.html) https://tasklinker.azurewebsites.net/swagger-ui/index.html
