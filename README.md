@@ -707,6 +707,38 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades.  
+Para la presente entrega, enfatizamos nuestro enfoque en los Web Services o Back-end de nuestro sitio web, logramos definir y ejecutar satisfactoriamente varios endpoints de nuestros bounded contexts, pero a continucación se proporcionará algunas evidencias de ejecución del servicio de los bounded contexts mas relevantes.
+
+##### Bounded Context Profiles
+
+##### Worker Profile
+
+POST
+<img src="img/webserviceworker.png"/>
+
+<img src="img/webserviceworker2.png"/>
+
+GET
+<img src="img/webserviceworker3.png"/>
+
+GET BY ID
+
+<img src="img/webserviceworker4.png"/>
+
+DELETE
+
+<img src="img/webserviceworker5.png"/>
+
+
+##### Employer Profile
+
+POST
+<img src="img/webserviceemployer.png"/>
+
+<img src="img/webserviceemployer2.png"/>
+
+GET
+<img src="img/webserviceemployer3.png"/>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Durante este sprint, se utilizó Azure como plataforma de despliegue para la aplicación web.
