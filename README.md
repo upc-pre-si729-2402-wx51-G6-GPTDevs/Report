@@ -686,7 +686,7 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 
 #### 5.2.3.1. Sprint Planning 3
 
-| Sprint # | Sprint 2 |
+| Sprint # | Sprint 3 |
 | -------- | -------- |
 |**Sprint Planning Background**|
 | Date | 2024-10-23|
@@ -702,6 +702,28 @@ Para este Sprint nos enfocaremos desarrollar una primera version del Web-Service
 | Sum of Story Points | 43 Story points | 
 
 #### 5.2.3.2. Sprint Backlog 3
+<div align="center">
+<img src="img/Sprint 3.png">
+</div>
+
+link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://trello.com/b/b8PH3hVt/sprint-3-tb2
+
+| Sprint 3 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 8 hours | Diego, Camila | Done |
+| US12 | Actualizar la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo | 7 hours | Diego, Camila | To do |
+| US05 | Subir y actualizar documentos| EP03 | Implementación de un Sistema de Reputación. | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 8 hours | Tony, Camila | Done |
+| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | In process |
+| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 8 hours | Diego | Done |
+| US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
+| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
+| US30 |  Creación de perfil como trabajador | EP007 | Implementadón de Autenticación Multifactor | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 6 hours | Franco, Camila | Done |
+| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales.| 8 hours | Franco, Camila | Done |
+| US32 | Ver perfil detallado de los empleadores| EP005 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero ver un perfil detallado de cada empleador para evaluar sus datos personales tales como su empresa, método de pago, industria, calificaciones y comentarios, de manera que pueda tomar una decisión informada antes de aceptar una oferta. | 8 hours | Tony | To do |
+| US33 | Actualizar mi perfil como empleador| EP005 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. | 8 hours | Tony | To do |
+
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 | Branch | Commit Id | Commit Message                       | Committed on (Dated) |
