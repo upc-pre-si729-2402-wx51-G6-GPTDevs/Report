@@ -99,11 +99,17 @@ TB1:
 
 <img src="assets/insights-tb1-2.png"/>
 
-TB1:
+TP1:
 
 <img src="img/colaboration1-1.png"/>
 
 <img src="img/colaboration1-2.png"/>
+
+TB2:
+
+<img src="assets/insights-tb2-1.png"/>
+
+<img src="assets/insights-tb2-2.png"/>
 
 # Contenido
 [Student Outcome](#student-outcome)
@@ -2093,21 +2099,12 @@ link: [Enlace de trello](https://trello.com/invite/b/671070698574d50e08c7e230/AT
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
 | Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-<<<<<<< HEAD
-| US24 | Sección: Encontrar un trabajo flexible | EP011 | Interfaz de presentación del sitio web. | Sección en el cual el usuario trabajador podrá buscar un trabajo acorde a lo requerido  | 4 horas | Camila Sanchez | Terminado |
-| US25 | Sección: ¿Por qué escoger TaskLinker? | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se presentan datos por la cual el usuario puede escoger nuestra startup | 5 horas | Franco Durand | Terminado |
-| US26 | Sección: Contrata talento temporal | EP011 | Interfaz de presentación del sitio web. | Sección en la cual el empleador podrá buscar trabajadores que coincidan con lo requerido. | 4 horas | Jack Tello | Terminado |
-| US27 | Sección: Encuentra el trabajo ideal para tus proyectos | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se mostrarán recomendaciones para que usted como trabajador, pueda encontrar lo idónea | 6 horas | Franco Durand | Terminado |
-| US28 | Sección: ¿Qué opinan nuestros usuarios? | EP011 | Interfaz de presentación del sitio web. | Sección en donde se mostrarán testimonios de trabajadores o empleadores con respecto al uso | 4 horas | Tony Ramos | Terminado |
-| US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 4 horas | Daniel Chávarri | Terminado |
-=======
 | US24 | Sección: Encontrar un trabajo flexible | EP011 | Interfaz de presentación del sitio web. | Sección en el cual el usuario trabajador podrá buscar un trabajo acorde a lo requerido  | 7 hours | Camila Sanchez | Done |
 | US25 | Sección: ¿Por qué escoger TaskLinker? | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se presentan datos por la cual el usuario puede escoger nuestra startup | 5 hours | Franco Durand | Done |
 | US26 | Sección: Contrata talento temporal | EP011 | Interfaz de presentación del sitio web. | Sección en la cual el empleador podrá buscar trabajadores que coincidan con lo requerido. | 6 hours | Jack Tello | Done |
 | US27 | Sección: Encuentra el trabajo ideal para tus proyectos | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se mostrarán recomendaciones para que usted como trabajador, pueda encontrar lo idónea | 8 hours | Franco Durand | Done |
 | US28 | Sección: ¿Qué opinan nuestros usuarios? | EP011 | Interfaz de presentación del sitio web. | Sección en donde se mostrarán testimonios de trabajadores o empleadores con respecto al uso | 8 hours | Tony Ramos | Done |
 | US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 7 hours | Daniel Chávarri | Done |
->>>>>>> ce739b7dae90374bb08fb6755b03acb2425fbc51
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
