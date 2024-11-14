@@ -867,6 +867,40 @@ Durante este sprint, se utilizó Azure como plataforma de despliegue para la apl
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <img src="./img/sprint3-insights7.png"/>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+| Sprint # | Sprint 4 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-10-23|
+| Time | 08:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en la creación de la primera versión del frontend, utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| **Sprint Goal & User Stories** | 
+| Sprint 3 Goal | 	Desplegar la primera versión de Web Services. |
+| Sprint 3 Velocity | 11 |
+| Sum of Story Points | 43 Story points | 
+
+#### 5.2.4.2. Sprint Backlog 4
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
+
 ## 5.3. Validation Interviews
 En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
 
@@ -920,14 +954,14 @@ Explicación del flujo: Después de iniciar sesión, el usuario será dirigido a
         <tr>
             <td>Validation Interviews</td>
             <td>Formato: mp4
-            <br>Duración:  min</br></td>
-            <td>Entrevistado(a) #1:
-            <br>Sexo:
-            <br>Edad: años
-            <br>Segmento Objetivo:   
-            <br> Distrito: </td>
+            <br>Duración: 3:31 min</br></td>
+            <td>Entrevistado(a) #1: Sebastian Silva 
+            <br>Sexo: Hombre
+            <br>Edad: 20 años
+            <br>Segmento Objetivo: Trabajador  
+            <br> Distrito: San Luis </td>
             <td>Screenshot:
-            <br> Link: </td>
+            <br> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/Eev7_47SUiZLrBtQ2tE7g3gBOPKTyZ0-0ZzaxTxT4rUDHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uEBO4s  </td>
         </tr>
         <tr>
             <td>Validation Interviews</td>
