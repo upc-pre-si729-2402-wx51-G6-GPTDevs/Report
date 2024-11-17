@@ -39,10 +39,6 @@
             <td>Chávarri Zarzosa, Daniel Jhared</td>
             <td>U202211108</td>
         </tr>
-         <tr>
-            <td>Roque Tello, Jack Eddie</td>
-            <td>U20221C448</td>
-         </tr>
     </table>
 </div>
 
@@ -265,15 +261,6 @@ de audiencia.</b></td>
         <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
         <p>.</p>
-        <p><b>Roque Tello, Jack Eddie</b></p>
-       <p><b>TB1:</b></p>
-        <p>Capítulo I: Introducción y User Stories</p>
-        <p><b>TP1:</b></p>
-        <p></p>
-        <p><b>TB2:</b></p>
-        <p>.</p>
-        <p><b>TF:</b></p>
-        <p>.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -327,15 +314,6 @@ algunas user stories</p>
         <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva.</p>
         <p><b>TB2:</b></p>
         <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
-        <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>Roque Tello, Jack Eddie</b></p>
-       <p><b>TB1:</b></p>
-        <p>Capítulo I: Introducción y User Stories</p>
-        <p><b>TP1:</b></p>
-        <p>.</p>
-        <p><b>TB2:</b></p>
-        <p>.</p>
         <p><b>TF:</b></p>
         <p>.</p>
       </td>
@@ -406,17 +384,6 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
       <p>
        Soy estudiante de la UPC, tengo 19 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo cómo crearlos. Estoy cursando el 5 ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://hackmd.io/_uploads/HyOVCdJ3C.jpg" alt="Foto de perfil de Jack" width="700px">
-    </th>
-    <td valign="top">
-      <p><b>Roque Tello, Jack Eddie</b></p>
-      <p>
-        Mi nombre es Jack Eddie Roque Tello y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Soy una persona competitiva, siempre en busca de nuevos aprendizajes, con un enfoque en la mejora continua. Tengo conocimientos en varios lenguajes de programación, incluyendo C++, JavaScript y Ruby.             <br>Fuera del ámbito académico, disfruto ver películas, leer y viajar, lo que me ayuda a expandir mis perspectivas y a mantener un equilibrio entre mis responsabilidades y mis pasiones. En este curso, estaré atento a cualquier eventualidad que surja, dispuesto a colaborar y aportar para el éxito del proyecto, siempre en beneficio de mi equipo y mi crecimiento profesional.
       </p>
     </td>
   </tr>
