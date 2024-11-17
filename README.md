@@ -259,7 +259,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Continué mejorando el back-end de mi context Notifications-BC, agregando lo que había implementado el profesor, también hice recordatorios a mis compañeros de hacer las actividades pendientes, con el fin de acabar el proyecto de manera satisfactoria.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -269,7 +269,7 @@ de audiencia.</b></td>
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran como hemos desarrollado nuestra propuesta.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, .</p>
+        <p>En conclusión, para esta entrega final nos mantenimos comunicados de forma activa mediante mensajes y la documentación de nuestros avances tanto de los back-ends, landing page, el reporte y la validación de dichos productos.</p>
       </td>
     </tr>
     <tr>
@@ -314,7 +314,7 @@ algunas user stories</p>
         <p><b>TB2:</b></p>
         <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Continué mejorando el back-end de mi context Notifications-BC, agregando lo que había implementado el profesor, también hice recordatorios a mis compañeros de hacer las actividades pendientes, con el fin de acabar el proyecto de manera satisfactoria.</p>
       </td>
        <td>
         <p><strong>TB1:</strong></p>
@@ -325,7 +325,7 @@ informe del proyecto, buscando mejorar tanto el formato como el contenido para m
         <p><strong>TB2:</strong></p>
         <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, .</p>
+        <p>En conclusión, para esta entrega final nos mantenimos comunicados de forma activa mediante mensajes y la documentación de nuestros avances tanto de los back-ends, landing page, el reporte y la validación de dichos productos.</p>
       </td>
     </tr>
   </tbody>
