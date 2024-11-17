@@ -220,7 +220,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega colabore con la parte del web Services Job Post BC y la parte del Capitulo 5 - 5.3. Validation Interviews con algunas correciones.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore en el Capitulo 5 con la realizacion de entrevista y documentacion, heuristicas, tambien hacer el trello del sprint 4.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
@@ -274,7 +274,7 @@ de audiencia.</td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega colabore con la parte del web Services Job Post BC y la parte del Capitulo 5 - 5.3. Validation Interviews con algunas correciones.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore en el Capitulo 5 con la realizacion de entrevista y documentacion, heuristicas, tambien hacer el trello del sprint 4.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
@@ -514,436 +514,36 @@ Este segmento abarca a pequeñas y medianas empresas (PyMEs) que necesitan perso
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
-
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
-En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para
-que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
-
-- **UXPressia:** Plataforma colaborativa que nos permitirá crear user personas e integrados con los
-múltiples mapas para evaluar sus prioridades.
-- **Figma:** Herramienta colaborativa que nos permitirá desarrollar wireframes y mockups.
-- **Vertabelo:** Plataforma colaborativa que nos permitirá crear nuestro diagrama de base de datos.
-- **LucidChart:** Aplicación web destinada a la elaboración de Wireflows, Users Flows y diagramas
-de clases.
-- **WebStorm:** IDE que utilizaremos para trabajar con javascript y desarrollar la landing page y web
-application.
-
 ### 5.1.2. Source Code Management
-El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como Workflow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto: Landing Page, Web Services y Frontend Web Applications.
-
--  [**Repositorio Landing Page:**](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Landing-Page)  https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Landing-Page
--  [**Repositorio Web Services:**](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Web-Services) https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Web-Services
--  [**Repositorio Frontend Web Applications:**](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Frontend-Web-Applications) https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Frontend-Web-Applications
-
-**GitFlow**
-
-Estructura de branches (Ramas):
-
-**1. Master branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones
-estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras
-ramas de prueba.
-
-**2. Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y
-de mantener los archivos centrales del desarrollo continuo.
-
-**3. Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque
-actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará
-con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón
-descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
-
-**4. Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop
-que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic
-Versioning) para nombrar las Releases.
-
-**5. Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores
-identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
-
-**Versionamiento Semántico:** Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic
-Versioning 2.0.0).
-
-**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits
-basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
-
-
-```bash
-git commit -m "<type>[optional scope]:<title>" -m"<description>"
-```
-
 ### 5.1.3. Source Code Style Guide & Conventions
 
-**HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
-siguientes:
-1. Cerrar todos los elementos HTML. Por ejemplo:
-``` html
-<p>Esto es un párrafo.</p>
-```
-
-2. A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombrs de los elementos y atributos, se limitará
-al uso de minúsculas para mantener el orden y garantizar la legibilidad.
-
-3. Utilizar comillas en caso de que los atributos contengan espacios entre sí.
-
-4. Procurar especificar el texto alt y las dimensiones width y height de las imágenes, ya que de esta manera se facilitará la
-disponibilidad del contenido. Por ejemplo:
-``` html
- <img src="abc.img" alt="image name"
-style="width:128px;height:128px">
-```
-
-**CSS:** Entre las prácticas empleadas se mencionan:
-
-1. Los nombres de las clases deben de ser breves y autodescriptivos.
-
-2. Separar los nombres de las clases y ID con un guión. Por ejemplo:
-```css
-#video-id .hero-shadow
-```
-
-3. Evitar especificar la unidad de medida luego de usar el valor 0.
-
-4. Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
-
-**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los
-negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca
-de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos
-de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los
-escenarios.
-
 ### 5.1.4. Software Deployment Configuration
-
-**Landing Page**
-
-Para poder desplegar la Landing Page resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con
-una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
-comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
-
-1. Crear un repositorio para alojar el Landing Page.
-
-2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para el contenido de la landing page; "style.css" para los estilos. Se tendra una carpeta "assets" y dentro estaran las carpetas "styles" y "img".
-
-3. Cargar los archivos al repositorio mediante un commit.
-
-4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto,
-generalmente se trata de "main" o "master".
-
-5. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
-llevará al Landing Page desplegado.
-
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-
-| Sprint # | Sprint 1 |
-| -------- | -------- |
-|**Sprint Planning Background**|
-| Date | 2024-09-02|
-| Time | 08:00 PM |
-| Location | Discord Virtual Meeting |
-| Prepared By | Camila Sanchez, Gianfranco Durand |
-|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
-| Sprint n – 1 Review Summary | No hubo sprint anterior |
-| Sprint n – 1 Retrospective Summary | No hubo sprint anterior |
-| **Sprint Goal & User Stories** | 
-| Sprint 1 Goal | Realizar la Landing Page |
-| Sprint 1 Velocity | 20 |
-| Sum of Story Points | 23 | 
-
 #### 5.2.1.2. Sprint Backlog 1
-
-Durante el primer sprint, el equipo tuvo como meta comenzar y concluir la creación de la página de inicio (Landing Page), utilizando Trello para organizar y distribuir las tareas derivadas de las historias de usuario según las competencias de cada integrante. El objetivo clave del sprint fue desarrollar la landing page de manera integral, garantizando tanto su atractivo visual como su funcionalidad.
-
-<div align="center">
-<img src="img/TrelloSprint1TB1.png">
-</div>
-
-link: [Enlace de trello](https://trello.com/invite/b/671070698574d50e08c7e230/ATTIfd0448052a444c2b7705646e07635cd028FB6849/sprint-1-tb1) https://trello.com/invite/b/671070698574d50e08c7e230/ATTIfd0448052a444c2b7705646e07635cd028FB6849/sprint-1-tb1
-
-| Sprint 1 |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| User Story |     | WorkItem/ Task |     |     |     |     |     |
-| Id  | Title | Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-| US24 | Sección: Encontrar un trabajo flexible | EP011 | Interfaz de presentación del sitio web. | Sección en el cual el usuario trabajador podrá buscar un trabajo acorde a lo requerido  | 7 hours | Camila Sanchez | Done |
-| US25 | Sección: ¿Por qué escoger TaskLinker? | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se presentan datos por la cual el usuario puede escoger nuestra startup | 5 hours | Franco Durand | Done |
-| US26 | Sección: Contrata talento temporal | EP011 | Interfaz de presentación del sitio web. | Sección en la cual el empleador podrá buscar trabajadores que coincidan con lo requerido. | 6 hours | Jack Tello | Done |
-| US27 | Sección: Encuentra el trabajo ideal para tus proyectos | EP011 | Interfaz de presentación del sitio web. | Sección en la cual se mostrarán recomendaciones para que usted como trabajador, pueda encontrar lo idónea | 8 hours | Franco Durand | Done |
-| US28 | Sección: ¿Qué opinan nuestros usuarios? | EP011 | Interfaz de presentación del sitio web. | Sección en donde se mostrarán testimonios de trabajadores o empleadores con respecto al uso | 8 hours | Tony Ramos | Done |
-| US29 | Sección: Contáctanos y Footer | EP011 | Interfaz de presentación del sitio web. |Aquí se mostrará la sección para contacto directo con nosostros, y además del footer de lo mas relevante para contacto o información como nuestras redes sociales | 7 hours | Daniel Chávarri | Done |
-
 #### 5.2.1.3. Development Evidence for Sprint Review
-
-En este Sprint 1, el principal enfoque ha sido el desarrollo e implementación de la Landing Page para nuestra startup, TaskLinker. Este avance representa el primer punto de contacto con nuestros usuarios, diseñado para captar la atención de visitantes potenciales y comunicar de manera efectiva nuestra propuesta de valor. Durante este sprint, se realizaron diversos commits en el repositorio del proyecto, los cuales reflejan las tareas completadas y los ajustes realizados para optimizar la presentación visual, la funcionalidad y la experiencia de usuario de la Landing Page. A continuación, se detalla una tabla que muestra los commits relevantes realizados en este sprint.
-
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
-| --- | --- | --- | --- | --- | --- |
-| [https://github.com/upc-pre-202401-si729-ws51-eventwear/LandingPage](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Landing-Page.git) | develop | cbdbf20f93acf052f14249c04a31a477d409b37d | first commit | first commit | 06/09/2024 |
-|     |  develop   | 22da688441ef8fc92da4947d90f127952289871b | feat | add globals | 06/09/2024 |
-|     |  develop   | 8421a48f7a22443880b411c5801ac01b9786ad61 | feat | update global css | 06/09/2024 |
-|     |  feature/testimonials   | 1bf631b6bb65571f23cde29c30e41eb518195507 | feat | update global | 07/09/2024 |
-|     |  feature/header-hero   | 0f3ef5c68d997953be0b20387c4a7bdc14aeecaa | feat | add header, hero | 07/09/2024 |
-|     |  feature/header-hero   | cb5e69eb3e36f71118f081d151e2a63a624430ce | feat | add styles | 07/09/2024 |
-|     |  feature/header-hero   | 4d5a52c1476f8ecb46e4531d6f38b6a4bf8118c6 | feat | add script | 07/09/2024 |
-|     |  feature/testimonials   | af8b0b837b273da9e87baf64fac2919c870a594a | Add files via upload | Add files via upload | 07/09/2024 |
-|     |  feature/testimonials   | a7121338708570e17368486a891c211278d2cef9 | add | assets | 07/09/2024 |
-|     |  feature/testimonials   | 6cbd0340035eb553f6badef31a7fbec9dc9c6c53 | add | index.html | 07/09/2024 |
-|     |  develop   | 1d11caedd9d8479052b833c93fe6b1a07b40b499 | feat | add seg1 | 07/09/2024 |
-|     |  feature/segment-1   | 4f647b0fbf3d98d99cb4b04b5ff039cde6608d14 | feat | add style | 07/09/2024 |
-|     |  develop  | 89f3fdc67935fbdb28ac087c1b4d381007754115 | Merge Branch | 'feature/header-hero' into develop | 07/09/2024 |
-|     |  develop  | a11619091b02385eb70ee9bbfa1b9fd79d473023 | Merge Branch | 'feature/segment-1' into develop | 07/09/2024 |
-|     |  develop   | 9ac102a1e0a3095a21aa6914b7ae0c17c2cdf953 | Merge Branch | 'feature/testimonials' into develop | 07/09/2024 |
-|     |  feature/contact-footer   | 3f7ceb0fc2c9b1d8deb2ebb57fcdec40581fdd0d | Add files via upload | Add files via upload | 07/09/2024 |
-|     |  feature/contact-footer   | 06005b42bf3bb76932a91cb30a94b4067d9b64f7 | Add files via upload | Add files via upload | 07/09/2024 |
-|     |  feature/contact-footer   | 03fe5f2404c9f3cd0e116585367ec4d980f60c3f | Update | index.html | 07/09/2024 |
-|     |  develop   | c75ee84b7108c30369e1558843a29302a41d6824 | Merge Branch | 'feature/contact-footer' into develop | 07/09/2024 |
-|     |  feature/segment-2   | e61c6e73974314fe15df3467a64367ec0b618520 |feat: add segment2 | 08/09/2024 |
-
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
-Para el sprint 1 desarrollamos el acceptance test en gherkin de las user stories más importantes que se implementaron en nuestra Landing Page.
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
-| --- | --- | --- | --- | --- | --- |
-| [https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing.git) | main | 9e969b3b514bb37875e823719070902950fb04b4 | add | add:create US24 gherkin | 08/09/2024 |
-|     |     | 7005982bf59ee9693cf78743f51afd794da40327 | add | add:create US25 gherkin | 08/09/2024 |
-|     |     | 7327f3405904f5fe23e1ea62dba90404d4756268 | add | add:create US26 gherkin | 08/09/2024 |
-|     |     | 4ab2d1c3221e0348a6dce9e2e1ddb4755b1606db | add | add:create US27 gherkin | 08/09/2024 |
-|     |     | 0f8d88d9f5c23b111062a7073b36a759fe229f10 | add | add:create US28 gherkin | 08/09/2024 |
-|     |     | 7015a97b16fe0c643579e953eb2f888be2e0e8c7 | add | add:create US29 gherkin | 08/09/2024 |
-
 #### 5.2.1.5. Execution Evidence for Sprint Review
-
-Durante este Sprint, completamos la implementación de la Landing Page de TaskLinker, enfocándonos en un diseño atractivo y responsivo que mejora la experiencia del usuario. A continuación, se muestran capturas de las principales vistas que ilustra la visualización y navegación logradas.
-
-<div align="center">
-<img src="img/landing1.png">
-</div>
-
-Sección para usuarios que buscan trabajo
-
-<div align="center">
-<img src="img/landing2.png">
-</div>
-
-<div align="center">
-<img src="img/landing3.png">
-</div>
-
-Sección para empleadores que buscan trabajadores
-
-<div align="center">
-<img src="img/landing4.png">
-</div>
-
-<div align="center">
-<img src="img/landing5.png">
-</div>
-
-Sección sobre comentarios de nuestros usuarios
-
-<div align="center">
-<img src="img/landing6.png">
-</div>
-
-Sección para contartar con nosotros 
-
-<div align="center">
-<img src="img/landing7.png">
-</div>
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-No se implementaron servicios en este sprint 1
-
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Para realizar el despliegue de la Landing Page se realizaron lo siguientes pasos:
-
-- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
-
-<img src="img/sprint-1-evidencia-1.png"/>
-
-- 2: Ir a la configuración del repositorio, luego a la seccion *Pages* y seleccionar la rama *main* para el despliegue
-
-<img src="img/sprint-1-evidencia-2.png"/>
-
-[Link Landing Page:](https://upc-pre-si729-2402-wx51-g6-gptdevs.github.io/Landing-Page/) https://upc-pre-si729-2402-wx51-g6-gptdevs.github.io/Landing-Page/
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-
-<!-- En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub. -->
-
-<img src="img/sprint-1-insights-1.png"/>
-
-<img src="img/sprint-1-insights-2.png"/>
-
-<!-- ## Documentation
-
-<div align="center">
-<img src="img/colaboration7.png">
-</div>
-
-## Landing Page
-
-<div align="center">
-<img src="img/colaboration1.png">
-</div>
-
-<div align="center">
-<img src="img/colaboration2.png">
-</div>
-
-<div align="center">
-<img src="img/colaboration3.png">
-</div>
-
-<div align="center">
-<img src="img/colaboration4.png">
-</div>
-
-<div align="center">
-<img src="img/colaboration5.png">
-</div> -->
-
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
-
-| Sprint 2 | Sprint 2 |
-| -------- | -------- |
-|**Sprint Planning Background**|
-| Date | 2024-09-25|
-| Time | 06:00 PM |
-| Location | Discord Virtual Meeting |
-| Prepared By | Camila Sanchez, Gianfranco Durand |
-|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
-| Sprint n – 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en finalizar la creación de la página de inicio (Landing Page), utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
-| Sprint n – 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
-| **Sprint Goal & User Stories** | 
-| Sprint 2 Goal | Realizar El Front End |
-| Sprint 2 Velocity | 11 |
-| Sum of Story Points | 43 Story points | 
-
 #### 5.2.2.2. Sprint Backlog 2
-
-Durante el segundo sprint, el equipo tuvo como meta implementar el frontend de TaskLinker utilizando Node.js, Angular CLI y JSON Server. El enfoque se centró en desarrollar funcionalidades clave en varias páginas. Además, el equipo se enfocó en las historias de usuario relacionadas con este desarrollo, asegurando que cada nueva característica no solo fuera funcional, sino también alineada con las necesidades de los usuarios. Se utilizó Trello para organizar y distribuir las tareas, permitiendo que cada integrante del equipo se especializara en áreas que se correspondían con sus competencias, lo que facilitó un avance eficiente y coordinado hacia el objetivo del sprint.
-
-<div align="center">
-<img src="img/TrelloSprint2TP.png">
-</div>
-
-link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp) https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/ATTI3a1423d1b856e4c0a5d2b247b6610d6f7A7492ED/sprint-2-tp
-
-| Sprint 2 |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| User Story |     | WorkItem/ Task |     |     |     |     |     |
-| Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-| US04 | Acceso a documentos relevantes | EP003 | Gestión y Clasificación de Tareas | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | 8 hours | Diego, Camila | Done |
-| US05 | Subir y actualizar documentos | EP003 | Gestión y Clasificación de Tareas | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 7 hours | Diego, Camila | To do |
-| US11 | Ver la reputación de los trabajadores | EP010 | Implementación de un Sistema de Reputación. | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador, para asegurarme de que es confiable y competente. | 8 hours | Tony, Camila | Done |
-| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | In process |
-| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Diego | Done |
-| US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
-| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
-| US20 | Iniciar sesión con autenticación Multifacor activada | EP009 | Implementadón de Autenticación Multifactor | Como usuario, quiero que al iniciar sesión en mi cuenta se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 6 hours | Franco, Camila | Done |
-| US22 | Crear una tarea desde cualquier página | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido. | 8 hours | Franco, Camila | Done |
-| US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 8 hours | Tony | To do |
-| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Tony | To do |
-
-
 #### 5.2.2.3. Development Evidence for Sprint Review
-| Branch                     | Commit Id | Commit Message                                    | Committed on (Dated) |
-|----------------------------|-----------|---------------------------------------------------|----------------------|
-| feature/public              | 628c0cb   | feat: add toolbar                                 | 27/09/24             |
-| feature/public              | 33dc778   | feat: add fake api                                | 27/09/24             |
-| feature/routes              | 91db854   | feat: add route                                   | 27/09/24             |
-| feature/routes              | 1cd2215   | feat: add routes                                  | 27/09/24             |
-| feature/task                | 59b155f   | feat: add ngif                                    | 27/09/24             |
-| feature/task                | 9dc9b48   | Update styles.css                                 | 27/09/24             |
-| feature/task                | 9c9f993   | Update index.html                                 | 27/09/24             |
-| feature/task                | e84e811   | Update app.routes.ts                              | 27/09/24             |
-| feature/task                | 57c6e45   | Update app.config.ts                              | 27/09/24             |
-| feature/task                | 7ddb11b   | Update app.component.ts                           | 27/09/24             |
-| feature/task                | 24de688   | Update app.component.html                         | 27/09/24             |
-| feature/task                | dcf825    | Create publish-task.component.css                 | 27/09/24             |
-| feature/task                | 34afb4e   | Create publish-task.component.html                | 27/09/24             |
-| feature/task                | 66b02da   | Create publish-task-component.spec.ts             | 27/09/24             |
-| feature/task                | 2d8b8c4   | Create publish-task.component.ts                  | 27/09/24             |
-| feature/works-done          | dcd3191   | Update styles.css                                 | 27/09/24             |
-| feature/works-done          | d48ba8d   | Update app.component.html                         | 27/09/24             |
-| feature/works-done          | d87bb55   | Update app.component.ts                           | 27/09/24             |
-| feature/works-done          | 4e4da95   | Update app.config.ts                              | 27/09/24             |
-| feature/works-done          | d5f6ea0   | Create app.module.ts                              | 27/09/24             |
-| feature/works-done          | 7fc19d6   | Update app.routes.ts                              | 27/09/24             |
-| feature/works-done          | 9e1d0b7   | Create work-done.component.css                    | 27/09/24             |
-| feature/works-done          | ccc87c0   | Create work-done.component.html                   | 27/09/24             |
-| feature/works-done          | 36f50e0   | Create work-done.component.spec.ts                | 27/09/24             |
-| feature/works-done          | 711f5ce   | Create work-done.component.ts                     | 27/09/24             |
-| feature/profiles-dashboard  | 687a8ed   | add: worker-profile, employer-profile & dashboard | 27/09/24             |
-| feature/iam                 | 64d9e66   | feat: add login register functionality            | 27/09/24             |
-| feature/iam                 | 8477f02   | feat: add auth service                            | 27/09/24             |
-| feature/iam                 | 8331bc2   | feat: update user model                           | 27/09/24             |
-| feature/iam                 | a461a37   | feat: add user model                              | 27/09/24             |
-| feature/iam                 | 7f487a7   | feat: add register component                      | 27/09/24             |
-| feature/iam                 | 7dacd14   | feat: add login component                         | 27/09/24             |
-| feature/iam                 | fa8c2e2   | feat: update global styles                        | 27/09/24             |
-
-
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-
-
 #### 5.2.2.5. Execution Evidence for Sprint Review
-
-- Login y register
-<img src="img/front1.png">
-<img src="img/front2.png">
-
-
-- Menu principal
-<img src="img/front3.png">
-
-- Perfiles
-<img src="img/front4.png">
-<img src="img/front6.png">
-
-- Historial de trabajos
-<img src="img/front5.png">
-<img src="img/front7.png">
-
-- Publicar tarea
-<img src="img/front8.png">
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
-No se implementaron servicios en este sprint 1
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Para realizar el despliegue del Frontend se realizaron lo siguientes pasos:
-
-- 1: Hacer merges de las ramas *feature* en la rama *develop* y finalmente merge en la rama *main*
-
-<img src="img/sprint-2-evidencia-4.png"/>
-
-- 2: Ir a Netlify, seleccionar *Add new site*, seguidamente seleccionar *Import an existing project* 
-
-<img src="img/sprint-2-evidencia-1.png"/>
-
-- 3: Seleccionar el repositorio del Frontend
-
-<img src="img/sprint-2-evidencia-2.png"/>
-
-- 4: Ingresar un nombre disponible para la página del frontend y seleccionar la rama *main*
-
-<img src="img/sprint-2-evidencia-3.png"/>
-
-[Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
-
-
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-<img src="img/sprint2-insights1.png"/>
-
-<img src="img/sprint2-insights2.png"/>
-
 ### 5.2.3. Sprint 3
-Para este Sprint nos enfocaremos desarrollar una primera version del Web-Services
+
 
 #### 5.2.3.1. Sprint Planning 3
 
