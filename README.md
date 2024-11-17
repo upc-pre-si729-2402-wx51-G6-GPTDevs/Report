@@ -207,9 +207,9 @@ de audiencia.</b></td>
         <p><b>TB1:</b></p>
         <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé un optimo trabajo en equipo, para crear, visualizar y corregir detalles importantes, además fui flexible con el tiempo de entrega de los capítulos</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -226,9 +226,9 @@ de audiencia.</b></td>
         <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
         </p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Realicé commits para la web application siguendo las convenciones para una comunicación escrita, realice el deployment de la aplicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
@@ -261,9 +261,9 @@ de audiencia.</td>
         <p><b>TB1:</b></p>
         <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé correctamente lo establecido para esta entrega, además apoyé en otras definiciones a mi team Collab</p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -280,9 +280,9 @@ de audiencia.</td>
         <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
         </p>
         <p><b>TP1:</b></p>
-        <p>.</p>
+        <p>Realicé commits para la web application siguendo las convenciones para una comunicación escrita, realice el deployment de la aplicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint.</p>
         <p><b>TB2:</b></p>
-        <p>.</p>
+        <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend.</p>
         <p><b>TF:</b></p>
         <p>.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
