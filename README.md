@@ -39,10 +39,6 @@
             <td>Chávarri Zarzosa, Daniel Jhared</td>
             <td>U202211108</td>
         </tr>
-         <tr>
-            <td>Roque Tello, Jack Eddie</td>
-            <td>U20221C448</td>
-         </tr>
     </table>
 </div>
 
@@ -72,7 +68,6 @@
           <li>Camila Sanchez</li>
           <li>Gianfranco Durand</li>
           <li>Daniel Chávarri</li>
-          <li>Jack Roque</li>
                     <ul>
            </td>
       <td>            
@@ -244,16 +239,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>Roque Tello, Jack Eddie</b></p>
-       <p><b>TB1:</b></p>
-        <p>Capítulo I: Introducción y User Stories</p>
-        <p><b>TP1:</b></p>
-        <p>.</p>
-        <p><b>TB2:</b></p>
-        <p>.</p>
-        <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Continué mejorando el back-end de mi context Notifications-BC, agregando lo que había implementado el profesor, también hice recordatorios a mis compañeros de hacer las actividades pendientes, con el fin de acabar el proyecto de manera satisfactoria.</p>
       </td>
       <td>
         <p><strong>TB1:</strong></p>
@@ -261,9 +247,9 @@ de audiencia.</b></td>
         <p><strong>TP1:</strong></p>
         <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la mejora de user storires. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint.</p>
         <p><strong>TB2:</strong></p>
-        <p>En conclusión, </p>
+        <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran como hemos desarrollado nuestra propuesta.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, .</p>
+        <p>En conclusión, para esta entrega final nos mantenimos comunicados de forma activa mediante mensajes y la documentación de nuestros avances tanto de los back-ends, landing page, el reporte y la validación de dichos productos.</p>
       </td>
     </tr>
     <tr>
@@ -308,16 +294,7 @@ algunas user stories</p>
         <p><b>TB2:</b></p>
         <p>En esta parte, realicé la parte del back-end, el context NotificationsBC y algunas mejoras con respecto a nuestro proyecto.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
-        <p><b>Roque Tello, Jack Eddie</b></p>
-       <p><b>TB1:</b></p>
-        <p>Capítulo I: Introducción y User Stories</p>
-        <p><b>TP1:</b></p>
-        <p>.</p>
-        <p><b>TB2:</b></p>
-        <p>.</p>
-        <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Continué mejorando el back-end de mi context Notifications-BC, agregando lo que había implementado el profesor, también hice recordatorios a mis compañeros de hacer las actividades pendientes, con el fin de acabar el proyecto de manera satisfactoria.</p>
       </td>
        <td>
         <p><strong>TB1:</strong></p>
@@ -326,9 +303,9 @@ algunas user stories</p>
         <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el
 informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
         <p><strong>TB2:</strong></p>
-        <p>En conclusión, </p>
+        <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran como hemos desarrollado nuestra propuesta.</p>
         <p><strong>TF:</strong></p>
-        <p>En conclusión, .</p>
+        <p>En conclusión, para esta entrega final nos mantenimos comunicados de forma activa mediante mensajes y la documentación de nuestros avances tanto de los back-ends, landing page, el reporte y la validación de dichos productos.</p>
       </td>
     </tr>
   </tbody>
@@ -386,17 +363,6 @@ Nuestra visión es convertirnos en la plataforma líder en Perú para la contrat
       <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
       <p>
        Soy estudiante de la UPC, tengo 19 años. Estoy en la carrera de Ingeniería de Software, ya que, siempre me gustó la tecnología, los videojuegos, las páginas web, pero sobre todo cómo crearlos. Estoy cursando el 5 ciclo de la carrera y mis habilidades son C++, Python, HTML y JavaScript. También soy bueno en ser responsable con cada curso y organizar mi tiempo en ellos.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://hackmd.io/_uploads/HyOVCdJ3C.jpg" alt="Foto de perfil de Jack" width="700px">
-    </th>
-    <td valign="top">
-      <p><b>Roque Tello, Jack Eddie</b></p>
-      <p>
-        Mi nombre es Jack Eddie Roque Tello y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Soy una persona competitiva, siempre en busca de nuevos aprendizajes, con un enfoque en la mejora continua. Tengo conocimientos en varios lenguajes de programación, incluyendo C++, JavaScript y Ruby.             <br>Fuera del ámbito académico, disfruto ver películas, leer y viajar, lo que me ayuda a expandir mis perspectivas y a mantener un equilibrio entre mis responsabilidades y mis pasiones. En este curso, estaré atento a cualquier eventualidad que surja, dispuesto a colaborar y aportar para el éxito del proyecto, siempre en beneficio de mi equipo y mi crecimiento profesional.
       </p>
     </td>
   </tr>
