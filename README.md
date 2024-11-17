@@ -68,7 +68,6 @@
           <li>Camila Sanchez</li>
           <li>Gianfranco Durand</li>
           <li>Daniel Chávarri</li>
-          <li>Jack Roque</li>
                     <ul>
            </td>
       <td>            
