@@ -869,6 +869,9 @@ Durante este sprint, se utilizó Azure como plataforma de despliegue para la apl
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4
+
+En la siguiente sección, se presentará el sprint #4 con la versión de la aplicación web e implementación total del back-end.  Mostrando la organización, distribución y resultados de la aplicación web y los web services.
+
 | Sprint # | Sprint 4 |
 | -------- | -------- |
 |**Sprint Planning Background**|
@@ -885,6 +888,8 @@ Durante este sprint, se utilizó Azure como plataforma de despliegue para la apl
 | Sum of Story Points | 43 Story points | 
 
 #### 5.2.4.2. Sprint Backlog 4
+
+Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
 
 <div align="center">
 <img src="img/Sprint 3.png">
@@ -913,11 +918,18 @@ link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://tre
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 4, mostrando los principales commits y merges del proyecto:
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
-
+En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
+Repositorio: https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución el Web Service, ya que la Landing Page y la Aplicación web fueron terminadas en el anterior sprint:
+
+Evidencia de Web Service:
+
+Link del video (Backend):
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
@@ -1053,7 +1065,7 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 
 | # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|---------------------|
-| 1 |  |  |  |
+| 1 | Edicion de una barra de herramientas adicional en el toolbar | 2 |Visibilidad del estado del sistema  |
 | 2 |  |  |  |
 | 3 |  |  |  |
 
@@ -1062,11 +1074,16 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 
 **Descripción del Problemas:**
 
-- **Problema #1:**
-- **Severidad:** 
+- **Problema #1:** Edicion de una barra de herramientas adicional en el toolbar
+- **Severidad:** 2 Heurística violada: Visibilidad del estado del sistema
 - **Heurística/Principio violado(a):** 
-- **Problema:** 
-- **Recomendación:** 
+- **Problema:** El entrevistado sugirió que la plataforma podría beneficiarse de mejoras en la interfaz, como una barra de herramientas adicional y una mejor organización de las pestañas,  la necesidad de simplificar el proceso de publicación y gestión de tareas para hacerlo más accesible.
+
+<div align="center">
+<img src="img/front3.png">
+</div>
+
+- **Recomendación:** Incluir una barra de herramientas en la parte superior que permita un acceso rápido a las funciones más utilizadas, como "Publicar Tarea", "Ver Historial" y "Configuraciones".
 
 ---
 
