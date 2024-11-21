@@ -920,6 +920,12 @@ link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://tre
 #### 5.2.4.3. Development Evidence for Sprint Review
 En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 4, mostrando los principales commits y merges del proyecto:
 
+| Branch | Commit Id | Commit Message                       | Committed on (Dated) |
+|--------|-----------|--------------------------------------|-----------------------|
+| feature/iam   | 875c43d   | feat: add authentication controller, resources, transforms | 25/10/24             |
+| feature/iam   | ed5db1e   | feat: add user command query service and implementatio  | 25/10/24             |
+| feature/iam   | e9ebefd   | feat: add user repository                               | 25/10/24             |
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
 Repositorio: https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing 
@@ -931,7 +937,14 @@ A continuación se mostrarán capturas de pantallas así como el vídeo de la ej
 Evidencia de Web Service:
 
 Link del video (Backend):
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Para este cuarto sprint usamos la versión de nuestro servicio desarrollado.
+
+| Endpoint | Details | 
+| ------ | --------- | 
+| Notification | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/Subcription. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para crear un nuevo usuario a través de los datos proporcionados en el cuerpo de la solicitud (request body). Por último, el método DELETE permite eliminar un usuario específico mediante su id.  |
+| Notification | Se implementa
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
