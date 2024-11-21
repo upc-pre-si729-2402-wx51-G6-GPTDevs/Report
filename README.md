@@ -923,6 +923,7 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
 Repositorio: https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing 
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución el Web Service, ya que la Landing Page y la Aplicación web fueron terminadas en el anterior sprint:
@@ -935,7 +936,9 @@ Link del video (Backend):
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
-
+<div align="center">
+<img src="img/Collaboration1.png">
+</div>
 
 
 ## 5.3. Validation Interviews
@@ -997,32 +1000,20 @@ Explicación del flujo: Después de iniciar sesión, el usuario será dirigido a
             <br>Edad: 20 años
             <br>Segmento Objetivo: Trabajador  
             <br> Distrito: San Luis </td>
-            <td>Screenshot:
+            <td>Screenshot: <img src="img/entre1.png" style="width: 30%; height: auto;">
             <br> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/Eev7_47SUiZLrBtQ2tE7g3gBOPKTyZ0-0ZzaxTxT4rUDHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uEBO4s  </td>
         </tr>
         <tr>
             <td>Validation Interviews</td>
             <td>Formato: mp4
-            <br>Duración:  min</br></td>
-            <td>Entrevistado(a) #2:
-            <br>Sexo:
-            <br>Edad: años
-            <br>Segmento Objetivo:   
+            <br>Duración: 5:11 min</br></td>
+            <td>Entrevistado(a) #2: Emilio Chávarri
+            <br>Sexo: Hombre
+            <br>Edad: 54 años
+            <br>Segmento Objetivo: Trabajadores que buscan ingresos adicionales y flexibilidad   
             <br> Distrito: </td>
-            <td>Screenshot:
-            <br> Link: </td>
-        </tr>
-        <tr>
-            <td>Validation Interviews</td>
-            <td>Formato: mp4
-            <br>Duración:  min</br></td>
-            <td>Entrevistado(a) #3:
-            <br>Sexo:
-            <br>Edad: años
-            <br>Segmento Objetivo:   
-            <br> Distrito: </td>
-            <td>Screenshot:
-            <br> Link: </td>
+            <td>Screenshot:<img src="img/entre2.png" style="width: 30%; height: auto;">
+            <br> Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EW3Q191xFBdBlOrMEYImNg0BGAM3HUAtjohztBQCGPnKuA?e=U8untD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  </td>
         </tr>
     </tbody>
 </table>
@@ -1066,8 +1057,8 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 | # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|---------------------|
 | 1 | Edicion de una barra de herramientas adicional en el toolbar | 2 |Visibilidad del estado del sistema  |
-| 2 |  |  |  |
-| 3 |  |  |  |
+| 2 | Acceso directo a la lista de usuarios | 3 |Control y libertad del usuario  |
+| 3 | Contexto adicional de los perfiles | 2 | Consistencia y estándares |
 
 ----
 <br>
@@ -1075,8 +1066,8 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 **Descripción del Problemas:**
 
 - **Problema #1:** Edicion de una barra de herramientas adicional en el toolbar
-- **Severidad:** 2 Heurística violada: Visibilidad del estado del sistema
-- **Heurística/Principio violado(a):** 
+- **Severidad:** 2 
+- **Heurística/Principio violado(a):** Visibilidad del estado del sistema
 - **Problema:** El entrevistado sugirió que la plataforma podría beneficiarse de mejoras en la interfaz, como una barra de herramientas adicional y una mejor organización de las pestañas,  la necesidad de simplificar el proceso de publicación y gestión de tareas para hacerlo más accesible.
 
 <div align="center">
@@ -1087,19 +1078,25 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 
 ---
 
-- **Problema #2:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
-- **Recomendación:** 
+- **Problema #2:** Acceso directo a la lista de usuarios 
+- **Severidad:** 3 
+- **Heurística/Principio violado(a):** Control y libertad del usuario
+- **Problema:** La falta de un listado previo de trabajadores o empleadores dificulta la navegación, obligando al usuario a explorar perfiles uno por uno.
+<div align="center">
+<img src="img/postulantes.png">
+</div>
+- **Recomendación:** Agregar una lista previa de trabajadores o empleadores antes de mostrar sus perfiles completos. Esto puede incluir un resumen básico, como nombres, ocupaciones principales, y un botón para ver más detalles.
 
 ---
 
-- **Problema #3:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
-- **Recomendación:** 
+- **Problema #3:** Contexto adicional de los perfiles
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Consistencia y estándares
+- **Problema:** No se proporciona información de contexto, como la empresa asociada a cada empleador o detalles clave que permitan a los usuarios filtrar y enfocar su búsqueda.
+  <div align="center">
+<img src="img/filtro.png">
+</div>
+- **Recomendación:** Permitir a los usuarios buscar y filtrar trabajadores y empleadores por parámetros específicos, como habilidades, ubicación, o empresa. Mostrar la razón social o información breve de la empresa al lado de cada empleador para facilitar la identificación y selección.
 <br>
 
 # 5.4. Video About-the-Product
@@ -1122,7 +1119,7 @@ La plataforma tiene el potencial de convertirse en la líder del mercado en Per�
 
 TaskLinker ofrece un modelo de negocio flexible, con una opción gratuita que incluye comisiones por transacción y un plan premium que elimina estas comisiones y ofrece beneficios adicionales. Esto facilita el acceso de usuarios con diferentes necesidades económicas y volúmenes de trabajo.
 
-Recomendaciones
+**Recomendaciones**
 
 Implementar y promocionar un sistema de evaluaciones y reseñas confiable que genere confianza tanto en empleadores como en trabajadores. Esto mejorará la transparencia y fomentará más transacciones exitosas en la plataforma.
 
