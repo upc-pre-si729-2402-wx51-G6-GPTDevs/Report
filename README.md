@@ -230,7 +230,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, implementé mejoras y/o correcciones en el Backend, basándome en el feedback recibido en la entrega anterior.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Capítulo III: Requirements Specification</p>
@@ -284,7 +284,7 @@ de audiencia.</td>
         <p><b>TB2:</b></p>
         <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, se documentaron las mejoras realizadas al backend en el sprint 4. De este modo, se pudo comunicar de forma clara lo avanzado en este entregable y mostrar evidencia de los resultados obtenidos.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Capítulo III: Requirements Specification</p>
