@@ -211,7 +211,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, finalicé con la mejora completa del backend de mi bounded context Profiles y corrigiendo algunos endopoints para la correcta conexión con el frontend, apoyé con la implementación del CORS y verifiqué la validación e integridad de ciertos campos ingresados</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo III: Product Design y User Stories; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
@@ -265,7 +265,7 @@ de audiencia.</td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para el Trabajo Final, enfaticé bastante el trabajo el equipo, la coordinación y la responsabilidad de cada uno de nosotro, en mi caso pude implementar al completo mi backend apoyado en base a las retroalimentaciones posteriores de nuestro profesor, por otra parte logré la interacción del frontend y backend conviertiendo a nuestro startup, un sitio web interactivo y agradable visualmente</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo III: Product Design y User Stories; también realicé lo sieguiente del Capítulo IV: 4.1. Style Guidelines, General Style Guidelines, Web Style Guidelines, Information Architecture, Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping.</p>
