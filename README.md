@@ -231,7 +231,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, finalicé con la mejora completa del backend de mi bounded context Profiles y corrigiendo algunos endopoints para la correcta conexión con el frontend, apoyé con la implementación del CORS y verifiqué la validación e integridad de ciertos campos ingresados</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories</p>
@@ -285,7 +285,7 @@ de audiencia.</td>
         <p><b>TB2:</b></p>
         <p>Pude implementar diversos endpoints de mi Bounded Context Profiles tanto para el segmento Trabajador como Empleador, realicé un crud completo (agregar, obtener, actualizar y eliminar) con ayuda de la interfaz SwaggerUi, para el backend, me apoyé en Springboot y para la base de datos Postgres</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para el Trabajo Final, enfaticé bastante el trabajo el equipo, la coordinación y la responsabilidad de cada uno de nosotro, en mi caso pude implementar al completo mi backend apoyado en base a las retroalimentaciones posteriores de nuestro profesor, por otra parte logré la interacción del frontend y backend conviertiendo a nuestro startup, un sitio web interactivo y agradable visualmente</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
        <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories</p>
