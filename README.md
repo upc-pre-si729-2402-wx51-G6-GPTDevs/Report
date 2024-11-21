@@ -1052,6 +1052,18 @@ Explicación del flujo: Después de iniciar sesión, el usuario será dirigido a
             <td>Screenshot:<img src="img/entre2.png" style="width: 30%; height: auto;">
             <br> Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EW3Q191xFBdBlOrMEYImNg0BGAM3HUAtjohztBQCGPnKuA?e=U8untD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  </td>
         </tr>
+            <tr>
+            <td>Validation Interviews</td>
+            <td>Formato: mvk
+            <br>Duración: 9:36 min</br></td>
+            <td>Entrevistado(a) #3: Sandy Ingaruca
+            <br>Sexo: Mujer
+            <br>Edad: 25 años
+            <br>Segmento Objetivo: Empleadora que busca trabajadores eficientes   
+            <br> Distrito: Ate Vitarte </td>
+            <td>Screenshot:<img src="img/entre3.png" style="width: 30%; height: auto;">
+            <br> Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a153_upc_edu_pe/EUZxNR44tyNLv2ukTiRnzfsBmm3YvOMYBj0h2JMgmRdW7w?e=2oZx8A  </td>
+        </tr>
     </tbody>
 </table>
 
