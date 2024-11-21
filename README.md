@@ -922,9 +922,14 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 
 | Branch | Commit Id | Commit Message                       | Committed on (Dated) |
 |--------|-----------|--------------------------------------|-----------------------|
-| feature/iam   | 875c43d   | feat: add authentication controller, resources, transforms | 25/10/24             |
-| feature/iam   | ed5db1e   | feat: add user command query service and implementatio  | 25/10/24             |
-| feature/iam   | e9ebefd   | feat: add user repository                               | 25/10/24             |
+| feature/JobPostBC  | e225f4b7   | feat: add infrastructure  | 2/11/24        |
+| feature/JobPostBC   | e1e231ed   | feat: add controller               | 21/11/24     |
+| feature/profileCreateBC   | 77eadf77  | feat: update syntax of employer and worker | 21/11/24 |
+| feature/iam   | d0ed88af  | feat: add hashing service | 21/11/24 |
+| feature/iam   | 08978c6a  | feat: remove name and phone number fields from User model and related resources | 21/11/24 |
+| origin/main   | a940232f  | eat: update .gitignore | 21/11/24 |
+| origin/develop   | 42e77c20  | feat: add JWT expiration configuration to application properties | 21/11/24 |
+| origin/develop  |  b4594db2  | feat: add JWT dependencies and clean up pom.xml | 21/11/24 |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
@@ -975,13 +980,17 @@ Para este cuarto sprint usamos la versión de nuestro servicio desarrollado.
 | ------ | --------- | 
 | Notification | Se implementaron los métodos HTTP GET, POST para el endpoint /api/Notification. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo mensaje  enviando los datos necesarios en el cuerpo de la solicitud (request body). |
 |Job Posts | Se implementaron los métodos HTTP GET, POST para el endpoint /api/jobposts. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo trabajo enviando los datos necesarios en el cuerpo de la solicitud (request body). |
-|Profile create | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/workerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id. |
+|Profile create | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/workerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id. 
+
+Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/employerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id.|
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 <div align="center">
 <img src="img/Collaboration1.png">
+<img src="img/st4.png">
+<img src="img/st5.png">
 </div>
 
 
