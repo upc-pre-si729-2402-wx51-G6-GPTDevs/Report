@@ -576,11 +576,11 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
 | Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-| US04 | Acceso a documentos relevantes | EP003 | Gestión y Clasificación de Tareas | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | 8 hours | Daniel, Camila | Done |
-| US05 | Subir y actualizar documentos | EP003 | Gestión y Clasificación de Tareas | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 7 hours | Daniel, Camila | To do |
+| US04 | Acceso a documentos relevantes | EP003 | Gestión y Clasificación de Tareas | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | 8 hours | Diego, Camila | Done |
+| US05 | Subir y actualizar documentos | EP003 | Gestión y Clasificación de Tareas | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 7 hours | Diego, Camila | To do |
 | US11 | Ver la reputación de los trabajadores | EP010 | Implementación de un Sistema de Reputación. | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador, para asegurarme de que es confiable y competente. | 8 hours | Tony, Camila | Done |
 | US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | Done |
-| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Daniel | Done |
+| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Diego | Done |
 | US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
 | US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | Done |
 | US20 | Iniciar sesión con autenticación Multifacor activada | EP009 | Implementadón de Autenticación Multifactor | Como usuario, quiero que al iniciar sesión en mi cuenta se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 6 hours | Franco, Camila | Done |
@@ -715,12 +715,12 @@ link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://tre
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
 | Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 8 hours | Daniel, Camila | Done |
+| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 8 hours | Diego, Camila | Done |
 | US12 | Actualizar la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo | 7 hours | Tony | Done |
 | US05 | Subir y actualizar documentos| EP03 | Implementación de un Sistema de Reputación. | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 8 hours | Tony, Camila | Done |
 | US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | Done |
 | US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado	 | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Camila | Done |
-| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 8 hours | Daniel | Done |
+| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 8 hours | Diego | Done |
 | US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
 | US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | Done |
 | US20 | Iniciar sesión con autenticación multifactor activada | EP009 | Implementadón de Autenticación Multifactor		| Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 8 hours | Franco | Done |
@@ -901,12 +901,12 @@ link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://tre
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User Story |     | WorkItem/ Task |     |     |     |     |     |
 | Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
-| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 4 hours | Daniel, Camila | Done |
+| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 4 hours | Diego, Camila | Done |
 | US12 | Actualizar la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo | 4 hours | Tony | Done |
 | US05 | Subir y actualizar documentos| EP03 | Implementación de un Sistema de Reputación. | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 4 hours | Tony, Camila | Done |
 | US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 4 hours | Tony | Done |
 | US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado	 | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 4 hours | Camila | Done |
-| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 4 hours | Daniel | Done |
+| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 4 hours | Diego | Done |
 | US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 4 hours | Tony | Done |
 | US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 4 hours | Franco, Camila | Done |
 | US20 | Iniciar sesión con autenticación multifactor activada | EP009 | Implementadón de Autenticación Multifactor		| Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 4 hours | Franco | Done |
@@ -920,17 +920,16 @@ link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://tre
 #### 5.2.4.3. Development Evidence for Sprint Review
 En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 4, mostrando los principales commits y merges del proyecto:
 
-| Branch       | Commit Id | Commit Message                                             | Committed on (Dated) |
-|--------------|-----------|------------------------------------------------------------|----------------------|
-| feature/jobPostBC     | e1e231e   | feat: add controller                         | 21/11/24             |
-| feature/jobPostBC | e225f4b | feat: add infrastructure                 | 02/11/24             |
-| feature/jobPostBC| b4e97b5   | feat: add domain model and services          | 02/11/24             |
-| feature/jobPostBC | a222da1   | chore: jobPost                               | 25/10/24             |
-| feature/jobPostBC | 702acf9   | chore: jobpost                               | 25/10/24             |
-| feature/iam  | 08978c6   | feat: remove name and phone number fields from User model and related resources | 2024-11-21           |
-| feature/iam  | d0ed88a   | feat: add hashing service                                  | 2024-11-21           |
-| feature/profileCreateBC   | 46fee87   | update: issues with workers and employers fixed | 03/11/24             |
-| feature/profileCreateBC | 9837312   | Update: add employers endpoints              | 03/11/24             |
+| Branch | Commit Id | Commit Message                       | Committed on (Dated) |
+|--------|-----------|--------------------------------------|-----------------------|
+| feature/JobPostBC  | e225f4b7   | feat: add infrastructure  | 2/11/24        |
+| feature/JobPostBC   | e1e231ed   | feat: add controller               | 21/11/24     |
+| feature/profileCreateBC   | 77eadf77  | feat: update syntax of employer and worker | 21/11/24 |
+| feature/iam   | d0ed88af  | feat: add hashing service | 21/11/24 |
+| feature/iam   | 08978c6a  | feat: remove name and phone number fields from User model and related resources | 21/11/24 |
+| origin/main   | a940232f  | eat: update .gitignore | 21/11/24 |
+| origin/develop   | 42e77c20  | feat: add JWT expiration configuration to application properties | 21/11/24 |
+| origin/develop  |  b4594db2  | feat: add JWT dependencies and clean up pom.xml | 21/11/24 |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
@@ -1125,6 +1124,7 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 | 1 | Edicion de una barra de herramientas adicional en el toolbar | 2 |Visibilidad del estado del sistema  |
 | 2 | Acceso directo a la lista de usuarios | 3 |Control y libertad del usuario  |
 | 3 | Contexto adicional de los perfiles | 2 | Consistencia y estándares |
+| 4 | Falta de intuición en algunas funciones | 2 | Visibilidad del estado del sistema |
 
 ----
 <br>
@@ -1164,6 +1164,19 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 </div>
 
 - **Recomendación:** Permitir a los usuarios buscar y filtrar trabajadores y empleadores por parámetros específicos, como habilidades, ubicación, o empresa. Mostrar la razón social o información breve de la empresa al lado de cada empleador para facilitar la identificación y selección.
+<br>
+
+---
+
+- **Problema #4:** Falta de intuición en algunas funciones
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Visibilidad del estado del sistema 
+- **Problema:** Publicar trabajos y algunas acciones específicas no son completamente intuitivas para nuevos usuarios.
+  <div align="center">
+<img src="img/front3.png">
+</div>
+
+- **Recomendación:** Usar iconos y mensajes claros para indicar cómo completar tareas clave como publicar trabajos o registrarse.
 <br>
 
 # 5.4. Video About-the-Product
