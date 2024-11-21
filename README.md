@@ -1011,7 +1011,7 @@ Explicación del flujo: Después de iniciar sesión, el usuario será dirigido a
             <br>Sexo: Hombre
             <br>Edad: 54 años
             <br>Segmento Objetivo: Trabajadores que buscan ingresos adicionales y flexibilidad   
-            <br> Distrito: </td>
+            <br> Distrito: San Juan de Lurigancho </td>
             <td>Screenshot:<img src="img/entre2.png" style="width: 30%; height: auto;">
             <br> Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EW3Q191xFBdBlOrMEYImNg0BGAM3HUAtjohztBQCGPnKuA?e=U8untD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  </td>
         </tr>
@@ -1096,6 +1096,7 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
   <div align="center">
 <img src="img/filtro.png">
 </div>
+
 - **Recomendación:** Permitir a los usuarios buscar y filtrar trabajadores y empleadores por parámetros específicos, como habilidades, ubicación, o empresa. Mostrar la razón social o información breve de la empresa al lado de cada empleador para facilitar la identificación y selección.
 <br>
 
