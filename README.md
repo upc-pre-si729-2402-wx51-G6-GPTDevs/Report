@@ -892,10 +892,10 @@ En la siguiente sección, se presentará el sprint #4 con la versión de la apli
 Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
 
 <div align="center">
-<img src="img/Sprint 3.png">
+<img src="img/sprint 4.png">
 </div>
 
-link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://trello.com/b/b8PH3hVt/sprint-3-tb2
+link: [Enlace de trello](https://trello.com/b/KfGgUYBW/sprint-4) https://trello.com/b/KfGgUYBW/sprint-4
 
 | Sprint 4 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -980,9 +980,7 @@ Para este cuarto sprint usamos la versión de nuestro servicio desarrollado.
 | ------ | --------- | 
 | Notification | Se implementaron los métodos HTTP GET, POST para el endpoint /api/Notification. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo mensaje  enviando los datos necesarios en el cuerpo de la solicitud (request body). |
 |Job Posts | Se implementaron los métodos HTTP GET, POST para el endpoint /api/jobposts. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo trabajo enviando los datos necesarios en el cuerpo de la solicitud (request body). |
-|Profile create | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/workerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id. 
-
-Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/employerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id.|
+|Profile create | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/workerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id. Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/employerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id.|
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
