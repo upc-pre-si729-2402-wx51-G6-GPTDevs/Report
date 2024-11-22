@@ -85,26 +85,6 @@
 </table>
 
 # Project Report Collaboration Insights
-[Link de repositorio del reporte:](https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Report): https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/Report
-
-
-TB1:
-
-<img src="assets/insights-tb1-1.png"/>
-
-<img src="assets/insights-tb1-2.png"/>
-
-TP1:
-
-<img src="img/colaboration1-1.png"/>
-
-<img src="img/colaboration1-2.png"/>
-
-TB2:
-
-<img src="assets/insights-tb2-1.png"/>
-
-<img src="assets/insights-tb2-2.png"/>
 
 # Contenido
 [Student Outcome](#student-outcome)
@@ -227,9 +207,9 @@ de audiencia.</b></td>
         <p><b>TB1:</b></p>
         <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé un optimo trabajo en equipo, para crear, visualizar y corregir detalles importantes, además fui flexible con el tiempo de entrega de los capítulos</p>
         <p><b>TP1:</b></p>
-        <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2</p>
+        <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2.</p>
         <p><b>TB2:</b></p>
-        <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles</p>
+        <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles.</p>
         <p><b>TF:</b></p>
         <p>Para esta entrega, finalicé con la mejora completa del backend de mi bounded context Profiles y corrigiendo algunos endopoints para la correcta conexión con el frontend, apoyé con la implementación del CORS y verifiqué la validación e integridad de ciertos campos ingresados</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -240,7 +220,7 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega colabore con la parte del web Services Job Post BC y la parte del Capitulo 5 - 5.3. Validation Interviews con algunas correciones.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore en el Capitulo 5 con la realizacion de entrevista y documentacion, heuristicas, tambien hacer el trello del sprint 4.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories <br>Coordiné y realicé la reunión inicial del proyecto, explicando claramente los objetivos y el plan de trabajo. Cree diferentes reuniones para clarificar los roles de cada integrante del equipo.      
@@ -250,10 +230,10 @@ de audiencia.</b></td>
         <p><b>TB2:</b></p>
         <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, implementé mejoras y/o correcciones en el Backend, basándome en el feedback recibido en la entrega anterior.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
-        <p>Capítulo III: Requirements Specification</p>
+        <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
         <p><b>TP1:</b></p>
         <p>En resumen, para el Front-end hice el feature/work-done y feature/task, correjí el impact mapping y implementé la presentación del canva.</p>
         <p><b>TB2:</b></p>
@@ -281,9 +261,9 @@ de audiencia.</td>
         <p><b>TB1:</b></p>
         <p>Capítulo II: Requirements Elicitation & Analysis y User Stories<br> Realicé correctamente lo establecido para esta entrega, además apoyé en otras definiciones a mi team Collab</p>
         <p><b>TP1:</b></p>
-        <p>Pude diseñar las pages de Perfil de Usuario, tanto de empleador como de trabajador, además de implementar la sección de Dashboard en el cual se podrá visualizar las tareas realizadas y mas información, todo lo descrito previamente lo realicé en Node.js, Angular CLI y con ayuda de Json Server</p>
+        <p>Para esta entrega, realice correciones al documento general, además de implementar el product backlog en Trello con las historias de usuario correspondientes al sprint 2.</p>
         <p><b>TB2:</b></p>
-        <p>Pude implementar diversos endpoints de mi Bounded Context Profiles tanto para el segmento Trabajador como Empleador, realicé un crud completo (agregar, obtener, actualizar y eliminar) con ayuda de la interfaz SwaggerUi, para el backend, me apoyé en Springboot y para la base de datos Postgres</p>
+        <p>Para esta entrega, se trabajó el Sprint 3 que consta de la implementación de los Web Services o Backend, en mi caso me enfoqúe en el Vounded Context Profiles.</p>
         <p><b>TF:</b></p>
         <p>Para el Trabajo Final, enfaticé bastante el trabajo el equipo, la coordinación y la responsabilidad de cada uno de nosotro, en mi caso pude implementar al completo mi backend apoyado en base a las retroalimentaciones posteriores de nuestro profesor, por otra parte logré la interacción del frontend y backend conviertiendo a nuestro startup, un sitio web interactivo y agradable visualmente</p>
         <p><b>Sanchez Rios, Camila Cristina</b></p>
@@ -294,18 +274,17 @@ de audiencia.</td>
         <p><b>TB2:</b></p>
         <p>Para esta entrega colabore con la parte del web Services Job Post BC y la parte del Capitulo 5 - 5.3. Validation Interviews con algunas correciones.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega colabore en el Capitulo 5 con la realizacion de entrevista y documentacion, heuristicas, tambien hacer el trello del sprint 4.</p>
         <p><b>Durand Vera, Gianfranco Angel</b></p>
         <p><b>TB1:</b></p>
         <p>Capítulo IV: Product Design y User Stories <br>Cree repositorios para almacenar nuestro informe con un registro de versiones constante, además de comenzar un registro de los puntos que nos falta completar.
         </p>
         <p><b>TP1:</b></p>
-        <p>Durante el desarrollo para esta entrega, se puso énfasis en abordar los puntos a mejorar en el feedback del trabajo anterior, como lo fueron el mejorar la redacción de
-algunas user stories</p>
+        <p>Realicé commits para la web application siguendo las convenciones para una comunicación escrita, realice el deployment de la aplicación de modo que los interesados puedan ver el avance del proyecto y tener un producto en desarrollo que demuestre nuestro avance durante el sprint.</p>
         <p><b>TB2:</b></p>
-        <p>En este entregable, se documentó el backend utilizando Swagger, desarrollado con Spring Boot, para gestionar los endpoints trabajados.</p>
+        <p>En esta tercera entrega, se desarrolló el Sprint 3 del proyecto. Para ello, realizamos los avances correspondientes en Frontend y Backend.</p>
         <p><b>TF:</b></p>
-        <p>.</p>
+        <p>Para esta entrega, se documentaron las mejoras realizadas al backend en el sprint 4. De este modo, se pudo comunicar de forma clara lo avanzado en este entregable y mostrar evidencia de los resultados obtenidos.</p>
         <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
        <p><b>TB1:</b></p>
         <p>Realicé el Capítulo I, Capítulo II: User Journey Mapping, Capítulo III: Requirements Specification, Capítulo IV: Conclusiones y Recomendaciones.</p>
@@ -320,10 +299,9 @@ algunas user stories</p>
         <p><strong>TB1:</strong></p>
         <p>Se participó equitativamente el informe. En conclusión, estamos en camino para desempeñarnos de manera equitativa en el trabajo.</p>
         <p><strong>TP1:</strong></p>
-        <p>En resumen, para esta entrega se enfatizó en mejorar mediante el feedback proporcionado por el profesor y un autoanálisis. Por lo tanto, nos comunicamos de forma escrita en el
-informe del proyecto, buscando mejorar tanto el formato como el contenido para mostrar nuestras ideas de manera más objetiva.</p>
+        <p>En resumen, durante esta etapa del proyecto, implementamos las mejoras sugeridas por el profesor, las cuales incluyeron la mejora de user storires. Además, todos los integrantes del equipo completaron con éxito todas las actividades asignadas en el segundo sprint.</p>
         <p><strong>TB2:</strong></p>
-        <p>En conclusión, para esta entrega nos comunicamos de forma escrita mediante la documentación de nuestros avances en los productos de software y validaciones de dichos productos.</p>
+        <p>En conclusión, para esta entrega se comunicó con los segmentos objetivo para obtener retroalimentación de nuestro avance con los productos de software. Asimismo, se desarrollaron los videos About-The-Product y About-The-Team que muestran como hemos desarrollado nuestra propuesta.</p>
         <p><strong>TF:</strong></p>
         <p>En conclusión, para esta entrega final nos mantenimos comunicados de forma activa mediante mensajes y la documentación de nuestros avances tanto de los back-ends, landing page, el reporte y la validación de dichos productos.</p>
       </td>
@@ -1000,7 +978,8 @@ La elección tipográfica para TaskLinker es un componente esencial que compleme
 - Interlineado: 1.1
 - Weights: Bold - Medium - Regular - Light
 
-<center> <img src="assets/tipografia.png" style="width: 400px;"/></center>
+<center> 
+<img src="assets/tipografia.png" style="width: 400px;"/></center>
 
 ### 4.1.2. Web Style Guidelines
 La guía de estilo de un sitio web es un documento detallado que se basa en el diseño y la marca del sitio. Su propósito es crear una guía de estilo mucho más completa que abarca el uso de elementos en varios contextos, incluyendo medios impresos y otros medios. Es importante destacar que un sistema de diseño no siempre equivale a una guía de estilo.
@@ -1187,56 +1166,6 @@ etiquetas.
 </div>
 
 ### 4.2.3. SEO Tags and Meta Tag
-
-**SEO Tags**
-
-SEO (Search Engine Optimization) Tags son elementos de HTML que ayudan a los motores de búsqueda a entender el contenido y la estructura de una página web. Estos tags influyen en cómo los motores de búsqueda indexan y clasifican tu sitio en los resultados de búsqueda. 
-
-**Algunos ejemplos importantes de SEO Tags incluyen:**
-
-**Title Tag:**
-
-Es el título de la página web que aparece en la pestaña del navegador y como el título del enlace en los resultados de búsqueda. Importancia: Es crucial porque es uno de los factores más influyentes en el ranking de la página. Debe ser relevante, contener palabras clave, y tener una longitud de entre 50 y 60 caracteres. 
-
-*Ejemplo:* 
-``` html
-<title>Compra Ropa de Moda Online - Tienda XYZ</title>
-``` 
-
-**Header Tags (H1, H2, H3, etc.):** 
-
-Son etiquetas utilizadas para definir los encabezados y subencabezados dentro del contenido de la página. El H1 es el encabezado principal y es el más importante en términos de SEO. Importancia: Ayudan a organizar el contenido y permiten a los motores de búsqueda comprender la jerarquía y el tema principal de la página. 
-
-*Ejemplo:*
-```html
-<h1>Las Mejores Ofertas en Ropa de Moda</h1>
-```
-
-**Alt Tags:**
-
-Son atributos utilizados en imágenes para describir su contenido. Aunque los usuarios no pueden ver este texto directamente, los motores de búsqueda lo utilizan para entender el contenido de la imagen. Importancia: Mejoran la accesibilidad y también son importantes para el SEO, especialmente en la búsqueda de imágenes.
-
-**Meta Tags**
-
-Los Meta Tags son fragmentos de texto que describen el contenido de la página; no aparecen en la página misma, pero se encuentran en el código HTML de la página. Los motores de búsqueda y los navegadores utilizan estos tags para obtener información adicional sobre la página. Algunos de los Meta Tags más relevantes para SEO son:
-
-**Meta Description Tag:**
-
-Proporciona un resumen breve del contenido de la página. Aunque no afecta directamente al ranking de búsqueda, es importante porque aparece en los resultados de búsqueda bajo el título de la página. Importancia: Una meta descripción atractiva puede aumentar la tasa de clics (CTR) desde los motores de búsqueda. 
-
-Originalmente, se utilizaba para listar palabras clave relevantes para la página. Sin embargo, hoy en día, la mayoría de los motores de búsqueda ya no utilizan este tag para el ranking. Importancia: Es menos relevante en la actualidad, pero puede ser utilizado por algunos motores de búsqueda secundarios. 
-
-**Meta Robots Tag:**
-
-Indica a los motores de búsqueda cómo deben indexar o seguir los enlaces en la página. Importancia: Se utiliza para controlar la indexación de la página. Por ejemplo, si no quieres que una página específica sea indexada, puedes usar este tag. 
-
-*Ejemplo:*
-```
- Viewport Tag
-```
- Especifica cómo se ajustará la página a la pantalla del dispositivo (especialmente importante para dispositivos móviles). 
- 
- Importancia: Crucial para la optimización móvil, ya que garantiza que el sitio web se visualice correctamente en dispositivos de diferentes tamaños.
 
 ### 4.2.4. Searching Systems
 
@@ -1551,326 +1480,490 @@ En esta sección, cuando el "Trabajador" haya finalizado su tarea el empleador a
 </div>
 <br>
 
+**Web Application para Mobile Web Browser**
 
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">26</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Contrata talento temporal</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar guía de publicación de ofertas</p>
-           <p>Cuando el empleador visita la sección "Contrata talento temporal", entonces se debe mostrar un formulario o guía que explique cómo publicar una oferta de trabajo temporal.
-</p>
-        </tr>
-    </table>
+**Iniciar sesión**
+<div align="center">
+<img src="assets/mobile1-2.png">
+
+*Imagen(N°32). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+<div align="center">
+<img src="assets/mobile2-2.png">
+
+*Imagen(N°33). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Cargar tarjeta**
+<div align="center">
+<img src="assets/mobile3-2.png">
+
+*Imagen(N°34). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Mi perfil**
+
+*Perfil Trabajador*
+<div align="center">
+<img src="assets/mobile5-2.png">
+
+*Imagen(N°35). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Perfil Empleador*
+<div align="center">
+<img src="assets/mobile4-2.png">
+
+*Imagen(N°36). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Subir Archivos**
+<div align="center">
+<img src="assets/mobile6-2.png">
+
+*Imagen(N°37). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+<div align="center">
+<img src="assets/mobile7-2.png">
+
+*Imagen(N°38). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile9-2.png">
+
+*Imagen(N°39). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Historial de trabajos Publicados**
+<div align="center">
+<img src="assets/mobile11-2.png">
+
+*Imagen(N°40). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile12-2.png">
+
+*Imagen(N°41). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Panel de control (Dashboard)**
+<div align="center">
+<img src="assets/mobile13-2.png">
+
+*Imagen(N°42). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+<div align="center">
+<img src="assets/mobile18-2.png">
+
+*Imagen(N°43). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+<div align="center">
+<img src="assets/mobile14-2.png">
+
+*Imagen(N°44). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+<div align="center">
+<img src="assets/mobile17-2.png">
+
+*Imagen(N°45). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Finalizar Tarea**
+<div align="center">
+<img src="assets/mobile16-2.png">
+
+*Imagen(N°46). Elaboración propia. Realizado en figma*
 </div>
 <br>
 
 
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">27</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Encuentra el trabajo ideal para tus proyectos</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Visualización de información</p>
-           <p>Cuando el empleador se encuentre en la sección para poder encontrar un trabajo ideal, entonces se mostrarán 3 recomendaciones para él
-</p>
-        </tr>
-    </table>
-</div>
-
-
-
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">28</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: ¿Qué opinan nuestros usuarios?</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar testimonios de usuarios</p>
-           <p>Cuando el usuario accede a la sección "¿Qué opinan nuestros usuarios?", entonces se deben mostrar al menos 2 testimonios de usuarios con sus nombres, tipo de usuario, fotos, y comentarios.
-</p>
-        </tr>
-    </table>
-</div>
-
-
-
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">29</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">011</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Sección: Contáctanos y Footer</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4">Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio.</td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Mostrar formulario de contacto</p>
-           <p>Cuando el usuario visita la sección "Contáctanos", entonces se debe mostrar un formulario de contacto con un solo campo obligatorio (correo electrónico) y un botón de "Contaáctanos".
-</p>
-           <p>Escenario 2: Visualización del footer"</p>
-           Cuando el usuario navega al footer, entonces deben estar visibles los enlaces a redes sociales, políticas de privacidad, copyright y año.
-        </tr>
-    </table>
-</div>
-<br>
-
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">30</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">007</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Creación de perfil como trabajador</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. </td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Un trabajador accede al formulario de creación de perfil y puede ingresar su información personal, habilidades y experiencia laboral.</p>
-           <p> Dado un trabajador que quiere ofrecer sus servicios, cuando accede a la sección "Crear perfil" en la plataforma, entonces puede llenar el formulario con sus datos personales, descripción de habilidades y experiencia laboral, y cargar una foto de perfil.
-</p>
-           <p>Escenario 2: Validación de información obligatoria para la creación de perfil.</p>
-          Dado un trabajador que intenta crear su perfil, cuando no llena los campos obligatorios (nombre, habilidades, experiencia), entonces el sistema muestra mensajes de error indicando los campos faltantes y no permite continuar hasta que se complete toda la información obligatoria.
-        </tr>
-    </table>
-</div>
-<br>
-
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">31</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">007</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Creación de perfil como empleador</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. </td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Un empleador accede al formulario de creación de perfil y puede ingresar la información de la empresa y detalles de contacto.</p>
-           <p> Dado un empleador que quiere ofrecer trabajos, cuando accede a la sección "Crear perfil" en la plataforma, entonces puede llenar el formulario con los datos de la empresa, detalles de contacto y cargar el logo de la empresa.
-</p>
-           <p>Escenario 2: Validación de información obligatoria para la creación de perfil de empleador.</p>
-           Dado un empleador que intenta crear su perfil, cuando no completa los campos obligatorios (nombre de la empresa, contacto), entonces el sistema muestra mensajes de error indicando los campos faltantes y no permite continuar hasta que se complete toda la información obligatoria.
-        </tr>
-    </table>
-</div>
-
-
-
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">32</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">005</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Ver perfil detallado de los empleadores</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como trabajador, quiero ver un perfil detallado de cada empleador para evaluar sus datos personales tales como su empresa, método de pago, industria, calificaciones y comentarios, de manera que pueda tomar una decisión informada antes de aceptar una oferta. </td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Visualización del perfil completo de un empleador.</p>
-           <p> Dado un trabajador que está revisando perfiles de empleadores, cuando selecciona un empleador en la plataforma, entonces puede ver un perfil detallado que incluye el historial de contrataciones, calificaciones de otros trabajadores y comentarios.
-</p>
-           <p>Escenario 2: Visualización de la industria y datos de la compañía.</p>
-           Dado un trabajador que desea conocer más detalles sobre la compañía del empleador, cuando accede al perfil del empleador, entonces puede ver la industria a la que pertenece, el tamaño de la compañía y el nombre.
-        </tr>
-    </table>
-</div>
-
-
-
-
-<div style="text-align:center;">
-    <table align="center" border="1" cellpadding="13" cellspacing="0">
-        <tr>
-            <td style="text-align:center;" colspan="2">User Story ID</td>
-            <td  colspan="2">33</td>
-            <td style="text-align:center;" colspan="2">Epic ID</td>
-            <td colspan="5">005</td>
-        </tr>
-        <tr>
-            <td style="text-align:center;" colspan="1">Title </td>
-            <td  colspan="2"> Actulizar mi perfil como empleador</td>
-            <td style="text-align:center;" colspan="4"> Description</td>
-            <td  style="text-align:justify;" colspan="4"> Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. </td>
-        </tr>
-        <tr>
-            <td style="text-align:justify;" colspan ="8">Acceptance criteria:
-            <p>Escenario 1: Actualización de información general del perfil del empleador.</p>
-           <p> Dado un empleador que desea modificar su perfil, cuando accede a la sección "Actualizar perfil" en la plataforma, entonces puede editar campos como el nombre de la compañía, número de teléfono y detalles de contacto y guardarlos.
-</p>
-           <p>Escenario 2: Actualización del rango salarial ofrecido.</p>
-           Dado un empleador que desea actualizar el rango salarial de sus ofertas, cuando accede a la sección de perfil para editar el salario, entonces puede ajustar el rango salarial y guardar los cambios para que se reflejen en futuras ofertas.
-        </tr>
-    </table>
-</div>
-
-<br>
-
-## 3.3. Impact Mapping
-**Segmento Objetivo: Trabajadores que buscan ingresos adicionales**
-<br>
-<img src="assets/Mapping1.png">
-*Imagen (N°11). Elaboración propia. Realizado en Miro*
-</br>
-
-**Segmento Objetivo: Empleadores que requieren soluciones laborales temporales**
-
-<img src="assets/mapping2.png">
-
-*Imagen (N°12). Elaboración propia. Realizado en Miro*
-
-## 3.4. Product Backlog
-
-Para elaborar nuestro product backlog hemos utilizado la escala lineal (1-8). Esto con el propósito de simplificar la complejidad de las tareas.
-
-|# orden|User Story ID|Titulo|Descripción|Story Points|
-| :-: | :-: | :-: | :-: | :-: |
-|1|1|Acceso Rápido a Funciones Principales|Como usuario, quiero un menú de navegación principal que me permita acceder rápidamente a las funciones más importantes, como buscar trabajos, gestionar mi perfil y ver notificaciones, para optimizar mi tiempo y facilitar mi uso de TaskLinker.|8|
-|2|2|Filtros Avanzados de Búsqueda|Como usuario, quiero poder utilizar filtros avanzados al buscar trabajos en TaskLinker para encontrar oportunidades laborales que se alineen con mis habilidades, disponibilidad y preferencias de ubicación, de manera rápida y eficiente.|7|
-|3|10|Evaluar a los Trabajadores|Como empleador, quiero poder evaluar a los trabajadores después de que hayan completado una tarea, para proporcionar retroalimentación y ayudar a otros empleadores a tomar decisiones informadas.|6|
-|4|3|Guardar Búsquedas Personalizadas|Como usuario, quiero poder guardar búsquedas personalizadas en TaskLinker para que pueda acceder fácilmente a mis criterios de búsqueda preferidos sin tener que reconfigurarlos cada vez que quiera buscar trabajos similares.|6|
-|5|4|Acceso a Documentos Relevantes|Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para poder tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker.|6|
-|6|5|Subir y Actualizar Documentos|Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles.|5|
-|7|22|Crear una tarea desde cualquier página|Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido.|5|
-|8|11|Ver la Reputación de los Trabajadores|Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente.|5|
-|9|12|Actualizar la Reputación del Trabajador|Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo.|5|
-|10|6|Organización de Documentos por Categorías|Como trabajador, quiero poder organizar mis documentos en categorías dentro de mi perfil para que los empleadores puedan encontrar rápidamente los documentos que necesitan revisar.|4|
-|11|21| Evaluar a los trabajadores después de un trabajo|Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos.|4|
-|12|7|Filtrar Tareas por Ubicación|Como trabajador, quiero poder filtrar las tareas disponibles por ubicación para encontrar trabajos cercanos que me resulten convenientes.|4|
-|13|9|Filtrar Tareas por Tipo de Trabajo|Como trabajador, quiero poder filtrar las tareas disponibles por tipo de trabajo para encontrar fácilmente las que se alineen con mis habilidades y preferencias.|4|
-|14|8|Filtrar Tareas por Horario|Como trabajador, quiero poder filtrar las tareas por horario para encontrar trabajos que se ajusten a mi disponibilidad.|4|
-|15|13|Editar Perfil de Usuario|Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, de modo que los empleadores tengan datos precisos sobre mí.|3|
-|16|14|Visualizar y Gestionar Mis Tareas|Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades.|3|
-|17|18|Publicar Nuevas Tareas de Manera Rápida|Como empleador, quiero tener acceso a un botón de acción flotante que me permita publicar nuevas tareas de forma rápida y sencilla, para que no tenga que navegar por múltiples menús o secciones.|3|
-|18|16|Ver Perfiles Detallados de los Trabajadores|Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos.|3|
-|19|15|Recibir Notificaciones de Nuevas Oportunidades de Trabajo|Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes.|3|
-|20|17|Actualizar Mi Perfil Como Trabajador|Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional.|2|
-|21|19|Solicitar Trabajo con Menú Contextual Simplificado|Como trabajador, quiero poder solicitar trabajos directamente desde un menú contextual, para que el proceso sea más rápido y no tenga que navegar por varios pasos para aplicar a un trabajo.|2|
-|22|20|Iniciar Sesión con Autenticación Multifactor Activada|Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta.|1|
-|23|23|Recuperar cuenta con 2FA habilitada|Como usuario, quiero poder recuperar mi cuenta si pierdo acceso a mi segundo factor de autenticación, para no quedar bloqueado de la plataforma.|1|
-|24|24| Sección: Encontrar un trabajo flexible | Como usuario que busca oportunidades laborales, quiero explorar la sección "Encontrar un trabajo flexible" para conocer las opciones de trabajos por horas disponibles y entender cómo puedo aplicar a ellos de forma rápida y sencilla. |6|
-|25|26| Sección: Contrata talento temporal | Como empleador o contratista, quiero acceder a la sección "Contrata talento temporal" para entender cómo puedo publicar tareas o trabajos temporales y conectar con profesionales adecuados para mis necesidades específicas. |6|
-|26|27| Sección: Encuentra el trabajo ideal para tus proyectos  | Como usuario que busca talento, quiero explorar la sección "Encuentra el trabajo ideal para tus proyectos" para ver los perfiles disponibles y utilizar filtros que me permitan encontrar rápidamente el talento que mejor se ajuste a los requisitos de mis proyectos. |5|
-|27|25| Sección: ¿Por qué escoger TaskLinker? | Como usuario potencial, quiero revisar la sección "¿Por qué escoger TaskLinker?" para entender los beneficios de utilizar esta plataforma, incluyendo testimonios, estadísticas de éxito, y ventajas competitivas, que me ayuden a decidirme por usar TaskLinker. |5|
-|28|28| Sección: ¿Qué opinan nuestros usuarios? | Como visitante del sitio, quiero leer las opiniones y testimonios de otros usuarios en la sección "¿Qué opinan nuestros usuarios?" para tener una idea clara de la experiencia que puedo esperar al utilizar TaskLinker. |5|
-|29|29| Sección: Contáctanos y Footer | Como usuario con preguntas o dudas, quiero utilizar la sección "Contáctanos" para obtener los medios de comunicación disponibles (correo electrónico, número de teléfono, formulario de contacto) y poder resolver mis inquietudes de manera rápida. Además, quiero que el footer me ofrezca enlaces a redes sociales, información de privacidad, y otros recursos relevantes del sitio. |2|
-|30|30| Creación de perfil como trabajador | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. |5|
-|31|31| Creación de perfil como empleador | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. |5|
-|32|32| Ver perfil detallado de los empleadores | Como trabajador, quiero ver un perfil detallado de cada empleador para evaluar sus datos personales tales como su empresa, método de pago, industria, calificaciones y comentarios, de manera que pueda tomar una decisión informada antes de aceptar una oferta. |7|
-|33|33| Actualizar mi perfil como empleador | Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. |7|
-
-
-# Capítulo IV: Product Design
-## 4.1. Style Guidelines
-### 4.1.1. General Style Guidelines
-### 4.1.2. Web Style Guidelines
-## 4.2. Information Architecture
-### 4.2.1. Organization Systems
-### 4.2.2. Labeling Systems
-### 4.2.3. SEO Tags and Meta Tag
-### 4.2.4. Searching Systems
-### 4.2.5. Navigation Systems
-## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
-### 4.3.2. Landing Page Mock-up
-## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
+Los Web Applications Wireflow Diagrams son una combinación de wireframes y flujos de usuario (user flows) que ilustran no solo la estructura y disposición de las páginas de una aplicación web, sino también cómo los usuarios navegarán entre ellas. Estos diagramas proporcionan una visión detallada del recorrido del usuario, mostrando las interacciones clave y las transiciones de una página a otra dentro de la aplicación.
+
+Los wireflow diagrams son fundamentales en el proceso de diseño, ya que permiten a los equipos de desarrollo y diseño evaluar la lógica de navegación y la experiencia del usuario antes de la implementación completa. Al representar visualmente tanto la estructura como el flujo, estos diagramas aseguran que todos los involucrados tengan una comprensión clara del comportamiento de la aplicación y pueden ayudar a identificar y resolver problemas de usabilidad tempranamente.
+
+**User Goal: Registrar**
+
+ El usuario selecciona la opción "Register", completa los campos solicitados y hace clic en el botón "Registrar". A continuación, se muestra el panel "Add Card", donde debe llenar los campos relacionados con su tarjeta y correo electrónico. Una vez que el proceso de pago se complete exitosamente, se notifica al usuario con un mensaje confirmando el vínculo de su tarjeta con la plataforma. Del mismo modo, si el usuario desea retirar su información o actualizar lo podrá hacer a través de su perfil. Finalmente hacer clic en el botón "Aceptar".
+
+<div align="center">
+<img src="assets/d1.png">
+
+*Imagen(N°47). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Iniciar sesión**
+
+ El usuario introduce su correo y contraseña, luego hace clic en el botón "Log In". Después, se le redirige al panel de perfil, donde podrá editar su información personal y acceder a las herramientas según su perfil "Trabajador" o "Empleador".
+<div align="center">
+<img src="assets/d2.png">
+
+*Imagen(N°48). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Perfil**
+
+En el panel "Perfil", el usuario puede editar su nombre, ubicación y biografía, además de visualizar su puntuación. También tiene la opción de subir o actualizar archivos y consultar el historial de trabajos realizados donde podra visualizar su desempeño y reseñas por parte del empleador. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
+<div align="center">
+<img src="assets/d3.png">
+
+*Imagen(N°48). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
+**User Goal: Navegar por el dashboard**
+
+Una vez que el usuario accede al dashboard, puede publicar una nueva tarea completando un formulario con los siguientes detalles: título, descripción, fecha de ejecución, tipo de servicio, categoría, ubicación y presupuesto. Tras llenar todos los campos, el usuario hace clic en el botón "Publicar", lo que lo redirige a la sección de "Postulaciones". En esta sección, los contratistas o usuarios interesados pueden postularse para realizar la tarea. Se muestra una lista de postulantes con su nombre, puntuación y opciones de acción, como "Ver perfil" o "Contratar".
+
+En la sección "Finalizar Tarea", el usuario tiene la opción de concluir el proceso dejando una reseña y una puntuación para el contratista que completó la tarea. Luego, hace clic en el botón "Finalizar" para cerrar la tarea oficialmente.
+
+En la sección "Perfil de Usuario", el usuario puede revisar su información personal y su historial de tareas publicadas o realizadas. Además, el perfil incluye una puntuación basada en las reseñas de trabajos previos.
+
+En la sección "Visualización de Tareas", el usuario puede explorar una lista de tareas disponibles a las que puede postularse. Cada tarea tiene un botón de "Aplicar", lo que permite al usuario enviar su candidatura para las tareas que le interesen.
+
+Por último, en la sección "Filtrar Tareas", el usuario puede refinar la búsqueda de tareas según sus criterios, como el tipo de servicio, ubicación, grupo de trabajo y rango de precios. Al hacer clic en el botón "Aplicar Filtro", las tareas visibles se actualizan de acuerdo con las preferencias seleccionadas.
+<div align="center">
+<img src="assets/d4.png">
+
+*Imagen(N°49). Elaboración propia. Realizado en Lucidchart*
+</div>
+<br>
+
 ### 4.4.3. Web Applications Mock-ups
+Los Web Applications Mock-ups son representaciones visuales detalladas y de alta fidelidad del diseño de una aplicación web. A diferencia de los wireframes, que son más esquemáticos, los mock-ups incorporan colores, tipografías, imágenes y otros elementos de diseño, ofreciéndonos una vista previa realista de cómo se verá la interfaz de usuario final.
+
+Al crear mock-ups, tenemos la oportunidad de visualizar y evaluar la apariencia y la funcionalidad del producto antes de la codificación. Esto nos permite realizar ajustes en el diseño, asegurar la coherencia visual y comunicar la visión final de nuestro brand.
+
+**Web Application para Desktop Web Browser**
+
+**Iniciar sesión**
+<div align="center">
+<img src="assets/inicio.png">
+
+*Imagen(N°50). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+<div align="center">
+<img src="assets/registro.png">
+
+*Imagen(N°51). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Cargar tarjeta**
+<div align="center">
+<img src="assets/tarjeta.png">
+
+*Imagen(N°52). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Mi perfil**
+
+*Perfil Trabajador*
+<div align="center">
+<img src="assets/trabaja.png">
+
+*Imagen(N°53). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Perfil Empleador*
+<div align="center">
+<img src="assets/emple.png">
+
+*Imagen(N°54). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Subir Archivos**
+<div align="center">
+<img src="assets/subir.png">
+
+*Imagen(N°55). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+<div align="center">
+<img src="assets/trabajorea.png">
+
+*Imagen(N°56). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/detalles1.png">
+
+*Imagen(N°57). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Historial de trabajos Publicados**
+<div align="center">
+<img src="assets/historialtraba.png">
+
+*Imagen(N°58). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/detalles2.png">
+
+*Imagen(N°59). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Panel de control (Dashboard)**
+<div align="center">
+<img src="assets/panel.png">
+
+*Imagen(N°60). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+<div align="center">
+<img src="assets/filtro.png">
+
+*Imagen(N°62). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+<div align="center">
+<img src="assets/publicarT.png">
+
+*Imagen(N°63). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+<div align="center">
+<img src="assets/postulantes.png">
+
+*Imagen(N°64). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Finalizar Tarea**
+<div align="center">
+<img src="assets/finalizarT.png">
+
+*Imagen(N°65). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Web Application para Mobile Web Browser**
+
+**Iniciar sesión**
+<div align="center">
+<img src="assets/mobile1.png">
+
+*Imagen(N°66). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Crear cuenta**
+<div align="center">
+<img src="assets/mobile2.png">
+
+*Imagen(N°67). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Cargar tarjeta**
+<div align="center">
+<img src="assets/mobile3.png">
+
+*Imagen(N°68). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Mi perfil**
+
+*Perfil Trabajador*
+<div align="center">
+<img src="assets/mobile5.png">
+
+*Imagen(N°69). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Perfil Empleador*
+<div align="center">
+<img src="assets/mobile4.png">
+
+*Imagen(N°70). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Subir Archivos**
+<div align="center">
+<img src="assets/mobile6.png">
+
+*Imagen(N°71). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Trabajos realizados**
+<div align="center">
+<img src="assets/mobile7.png">
+
+*Imagen(N°72). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile9.png">
+
+*Imagen(N°73). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Historial de trabajos Publicados**
+<div align="center">
+<img src="assets/mobile11.png">
+
+*Imagen(N°74). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+*Opción Detalles*
+<div align="center">
+<img src="assets/mobile12.png">
+
+*Imagen(N°75). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Panel de control (Dashboard)**
+<div align="center">
+<img src="assets/mobile13.png">
+
+*Imagen(N°76). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Aplicación de Filtro**
+<div align="center">
+<img src="assets/mobile18.png">
+
+*Imagen(N°77). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Botón Publicar Tarea**
+<div align="center">
+<img src="assets/mobile14.png">
+
+*Imagen(N°78). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Postulantes**
+<div align="center">
+<img src="assets/mobile17.png">
+
+*Imagen(N°79). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+**Finalizar Tarea**
+<div align="center">
+<img src="assets/mobile16.png">
+
+*Imagen(N°80). Elaboración propia. Realizado en figma*
+</div>
+<br>
+
+
 ### 4.4.4. Web Applications User Flow Diagrams
 Los Web Applications User Flow Diagrams son diagramas que mapean el recorrido que un usuario sigue al interactuar con una aplicación web, desde el punto de entrada hasta la secuencia de una tarea específica. Estos diagramas permiten visualizar cada paso que toma el usuario, ayudándo a entender cómo navegan por la aplicación y cómo interactúan con las diferentes páginas y funciones.
 
 Al diseñar user flow diagrams, puedo identificar posibles puntos de fricción o áreas donde la experiencia del usuario podría mejorarse. Al comprender el flujo completo, puedo optimizar el diseño y la estructura de la aplicación, garantizando una experiencia de usuario fluida y coherente.
 
 **User Goal: Registrar**
+
+ El usuario selecciona la opción "Register", completa los campos solicitados y hace clic en el botón "Registrar". A continuación, se muestra el panel "Add Card", donde debe llenar los campos relacionados con su tarjeta y correo electrónico. Una vez que el proceso de pago se complete exitosamente, se notifica al usuario con un mensaje confirmando el vínculo de su tarjeta con la plataforma. Del mismo modo, si el usuario desea retirar su información o actualizar lo podrá hacer a través de su perfil. Finalmente hacer clic en el botón "Aceptar".
+
 <div align="center">
 <img src="assets/d1_1.png">
 
-*Imagen(N°51). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°81). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Iniciar sesión**
+
+El usuario introduce su correo y contraseña, luego hace clic en el botón "Log In". Después, se le redirige al panel de perfil, donde podrá editar su información personal y acceder a las herramientas según su perfil "Trabajador" o "Empleador".
 <div align="center">
 <img src="assets/d2_2.png">
 
-*Imagen(N°52). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°82). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Perfil**
-<div align="center">
-<img src="assets/aa.png">
 
-*Imagen(N°53). Elaboración propia. Realizado en Lucidchart*
+En el panel "Perfil", el usuario puede editar su nombre, ubicación y biografía, además de visualizar su puntuación. También tiene la opción de subir o actualizar archivos y consultar el historial de trabajos realizados donde podra visualizar su desempeño y reseñas por parte del empleador. Adicionalmente, la categoría "cambiar cuenta" ofrece la opción de permitir al usuario cambiar de cuenta a una de empleador y utilizar las herramientas de este por la plataforma. 
+<div align="center">
+<img src="assets/d3_3.png">
+
+*Imagen(N°83). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
 **User Goal: Navegar por el dashboard**
+
+Una vez que el usuario accede al dashboard, puede publicar una nueva tarea completando un formulario con los siguientes detalles: título, descripción, fecha de ejecución, tipo de servicio, categoría, ubicación y presupuesto. Tras llenar todos los campos, el usuario hace clic en el botón "Publicar", lo que lo redirige a la sección de "Postulaciones". En esta sección, los contratistas o usuarios interesados pueden postularse para realizar la tarea. Se muestra una lista de postulantes con su nombre, puntuación y opciones de acción, como "Ver perfil" o "Contratar".
+
+En la sección "Finalizar Tarea", el usuario tiene la opción de concluir el proceso dejando una reseña y una puntuación para el contratista que completó la tarea. Luego, hace clic en el botón "Finalizar" para cerrar la tarea oficialmente.
+
+En la sección "Perfil de Usuario", el usuario puede revisar su información personal y su historial de tareas publicadas o realizadas. Además, el perfil incluye una puntuación basada en las reseñas de trabajos previos.
+
+En la sección "Visualización de Tareas", el usuario puede explorar una lista de tareas disponibles a las que puede postularse. Cada tarea tiene un botón de "Aplicar", lo que permite al usuario enviar su candidatura para las tareas que le interesen.
+
+Por último, en la sección "Filtrar Tareas", el usuario puede refinar la búsqueda de tareas según sus criterios, como el tipo de servicio, ubicación, grupo de trabajo y rango de precios. Al hacer clic en el botón "Aplicar Filtro", las tareas visibles se actualizan de acuerdo con las preferencias seleccionadas.
 <div align="center">
 <img src="assets/d4_4.png">
 
-*Imagen(N°54). Elaboración propia. Realizado en Lucidchart*
+*Imagen(N°84). Elaboración propia. Realizado en Lucidchart*
 </div>
 <br>
 
@@ -1912,9 +2005,101 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+<img src="assets/class-diagram.png">
+
 ### 4.7.2. Class Dictionary
+
+**Class User**
+
+| Attribute          | Type          | Description                                   |
+|--------------------|---------------|-----------------------------------------------|
+| id                 | int           | Unique identifier for the user                |
+| name               | string        | Name of the user                              |
+| email              | string        | Email address of the user                     |
+| password           | string        | Password for user authentication              |
+| phoneNumber        | int           | Phone number of the user                      |
+| userType           | UserType      | Type of user                                  |
+| paymentCardId      | int           | Identifier for the user's payment card        |
+| jobHistoryPosted   | int[]         | List of IDs of jobs posted by the user        |
+| jobHistoryApplied  | int[]         | List of IDs of jobs applied to by the user    |
+| receivedReviews    | int[]         | List of IDs of reviews received by the user   |
+| messages           | int[]         | List of message IDs associated with the user  |
+| notifications      | int[]         | List of notification IDs associated with the user |
+
+**Class Job**
+
+| Attribute    | Type          | Description                                      |
+|--------------|---------------|--------------------------------------------------|
+| id           | int           | Unique identifier for the job                    |
+| employerId   | int           | ID of the employer who posted the job            |
+| workerId     | int           | ID of the worker assigned to the job   |
+| title        | string        | Title of the job                                 |
+| description  | string        | Detailed description of the job                  |
+| publishDate  | string        | Date when the job was published                  |
+| rate         | float         | Rate offered for the job                         |
+| status       | JobStatusType | Current status of the job    |
+| location     | string        | Location where the job is based                  |
+| category     | string        | Category or type of job                          |
+| applicants   | int[]         | List of applicant IDs who applied for the job    |
+| reviewId     | int           | ID of the review associated with the job         |
+
+**Class Review**
+
+| Attribute   | Type    | Description                                      |
+|-------------|---------|--------------------------------------------------|
+| id          | int     | Unique identifier for the review                 |
+| postJobId   | int     | ID of the job associated with the review         |
+| employerId  | int     | ID of the employer who provided or received the review |
+| workerId    | int     | ID of the worker who provided or received the review |
+| rating      | float   | Rating score given in the review                 |
+| feedback    | string  | Feedback or comments provided in the review      |
+
+**Class Notification**
+
+| Attribute  | Type                  | Description                                       |
+|------------|-----------------------|---------------------------------------------------|
+| id         | int                   | Unique identifier for the notification            |
+| userId     | int                   | ID of the user receiving the notification         |
+| message    | string                | Content of the notification message               |
+| date       | string                | Date when the notification was created            |
+| status     | NotificationStatusType | Status of the notification (e.g., read, unread)   |
+
+
+**Class Message**
+
+| Attribute  | Type    | Description                                       |
+|------------|---------|---------------------------------------------------|
+| id         | int     | Unique identifier for the message                 |
+| senderId   | int     | ID of the user who sent the message               |
+| receiverId | int     | ID of the user receiving the message              |
+| jobId      | int     | ID of the job associated with the message         |
+| date       | string  | Date when the message was sent                    |
+| content    | string  | Content of the message                            |
+
+**Class Payment**
+
+| Attribute      | Type    | Description                                       |
+|----------------|---------|---------------------------------------------------|
+| id             | int     | Unique identifier for the payment                 |
+| paymentCardId  | int     | ID of the payment card used for the transaction   |
+| paymentDate    | string  | Date when the payment was made                    |
+
+
+**Class PaymentCard**
+
+| Attribute      | Type    | Description                                       |
+|----------------|---------|---------------------------------------------------|
+| id             | int     | Unique identifier for the payment card            |
+| cardNumber     | int     | Number of the payment card                        |
+| expirationDate | string  | Expiration date of the card (MM/YY format)        |
+| securityCode   | int     | Security code (CVV) of the payment card           |
+
 ## 4.8. Database Design
+Para el presente proyecto se ha seleccionado el motor de base de datos MySQL por ser una plataforma escalable con una interfaz sencilla y fácil de usar.
+
 ## 4.8.1. Database Diagram
+
+<img src="assets/database-diagram.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
@@ -2241,14 +2426,14 @@ link: [Enlace de trello](https://trello.com/invite/b/66dcba9fa4d344f1d0edba45/AT
 | US04 | Acceso a documentos relevantes | EP003 | Gestión y Clasificación de Tareas | Como empleador, quiero poder acceder fácilmente a documentos relevantes, como contratos y evaluaciones previas de trabajadores, para tomar decisiones informadas antes de contratar a un trabajador a través de TaskLinker. | 8 hours | Diego, Camila | Done |
 | US05 | Subir y actualizar documentos | EP003 | Gestión y Clasificación de Tareas | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 7 hours | Diego, Camila | To do |
 | US11 | Ver la reputación de los trabajadores | EP010 | Implementación de un Sistema de Reputación. | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador, para asegurarme de que es confiable y competente. | 8 hours | Tony, Camila | Done |
-| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | In process |
+| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | Done |
 | US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Diego | Done |
 | US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
-| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
+| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | Done |
 | US20 | Iniciar sesión con autenticación Multifacor activada | EP009 | Implementadón de Autenticación Multifactor | Como usuario, quiero que al iniciar sesión en mi cuenta se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 6 hours | Franco, Camila | Done |
 | US22 | Crear una tarea desde cualquier página | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder crear una nueva tarea desde cualquier página de la plataforma, para no tener que navegar hasta un área específica antes de poder crear contenido. | 8 hours | Franco, Camila | Done |
 | US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 8 hours | Tony | To do |
-| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Tony | To do |
+| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Tony | Done |
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
@@ -2380,13 +2565,13 @@ link: [Enlace de trello](https://trello.com/b/b8PH3hVt/sprint-3-tb2) https://tre
 | US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 8 hours | Diego, Camila | Done |
 | US12 | Actualizar la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo | 7 hours | Tony | Done |
 | US05 | Subir y actualizar documentos| EP03 | Implementación de un Sistema de Reputación. | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 8 hours | Tony, Camila | Done |
-| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | In process |
-| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado	 | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Camila | In process |
+| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 8 hours | Tony | Done |
+| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado	 | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 8 hours | Camila | Done |
 | US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 8 hours | Diego | Done |
 | US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 8 hours | Tony | Done |
-| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | In process |
-| US20 | Iniciar sesión con autenticación multifactor activada | EP009 | Implementadón de Autenticación Multifactor		| Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 8 hours | Franco | In process |
-| US21 | Evaluar a los trabajadores después de un trabajo | EP007 | Gestión de Perfiles y Evaluaciones	| Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos. | 8 hours | Camila | In process |
+| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 8 hours | Franco, Camila | Done |
+| US20 | Iniciar sesión con autenticación multifactor activada | EP009 | Implementadón de Autenticación Multifactor		| Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 8 hours | Franco | Done |
+| US21 | Evaluar a los trabajadores después de un trabajo | EP007 | Gestión de Perfiles y Evaluaciones	| Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos. | 8 hours | Camila | Done |
 | US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 8 hours | Franco, Camila | Done |
 | US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 8 hours | Franco, Camila | Done |
 | US32 | Ver perfil detallado de los empleadores | EP005 | Panel de Usuario Personalizado | Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. | 8 hours | Tony | Done |
@@ -2529,6 +2714,131 @@ Durante este sprint, se utilizó Azure como plataforma de despliegue para la apl
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <img src="./img/sprint3-insights7.png"/>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+En la siguiente sección, se presentará el sprint #4 con la versión de la aplicación web e implementación total del back-end.  Mostrando la organización, distribución y resultados de la aplicación web y los web services.
+
+| Sprint # | Sprint 4 |
+| -------- | -------- |
+|**Sprint Planning Background**|
+| Date | 2024-10-23|
+| Time | 08:00 PM |
+| Location | Discord Virtual Meeting |
+| Prepared By | Camila Sanchez, Gianfranco Durand |
+|Attendees (to planning meeting) | Camila Sanchez, Gianfranco Durand, Daniel Chávarri , Tony Ramos, Jack Roque
+| Sprint 2 Review Summary | Durante el segundo sprint, el equipo se enfocó en la creación de la primera versión del frontend, utilizando Trello para organizar tareas y basándose en las historias de usuario, asegurando su atractivo visual y funcionalidad. |
+| Sprint 2 Retrospective Summary | Se identificó la necesidad de mejorar la comunicación para abordar dudas más rápidamente y de aumentar la revisión de pruebas antes del despliegue para asegurar la calidad. |
+| **Sprint Goal & User Stories** | 
+| Sprint 3 Goal | 	Desplegar la primera versión de Web Services. |
+| Sprint 3 Velocity | 11 |
+| Sum of Story Points | 43 Story points | 
+
+#### 5.2.4.2. Sprint Backlog 4
+
+Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
+
+<div align="center">
+<img src="img/sprint 4.png">
+</div>
+
+link: [Enlace de trello](https://trello.com/b/KfGgUYBW/sprint-4) https://trello.com/b/KfGgUYBW/sprint-4
+
+| Sprint 4 |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| User Story |     | WorkItem/ Task |     |     |     |     |     |
+| Id  | Title | Epic Id  | Title | Description | Estimation(Hours) | Assigned To | Status(To do/ In Process/ To Review/Done) |
+| US011 | Ver la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como empleador, quiero poder ver las calificaciones y comentarios previos de otros empleadores sobre un trabajador antes de contratarlo, para asegurarme de que es confiable y competente. | 4 hours | Diego, Camila | Done |
+| US12 | Actualizar la reputación de los trabajadores | EP010 | Gestión y Clasificación de Tareas | Como trabajador, quiero que mi reputación en la plataforma se actualice automáticamente con cada evaluación recibida, para reflejar de manera precisa mi desempeño a lo largo del tiempo | 4 hours | Tony | Done |
+| US05 | Subir y actualizar documentos| EP03 | Implementación de un Sistema de Reputación. | Como trabajador, quiero poder subir y actualizar documentos importantes en mi perfil, como certificados de habilidades y documentos de identidad, para que los empleadores puedan evaluar mi idoneidad para los trabajos disponibles. | 4 hours | Tony, Camila | Done |
+| US13 | Editar perfil de usuario | EP005 | Panel de Usuario Personalizado | Como usuario registrado, quiero poder editar mi perfil para actualizar mi información personal, habilidades y disponibilidad, para que los empleadores tengan datos precisos sobre mí. | 4 hours | Tony | Done |
+| US14 | Visualizar y gestionar mis tareas | EP005 | Panel de Usuario Personalizado	 | Como usuario registrado, quiero poder ver y gestionar las tareas que he aceptado o completado, para hacer seguimiento de mi trabajo y planificar mejor mis actividades. | 4 hours | Camila | Done |
+| US15 | Recibir notificaciones de nuevas oportunidades de trabajo | EP006 | Panel de Usuario Personalizado | Como trabajador, quiero recibir notificaciones automáticas cuando se publiquen nuevas oportunidades de trabajo que coincidan con mis preferencias, para poder aplicar rápidamente a tareas relevantes. | 4 hours | Diego | Done |
+| US16 | Ver perfil detallados de los trabajadores | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero poder ver perfiles detallados de los trabajadores, incluyendo experiencia, habilidades y evaluaciones previas, para tomar decisiones informadas antes de contratarlos. | 4 hours | Tony | Done |
+| US17 | Actualizar mi perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero poder actualizar mi perfil con nueva información sobre habilidades, experiencia o certificaciones, para atraer más empleadores y mostrar mi crecimiento profesional. | 4 hours | Franco, Camila | Done |
+| US20 | Iniciar sesión con autenticación multifactor activada | EP009 | Implementadón de Autenticación Multifactor		| Como usuario, quiero que al iniciar sesión en mi cuenta, se me solicite una verificación adicional a través de la autenticación multifactor, para asegurar que solo yo pueda acceder a mi cuenta. | 4 hours | Franco | Done |
+| US21 | Evaluar a los trabajadores después de un trabajo | EP007 | Gestión de Perfiles y Evaluaciones	| Como empleador, quiero evaluar a los trabajadores una vez que terminen un trabajo, para que pueda contribuir a la reputación y ayudar a otros empleadores a elegir a los mejores candidatos. | 4 hours | Camila | Done |
+| US30 | Creación de perfil como trabajador | EP007 | Gestión de Perfiles y Evaluaciones | Como trabajador, quiero crear un perfil en la plataforma para poder ofrecer mis servicios y ser contratado por empleadores. | 4 hours | Franco, Camila | Done |
+| US31 | Creación de perfil como empleador | EP007 | Gestión de Perfiles y Evaluaciones | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 4 hours | Franco, Camila | Done |
+| US32 | Ver perfil detallado de los empleadores | EP005 | Panel de Usuario Personalizado | Como empleador, quiero poder actualizar mi perfil en la plataforma para reflejar cambios en los datos de la compañía, detalles de contacto, método de pago, rango salarial y número de teléfono, asegurando que la información sea precisa y esté actualizada para atraer a trabajadores potenciales. | 4 hours | Tony | Done |
+| US33 | Creación de perfil como empleador | EP005 | Panel de Usuario Personalizado	 | Como empleador, quiero crear un perfil en la plataforma para poder publicar ofertas de trabajo y contratar trabajadores para tareas específicas o temporales. | 4 hours | Tony | Done |
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 4, mostrando los principales commits y merges del proyecto:
+
+| Branch | Commit Id | Commit Message                       | Committed on (Dated) |
+|--------|-----------|--------------------------------------|-----------------------|
+| feature/JobPostBC  | e225f4b7   | feat: add infrastructure  | 2/11/24        |
+| feature/JobPostBC   | e1e231ed   | feat: add controller               | 21/11/24     |
+| feature/profileCreateBC   | 77eadf77  | feat: update syntax of employer and worker | 21/11/24 |
+| feature/iam   | d0ed88af  | feat: add hashing service | 21/11/24 |
+| feature/iam   | 08978c6a  | feat: remove name and phone number fields from User model and related resources | 21/11/24 |
+| origin/main   | a940232f  | eat: update .gitignore | 21/11/24 |
+| origin/develop   | 42e77c20  | feat: add JWT expiration configuration to application properties | 21/11/24 |
+| origin/develop  |  b4594db2  | feat: add JWT dependencies and clean up pom.xml | 21/11/24 |
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
+Repositorio: https://github.com/upc-pre-si729-2402-wx51-G6-GPTDevs/acceptance-testing 
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución el Web Service, ya que la Landing Page y la Aplicación web fueron terminadas en el anterior sprint:
+
+Evidencia de Web Service:
+
+Funcion de Notification:
+<div align="center">
+<img src="img/noti.png">
+</div>
+
+Método Post:
+<div align="center">
+<img src="img/post.png">
+<img src="img/post1.png">
+</div>
+
+Método Get:
+<div align="center">
+<img src="img/get1.png">
+<img src="img/get3.png">
+</div>
+
+Base de Datos actualizada:
+<img src="img/basenoti.png">
+
+Funcion de Job Posts:
+<div align="center">
+<img src="img/job.png">
+</div>
+
+Funcion de Profile create:
+<div align="center">
+<img src="img/profile.png">
+</div>
+
+Link del video (Backend):
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Para este cuarto sprint usamos la versión de nuestro servicio desarrollado.
+
+| Endpoint | Details | 
+| ------ | --------- | 
+| Notification | Se implementaron los métodos HTTP GET, POST para el endpoint /api/Notification. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo mensaje  enviando los datos necesarios en el cuerpo de la solicitud (request body). |
+|Job Posts | Se implementaron los métodos HTTP GET, POST para el endpoint /api/jobposts. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id, mientras que el método POST se utiliza para crear un nuevo trabajo enviando los datos necesarios en el cuerpo de la solicitud (request body). |
+|Profile create | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/workerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id. Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/employerProfile. En el caso del método GET, se desarrollo para obtener los datos de un usuario específico mediante su id. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para agregar un nuevo usuario enviando los datos correspondientes en el cuerpo de la solicitud (request body).Por último, el método DELETE permite eliminar un usuario específico mediante su id.|
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+<div align="center">
+<img src="img/Collaboration1.png">
+<img src="img/st4.png">
+<img src="img/st5.png">
+</div>
+
+
 ## 5.3. Validation Interviews
 En esta sección de nuestro proyecto, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso con Tasklinker. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas.
 
@@ -2582,38 +2892,38 @@ Explicación del flujo: Después de iniciar sesión, el usuario será dirigido a
         <tr>
             <td>Validation Interviews</td>
             <td>Formato: mp4
-            <br>Duración:  min</br></td>
-            <td>Entrevistado(a) #1:
-            <br>Sexo:
-            <br>Edad: años
-            <br>Segmento Objetivo:   
-            <br> Distrito: </td>
-            <td>Screenshot:
-            <br> Link: </td>
+            <br>Duración: 3:31 min</br></td>
+            <td>Entrevistado(a) #1: Sebastian Silva 
+            <br>Sexo: Hombre
+            <br>Edad: 20 años
+            <br>Segmento Objetivo: Trabajador  
+            <br> Distrito: San Luis </td>
+            <td>Screenshot: <img src="img/entre1.png" style="width: 30%; height: auto;">
+            <br> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210973_upc_edu_pe/Eev7_47SUiZLrBtQ2tE7g3gBOPKTyZ0-0ZzaxTxT4rUDHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uEBO4s  </td>
         </tr>
         <tr>
             <td>Validation Interviews</td>
             <td>Formato: mp4
-            <br>Duración:  min</br></td>
-            <td>Entrevistado(a) #2:
-            <br>Sexo:
-            <br>Edad: años
-            <br>Segmento Objetivo:   
-            <br> Distrito: </td>
-            <td>Screenshot:
-            <br> Link: </td>
+            <br>Duración: 5:11 min</br></td>
+            <td>Entrevistado(a) #2: Emilio Chávarri
+            <br>Sexo: Hombre
+            <br>Edad: 54 años
+            <br>Segmento Objetivo: Trabajadores que buscan ingresos adicionales y flexibilidad   
+            <br> Distrito: San Juan de Lurigancho </td>
+            <td>Screenshot:<img src="img/entre2.png" style="width: 30%; height: auto;">
+            <br> Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211108_upc_edu_pe/EW3Q191xFBdBlOrMEYImNg0BGAM3HUAtjohztBQCGPnKuA?e=U8untD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  </td>
         </tr>
-        <tr>
+            <tr>
             <td>Validation Interviews</td>
-            <td>Formato: mp4
-            <br>Duración:  min</br></td>
-            <td>Entrevistado(a) #3:
-            <br>Sexo:
-            <br>Edad: años
-            <br>Segmento Objetivo:   
-            <br> Distrito: </td>
-            <td>Screenshot:
-            <br> Link: </td>
+            <td>Formato: mvk
+            <br>Duración: 9:36 min</br></td>
+            <td>Entrevistado(a) #3: Sandy Ingaruca
+            <br>Sexo: Mujer
+            <br>Edad: 25 años
+            <br>Segmento Objetivo: Empleadora que busca trabajadores eficientes   
+            <br> Distrito: Ate Vitarte </td>
+            <td>Screenshot:<img src="img/entre3.png" style="width: 30%; height: auto;">
+            <br> Link:https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211a153_upc_edu_pe/EUZxNR44tyNLv2ukTiRnzfsBmm3YvOMYBj0h2JMgmRdW7w?e=2oZx8A  </td>
         </tr>
     </tbody>
 </table>
@@ -2656,42 +2966,68 @@ Los errores serán puntiados tomando en cuenta la siguiente escala de severidad.
 
 | # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|---------------------|
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
+| 1 | Edicion de una barra de herramientas adicional en el toolbar | 2 |Visibilidad del estado del sistema  |
+| 2 | Acceso directo a la lista de usuarios | 3 |Control y libertad del usuario  |
+| 3 | Contexto adicional de los perfiles | 2 | Consistencia y estándares |
+| 4 | Falta de intuición en algunas funciones | 2 | Visibilidad del estado del sistema |
 
 ----
 <br>
 
 **Descripción del Problemas:**
 
-- **Problema #1:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
-- **Recomendación:** 
+- **Problema #1:** Edicion de una barra de herramientas adicional en el toolbar
+- **Severidad:** 2 
+- **Heurística/Principio violado(a):** Visibilidad del estado del sistema
+- **Problema:** El entrevistado sugirió que la plataforma podría beneficiarse de mejoras en la interfaz, como una barra de herramientas adicional y una mejor organización de las pestañas,  la necesidad de simplificar el proceso de publicación y gestión de tareas para hacerlo más accesible.
+
+<div align="center">
+<img src="img/front3.png">
+</div>
+
+- **Recomendación:** Incluir una barra de herramientas en la parte superior que permita un acceso rápido a las funciones más utilizadas, como "Publicar Tarea", "Ver Historial" y "Configuraciones".
 
 ---
 
-- **Problema #2:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
-- **Recomendación:** 
+- **Problema #2:** Acceso directo a la lista de usuarios 
+- **Severidad:** 3 
+- **Heurística/Principio violado(a):** Control y libertad del usuario
+- **Problema:** La falta de un listado previo de trabajadores o empleadores dificulta la navegación, obligando al usuario a explorar perfiles uno por uno.
+<div align="center">
+<img src="img/postulantes.png">
+</div>
+- **Recomendación:** Agregar una lista previa de trabajadores o empleadores antes de mostrar sus perfiles completos. Esto puede incluir un resumen básico, como nombres, ocupaciones principales, y un botón para ver más detalles.
 
 ---
 
-- **Problema #3:**
-- **Severidad:** 
-- **Heurística/Principio violado(a):** 
-- **Problema:** 
-- **Recomendación:** 
+- **Problema #3:** Contexto adicional de los perfiles
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Consistencia y estándares
+- **Problema:** No se proporciona información de contexto, como la empresa asociada a cada empleador o detalles clave que permitan a los usuarios filtrar y enfocar su búsqueda.
+  <div align="center">
+<img src="img/filtro.png">
+</div>
+
+- **Recomendación:** Permitir a los usuarios buscar y filtrar trabajadores y empleadores por parámetros específicos, como habilidades, ubicación, o empresa. Mostrar la razón social o información breve de la empresa al lado de cada empleador para facilitar la identificación y selección.
+<br>
+
+---
+
+- **Problema #4:** Falta de intuición en algunas funciones
+- **Severidad:** 2
+- **Heurística/Principio violado(a):** Visibilidad del estado del sistema 
+- **Problema:** Publicar trabajos y algunas acciones específicas no son completamente intuitivas para nuevos usuarios.
+  <div align="center">
+<img src="img/front3.png">
+</div>
+
+- **Recomendación:** Usar iconos y mensajes claros para indicar cómo completar tareas clave como publicar trabajos o registrarse.
 <br>
 
 # 5.4. Video About-the-Product
 En esta sección se presenta un video explicatiovo sobre la aplicación Tasklinker. El video destaca las principales características y beneficios del producto, demostrando cómo satisface las necesidad de los clientes. Este recurso visual es esencial para comunicar de manera efectiva el valor de la apliación a potenciales usuarios e inversores.
 
-Enlace al Video About-The-Product:
+Enlace al Video About-The-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/EfFCppV64GFPupXAacw9P0QBWOfH66q39wxBOzVWZzEUFg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fzwv4u 
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2708,7 +3044,7 @@ La plataforma tiene el potencial de convertirse en la líder del mercado en Per�
 
 TaskLinker ofrece un modelo de negocio flexible, con una opción gratuita que incluye comisiones por transacción y un plan premium que elimina estas comisiones y ofrece beneficios adicionales. Esto facilita el acceso de usuarios con diferentes necesidades económicas y volúmenes de trabajo.
 
-Recomendaciones
+**Recomendaciones**
 
 Implementar y promocionar un sistema de evaluaciones y reseñas confiable que genere confianza tanto en empleadores como en trabajadores. Esto mejorará la transparencia y fomentará más transacciones exitosas en la plataforma.
 
@@ -2725,7 +3061,28 @@ Es crucial realizar un seguimiento del impacto del modelo de comisiones y el pla
 Incluir un sistema de notificaciones que informe a los trabajadores sobre oportunidades relevantes para sus habilidades y preferencias, aumentando su participación y el número de trabajos completados.
 
 ## Video About-the-Team.
-[https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit](https://www.canva.com/design/DAGQIj-Tkfg/WHWlL_BYakwbvWddA1CqOQ/edit)
+<table>
+    <thead>
+        <tr>
+            <th>Sección</th>
+            <th>Características del video</th>
+            <th>Sobre el contenido</th>
+            <th>Integración y entrega</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>About The Team</td>
+            <td>Formato: mp4
+            <br>Duración: 7:18 min</br></td>
+            <td>Video relacionado acerca de los integrantes del equipo, el desarrollo de cada integrante y sus conclusiones acerca del proyecto realizado. </td>
+            <td> Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f640_upc_edu_pe/ESjaBnEaSv9KsApVAYRPQHUBDehk1yp3t77m_GzyR9l2SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=KhH4LN </td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
 
 # Bibliografía
 
@@ -2738,8 +3095,11 @@ Shiftbase. (s. f.). Contrato temporal. Shiftbase. (https://www.shiftbase.com/es/
 
 # Anexos
 
+**Anexo 1:**
 
 [Link Frontend:](https://tasklinker.netlify.app/) https://tasklinker.netlify.app/
+
+**Anexo 2:**
 
 [Link Backend:](https://tasklinker.azurewebsites.net/swagger-ui/index.html) https://tasklinker.azurewebsites.net/swagger-ui/index.html
 
