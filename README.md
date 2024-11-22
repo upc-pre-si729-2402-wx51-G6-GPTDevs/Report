@@ -85,6 +85,30 @@
 </table>
 
 # Project Report Collaboration Insights
+TB1:
+
+<img src="assets/insights-tb1-1.png"/>
+
+<img src="assets/insights-tb1-2.png"/>
+
+TP1:
+
+<img src="img/colaboration1-1.png"/>
+
+<img src="img/colaboration1-2.png"/>
+
+TB2:
+
+<img src="assets/insights-tb2-1.png"/>
+
+<img src="assets/insights-tb2-2.png"/>
+
+TF1:
+
+<img src="img/colaboration3-1.png"/>
+
+<img src="img/colaboration3-2.png"/>
+
 
 # Contenido
 [Student Outcome](#student-outcome)
